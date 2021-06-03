@@ -45,263 +45,145 @@
     
       
     <main class="content on">
+      <section class="outer">
+  <article
+  id="page-"
+  class="article article-type-page"
+  itemscope
+  itemprop="blogPost"
+  data-scroll-reveal
+>
+  <div class="article-inner">
+       
+    <div class="article-entry" itemprop="articleBody">
+       
+  <p>Sustainable-Income-Lab.github.io</p>
+ 
+      <!-- reward -->
       
-<section class="cover">
-    
-  <div class="cover-frame">
-    <div class="bg-box">
-      <img src="/images/cover1.jpg" alt="image frame" />
     </div>
-    <div class="cover-inner text-center text-white">
-      <h1><a href="/">永續所得實驗室</a></h1>
-      <div id="subtitle-box">
-        
-        <span id="subtitle"></span>
-        
-      </div>
-      <div>
-        
-      </div>
+    
+
+    <!-- copyright -->
+    
+    <div class="declare">
+      <ul class="post-copyright">
+        <li>
+          <i class="ri-copyright-line"></i>
+          <strong>Copyright： </strong>
+          
+          Copyright is owned by the author. For commercial reprints, please contact the author for authorization. For non-commercial reprints, please indicate the source.
+          
+        </li>
+      </ul>
     </div>
-  </div>
-  <div class="cover-learn-more">
-    <a href="javascript:void(0)" class="anchor"><i class="ri-arrow-down-line"></i></a>
-  </div>
-</section>
-
-
-
-<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11/lib/typed.min.js"></script>
-
-
-<!-- Subtitle -->
-
-  <script>
-    try {
-      var typed = new Typed("#subtitle", {
-        strings: ['推動永續所得倡議', '改善經濟環境', '共創美好未來'],
-        startDelay: 0,
-        typeSpeed: 200,
-        loop: true,
-        backSpeed: 100,
-        showCursor: true
-      });
-    } catch (err) {
-      console.log(err)
-    }
-  </script>
-  
-<div id="main">
-  <section class="outer">
-  
-  <ul class="ads">
     
-        <li>
-            <a target="_blank" rel="noopener" href="https://act.magnific.biz">
-                <img src="https://act.magnific.biz/wp-content/uploads/2020/10/%E9%9B%86%E6%99%BA-300x283.png" width="300" alt="永續所得實踐方案-擴增集智系統">
-            </a>
-        </li>
-    
-        <li>
-            <a href="">
-                <img src="" width="300" alt="">
-            </a>
-        </li>
-    
-</ul>
-  
-  
-  
-
-<div class="notice" style="margin-top:50px">
-    <i class="ri-heart-fill"></i>
-    <div class="notice-content" id="broad"></div>
+    <footer class="article-footer">
+       
+<div class="share-btn">
+      <span class="share-sns share-outer">
+        <i class="ri-share-forward-line"></i>
+        分享
+      </span>
+      <div class="share-wrap">
+        <i class="arrow"></i>
+        <div class="share-icons">
+          
+          <a class="weibo share-sns" href="javascript:;" data-type="weibo">
+            <i class="ri-weibo-fill"></i>
+          </a>
+          <a class="weixin share-sns wxFab" href="javascript:;" data-type="weixin">
+            <i class="ri-wechat-fill"></i>
+          </a>
+          <a class="qq share-sns" href="javascript:;" data-type="qq">
+            <i class="ri-qq-fill"></i>
+          </a>
+          <a class="douban share-sns" href="javascript:;" data-type="douban">
+            <i class="ri-douban-line"></i>
+          </a>
+          <!-- <a class="qzone share-sns" href="javascript:;" data-type="qzone">
+            <i class="icon icon-qzone"></i>
+          </a> -->
+          
+          <a class="facebook share-sns" href="javascript:;" data-type="facebook">
+            <i class="ri-facebook-circle-fill"></i>
+          </a>
+          <a class="twitter share-sns" href="javascript:;" data-type="twitter">
+            <i class="ri-twitter-fill"></i>
+          </a>
+          <a class="google share-sns" href="javascript:;" data-type="google">
+            <i class="ri-google-fill"></i>
+          </a>
+        </div>
+      </div>
 </div>
-<script type="text/javascript">
-    fetch('https://v1.hitokoto.cn')
-        .then(response => response.json())
-        .then(data => {
-            document.getElementById("broad").innerHTML = data.hitokoto;
-        })
-        .catch(console.error)
+
+<div class="wx-share-modal">
+    <a class="modal-close" href="javascript:;"><i class="ri-close-circle-line"></i></a>
+    <p>扫一扫，分享到微信</p>
+    <div class="wx-qrcode">
+      <img src="//api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://sustainable-income-lab.github.io/README.html" alt="微信分享二维码">
+    </div>
+</div>
+
+<div id="share-mask"></div>  
+    </footer>
+  </div>
+
+   
+   
+<!-- valine评论 -->
+<div id="vcomments-box">
+  <div id="vcomments"></div>
+</div>
+<script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js"></script>
+<script>
+  new Valine({
+    el: "#vcomments",
+    app_id: "",
+    app_key: "",
+    path: window.location.pathname,
+    avatar: "monsterid",
+    placeholder: "给我的文章加点评论吧~",
+    recordIP: true,
+  });
+  const infoEle = document.querySelector("#vcomments .info");
+  if (infoEle && infoEle.childNodes && infoEle.childNodes.length > 0) {
+    infoEle.childNodes.forEach(function (item) {
+      item.parentNode.removeChild(item);
+    });
+  }
 </script>
-
 <style>
-    .notice {
-        padding: 20px;
-        border: 1px dashed #e6e6e6;
-        color: #969696;
-        position: relative;
-        display: inline-block;
-        width: 100%;
-        background: #fbfbfb50;
-        border-radius: 10px;
-    }
+  #vcomments-box {
+    padding: 5px 30px;
+  }
 
-    .notice i {
-        float: left;
-        color: #999;
-        font-size: 16px;
-        padding-right: 10px;
-        vertical-align: middle;
-        margin-top: -2px;
+  @media screen and (max-width: 800px) {
+    #vcomments-box {
+      padding: 5px 0px;
     }
+  }
 
-    .notice-content {
-        display: initial;
-        vertical-align: middle;
-    }
+  #vcomments-box #vcomments {
+    background-color: #fff;
+  }
+
+  .v .vlist .vcard .vh {
+    padding-right: 20px;
+  }
+
+  .v .vlist .vcard {
+    padding-left: 10px;
+  }
 </style>
-  
-  <article class="articles">
-    
-    
-    
-    
-    <article
-  id="post-永續所得"
-  class="article article-type-post"
-  itemscope
-  itemprop="blogPost"
-  data-scroll-reveal
->
-  <div class="article-inner">
-    
-    <header class="article-header">
-       
-<h2 itemprop="name">
-  <a class="article-title" href="/%E6%B0%B8%E7%BA%8C%E6%89%80%E5%BE%97/"
-    >永續所得</a> 
-</h2>
- 
 
-      
-    </header>
-     
-    <div class="article-meta">
-      <a href="/%E6%B0%B8%E7%BA%8C%E6%89%80%E5%BE%97/" class="article-date">
-  <time datetime="2021-06-03T08:29:00.000Z" itemprop="datePublished">2021-06-03</time>
-</a>    
-    </div>
-      
-    <div class="article-entry" itemprop="articleBody">
-       
-  <h2 id="永續所得"><a href="#永續所得" class="headerlink" title="永續所得"></a>永續所得</h2><p>工業4.0時代來臨，傳統的工作型態、投資風險、置產方式產生了巨大的變化，進而影響到個人的收入結構。而收入減去我們獲取收入所需的成本，即為所得。在入不敷出的狀況下，所得可能為負。</p>
-<p>永續所得的概念，便是要消除所得增加的限制，達成長期持續的正所得。而探討永續所得可以從兩個面向，一個是從個人微觀的角度，一個是從經濟層面的巨觀角度。兩個面向又是相互影響著。</p>
-<h2 id="永續所得的個人微觀角度"><a href="#永續所得的個人微觀角度" class="headerlink" title="永續所得的個人微觀角度"></a>永續所得的個人微觀角度</h2><p>對於個人，最常見的收入獲取的方式有下面幾種。</p>
-<p>上班族、專業人士</p>
-<p>工作換取勞務收入</p>
-<p>加盟、創業<br>創業帶來機會收入</p>
-<p>房產收租、存款收息</p>
-<p>資產衍生利息收入</p>
-<p>炒房、炒股</p>
-<p>資本變現利得收入</p>
-<p>而上述</p>
-<p>綜合上述，對於每種收入獲取方式，可能有下面其中一個以上的限制。</p>
-<p>缺少合作，只靠一己之力，則所得增加受個體的限制。</p>
-<p>將本求利，只是將消耗掉的成本轉化爲收入，當無成本後便無法持續獲取收入。</p>
-<p>不專注持續創造價值，而是價值重新分配，受市場短期因素波動。</p>
-<p>而對於個人獲取所得之方式必須消除上述限制，才成實現永續所得。</p>
-<hr>
-<h2 id="永續所得的宏觀角度"><a href="#永續所得的宏觀角度" class="headerlink" title="永續所得的宏觀角度"></a>永續所得的宏觀角度</h2><p>前一小段關於個人用續所得的限制，我們會發現，不只對個人有影響，對於整個經濟體體也會有影響，進而返回影響到個人。</p>
-<p>2015年，在聯合國70週年之際，發佈了2030永續發展目標（Sustainable Development Goals, SDGs），SDGs包含17項核心目標，其中又涵蓋了230項指標，指引全球共同努力、邁向永續。生活在地球村大家族的個體，必須嘗試參與去改善這17項目標，解除地球村永續的限制。</p>
-<p>而對於永續所得，我們也可以參考SDGs。只有了解個體及巨觀環境的相互影響，才能解除所得獲取的限制。下面舉幾個對於大型公司、機構或單位，可能對於永續所得發展可能產生限制的作為。<br>缺乏合作</p>
-<p>永續的目標，單一組織甚至是國家影響有限，而經濟體在地球村也無法獨立存在。<br>唯有透過全體合作，才有機會完善永續目標。</p>
-<p>不持續創造價值，而是價值重新分配</p>
-<p>例如當金融業過多，並且不支持經濟的增長，而是掠奪資源。則可能造成貧富差距增加，而影響到永續發展。</p>
-<p>將本求利</p>
-<p>如果一個系統的經濟生產，破壞環境及社會經濟，則系統將無法長久。抑或是經濟生產，完全只靠存貨轉化成收入，則當存貨消耗完，則收入也將暫停。</p>
-<hr>
-<h2 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h2><p>永續所得的概念和實踐並非個人或單一組織可以推行，在此一概念之下，永續所得實驗室也應運而生。</p>
-<p>永續所得實驗室的成立便是幫助建立各種永續所得相關概念及實踐方式的推廣合作。</p>
-<p>目前，永續所得實驗室由嘉鼎智能股份有限公司營運，未來將朝向形成一社會合作經濟體的形式發展，使更多人能參與合作共建永續所得生態。</p>
-<p>除此，擴增集智系統（ACIS）為嘉鼎智能股份有限公司所建立之合作系統，在符合改善社會經濟體永續所得生態鏈下，個人亦可將之作為永續所得的合作系統。</p>
- 
-      <!-- reward -->
-      
-    </div>
-    
-
-    <!-- copyright -->
-    
-    <footer class="article-footer">
-       
-    </footer>
-  </div>
-
-    
  
     
 </article>
 
-    
-    <article
-  id="post-hello-world"
-  class="article article-type-post"
-  itemscope
-  itemprop="blogPost"
-  data-scroll-reveal
->
-  <div class="article-inner">
-    
-    <header class="article-header">
-       
-<h2 itemprop="name">
-  <a class="article-title" href="/hello-world/"
-    >Hello World</a> 
-</h2>
- 
-
-      
-    </header>
-     
-    <div class="article-meta">
-      <a href="/hello-world/" class="article-date">
-  <time datetime="2021-06-03T01:16:53.059Z" itemprop="datePublished">2021-06-03</time>
-</a>    
-    </div>
-      
-    <div class="article-entry" itemprop="articleBody">
-       
-  <p>Welcome to <a target="_blank" rel="noopener" href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a target="_blank" rel="noopener" href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a target="_blank" rel="noopener" href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a target="_blank" rel="noopener" href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
- 
-      <!-- reward -->
-      
-    </div>
-    
-
-    <!-- copyright -->
-    
-    <footer class="article-footer">
-       
-    </footer>
-  </div>
-
-    
- 
-    
-</article>
-
-    
-  </article>
-  
-
-  
 </section>
-</div>
-
       <footer class="footer">
   <div class="outer">
     <ul>
