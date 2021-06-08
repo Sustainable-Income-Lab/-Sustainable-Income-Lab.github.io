@@ -28,25 +28,25 @@ Sustainable-Income-Lab.github.io
 
 2. 命令行進入 SILab 資料夾
 
-3. 執行 <npm install> 安裝node_modules
+3. 執行 **npm install** 安裝node_modules
 
 
 ## 預覽已有網站
 
-1. 執行 <hexo clean> 清除舊有靜態網頁
+1. 執行 **hexo clean** 清除舊有靜態網頁
 
-2. 執行 <hexo g> 生成靜態網頁
+2. 執行 **hexo g** 生成靜態網頁
 
-3. 執行 <hexo s> 然後瀏覽器開啟 [http://localhost:4000](http://localhost:4000) 預覽網頁
+3. 執行 **hexo s** 然後瀏覽器開啟 [http://localhost:4000](http://localhost:4000) 預覽網頁
 
 4. [control + c] 按鍵停止網頁 
 
 
 ## 增加，編輯文章
 
-1. 執行 <hexo new "文章標題">，或直接在 </source/_posts> 目錄下直接增加 <"文章標題".md> 檔案
+1. 執行 **hexo new "文章標題"**，或直接在 **/source/_posts** 目錄下直接增加 **"文章標題".md** 檔案
 
-2. 編輯 <"文章標題".md> 檔案，以Markdown 的語法，不熟的話，可以參考一些 [Markdown編輯器](https://www.mdeditor.tw/)，唯一需要注意的是，每個主題，編譯出來樣式不一定相同，需要預覽網站時才可確定實際樣貌。
+2. 編輯 **"文章標題".md** 檔案，以Markdown 的語法，不熟的話，可以參考一些 [Markdown編輯器](https://www.mdeditor.tw/)，唯一需要注意的是，每個主題，編譯出來樣式不一定相同，需要預覽網站時才可確定實際樣貌。
 
 3. 參考“預覽已有網站”，預覽網站
 
