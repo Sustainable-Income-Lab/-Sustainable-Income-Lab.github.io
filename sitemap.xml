@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sustainable-income-lab.github.io/sustainable-development-and-sustainable-income/</loc>
+    
+    <lastmod>2021-08-19</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://sustainable-income-lab.github.io/what-is-qe/</loc>
     
     <lastmod>2021-08-05</lastmod>
@@ -46,50 +53,57 @@
 
   <url>
     <loc>https://sustainable-income-lab.github.io/</loc>
-    <lastmod>2021-08-17</lastmod>
+    <lastmod>2021-08-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://sustainable-income-lab.github.io/tags/%E5%8E%BB%E9%87%91%E8%9E%8D%E5%8C%96/</loc>
-    <lastmod>2021-08-17</lastmod>
+    <loc>https://sustainable-income-lab.github.io/tags/%E6%B0%B8%E7%BA%8C%E6%89%80%E5%BE%97/</loc>
+    <lastmod>2021-08-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://sustainable-income-lab.github.io/tags/%E6%B0%B8%E7%BA%8C%E6%89%80%E5%BE%97/</loc>
-    <lastmod>2021-08-17</lastmod>
+    <loc>https://sustainable-income-lab.github.io/tags/%E6%B0%B8%E7%BA%8C%E7%99%BC%E5%B1%95/</loc>
+    <lastmod>2021-08-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sustainable-income-lab.github.io/tags/%E5%8E%BB%E9%87%91%E8%9E%8D%E5%8C%96/</loc>
+    <lastmod>2021-08-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://sustainable-income-lab.github.io/tags/%E8%A2%AB%E5%8B%95%E6%94%B6%E5%85%A5/</loc>
-    <lastmod>2021-08-17</lastmod>
+    <lastmod>2021-08-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://sustainable-income-lab.github.io/tags/%E7%84%A1%E6%A2%9D%E4%BB%B6%E5%9F%BA%E6%9C%AC%E6%94%B6%E5%85%A5/</loc>
-    <lastmod>2021-08-17</lastmod>
+    <lastmod>2021-08-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://sustainable-income-lab.github.io/tags/%E9%87%8F%E5%8C%96%E5%AF%AC%E9%AC%86/</loc>
-    <lastmod>2021-08-17</lastmod>
+    <lastmod>2021-08-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://sustainable-income-lab.github.io/tags/%E9%80%9A%E8%B2%A8%E8%86%A8%E8%84%B9/</loc>
-    <lastmod>2021-08-17</lastmod>
+    <lastmod>2021-08-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
