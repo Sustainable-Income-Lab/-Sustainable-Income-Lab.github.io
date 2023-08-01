@@ -1905,6 +1905,215 @@
       </tags>
   </entry>
   <entry>
+    <title>團結與社會支持</title>
+    <url>/Solidarity-and-Social-Support/</url>
+    <content><![CDATA[<blockquote>
+<p><img src="/img/Solidarity-and-Social-Support/Solidarity-and-Social-Support.png" alt="Solidarity and Social Support"></p>
+</blockquote>
+<blockquote>
+<p>【關於這篇文章】<br>本篇為團結經濟學一書之第四章摘錄及討論。文章深入探討社會支持的重新建構，傳統社會安全網只針對那些被證明有需要的人才提供援助、其他不符合規則者被排除。</p>
+<p>為確保每個人都能有資源追求有意義的生活，重新考慮社會安全網的建構是必要的。本文探討了透過採取“社會工資”方法，以獎勵社會對創新和繁榮的集體貢獻，而不是僅為那些被證明有需要的人提供援助，以及政府如何成為此類努力的提供者和推動者，來促進社會團結和支持。研究表明，採取此類投資不僅可以節省巨大的經濟成本，還可以擴大繁榮。</p>
+<p>本章可獨立閱讀，亦可先讀完<a href="https://sustainable-income-lab.github.io/Solidarity-Economics-Introduction/">團結經濟學簡介</a>，了解全書的架構，再進行研讀，或是與不同章節進行比對。</p>
+</blockquote>
+<span id="more"></span>
+
+<hr>
+<h2 id="書本資料"><a href="#書本資料" class="headerlink" title="書本資料"></a>書本資料</h2><ul>
+<li>全書資料：<ul>
+<li><a href="https://sustainable-income-lab.github.io/Solidarity-Economics-Introduction/">團結經濟學簡介</a></li>
+</ul>
+</li>
+<li>作者：<ul>
+<li><a href="https://sociology.ucsc.edu/about/directory-faculty.php?uid=cbenner">Chris Benner</a></li>
+<li><a href="https://dornsife.usc.edu/eri/manuel-pastor/">Manuel Pastor</a></li>
+</ul>
+</li>
+<li>關於本書：<ul>
+<li><a href="https://solidarityeconomics.org/se-book/">About the Book</a></li>
+</ul>
+</li>
+<li>本章讀書會討論脈絡：<ul>
+<li><a href="https://docs.google.com/document/d/1XQIxNzQqvtIhQjELkavodvcBbezbKO7B06Lk6GCI3kw/edit?usp=sharing">歡迎填寫評論</a></li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="目錄"><a href="#目錄" class="headerlink" title="目錄"></a>目錄</h2><ul>
+<li><a href="#%E6%9B%B8%E6%9C%AC%E8%B3%87%E6%96%99">書本資料</a></li>
+<li><a href="#%E7%9B%AE%E9%8C%84">目錄</a></li>
+<li><a href="#%E5%89%8D%E8%A8%80">前言</a></li>
+<li><a href="#A-Right-to-Wealth">A Right to Wealth</a><ul>
+<li><a href="#Building-Wealth-for-the-Many">Building Wealth for the Many</a></li>
+<li><a href="#The-Solidarity-Dividend">The Solidarity Dividend</a></li>
+<li><a href="#Jobs-for-All">Jobs for All</a></li>
+</ul>
+</li>
+<li><a href="#A-Right-to-Shelter">A Right to Shelter</a><ul>
+<li><a href="#Expand-Rental-Units-and-Support">Expand Rental Units and Support</a></li>
+<li><a href="#Expand-Social-Housing">Expand Social Housing</a></li>
+<li><a href="#A-Place-to-Stay">A Place to Stay</a></li>
+</ul>
+</li>
+<li><a href="#A-Right-to-Health">A Right to Health</a><ul>
+<li><a href="#Insuring-Everyone">Insuring Everyone</a></li>
+<li><a href="#Investing-in-Public-Health">Investing in Public Health</a></li>
+<li><a href="#Prioritizing-Our-Environment">Prioritizing Our Environment</a></li>
+</ul>
+</li>
+<li><a href="#Choosing-Solidarity">Choosing Solidarity</a></li>
+<li><a href="#%E5%9C%98%E7%B5%90%E7%B6%93%E6%BF%9F%E5%AD%B8%E7%B0%A1%E4%BB%8B%E5%8F%8A%E9%96%B1%E8%AE%80%E6%94%BB%E7%95%A5">團結經濟學簡介及閱讀攻略</a></li>
+<li><a href="#115B%E5%AF%A6%E9%A9%97%E5%AE%A4">115B實驗室</a></li>
+</ul>
+<hr>
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>Solidarity and Social Support</p>
+<p>Lilla Watson, 是 Murri （澳大利亞土著）的視覺藝術家、活動家和學者。海報團體的成員和她聯繫想確認引用以下的訊息。Lilla Watson給出了一個出乎意料的答案。她並沒有聲稱個人名義，而是指出來自於 1970 年代昆士蘭原住民權利組織工作的一部分，也不確定這些詞是如何只歸於她的，並明確表示它“來自的集體過程。”</p>
+<p>If you have come here to help me, you are wasting your time. But if you have come because your liberation is bound up with mine, then let us work together.<br>如果你來是為了幫助我，那你是在浪費時間。但如果是因為你的解脫 (liberation) 與我的結合在一起，那就讓我們一起努力。一語道出她對於傳統社會福利的看法。</p>
+<p>她曾寫出：“200 年來，澳大利亞的原住民一直接受西歐的福利概念，但這並沒有增加我們生活體驗。” 她堅持認為，我們不僅要重新思考知識是集體而非個人所產生的。而且還要重新思考如何提供援助，應該是以團結的形式而不是慈善行為。</p>
+<blockquote>
+<p>這會想到之前聽到幾位社工領域的人，提到社會工作的思想，已經從過去的「幫助他人」，轉向為「陪伴、一同」。</p>
+<p>這背後有幾層意義，一個是不要一昧的說去幫助他人，而其實並非對方要的幫助。而是先與對方達成共感，再在同一面向。<br>另外一層是，公益式的的思維，可能造成的社會不公平性。當幫助是透過公益，意味著需要類似大企業來捐贈，最後陷入了權力、資源分配集中在菁英的思維，又再次加劇了不公平性。</p>
+</blockquote>
+<p>新自由主義認為每個人的要靠自己，標榜著 “個人責任”。 “安全網” 似乎表示你陷入了艱難時期，而不是因結構性種族主義、父權制度和剝削而被迫陷入困境。你需要的是慈善機構的施捨，而不是彼此相互依存的伸出援手。這個觀念似乎比 UBI 晤談時提到的無條件基本收入觀念有深遠的意涵，是因為彼此團結在一起形成相互依存的共同體，不是不管任何緣由的給予。</p>
+<p>如果我們從團結的前提下設計社會福利系統 (social support systems)，而不是慈善會是如何？可以看到我們的經濟依賴知識和自然資源的集體繼承，每個人都以某種方式為我們的經濟做出貢獻。也會意識到社會上的每個人都得到照顧，實際上對所有人都有幫助。也會認清阻礙成功的結構性障礙，並且為消除這些障礙而奮鬥。</p>
+<p>作者認為要實現目標的作法是改變我們的用語，並且將社會福利的架構轉變為 “社會工資” (social wage) 的架構。“社會工資” 是指為生產活動做出貢獻的報酬，包括傳統無償的家務、社區和護理工作。也包含挪用或使用我們的集體經濟資產應該獲得合理補償。社會工資包括確保滿足基本需求，從三個方面為最弱勢群體提供支持：收入和資產、住房以及健康。</p>
+<blockquote>
+<p>回顧一下，作者對第四章內容的提示：<br>We think one way to get there would be to shift our language – and policy – around social support from a frame based on social welfare to one based on a social wage. The term “social wage” means remuneration for contributing to productive activity, including for traditionally unpaid domestic, community, and care work. And while that understanding is the rightful product of the intellectual and organizing work of feminist scholars and activists, there is another dimension of the term that is critical. In our view, a social wage also recognizes that everyone should be compensated for the appropriation or use of our collective economic assets, such as the inherited environmental and knowledge commons.</p>
+<p>As such, our use of the term is not so much about a particular mix of government policies – a guaranteed minimum income payment, universal health insurance, or free education. Rather, it is about mutuality – that is, a conceptual shift away from viewing welfare as a subsidy or a temporary remedy and toward seeing the sharing of abundance as a form of mutual investment in our collective well-being at all levels of society. And while the term “wage” may conjure up the idea that we think rewards should only accrue to those who labor, recall that we have defined labor broadly and that we have insisted that reward from the commons should accrue to all. We are, by using “social wage,” trying to redefine what it means to contribute and to earn – and to extend that right to create and survive to all.</p>
+<p>A social wage framework is important for another reason. As we have stressed earlier (and return to more directly in chapter 6), solidarity has two faces: one the sort of cooperative collaboration that protects the commons and leads to better outcomes, and the other the banding together of workers and communities against the corporations that often seek to privately appropriate what is rightfully all of ours. By providing a basic cushion, a social wage not only protects against shocks, it levels the playing field of bargaining power by ensuring that one’s backup position is not a free fall into economic despair.</p>
+<p>Finally, a social wage can be in cash, but can also include other mechanisms to ensure that basic needs are met (such as providing social housing or ensuring public health). Below, we consider what a social wage might look like in three specific aspects of providing support to both the most vulnerable and those due reparations for systems of exploitation: income and assets, housing and shelter, and health and well-being. In each case, we explore how to reward everyone for our collective contributions to prosperity and to guarantee that we’re taking care of all.</p>
+<p>無論是對於生產活動的貢獻，包括傳統上不計酬勞的居家事務、社區服務、及照護工作；同時也針對集體的經濟資產，例如所繼承的環境及知識公共財，在分配或使用上，每個人也都應該有相對應的工資求償權利。</p>
+<p>因此作者認為社會工資，與公共政策中的最低基本工資、全民健保、及國民教育，並沒有什麼關連，也就是與急難救助、或短期紓困等社會福利的概念，是截然不同的取向。主要是基於對集體福祉的共同投入與互助精神，若有豐碩成果再一起共享。而透過社會工資，作者們嘗試去重新定義，「提供貢獻」、以及「賺取所得」的真正意涵，並且延伸到所有人在創造、及生存上的權利。</p>
+<p>有關社會工資論述架構的重要性，另外還有一個理由，如作者之前強調、以及第六章內容將說明的，團結經濟有兩大面向：一是合作協力保護共有財產，追求更好的產出成果；另一個則是讓勞工及社區團隊集結起來，對抗企業將原應屬於大家的利益、據為私用。社會工資起了基本的緩衝作用，不但在突然暴發的危機中，能提供一定保護機制；而且也賦予所有人對等談判的能力，確保了退路，而不致墜入經濟的絕望深淵中。</p>
+<p>最後談到社會工資的形式，可以是現金，但也包括其他確保基本需求能夠達成的機制：例如提供社會住宅、或落實全民健保等。因此本章後面的內容，就是作者所構思，社會工資在三個特定層面（所得及資產、住屋及蔽護、健康及福祉），對極端弱勢族群、以及試圖向系統性剝削加以追討者，所提供支持的可能樣貌。針對每一層面，去探討如何讓每個人，共享對集體繁榮所貢獻的成果，以及確保大家獲得全面性的照護。</p>
+</blockquote>
+<p>社會支持 social support 由社會福利 (social welfare) 的概念轉換到社會工資 (social wage)，在文字的背後意味著根本看法的改變。社會福利主要源自於慈善助人的精神，出自於憐憫。也就是如同以前讀到的 《禮記‧禮運‧大同篇》：「故人不獨親其親，不獨子其子。使老有所終，壯有所用，幼有所長，矜寡孤獨廢疾者皆有所養。」的體現。 社會工資則是表示每個人都有權利因為無償的付出，或是集體的經濟資產而正當的獲得補償。兩者意義相差甚遠。</p>
+<blockquote>
+<p>裡面提到，用「工資」一詞，可能一般人會想到勞力，但這裡可以是更廣義的勞力。但主要在於，有貢獻而有所獲得。公有的貢獻所得，應該共同享有。<br>回到這裡看健康，可以看到其並非單純個人努力造成，而是因為社會不公平性。<br>『族裔在暴露於高風險環境、過度擁擠，以及合併症的情況』與前面提到的居住，也息息相關。然而，公有的貢獻所得，在過去並未被直接認為由大眾（包含弱勢族群）所有，而被認為在於少數資本家所有。並以公益的方式，部分施捨給弱勢族群。</p>
+<p>如何評判某種產出是什麼造成貢獻？<br>所以造成資本家認為是資本對成果的貢獻。有的認為是人的貢獻。而這邊可能是歸為某種更廣泛的「勞力」的貢獻。</p>
+<p>然而，公有的貢獻所得，在過去並未被直接認為由大眾（包含弱勢族群）所有，而被認為在於少數資本家所有。 </p>
+<p>這部分應該也與之前第三章提到的”經濟租”(economic rents)息息相關，少數資本家攫取了大部分的超額利潤，但透過租稅或捐贈重新回到系統的卻相對少到不成比例。這面向與其說是分配不均，或許更接近於公共產出的涵蓋不均；有人可獲得大多數好處，但更多人是完全沒有機會接觸到</p>
+</blockquote>
+<p>當目前不公平社會架構背後的思維徹底改變，才能扭轉目前貧富懸殊的現象。深入了解共同擁有文化智能資產，以及認知對我們的經濟投入無償的貢獻也應該獲得相對應的報酬…等觀念，才能設計出符合團結經濟精神的系統。</p>
+<hr>
+<h2 id="A-Right-to-Wealth"><a href="#A-Right-to-Wealth" class="headerlink" title="A Right to Wealth"></a>A Right to Wealth</h2><p>對經濟困難的研究發現，在2018 年，美國有42% 的家庭買不起住房、兒童保育、食品、交通、醫療保健、智能手機和稅收等基本生活所需。COVID-19疫情大流行所導致的經濟壓力，可能使狀況更加惡化。</p>
+<p>僅兒童貧困就使美國經濟產出每年減少 4% -5%，主要是由於醫療成本增加、犯罪成本增加和經濟生產力下降。</p>
+<h3 id="Building-Wealth-for-the-Many"><a href="#Building-Wealth-for-the-Many" class="headerlink" title="Building Wealth for the Many"></a>Building Wealth for the Many</h3><p>為大眾創造財富</p>
+<p>忽視貧困的代價造成整體經濟的巨大損失。新自由主義只是讓人們自行解決問題，從事任何所能找到的工作，以及薪資來解決問題。社會福利主要是在危急時刻提供援助，但是必須經過經濟狀況調查之後才會提供幫助。而 UBI 希望能夠不需要經過調查就能提供協助。</p>
+<p>用團結的角度去思考，如果我們經濟中產生的財富部分是集體產生的，或集體繼承而來，那麼將部分財富投資於維持每個人的生活是應當的，這不是一種慈善，而是一種團結行為。</p>
+<p>確保財富和安全基礎，符合我們的共同利益。可以使家庭擺脫貧困的最低收入，並獲得有意義的工作。這可以給予人們可以有能力共同戮力對抗不平等的結構。</p>
+<blockquote>
+<p><a href="https://pansci.asia/archives/355950">【2022 年搞笑諾貝爾經濟獎】不想努力的我，把運氣點滿就對了</a> ，這篇文章裡面提到運氣，但後面有說明補助的幾種差異跟可能結論。</p>
+<p>所以如果要看政府錢有沒有花在刀口上，要看的是「每花一塊錢，可以增加多少高能力族群的成功率？」也就是「效率＝（補助後成功率—補助前成功率）÷ 政府總預算」。用這個方式比的話，那個方案是第一名？</p>
+<p>答案可能讓你跌破眼鏡，是最簡單的「每次每人補助 1 元」！總共花 8000 元，可以讓成功率提升到 69.48%，提升了 37.43%。</p>
+<p>表現最差的是「表現前 10% 的發 20 元，其他人 0」這個極端的菁英主義方式，它的效率只有前者的 1／25，花了兩倍的 16000元，只提升了 2.93%，成為 34.98%。</p>
+<p>事實上，所有的「菁英主義」式的補助，幾乎都是表現最差的。 </p>
+</blockquote>
+<p>經濟學家 Darrick Hamilton 和 William “Sandy” Darity Jr. 建議在每個孩子出生時提供一個信託賬戶，讓父母和家庭成員有機會為新生兒增加資產。在 18 歲時就可以使用這些資金，這些資金可以用於高等教育，也可以用於購買房屋或創業。</p>
+<p>這樣的計劃預期能縮小種族貧富差距並改善整體結果。哥倫比亞大學 Naomi Zewde 的研究模擬了 Hamilton 和 Darity 所設想的實施的程序及運作方法。模擬嬰兒債券計劃的結果顯示: 如果沒有嬰兒債券計劃，年輕白人的財富中位數是年輕非洲裔美國人的 16 倍，但如果有嬰兒債券計劃，則差距下降到 1.4 倍。我們都互相關心時，我們都會做得更好。如此能夠和菁英主義式的補助做一比較。</p>
+<blockquote>
+<p>不過「嬰兒債券」，還是摻雜了資本主義裡用以尋租的金融工具，若能以擴增集智系統為基礎的心智元來取代，應該是更符合團結互助的意義，同時具備能量開源的特性，才能為其提供面對未來的動能。</p>
+</blockquote>
+<h3 id="The-Solidarity-Dividend"><a href="#The-Solidarity-Dividend" class="headerlink" title="The Solidarity Dividend"></a>The Solidarity Dividend</h3><p>作者所提到的「嬰兒債券」出發點是以團結股利 (Solidarity Dividend) 想法，既然財富由集體產生，因此將其中一部分進行再投資，以期每個人自的人生，都有體面的開始。但若是摻雜了尋租的金融工具就不是很理想。這些方案原本就應當由群體智能產生的創新過程。</p>
+<blockquote>
+<p>這似乎與UBI的問題很像，如果只是想著每個人要分享固定的收入，而不關注收入的來源。<br>就形成了全民尋租的狀況。</p>
+</blockquote>
+<p>這似乎也點出一個慣見的問題，不管是UBI 、社會安全網，或是嬰兒債券，目標並不應只是提供保證支付或是補償，而是集體所產生的財富要以有意義的方式來將他們的創造力貢獻給公共財，形成良性的循環。</p>
+<p>作者舉出 “團結股利” 的例子，以石油為基礎的阿拉斯加永久基金，自 1982 年以來一直向每位阿拉斯加居民支付紅利。 或許這種金融工具的作法，應該是有改進的餘地。 而UBI 是來自公共財富的回報，即”社會工資”的一種。</p>
+<p>“團結股利” 的資金來源可能是財富稅，或是來自於公共投資、消費者數據和植根於文化和社會生活的創新所產生的財富。其思想的框架為: 所有人都應該從集體繼承的科學知識和公眾部門對重大新技術投資產生的收入獲得定期付款。</p>
+<p>文中提到團結股利與無條件基本收入的差異不在於金額多寡，而在於對其認定的框架 - 不是”給予”的”補償”，而是對”公共收入”的”共享”。</p>
+<h3 id="Jobs-for-All"><a href="#Jobs-for-All" class="headerlink" title="Jobs for All"></a>Jobs for All</h3><p>雖然 “嬰兒債券” 和 “團結股利” 有助於解決陷入貧困者的收入差距，但是卻欠缺工作連結和工作激勵。<br>為了解決以上的問題，由政府所提供的工作保障似乎是一項不錯的選項。政府提供公共社區長期以來被忽略的工作需求，並相對地給予足夠生活所需的薪資。這類的計畫配合經濟的興衰週期而有所調整。當經濟衰退時就會擴張，反之亦然。</p>
+<p>如此的就業保障計畫有助於穩定商業的週期循環，增加有就業需求的人力可以滿足關鍵社區公共所需，隨著經濟復甦，這些人力將會轉移到收入更高的私人企業。</p>
+<p>在過去美國歷史中就曾經制定一系列聯邦政府贊助的就業計劃，例如羅斯福總統 1945 年發起全面就業法案 (Full Employment Bill )。計劃的直接成本大約為 GDP 的 2-3%，但也因此減少社會福利的支出，而且增加經濟和稅收收入，使得整體經濟得以提升。這似乎也應驗了團結經濟的精神。</p>
+<blockquote>
+<p>的確，UBI的志工代表Tim也說過，他們也在試圖模擬測試把UBI移植和落實到台灣社會，這裡面的重點並非是金額的多少，而是推動大眾產生普遍認同感後，同意用UBI來取代其原本的其他政府設計的社會救濟金，這樣也就不存在要求納稅人額外“多切蛋糕“的狀況。</p>
+<p>裡面也提到團結股利並不是要完全取代收入，用意是要提供一些額外的收入保障，可能有助於緩解勞動市場版圖的變化所造成的壓力 (ex.典範移轉造成的衝擊)，同時提高受薪階級的議價能力。而若團結股利的主要來源是來自對科技發展和創新產生的利潤徵稅，附帶效應是去平衡掉大型科技公司目前從壟斷市場和贏家通吃中攫取的不公平特權。</p>
+<p>沒錯，在UBI的提案和研究中講到的漸進式方案和他們協會正在踐行的也是也是致力於作為一個option，而並非目的在於完全取代收入的</p>
+</blockquote>
+<hr>
+<h2 id="A-Right-to-Shelter"><a href="#A-Right-to-Shelter" class="headerlink" title="A Right to Shelter"></a>A Right to Shelter</h2><p>居住的權力</p>
+<p>住屋的權利包含在世界人權宣言中，是屬於最低生活保障權的一部份。<br>2020年哈佛大學住房研究聯合中心發布的美國住房狀況報告指出，超過 30% 的美國家庭有住房成本負擔問題，亦即花費超過收入的 30%。</p>
+<p>大約半數的租房者有成本負擔，其中1/4的人超過 50% 的收入用於住房。不意外的這些統計數字顯示出種族差異——43% 的黑人家庭和 40% 的拉丁裔家庭有成本負擔，而白人只有 25%。</p>
+<p>超出家庭負荷的住屋成本除了傷害個別家庭，也會給我們的整體經濟帶來負面影響，房價限制快速發展公司僱用新員工的能力，預估經濟產出減少 8.9%。</p>
+<p>另外的影響就是高住房成本。對於消費商品產生排擠作用，導致經濟損失。而房東的收入就是典型的”尋租”，無助於刺激創新和生產力。</p>
+<p>美國政府住房補助主要針對中高收入者，透過與房屋所有權相關的稅收減免，包括貸款利息和財產稅支付，以及資本利得減免，總額在2015年就達到1300億美元的補助。相較之下對於租屋者提供的援助卻僅有 600 億美元，四分之三的低收入高風險租屋者沒有獲得任何政府援助。</p>
+<p>團結經濟的方法是對所有家庭的關注開始，無論是租屋者還是屋主。為租屋者提供安全保障，推廣社會住宅，用以提供私人市場之外的替代方案來平衡議價能力，並且終結無家可歸的現象。強調這一個公平與繁榮並存的領域。使人負擔得起的房屋不僅可以幫助窮人，還有助於提高儲蓄率，以及增加家庭收入，並有助於實現充滿活力和穩定的經濟。</p>
+<blockquote>
+<p>這會想到台灣近年有組織希望可以從社會住宅，轉為住宅合作社的過程。</p>
+<p>因為社會住宅大多為針對弱勢族群，但卻產生了標籤化的現象，以及居住空間等形式不能搭配居住需求者。</p>
+<p>然而，以合作社形式的問題，在於社員是否可以沒有排他性？可能社員費，便會造成了排擠弱勢族群的狀況。如果可以在兩者間去互補，或許有些更符合團結精神的形式。”</p>
+<p><a href="https://www.hucc-coop.tw/article/infografia/22274">合作打造互「住」家園　從人出發回應共融需求 | 台灣主婦聯盟生活消費合作社</a>： 主婦聯盟生活消費合作社2021年公益金贊助團體OURs都市改革組織（下稱OURs），致力推動以人的需求為主體的合作住宅，台灣房價居高不下，住的基本保障該如何滿足？OURs 提出第三條路可作為參考。</p>
+<p><a href="https://www.hisp.ntu.edu.tw/report_paper?id=266">「家」的新想像：合作住宅（Co-housing）的多元模式 | 新作坊</a>：街區再生的主角從來不只是規劃者或倡議者，每個在城市街區中真實生活的市民才是規劃與營造的核心要角。從蘇黎世案例回望臺灣合作住宅的路徑，這場講座重新叩問現代社會對於「家」的想像：人們緊攫的一紙房屋土地權狀，… </p>
+</blockquote>
+<h3 id="Expand-Rental-Units-and-Support"><a href="#Expand-Rental-Units-and-Support" class="headerlink" title="Expand Rental Units and Support"></a>Expand Rental Units and Support</h3><p>提供住屋援助有三種主要方式：鼓勵個人擁有房屋，支持租屋者，以及提供社會住宅。</p>
+<p>美國過於強調個人住房所有權，尤其是獨立的住宅。激勵獨戶住宅所有權的強調助長了空間和種族不平等，也區隔了租屋者和屋主，助長城市擴張，並使得貧困社區的投資更為不足。</p>
+<p>鼓勵自有房屋通常被視為重要的經濟刺激措施，但證據也顯示擁有房屋已成為經濟增長的拖累因素。雖然屋主可以從穩定性中受益，但同時也會限制求職、降低流動性、增加通勤時間，隨時間的推移減少商業形成率。當多數的人擁有房屋，會使得城市沒有發展空間，不再充滿活力，年長的屋主似乎也執意的保護自己的城堡，反觀新一代的年輕人，無法負擔高房價以及房租，而對資本主義充滿失望。似乎這也是如今我們所面臨的普遍現象。</p>
+<p>政府政策的架構如果過度聚焦在個人資產，恐怕會損害集體利益。作者認為應該擺脫優先考慮房屋所有權，轉而採行支持租房者的方式。美國聯邦計劃為低收入家庭發放住房券，但由於政府對總支出設定上限，大約3/4符合條件的家庭無法獲得補助。支持租房者的資金政府大可透過減少或者取消對屋主抵押貸款利息，或財產稅的補貼來取得。</p>
+<p>在 COVID-19 的經濟危機中，租屋者面臨更脆弱的經濟狀況。促進更多租賃、實施驅逐保護和實施租金控制尤其重要。關鍵是增加出租單元的產量以及為租屋者提供更多的幫助，將會產生廣泛的經濟和社會效益。</p>
+<p>我們需要深入的團結政治工作，使這些創新政策成為可能。</p>
+<h3 id="Expand-Social-Housing"><a href="#Expand-Social-Housing" class="headerlink" title="Expand Social Housing"></a>Expand Social Housing</h3><p>擴大社會住宅</p>
+<p>社會住宅是由政府或其他非盈利的組織擁有的房屋和公寓。目標是將土地和住房從市場中移除。可以由政府直接建造和擁有社會住宅。可惜，自 1950 年代以來，美國聯邦政府並未對建設社會住宅大量投資，而通過稅收優惠對非營利性社會住宅的支持也十分有限。</p>
+<p>美國社區發展出替代社會住房模式，由非營利組織取得土地並同意保持所有權的社區土地信託。可以出售地上建物的住宅，屋主可簽訂長期可續租的土地租約，而非擁有土地。這使得土地本身永久退出市場，降低住房總體成本。屋主通常也會簽訂限制轉售價格的協議，允許他們隨著持有時間累積資產，同時也確保永久的負擔能力。 </p>
+<p>只是這個有前景的想法和市場需求相較之下規模很小</p>
+<p>更為普遍的方式為有限股權住房合作社，人們並不是個人擁有住宅，而是實際購買合作擁有的建築物的股份，同時支付固定租金。</p>
+<p>在其他各國的做法中，新加玻的例子尤其傑出: 82% 的居民居住在公共補貼住宅。住房負擔能力的保障也成為出新加玻高水準的創業精神和經濟快速增長的重要因素。不僅獲得大眾的支持而得以擴展，並且也促進繁榮。</p>
+<h3 id="A-Place-to-Stay"><a href="#A-Place-to-Stay" class="headerlink" title="A Place to Stay"></a>A Place to Stay</h3><p>在居住的權利上，作者也考慮到無家可歸的族群，雖然根本原因是無法負擔得起住房成本，但也有因為患有精神疾病、藥物濫用和其他嚴重的健康問題而最終導致無家可歸。</p>
+<p>可信的研究表明，最有效的解決方法是永久性支持性住宅，包含住房補貼與結合附近社區的支持服務。相較之下，支持性住宅的成本比其他解決方案更低，例如精神病院、其他醫院護理、矯正機構、醫療補助資助…等方法。</p>
+<p>結束無家可歸需要我們將提供永久性支持性住房與關懷的經濟相結合。要做到如此，必須要超越新自由主義意識所認知的 “結果與個人努力有關” 這件事，並且接受街上的人們也是在做出選擇。團結的架構認知居住是一項權利，為每個人提供居住所需，確保所有人的生活更加穩定。</p>
+<hr>
+<h2 id="A-Right-to-Health"><a href="#A-Right-to-Health" class="headerlink" title="A Right to Health"></a>A Right to Health</h2><p>COVID-19 疫病大流行顯示美國的醫療保健系統出了問題: 美國擁有全世界 4% 的人口，大流行的第一年，將近四分之一的世界確診病例和五分之一的死亡病例。不意外地少數族裔占有多數的病例和死亡個案。這也只是反映出這些族裔在暴露於高風險環境、過度擁擠，以及合併症的情況。</p>
+<p>儘管美國平均每人健康支出是所有 36 個OECD(經濟合作暨發展組織)的2.5倍， GDP 百分比的2倍，但在許多國民健康結果方面表現更差。在 36 個OECD國家中，預期壽命排名第 28 ，低自殺率排名 29，低出生體重嬰兒排名 32，低嬰兒死亡率排名 33，超重人口百分比排名 34，獲得核心醫療保健服務的人口比例為 35。</p>
+<p>團結經濟表明需要承諾促進健康而不是治療疾病，解決潛在的社會決定性因素，例如貧窮、環境品質和社區凝聚力，並將不平等視為為對我們健康的嚴重風險。</p>
+<p>不公平的制度，導致投入醫療資源優先項目的錯置，試著想像一下關懷出生前的健康狀況是否比關注臨終更為重要? 不應該因為老人族群的膚色與財富，就讓醫療市場順應他們的利益。這種權力的不平衡實際上會侵蝕整體社會的健康和福祉。</p>
+<h3 id="Insuring-Everyone"><a href="#Insuring-Everyone" class="headerlink" title="Insuring Everyone"></a>Insuring Everyone</h3><p>確保所人在其整個生命任何時期中都能獲得負擔得起的醫療保健至關重要，尤其必須包含年輕人。出生時的健康也深深地影響未來收入、教育和殘疾狀況。而對於孕婦與產婦健康的照護不足，也會將此種不公平的現象傳遞到下一代身上。目前美國傾向於透過醫療保險提供老年人連續性護理，而對於母嬰健康方面卻是支出不足。</p>
+<p>獲得保險是維持健康的關鍵，有保障的保險融入了團結觀念：它增強了一般人的議價能力。你知道不會被取消保險，你就有可能反對不公平的醫療費用。了解到你一定可以得到政府保險，就更可能堅持降低成本。知道離開不良的雇主不會危及家人的健康，就有可能與其他人一起糾正錯誤的經濟。</p>
+<h3 id="Investing-in-Public-Health"><a href="#Investing-in-Public-Health" class="headerlink" title="Investing in Public Health"></a>Investing in Public Health</h3><p>由這次 COVID-19 大流行的結果反映出美國公共衛生系統的存在問題。新自由主義者擁護個人主義，使得有些人不願意戴口罩，而部分地方政府也不願意強制執行這種簡單的措施。反而相信疫苗和藥物治療，如此作法非但不能強化公共衛生系統，使大眾對抗未來的流行性疾病，反而使納稅人的錢進到製藥大廠的口袋之中。 而醫院診所也必須要為個人主義的行為善後。</p>
+<p>近年來美國疾病控制和預防中心 (CDC) 在各州的核心公共衛生和應急準備的預算大幅減少。在公共衛生應急準備項目方面，由 2002 年度的 9.4 億美元降至2020年的 6.75 億美元，而醫院準備計劃預算也從 2004 年度的 5.15 億美元降至 2020 年的 2.76 億美元。這也可能導致美國在這次疫情中表現不佳的原因之一。</p>
+<p>團結意味著必須提前計劃以防範未然，因此設計強大的系統來應對未來的疾病也至關重要。這其中包括對 CDC 的疫苗基礎設施、疫情預防和應對系統進行大量投資。<br>美國健康信託基金會(The Trust for America’s Health) 是專注於疾病預防的無黨派研究機構，它提出詳細的計劃，旨在通過增加對公共衛生的投資來充分保護和改善美國人的健康。</p>
+<p>他們的計劃當中也包括投資當地衛生部門的基礎設施，以公衛數據系統追踪疾病。建議投資於社區慢性病的預防，以及解決藥物濫用和自殺問題。</p>
+<p>信託基金還制定全面性的計劃，以解決社區內的健康和社會公平的決定因素。包括改善健康和學習、促進積極的生活和聯繫、確保安全、健康、負擔得起的住房計劃，以及改善經濟福祉，和收入支持計劃，促進社會公眾健康。</p>
+<h3 id="Prioritizing-Our-Environment"><a href="#Prioritizing-Our-Environment" class="headerlink" title="Prioritizing Our Environment"></a>Prioritizing Our Environment</h3><p>環境和氣候風險對我們的健康影響至為明顯。無法獲得清潔的空氣和水會帶來巨大的經濟成本，因此獲得安全、清潔和健康的環境應該也是基本人權。</p>
+<p>2008 美國水資源聯盟成立，目的是推進可實行的解決方案，以解決水資源問題。並制定了促進健康、可持續、公平的水資源管理，其中包括建設綠色基礎設施、促進可持續農業以及鼓勵在所有經濟活動中進行水資源管理和再利用。</p>
+<p>確保空氣清潔的作法是加強對車輛、發電廠和工業場所的排放標準和控制，以減少空氣中懸浮粒子或其他形式的空氣污染的形成與排放。包含了農作物殘留物和動物糞便管理，以及室內空氣中的黴菌、石棉、和甲醛等污染源。其他的活動則是擴大電動汽車的使用、投資公共交通和改善可再生能源。這些的作為都用以改善空氣品質。</p>
+<p>有色人種社區和低收入社區更有可能暴露於不良的環境中，例如因為缺乏公園、雜貨店和便利交通的社區更容易受到肥胖、糖尿病和其他健康疾病的困擾。這些不平等現象對繁榮的影響一樣，這實際上傷害了整體社會。</p>
+<p>正如美國 2005 年 Katrina 風災中一樣，當未能保護最脆弱的社區時，最終會因洪水氾濫而失去整個城市的大片地區。團結對我們的經濟有好處，對我們的環境有好處，對我們的健康也有好處。</p>
+<hr>
+<h2 id="Choosing-Solidarity"><a href="#Choosing-Solidarity" class="headerlink" title="Choosing Solidarity"></a>Choosing Solidarity</h2><p>即使在今日，貧困還是經常發生在我們社會的某些角落。但是如果總是發生在弱勢族群中，可能的原因會是系統長期的不平等。我們是否會去思考必須要靠自己的能力才能翻轉命運? </p>
+<p>新自由主義經濟的觀點也使多數人贊同個人收入反映了我們對經濟的貢獻。</p>
+<p>依照此邏輯，胸懷慈善的人會提供社會安全網延伸給不幸的人。但是也有部分人認為提供幫助只會使那些人失去努力的動機。這些政策與想法都是出自於主觀式的思維，無助於解決貧困的根本原因。必須要做到加強經濟安全感，同時也必須要使工人具有工資對等談判的能力、降低住房成本以及提供所需要的醫療保健。</p>
+<p>要扭轉受到這些既有觀念限制的思維與制度，需要堅持團結的語言和架構，也是社會政策和實踐的原則。並且了解團結經濟學所認知的財富是集體產生的，應該集體享有。</p>
+<p>原先許多人認為理所當然的社會安全網是要對於那些陷入貧困處境者伸出援手的高尚且善良的行為，其實沒有想到這些不幸者的運氣，就是由於結構性種族主義和剝削系統所造成的結果。</p>
+<p>一如本章開頭澳大利亞原住民視覺藝術家、學者 Lilla Watson 所言，“200 年來，澳大利亞的原住民一直接受西歐的福利概念，但這並沒有增加我們生活體驗。” 並且堅信不僅要重新思考知識是集體而非個人所產生的。而且還要重新思考如何提供援助，應該是以團結的形式而非慈善行為。團結經濟認為，應該設計賦能與我們所支持的人權力，而不是規定他們的價值觀和行為。</p>
+<p>而賦予的權力使得擁有較少財富的人擁有資產、收入、住房和醫療保健的保障基礎以及備援功能，以及面對財富所有者具備對等談判的能力。 並擴展這些概念到教育、勞動力發展和社區基礎設施的領域。其中最為關鍵的是我們需要一種強調團結、加強相互關係新的方法，使我們有動力建立一個既能兼顧人類又能維持地球的經濟。</p>
+<hr>
+<h2 id="團結經濟學簡介及閱讀攻略"><a href="#團結經濟學簡介及閱讀攻略" class="headerlink" title="團結經濟學簡介及閱讀攻略"></a>團結經濟學簡介及閱讀攻略</h2><blockquote>
+<p><a href="/Solidarity-Economics-Introduction/"><img src="https://solidarityeconomics.org/wp-content/uploads/2021/09/SE-Web-Slider-for-Website.png" alt="團結經濟"></a></p>
+</blockquote>
+<hr>
+<h2 id="各章導讀連結"><a href="#各章導讀連結" class="headerlink" title="各章導讀連結"></a>各章導讀連結</h2><ul>
+<li>團結經濟:<a href="/Solidarity-Economics-Introduction/">團結經濟學簡介</a></li>
+<li>第一章：<a href="/Reimagining-Our-Economy/">重新想像我們的經濟</a></li>
+<li>第二章：<a href="/Solidarity-and-Prosperity/">團結與繁榮</a></li>
+<li>第三章：<a href="/Solidarity-and-Innovation/">團結與創新</a></li>
+<li>第四章：<a href="/Solidarity-and-Social-Support/">團結與社會支持</a></li>
+<li>（其他章節持續更新中）</li>
+</ul>
+<hr>
+<h2 id="115B實驗室"><a href="#115B實驗室" class="headerlink" title="115B實驗室"></a>115B實驗室</h2><p>「115B實驗室」是由「嘉鼎智能團隊」，呼應社會團結經濟浪潮而成立，創立之初，以台北松山區的敦化南路1段1號5樓B室為起點，故以115B為紀念。</p>
+<p>主要在協助個體、或組織，運用國際股市連結全球社會經濟的人心智能，增強本身經濟實力；並在過程中融合永續進展的理念，追求經濟、社會、環境各方面的均衡進步發展，尤其經濟上要符合（經世濟民）道理。</p>
+<h3 id="加入團隊"><a href="#加入團隊" class="headerlink" title="加入團隊"></a>加入團隊</h3><p><a href="https://www.104.com.tw/company/10zcirfc">104 (嘉鼎智能｜115B實驗室)</a></p>
+<h3 id="社群媒體"><a href="#社群媒體" class="headerlink" title="社群媒體"></a>社群媒體</h3><p>歡迎加入我們的LINE社群一同推廣永續所得倡議</p>
+<blockquote>
+<p>👉 &emsp; <a href="(https://bit.ly/Slack115b"> 115B Slack 社群</a></p>
+<p>👉 &emsp; <a href="https://line.me/ti/g2/Yn9r9XlbjJjhjppxjyzmbQ"> 115B實驗室 LINE 社群</a></p>
+<p>👉 &emsp; <a href="https://www.facebook.com/sustainable.income.lab"> 115B實驗室 FB</a></p>
+</blockquote>
+]]></content>
+      <tags>
+        <tag>團結經濟學</tag>
+        <tag>團結經濟</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>ETF 背後的巨頭現象</title>
     <url>/The-Company-That-Owns-the-World/</url>
     <content><![CDATA[<blockquote>
@@ -3880,6 +4089,232 @@
       </tags>
   </entry>
   <entry>
+    <title>討論筆記【2023年7月28日｜公民議題大家來討論｜再生所得：實現未來世代社會進展的關鍵】（於2023均優學習論壇中討論）</title>
+    <url>/regenerate-income-quality-learning-2023/</url>
+    <content><![CDATA[<blockquote>
+<p><img src="https://static.accupass.com/eventbanner/2307190333181588867086.jpg"></p>
+</blockquote>
+<blockquote>
+<p>本文由2023/7/28「115B實驗室」發起的【公民議題大家來討論】再生所得：實現未來世代社會進展的關鍵，摘錄整理。這次在2023年均優學習論壇中進行，分成兩個部分，第一個部分由115B實驗室介紹再生所得的基礎概念，第二部分則是由參與者一同討論再生所得實踐的各種想像。</p>
+</blockquote>
+<span id="more"></span>
+
+<hr>
+<h2 id="活動連結"><a href="#活動連結" class="headerlink" title="活動連結"></a>活動連結</h2><ul>
+<li>均優學習論壇頁面： <a href="http://quality-learning.net/2023/agenda/agendaCalendar.php?role=1&about=1">均優學習論壇2023</a></li>
+<li>線上參與者報名頁面：<a href="https://www.accupass.com/event/2307190241092102598852">【公民議題大家來討論】再生所得：實現未來世代社會進展的關鍵（均優學習論壇場次）</a></li>
+<li>討論區連結：<a href="https://join.skype.com/vW3qoOosG7Mg">本次系列活動Skype群組</a></li>
+<li>討論PPT下載：<a href="https://drive.google.com/file/d/1f2Z4HnbwC1ZOu_MjCiiElU4g9DS7XIoy/view?usp=sharing">PPT</a></li>
+<li>討論影片：<a href="https://fb.watch/m3iJr1XtUU/">紀錄連結</a></li>
+</ul>
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fsustainable.income.lab%2Fvideos%2F1342983482978930%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+<hr>
+<h2 id="目錄"><a href="#目錄" class="headerlink" title="目錄"></a>目錄</h2><ul>
+<li><a href="#%E6%B4%BB%E5%8B%95%E9%80%A3%E7%B5%90">活動連結</a></li>
+<li><a href="#%E7%9B%AE%E9%8C%84">目錄</a></li>
+<li><a href="#%E7%B0%A1%E4%BB%8B">簡介</a></li>
+<li><a href="#%E5%86%8D%E7%94%9F%E6%89%80%E5%BE%97%E7%B0%A1%E4%BB%8B">再生所得簡介</a><ul>
+<li><a href="#%E4%BB%80%E9%BA%BC%E6%98%AFRIDA">什麼是RIDA</a></li>
+<li><a href="#%E6%B0%B8%E7%BA%8C%E8%B4%8A%E5%8A%A9%E8%A8%88%E7%95%AB">永續贊助計畫</a></li>
+<li><a href="#ACIS%EF%BC%88%E6%93%B4%E5%A2%9E%E9%9B%86%E6%99%BA%E7%B3%BB%E7%B5%B1%EF%BC%89%EF%BC%9A%E5%9F%BA%E6%96%BC%E5%BF%83%E6%99%BA%E9%9C%80%E6%B1%82%E7%82%BA%E5%9F%BA%E7%A4%8E%E7%9A%84%E8%82%A1%E6%AC%8A%E8%AA%BF%E9%85%8D%E7%B3%BB%E7%B5%B1%E4%BD%9C%E7%82%BA%E5%86%8D%E7%94%9F%E6%89%80%E5%BE%97%E7%9A%84%E5%AF%A6%E8%B8%90%E6%96%B9%E6%A1%88">ACIS（擴增集智系統）：基於心智需求為基礎的股權調配系統作為再生所得的實踐方案</a></li>
+</ul>
+</li>
+<li><a href="#%E6%89%93%E9%96%8B%E5%86%8D%E7%94%9F%E6%89%80%E5%BE%97%E7%9A%84%E6%83%B3%E5%83%8F">打開再生所得的想像</a></li>
+<li><a href="#115B%E5%AF%A6%E9%A9%97%E5%AE%A4">115B實驗室簡介</a></li>
+<li><a href="#%E5%9C%98%E9%9A%8A%E8%81%AF%E7%B5%A1">團隊聯絡</a></li>
+</ul>
+<hr>
+<h2 id="簡介"><a href="#簡介" class="headerlink" title="簡介"></a>簡介</h2><p>「再生所得」是一個進步於永續保持現狀的概念，代表著能夠恢復、修復或重新生長的能力。它涉及到背後的環境、社會和經濟的協作，以實現可持續性和共享。</p>
+<p>115B實驗室的「公民議題大家來討論」，為綜合部分由115B實驗室介紹，部分由參與者發表倡議及討論的形式進行。每次討論會進行錄影分享於社群，供給社群參與者繼續討論使用。參加討論的參與者，皆可申請參與者NFT，作為參與討論共創的數位證書。</p>
+<p>本次的討論，在均優學習論壇中進行，時間為120分鐘，分為兩個階段</p>
+<ul>
+<li>分享再生所得的概念</li>
+<li>開放工作坊討論</li>
+</ul>
+<p>第一個階段，由115B實驗室的成員，為大家介紹了再生所得的基礎概念及想像，分為三個部分</p>
+<ol>
+<li>再生所得策進會（RIDA）簡介</li>
+<li>再生所得應用的想像：永續贊助計畫</li>
+<li>在生所得的實踐可能方式：基於心智需求為基礎的股權調配系統</li>
+</ol>
+<p>第二個階段的開放討論，則是邀請參與者分享對再生所得的想法和看法。</p>
+<hr>
+<h2 id="再生所得簡介"><a href="#再生所得簡介" class="headerlink" title="再生所得簡介"></a>再生所得簡介</h2><p>聽到「再生所得」一詞，您覺得是什麼？或想到什麼關鍵詞？</p>
+<p>本次討論前，線上報名者以及現場的參加者透過Slido分享「再生所得」一詞的關鍵詞聯想。可以看到大多人會想到「循環」一詞。除此有的想像是基於再生能源、循環經濟應用於經濟發展上，另外的角度，則是將所得再生。</p>
+<p><img src="/img/regenerate-income-quality-learning-2023/regenerative-income-keywords.png" alt="再生所得關鍵字"></p>
+<h3 id="什麼是RIDA"><a href="#什麼是RIDA" class="headerlink" title="什麼是RIDA"></a><center>什麼是RIDA</center></h3><p>「沒人能真正擁有，你只是幫下一代保管它罷了！」這句話是世界名表百達翡麗的格言。其實不僅是百達翡麗如此，萬事萬物也都是如此，我們不只是消費者而以，還同時是保管者、照顧者，我們有責任也有義務讓這些資源延續下去，再生不息。</p>
+<p>要設計一個循環、再生的經濟模式，必須在一開始便設計共同設計交換機制，每一樣物品都可以在使用者使用完畢後，透過次級市場再次交易到下一個使用者手中，再生發揮價值的同時也帶來所得。</p>
+<h4 id="再生所得-vs-傳統所得"><a href="#再生所得-vs-傳統所得" class="headerlink" title="再生所得 vs 傳統所得"></a>再生所得 vs 傳統所得</h4><ul>
+<li>方式<ul>
+<li>傳統所得：製造商品/服務，販售給消費者獲取所得</li>
+<li>再生所得：將現有的物資透過次級市場交易獲取所得</li>
+</ul>
+</li>
+<li>資源的使用<ul>
+<li>傳統所得：耗損多、容易因過度生產造成浪費</li>
+<li>再生所得：耗損小、只需摩擦成本與整修資源</li>
+</ul>
+</li>
+<li>對經濟的影響<ul>
+<li>傳統所得：帶來GDP成長</li>
+<li>再生所得：不列入GDP成長</li>
+</ul>
+</li>
+<li>觀念差異<ul>
+<li>傳統所得：消費者導向，消費才能帶動經濟成長看似變有錢了，實際可能是通膨或是消耗資源更多</li>
+<li>再生所得：再生循環導向，人人都有責任照顧好資源經濟不成長但社會卻更富足，跳脫一切向錢看的價值觀</li>
+</ul>
+</li>
+</ul>
+<h4 id="RIDA歷史"><a href="#RIDA歷史" class="headerlink" title="RIDA歷史"></a>RIDA歷史</h4><ul>
+<li>2006 - 中華投資環境策進會 - CIEIA。為了解決熱錢在金融市場流竄對社會帶來的負面影響，在過去10多年舉辦過各類型大小活動與講座，教育大眾正確的投資知識與心態。 後來創始團隊逐步理解，有價證券的買賣是一種二手資源的交換，透過次級市場的機制，能夠讓資源有效的重複使用。經過了數年的研究，整理出一個運作框架，並透過這樣的框架創造出再生所得。 </li>
+<li>023 - 重新改組成再生所得策進會(籌備處) - RIDA 將過去在投資環境的心得與經驗運用在經濟這個面向，讓社會認識不同的所得方式。</li>
+</ul>
+<h4 id="RIDA目前的計畫"><a href="#RIDA目前的計畫" class="headerlink" title="RIDA目前的計畫"></a>RIDA目前的計畫</h4><ul>
+<li>再生所得的教育推廣</li>
+<li>招募協作夥伴與會員</li>
+<li>與不同組織共同協作，設計符合的再生所得方案</li>
+<li>參與各類活動，研究再生所得的應用</li>
+</ul>
+<p>歡迎大家共同加入RIDA（<a href="https://docs.google.com/forms/d/e/1FAIpQLSf7KKN2b106BFtdNHK50B3wPGwbW0Z_NNeIT43JojsZ8RL0Tg/viewform">表單連結</a>）</p>
+<h3 id="永續贊助計畫"><a href="#永續贊助計畫" class="headerlink" title="永續贊助計畫"></a><center>永續贊助計畫</center></h3><p>前面提到了再生所得的概念，這邊提到了一個可能的應用場域。永續贊助計畫的發想，是觀察到公益組織的金流上的限制，目前主要依靠捐贈贊助而來，當因各種因素捐贈贊助受影響時，金流變得不可持續。</p>
+<p>對公益組織來說… 需要捐款人的持續性與數量級,才能支撐組織的發展。 然而據台灣公益責信協會報告指出,月入6萬以上的高 收入人群普遍才會選擇定期定額;台灣自律聯盟報告 則指出,數位化不定期不定額捐款仍占70%。</p>
+<p>則指出,數位化不定期不定額捐款仍占70%。 對捐款人來說… 想回饋社會的心,也會因為個人收入的變動經常 「有心無力」,給捐款一個永續的機會,助力個 人公益有更長遠的機會。</p>
+<p>永續贊助計畫的構想是，將已有贊助金流的「蓄水池」轉化為「細水長流」，永續的透過合理、穩健的方式讓「單向捐贈」變成自主「永續贊助」，符合「經世濟民」原則讓社會更加美好、善款善用，基於團結經濟學即透過互助合作的方式改善生活質量的生產生活模式。</p>
+<h4 id="現場討論"><a href="#現場討論" class="headerlink" title="現場討論"></a>現場討論</h4><ul>
+<li>討論：這個計畫是會由115B實驗室（RIDA籌備處）發起，然後去募集資金，並去使用分配嗎？<ul>
+<li>回應：目前這個部分115B希望不涉及募集及資金的處理，而是去輔助非營利機構將已有的資金去做利用。</li>
+<li>回應：這個計畫目前還處於很早期的意見收集階段，主要是討論一個非營利組織可否不需要持續靠捐贈、贊助得到金流，因為這樣會變得無法自主。會遇到像是這裡討論的，該不該將資金流向某一個組織再投票進行分配，如果這樣可能也會像原來一樣變得不自主。更好形式可以是每個非營利- 組織有自己自主的金流，但RIDA輔助去做自主再生使用。</li>
+<li>回應：在使用上可能會有許多問題需要去探討的，例如法規上的問題，不同非營利組織可以利用資金的限制有哪些。</li>
+<li>回應：這樣的概念，在過去有類似社會企業的概念，嘗試能幫助社會，又有一定的自主金流。然而營運上會遇到許多問題，例如變回傳統企業利益導向的問題，或是營運上的議題。永續贊助計畫希望找到另外一種方式，可以讓非營利組織資金持續自主的方式。</li>
+</ul>
+</li>
+<li>討論：我們有關注到在美國有類似新經濟聯盟NEC之類的組織，避免類似傳統非營利組織只能透過捐款的形式，而可以形成團結經濟的模式。</li>
+<li>討論：是不是最快解決這些問題的方式是透過修法？<ul>
+<li>回應：目前在115B實驗室的討論中，修法推動尚且還不在主要討論的範疇。也希望能跟不同非營利組織交流，去探討出可以有實質助益又能落地的方式。</li>
+</ul>
+</li>
+<li>討論：公益組織如果要有池子去做利用，是否需要去符合一些在環境等各個面向的正確使用？<ul>
+<li>回應：價值觀上，使用的過程也應該去符合一些永續再生的價值，例如資金的投入避免去碰觸石油、屠宰…等不具有可持續性的生產。</li>
+</ul>
+</li>
+</ul>
+<h3 id="ACIS（擴增集智系統）：基於心智需求為基礎的股權調配系統作為再生所得的實踐方案"><a href="#ACIS（擴增集智系統）：基於心智需求為基礎的股權調配系統作為再生所得的實踐方案" class="headerlink" title="ACIS（擴增集智系統）：基於心智需求為基礎的股權調配系統作為再生所得的實踐方案"></a><center>ACIS（擴增集智系統）：基於心智需求為基礎的股權調配系統作為再生所得的實踐方案</center></h3><p>前面討論到了再生所得的概念，以及可以有幫助的實踐場域。但在剛剛的討論中，也會發現不同的實踐方案，也會衍生的不同的議題。例如，如過再生所得的實踐過程，只能透過專業人士以基金的形式，會變得過於階級化，並且無法普及。像是永續贊助這樣的概念，有些金融領域也嘗試在進入公益單位，但會遇到金流變得只能流入一些知名的非營利團體，並且由金融壟斷式的操作，使得許多不同多樣需求所形成的非營利組織無法獲得這樣得到的好處。</p>
+<p>因此在實踐的過程，需要包含一些非中心化的方式，如同教育中去學校化概念的需要。這邊會介紹一種可以對於每個參與者都相對低門檻實踐的過程，利用既有的股權二手市場去獲得再生所得。這個概念有些像是在永續、再生等概念較火熱的現代，參與永續再生不代表需要透過大量的集資去建立再生，而可以是每個人從身邊的消費動作，都是一種投票這樣的概念。股權買賣，也可以透過小額的買賣，以投票精神去由傳統對立競爭的炒作，轉向去對再生有正向支持的股權買賣方式。</p>
+<p>這個體系是建立在一個概念，過度金融化造成經濟、社會、環境的惡化。其中，消費是經濟需求的核心，需要有一個方式使得經濟、社會、環境這樣的集體智能系統更好的協做。</p>
+<p>做法是</p>
+<ul>
+<li>幫助經濟增長，以需求堆動資源投入，取代投入推動需求。像是主婦聯盟合作社這樣的組織所做的，是因為有理性與感性的需求來生產，而不是金融商業的資源推動生產，造成過度的消費。<ul>
+<li>ACIS在股權的實踐上，會以需求堆動資源投入，取代投入推動需求 消費者理性及感性需求（購買力）/ 成本&gt;1 消費群需求增加&gt;0。</li>
+</ul>
+</li>
+<li>將社會資源活化，去除過度金融化。<ul>
+<li>ACIS的做法，將社會資源活化&amp;去除過度金融化二級市場熱度轉為擴增消費者群連結。</li>
+</ul>
+</li>
+<li>撤除對環境傷害之消耗性生產的投入。有些單位，例如350.org，透過撤除對石化燃料的資金投入，來幫助解決氣候變遷議題。<ul>
+<li>撤除對環境傷害之消耗性生產的投入，如石化、畜牧、菸酒、軍火、賭博、金融…等。</li>
+</ul>
+</li>
+</ul>
+<p>不同的組織，有不同的方式去推動上面的不同動作，我們也可以用股權調配的方式去進行再生所得。透過這樣可以在經濟面向獲得自主消費需求，給地球自然再生的時間，並且參與者可以得到激勵。</p>
+<p>這樣的POC的過程，優點是幫助的再生，然而目前也有難點，在於這部分對於參與個體的經濟提升的資料比較容易量化，但對再生的幫助，在參與者少時，需要一些想像。這像是前面提到的每一筆消費是一種投票。</p>
+<p>前面這樣的例子，是用在股權上面，但也可以用在不同的面向當中，也就是每個人的各種動作都可以透過個體的小力量參與。</p>
+<hr>
+<h2 id="打開再生所得的想像"><a href="#打開再生所得的想像" class="headerlink" title="打開再生所得的想像"></a>打開再生所得的想像</h2><p>在線上的活動報名中，有參與者填了一些對於在生所得的想像，以及想討論的問題。這次後面的時間較短，會以現場的大家分享討論為主，線上的討論則是做為參考使用。</p>
+<p><img src="/img/regenerate-income-quality-learning-2023/regenerative-income-imagination.png" alt="再生所得的想像"></p>
+<h3 id="現場參與者分享及討論"><a href="#現場參與者分享及討論" class="headerlink" title="現場參與者分享及討論"></a>現場參與者分享及討論</h3><ul>
+<li>分享：這個名字蠻新的，來聽了以後才有些了解，蠻喜歡這個概念。自己是在體制外教育長大，大學才到了體制內，剛大學畢業，在推動民主教育，不是公民教育，而是把民主、教育結合，明年會推動一個有30多年的國際民主教育年會在台灣舉辦。聽過一個以色列的團隊在做Educoin，利用學習資源串連的概念。像是前面ACIS提到的以需求投入資源，是由學習者有需求，去做串連城市、世界各地的資源，取代像是由學校先做出內容的傳統形式。使用Educoin獲得學習需求，也透過提供內容獲得Educoin。<ul>
+<li>回應：也蠻喜歡Educoin這樣的概念，像是從學校脫離雖然有社大這樣的組織，但其實有很多社會學習資源已經在了，可以把分散化的需求去把既有資源連結，是很棒的概念。</li>
+</ul>
+</li>
+<li>分享：也喜歡這樣的概念，還在學習，但想知道有沒有成功的案例。自己是護理師也是園藝治療師，之前有聽過有醫師提過社會處方籤的概念（一種非傳統的醫療處方形式，其中醫生或專業人士會推薦或開具一些社會活動或資源，以提升患者的健康和福祉。），但台灣實行遇到一個困難是，社會氛圍希望有低成本又高效的方式，這個氛圍是否也會對於發展再生所得不利？<ul>
+<li>回應：聽到醫學，會想到有圈子在講再生醫學，不透過藥物等高效的形式，而是透過一些自然療法使人自己修復。這樣的圈子的確是比較小，需要一群人共學，曼滿打開大家的想像。另外一個部分，醫學在其專業也有其需要之處，不單純就是僅為了高效。如果在考慮個人的效率時，有時就會忘記再生所得這樣的概念需要。好在是，台灣開始有更多這種不追求由上至下、效率至上的討論在成行，例如均優學習論壇這種在教育上不透過少數人快速制定政策，而是由下至上。</li>
+<li>回應：在很早時曾加入金融業，當時很少人能理解這些需要非由效率至上的概念，然而可以看到社會在轉型。現在年輕人會在很早就開始去思考未來、社會的變化。可能因為是像是每個人有感受的氣候變遷議題，讓再生能源推進。再生議題上面，應該需要分散式的發展，就以再生能源來說，台灣過去幾年一直由政府由上至下推動，變成有利可圖為考量，而失效。因此再生所得需要先轉變大家的思想，真的讓大家改變過去金融高效、有利可圖。現在社會氛圍、國際互聯網，也加速的各地的交流，以及各種工具加速了不同領域間的交流。</li>
+</ul>
+</li>
+<li>分享：之前沒有聽過再生所得的概念，就自身來說，曾經在補教界很早便規劃了退休，由於接觸了自學生，自己也開始自學以及共學。自己已經超過50歲，也共學實踐青銀共創。以前的同學在金融業，開始做些量化交易。久了以後也在思考裡面有許多負和遊戲，該如何轉變將資源投向對實體經濟有幫助的部分。自己會關注社宅等議題，但也有朋友認為買房子是為了賺錢。這些朋友有不同的面向，從學生時代便在一起，但可以看到隨社會參與的變化。也有同學當教授，研究波浪，把這些融入，希望有人可以幫自己聚焦。慢慢在理解再生所得這件事。<ul>
+<li>回應：從個人的需求、退休、再到金融，會關注個人議題，然而在最後也會持續思考這樣是否對背後實體經濟有幫助。再生所得，也跟這樣的過渡很像，有「所得」這兩個字，代表著這不是一個鄉愿是的只考慮環境社會，但在有再生，去了解小我和大我間的橋樑。過程中，有些動作不容易區分，需要一群人共學、去產生想像。有個難點，對個人的所得很能見到變化，但對於社會環境的再生，不這麼直接，需要透過共學去想像。</li>
+</ul>
+</li>
+<li>分享：這一兩年接觸了些循環經濟、再生等概念，感覺年輕人對物質的需求可能比有社會歷練的人還來得重。會想要更多錢、找到更好的工作，比較不太能想到要去再生。<ul>
+<li>回應：可以理解這個問題，有些像是前面提到金融話對經濟影響的過程，在經濟的初始，透過金融化的確有部分幫助，然而隨著時間，發現反而形成反作用。</li>
+<li>回應：這或許跟整個社會經濟的機制設計有關，一開始便沒考慮再生，而是以消費導向。社會先要有些聲音，讓各種機制、製造有考量。像是有廣告討論了沒有標籤、包裝的寶特瓶，在現在變成消費者被訓練成要看到花俏的包裝。未來會需要一些轉型，像是不用過度包裝，甚至像是環保杯。再生所得，有所得這兩個字，很重要的一點是，這樣的參與對個人也是有正向反饋。像是買房，造成更多買房，引發社會分化。參與在這個機制體系的人，也被影響。對話的產生、互相理解才會幫助改變，慢慢推動例如政府的改變、機制的改變。不應該去透過打倒既有，而是去產生對話，否則打倒人的群體可能會變得孤立，或變成另一種壟斷。</li>
+</ul>
+</li>
+<li>分享：有朋友置許多田地，租給企業等單位，但越來越難。詢問過朋友是否願意交給政府包租代管等等形式，以及一些能夠幫忙社宅活躍的單位，去串連，同時解決每個個體的困境。社宅是否不要全部透過補助，可以有資金池，自主的經濟，也變得很重要。像是青創戶，不用參加抽籤，但租金並沒有真的被減免，並且要求要做許多活動，政府也沒有投入許多資源，變成變相的壓力。在思考，這些青創戶做的事，可不可以變成經濟行為，產生類似斜槓。如果時間到了不可以繼續住，可以居住在附近，把原來的技能變成對這個社區的持續經濟服務。像是前面提到的Educoin，也可以有類似這樣的社區貨幣去連結這樣的人群，甚至像自學生，這樣這群年輕人不用被持續推向前面提到以效率為導向、過度消費的經濟體系。<ul>
+<li>回應：自己也是自學生，發現教師其實害怕學生一直問問題，破壞既有的流程。最後變成在學校的圖書館自學。<ul>
+<li>回應：現在台北也開始有一千多位學生，有體制內的自學，這些學生不需要強制性待教室，但在不同的處室內學習。</li>
+</ul>
+</li>
+<li>回應：傳統教育體系，變成有上至下，避免脫隊。<ul>
+<li>回應：過去的教室，裡面變得很安靜，但現在也不需要再回到這些。</li>
+</ul>
+</li>
+<li>回應：這幾年比較常聽到自學，有同事是一週有幾天要去學校，但大多是在家自學，這樣的概念也讓許多人接觸到這些概念，不會只是單純排斥，而是可以思考。</li>
+</ul>
+</li>
+<li>分享：像是社宅中的共學、唱歌、運動這些共學都開始有，但走入經濟，像社區貨幣等，需要一些沙盒實驗的存在。<ul>
+<li>回應：像在的確看到在技術及法律，有些沙盒的出現。能不能做起來，還是在於這些需求是否存在，串連。也就是對話的存在非常的重要，就像在菜市場買菜，不是僅有價格考量，還有對話。<ul>
+<li>回應：有做過類似的，把它叫做深夜食堂，讓大家討論真的需要的，這樣便不會造成過度消費。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>分享：接納所有人的 工作型農場，因為自己有在做園藝治療。在想是不是可以將生態農場的茶包，送進企業的茶水間，另外也讓員工到農場進行參訪學習。這樣的模式，是否可以變成ESG點數，吸引企業購買。<ul>
+<li>回應：變成點數的部分，如果與碳揭露有關，可能接受度會提升些。但ESG目前主要是專注能源，商品的部分也會連接到再生能源等。另外一個部分是關於社會貢獻的部分，也有，但相對少一些。<ul>
+<li>回應：有朋友說ESG對企業是小錢，對企業的吸引力在於是否能幫其賺錢。</li>
+</ul>
+</li>
+<li>回應：會想到的是，這除了ESG以外，是否有其它真實的需求，ESG應該是作為輔助而已。以這些茶葉，如果是給員工或客戶，這些茶葉是否是這些用戶需要的也應該是主軸。</li>
+</ul>
+</li>
+</ul>
+<hr>
+<p>小結：</p>
+<p>本次的討論中，第一部分介紹了再生所得的基本概念、有幫助場景的想像、可實踐的方式。</p>
+<ul>
+<li>再生所得策進會（RIDA）簡介</li>
+<li>再生所得應用的想像：永續贊助計畫</li>
+<li>在生所得的實踐可能方式：基於心智需求為基礎的股權調配系統</li>
+</ul>
+<p>在第二個部分，由現場參與者討論對再生所得的想像。</p>
+<p>大家對於這個概念表示陌生，但也認為新奇，喜歡。</p>
+<p>其中，有參加者提到了以色列的Educoin案例，這個概念利用學習資源串連的方式，讓學習者可以透過提供內容和獲得學習需求的互相交換來獲得Educoin。大家都對這樣的創新概念感到興趣，認為這有助於將教育和學習資源更加開放和民主化。</p>
+<p>另外，討論中也涉及到對於社宅、自學、共學等議題的討論。大家關心社宅如何發展成更持續的經濟活動，以及如何利用共學和社區貨幣等方式來連結社區中的人群，推動社會和經濟的改變。自學和共學在討論中也得到讚揚，這些方式讓學習更經濟自主和有彈性。</p>
+<p>在討論中也有涉及到ESG（環境、社會和公司治理）的話題，大家討論了ESG在企業吸引力上的作用。有人認為ESG在一定程度上能吸引企業，但更重要的是要滿足用戶真正的需求，而不僅僅是符合ESG指標。</p>
+<p>對於再生所得推進的困難，有參加者從社會處方籤與開藥的比對，效率導向的社會氛圍，造成了這些概念的推廣困難。另外社會新鮮人也因為身邊的消費主義，被推向金錢導向的生活、工作方式。</p>
+<p>整個討論中，大家強調了對話的重要性，透過對話讓人們共同理解和推動再生所得的目標。我們意識到再生所得不僅僅是一個環境和社會的議題，更是涉及到經濟體系和個人所得的關聯，需要共同努力和共學的方式來想像和推動。</p>
+<p>最後，我們也討論到了社會的轉型和思想的改變對於再生所得的重要性。一些成熟的概念和做法可能需要改變，才能真正實現再生所得的目標。這次討論為我們提供了一個思考的平台，讓我們更加了解再生所得這個議題，並希望我們能繼續保持對話，推動這個有意義的概念的發展。</p>
+<hr>
+<h2 id="115B實驗室"><a href="#115B實驗室" class="headerlink" title="115B實驗室"></a>115B實驗室</h2><p>「115B實驗室」是由「嘉鼎智能團隊」，呼應社會團結經濟浪潮而成立，主要在協助個體、或組織，運用國際股市連結全球社會經濟的人心智能，增強本身經濟實力；並在過程中融合永續進展的理念，追求經濟、社會、環境各方面的均衡進步發展，尤其經濟上要符合（經世濟民）道理。</p>
+<hr>
+<h2 id="【RIDA-再生所得促進協會會員招募】"><a href="#【RIDA-再生所得促進協會會員招募】" class="headerlink" title="【RIDA-再生所得促進協會會員招募】"></a>【RIDA-再生所得促進協會會員招募】</h2><p>現今的經濟制度過度強調個體競爭和利益追求，忽略了團結經濟和社會再生的重要性。這種制度分配資源的方式雖然強調效率，卻忽視了公平正義、社群凝聚力和環境永續的價值。然而，經濟的發展可以擁有更多元、更具共融性的路徑。RIDA 再生所得策進會提倡著以團結經濟和社會再生的概念，重新定義經濟發展的目標，並以此來取代尋租、掠奪和零和博弈的方式。</p>
+<p>在這樣的背景下，RIDA致力於協助弱勢群體創造持續的收入機會。許多群體面臨著收入無法持續的困境，他們過度仰賴社會的慷慨捐助才能維持營運，而政府資源的有限性無法滿足迫切的需求。因此，我們需要重新思考，以團結經濟和社會再生的概念來尋找解決方案。可參考RIDA提倡的永續贊助計畫。</p>
+<p>RIDA深信，經濟的發展應該建立在團結共融的基礎上，同時注重環境永續和社會正義。我們提倡將再生的理念應用於經濟運作，善用資源並重視資源的再利用和循環利用。這種轉變不僅有助於改善個體的生活，更能促進社區的繁榮和生態的恢復。</p>
+<p>RIDA目前正積極擴大招募，我們誠摯地邀請社會各界的人士共同參與，攜手創建一個基於團結經濟和社會再生概念的經濟體系。不論您是經濟學家、社會工作者、創業家，抑或對經濟學和社會再生有濃厚興趣的人士，我們都歡迎您加入我們的行列。透過集思廣益，我們將共同探索創新的經濟模式，促進社會的共融，實現經濟和社會的再生。</p>
+<p>在RIDA您將有機會與一群志同道合的人共事，為實現團結經濟和社會再生的目標做出重要貢獻。讓我們攜手協作，共同創建一個更公平、更可持續且更具共融性的經濟體系，為當代和未來的世代塑造更美好的明天。</p>
+<p>Join RIDA Now !!!</p>
+<p>👉 <a href="https://pse.is/4zj3ae">https://pse.is/4zj3ae</a></p>
+<p><img src="/img/rida/rida-recluting.jpeg" alt="RIDA招募"></p>
+<hr>
+<h2 id="團隊聯絡"><a href="#團隊聯絡" class="headerlink" title="團隊聯絡"></a>團隊聯絡</h2><h3 id="加入團隊"><a href="#加入團隊" class="headerlink" title="加入團隊"></a>加入團隊</h3><p><a href="https://www.104.com.tw/company/10zcirfc">104 (嘉鼎智能｜115B實驗室)</a></p>
+<h3 id="社群媒體"><a href="#社群媒體" class="headerlink" title="社群媒體"></a>社群媒體</h3><p>歡迎加入我們的LINE社群一同推廣永續所得倡議</p>
+<blockquote>
+<p>👉 &emsp; <a href="https://line.me/ti/g2/Yn9r9XlbjJjhjppxjyzmbQ"> 115B實驗室 LINE 社群</a></p>
+<p>👉 &emsp; <a href="https://www.facebook.com/sustainable.income.lab">115B實驗室 FB</a></p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>公民議題大家來討論</category>
+      </categories>
+      <tags>
+        <tag>115B實驗室</tag>
+        <tag>集體智能</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【公民議題大家來討論｜選擇權利自主Ｘ永續發展】｜活動筆記</title>
     <url>/right-to-choose/</url>
     <content><![CDATA[<blockquote>
@@ -5056,215 +5491,6 @@
 ]]></content>
       <tags>
         <tag>去金融化</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>團結與社會支持</title>
-    <url>/Solidarity-and-Social-Support/</url>
-    <content><![CDATA[<blockquote>
-<p><img src="/img/Solidarity-and-Social-Support/Solidarity-and-Social-Support.png" alt="Solidarity and Social Support"></p>
-</blockquote>
-<blockquote>
-<p>【關於這篇文章】<br>本篇為團結經濟學一書之第四章摘錄及討論。文章深入探討社會支持的重新建構，傳統社會安全網只針對那些被證明有需要的人才提供援助、其他不符合規則者被排除。</p>
-<p>為確保每個人都能有資源追求有意義的生活，重新考慮社會安全網的建構是必要的。本文探討了透過採取“社會工資”方法，以獎勵社會對創新和繁榮的集體貢獻，而不是僅為那些被證明有需要的人提供援助，以及政府如何成為此類努力的提供者和推動者，來促進社會團結和支持。研究表明，採取此類投資不僅可以節省巨大的經濟成本，還可以擴大繁榮。</p>
-<p>本章可獨立閱讀，亦可先讀完<a href="https://sustainable-income-lab.github.io/Solidarity-Economics-Introduction/">團結經濟學簡介</a>，了解全書的架構，再進行研讀，或是與不同章節進行比對。</p>
-</blockquote>
-<span id="more"></span>
-
-<hr>
-<h2 id="書本資料"><a href="#書本資料" class="headerlink" title="書本資料"></a>書本資料</h2><ul>
-<li>全書資料：<ul>
-<li><a href="https://sustainable-income-lab.github.io/Solidarity-Economics-Introduction/">團結經濟學簡介</a></li>
-</ul>
-</li>
-<li>作者：<ul>
-<li><a href="https://sociology.ucsc.edu/about/directory-faculty.php?uid=cbenner">Chris Benner</a></li>
-<li><a href="https://dornsife.usc.edu/eri/manuel-pastor/">Manuel Pastor</a></li>
-</ul>
-</li>
-<li>關於本書：<ul>
-<li><a href="https://solidarityeconomics.org/se-book/">About the Book</a></li>
-</ul>
-</li>
-<li>本章讀書會討論脈絡：<ul>
-<li><a href="https://docs.google.com/document/d/1XQIxNzQqvtIhQjELkavodvcBbezbKO7B06Lk6GCI3kw/edit?usp=sharing">歡迎填寫評論</a></li>
-</ul>
-</li>
-</ul>
-<hr>
-<h2 id="目錄"><a href="#目錄" class="headerlink" title="目錄"></a>目錄</h2><ul>
-<li><a href="#%E6%9B%B8%E6%9C%AC%E8%B3%87%E6%96%99">書本資料</a></li>
-<li><a href="#%E7%9B%AE%E9%8C%84">目錄</a></li>
-<li><a href="#%E5%89%8D%E8%A8%80">前言</a></li>
-<li><a href="#A-Right-to-Wealth">A Right to Wealth</a><ul>
-<li><a href="#Building-Wealth-for-the-Many">Building Wealth for the Many</a></li>
-<li><a href="#The-Solidarity-Dividend">The Solidarity Dividend</a></li>
-<li><a href="#Jobs-for-All">Jobs for All</a></li>
-</ul>
-</li>
-<li><a href="#A-Right-to-Shelter">A Right to Shelter</a><ul>
-<li><a href="#Expand-Rental-Units-and-Support">Expand Rental Units and Support</a></li>
-<li><a href="#Expand-Social-Housing">Expand Social Housing</a></li>
-<li><a href="#A-Place-to-Stay">A Place to Stay</a></li>
-</ul>
-</li>
-<li><a href="#A-Right-to-Health">A Right to Health</a><ul>
-<li><a href="#Insuring-Everyone">Insuring Everyone</a></li>
-<li><a href="#Investing-in-Public-Health">Investing in Public Health</a></li>
-<li><a href="#Prioritizing-Our-Environment">Prioritizing Our Environment</a></li>
-</ul>
-</li>
-<li><a href="#Choosing-Solidarity">Choosing Solidarity</a></li>
-<li><a href="#%E5%9C%98%E7%B5%90%E7%B6%93%E6%BF%9F%E5%AD%B8%E7%B0%A1%E4%BB%8B%E5%8F%8A%E9%96%B1%E8%AE%80%E6%94%BB%E7%95%A5">團結經濟學簡介及閱讀攻略</a></li>
-<li><a href="#115B%E5%AF%A6%E9%A9%97%E5%AE%A4">115B實驗室</a></li>
-</ul>
-<hr>
-<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>Solidarity and Social Support</p>
-<p>Lilla Watson, 是 Murri （澳大利亞土著）的視覺藝術家、活動家和學者。海報團體的成員和她聯繫想確認引用以下的訊息。Lilla Watson給出了一個出乎意料的答案。她並沒有聲稱個人名義，而是指出來自於 1970 年代昆士蘭原住民權利組織工作的一部分，也不確定這些詞是如何只歸於她的，並明確表示它“來自的集體過程。”</p>
-<p>If you have come here to help me, you are wasting your time. But if you have come because your liberation is bound up with mine, then let us work together.<br>如果你來是為了幫助我，那你是在浪費時間。但如果是因為你的解脫 (liberation) 與我的結合在一起，那就讓我們一起努力。一語道出她對於傳統社會福利的看法。</p>
-<p>她曾寫出：“200 年來，澳大利亞的原住民一直接受西歐的福利概念，但這並沒有增加我們生活體驗。” 她堅持認為，我們不僅要重新思考知識是集體而非個人所產生的。而且還要重新思考如何提供援助，應該是以團結的形式而不是慈善行為。</p>
-<blockquote>
-<p>這會想到之前聽到幾位社工領域的人，提到社會工作的思想，已經從過去的「幫助他人」，轉向為「陪伴、一同」。</p>
-<p>這背後有幾層意義，一個是不要一昧的說去幫助他人，而其實並非對方要的幫助。而是先與對方達成共感，再在同一面向。<br>另外一層是，公益式的的思維，可能造成的社會不公平性。當幫助是透過公益，意味著需要類似大企業來捐贈，最後陷入了權力、資源分配集中在菁英的思維，又再次加劇了不公平性。</p>
-</blockquote>
-<p>新自由主義認為每個人的要靠自己，標榜著 “個人責任”。 “安全網” 似乎表示你陷入了艱難時期，而不是因結構性種族主義、父權制度和剝削而被迫陷入困境。你需要的是慈善機構的施捨，而不是彼此相互依存的伸出援手。這個觀念似乎比 UBI 晤談時提到的無條件基本收入觀念有深遠的意涵，是因為彼此團結在一起形成相互依存的共同體，不是不管任何緣由的給予。</p>
-<p>如果我們從團結的前提下設計社會福利系統 (social support systems)，而不是慈善會是如何？可以看到我們的經濟依賴知識和自然資源的集體繼承，每個人都以某種方式為我們的經濟做出貢獻。也會意識到社會上的每個人都得到照顧，實際上對所有人都有幫助。也會認清阻礙成功的結構性障礙，並且為消除這些障礙而奮鬥。</p>
-<p>作者認為要實現目標的作法是改變我們的用語，並且將社會福利的架構轉變為 “社會工資” (social wage) 的架構。“社會工資” 是指為生產活動做出貢獻的報酬，包括傳統無償的家務、社區和護理工作。也包含挪用或使用我們的集體經濟資產應該獲得合理補償。社會工資包括確保滿足基本需求，從三個方面為最弱勢群體提供支持：收入和資產、住房以及健康。</p>
-<blockquote>
-<p>回顧一下，作者對第四章內容的提示：<br>We think one way to get there would be to shift our language – and policy – around social support from a frame based on social welfare to one based on a social wage. The term “social wage” means remuneration for contributing to productive activity, including for traditionally unpaid domestic, community, and care work. And while that understanding is the rightful product of the intellectual and organizing work of feminist scholars and activists, there is another dimension of the term that is critical. In our view, a social wage also recognizes that everyone should be compensated for the appropriation or use of our collective economic assets, such as the inherited environmental and knowledge commons.</p>
-<p>As such, our use of the term is not so much about a particular mix of government policies – a guaranteed minimum income payment, universal health insurance, or free education. Rather, it is about mutuality – that is, a conceptual shift away from viewing welfare as a subsidy or a temporary remedy and toward seeing the sharing of abundance as a form of mutual investment in our collective well-being at all levels of society. And while the term “wage” may conjure up the idea that we think rewards should only accrue to those who labor, recall that we have defined labor broadly and that we have insisted that reward from the commons should accrue to all. We are, by using “social wage,” trying to redefine what it means to contribute and to earn – and to extend that right to create and survive to all.</p>
-<p>A social wage framework is important for another reason. As we have stressed earlier (and return to more directly in chapter 6), solidarity has two faces: one the sort of cooperative collaboration that protects the commons and leads to better outcomes, and the other the banding together of workers and communities against the corporations that often seek to privately appropriate what is rightfully all of ours. By providing a basic cushion, a social wage not only protects against shocks, it levels the playing field of bargaining power by ensuring that one’s backup position is not a free fall into economic despair.</p>
-<p>Finally, a social wage can be in cash, but can also include other mechanisms to ensure that basic needs are met (such as providing social housing or ensuring public health). Below, we consider what a social wage might look like in three specific aspects of providing support to both the most vulnerable and those due reparations for systems of exploitation: income and assets, housing and shelter, and health and well-being. In each case, we explore how to reward everyone for our collective contributions to prosperity and to guarantee that we’re taking care of all.</p>
-<p>無論是對於生產活動的貢獻，包括傳統上不計酬勞的居家事務、社區服務、及照護工作；同時也針對集體的經濟資產，例如所繼承的環境及知識公共財，在分配或使用上，每個人也都應該有相對應的工資求償權利。</p>
-<p>因此作者認為社會工資，與公共政策中的最低基本工資、全民健保、及國民教育，並沒有什麼關連，也就是與急難救助、或短期紓困等社會福利的概念，是截然不同的取向。主要是基於對集體福祉的共同投入與互助精神，若有豐碩成果再一起共享。而透過社會工資，作者們嘗試去重新定義，「提供貢獻」、以及「賺取所得」的真正意涵，並且延伸到所有人在創造、及生存上的權利。</p>
-<p>有關社會工資論述架構的重要性，另外還有一個理由，如作者之前強調、以及第六章內容將說明的，團結經濟有兩大面向：一是合作協力保護共有財產，追求更好的產出成果；另一個則是讓勞工及社區團隊集結起來，對抗企業將原應屬於大家的利益、據為私用。社會工資起了基本的緩衝作用，不但在突然暴發的危機中，能提供一定保護機制；而且也賦予所有人對等談判的能力，確保了退路，而不致墜入經濟的絕望深淵中。</p>
-<p>最後談到社會工資的形式，可以是現金，但也包括其他確保基本需求能夠達成的機制：例如提供社會住宅、或落實全民健保等。因此本章後面的內容，就是作者所構思，社會工資在三個特定層面（所得及資產、住屋及蔽護、健康及福祉），對極端弱勢族群、以及試圖向系統性剝削加以追討者，所提供支持的可能樣貌。針對每一層面，去探討如何讓每個人，共享對集體繁榮所貢獻的成果，以及確保大家獲得全面性的照護。</p>
-</blockquote>
-<p>社會支持 social support 由社會福利 (social welfare) 的概念轉換到社會工資 (social wage)，在文字的背後意味著根本看法的改變。社會福利主要源自於慈善助人的精神，出自於憐憫。也就是如同以前讀到的 《禮記‧禮運‧大同篇》：「故人不獨親其親，不獨子其子。使老有所終，壯有所用，幼有所長，矜寡孤獨廢疾者皆有所養。」的體現。 社會工資則是表示每個人都有權利因為無償的付出，或是集體的經濟資產而正當的獲得補償。兩者意義相差甚遠。</p>
-<blockquote>
-<p>裡面提到，用「工資」一詞，可能一般人會想到勞力，但這裡可以是更廣義的勞力。但主要在於，有貢獻而有所獲得。公有的貢獻所得，應該共同享有。<br>回到這裡看健康，可以看到其並非單純個人努力造成，而是因為社會不公平性。<br>『族裔在暴露於高風險環境、過度擁擠，以及合併症的情況』與前面提到的居住，也息息相關。然而，公有的貢獻所得，在過去並未被直接認為由大眾（包含弱勢族群）所有，而被認為在於少數資本家所有。並以公益的方式，部分施捨給弱勢族群。</p>
-<p>如何評判某種產出是什麼造成貢獻？<br>所以造成資本家認為是資本對成果的貢獻。有的認為是人的貢獻。而這邊可能是歸為某種更廣泛的「勞力」的貢獻。</p>
-<p>然而，公有的貢獻所得，在過去並未被直接認為由大眾（包含弱勢族群）所有，而被認為在於少數資本家所有。 </p>
-<p>這部分應該也與之前第三章提到的”經濟租”(economic rents)息息相關，少數資本家攫取了大部分的超額利潤，但透過租稅或捐贈重新回到系統的卻相對少到不成比例。這面向與其說是分配不均，或許更接近於公共產出的涵蓋不均；有人可獲得大多數好處，但更多人是完全沒有機會接觸到</p>
-</blockquote>
-<p>當目前不公平社會架構背後的思維徹底改變，才能扭轉目前貧富懸殊的現象。深入了解共同擁有文化智能資產，以及認知對我們的經濟投入無償的貢獻也應該獲得相對應的報酬…等觀念，才能設計出符合團結經濟精神的系統。</p>
-<hr>
-<h2 id="A-Right-to-Wealth"><a href="#A-Right-to-Wealth" class="headerlink" title="A Right to Wealth"></a>A Right to Wealth</h2><p>對經濟困難的研究發現，在2018 年，美國有42% 的家庭買不起住房、兒童保育、食品、交通、醫療保健、智能手機和稅收等基本生活所需。COVID-19疫情大流行所導致的經濟壓力，可能使狀況更加惡化。</p>
-<p>僅兒童貧困就使美國經濟產出每年減少 4% -5%，主要是由於醫療成本增加、犯罪成本增加和經濟生產力下降。</p>
-<h3 id="Building-Wealth-for-the-Many"><a href="#Building-Wealth-for-the-Many" class="headerlink" title="Building Wealth for the Many"></a>Building Wealth for the Many</h3><p>為大眾創造財富</p>
-<p>忽視貧困的代價造成整體經濟的巨大損失。新自由主義只是讓人們自行解決問題，從事任何所能找到的工作，以及薪資來解決問題。社會福利主要是在危急時刻提供援助，但是必須經過經濟狀況調查之後才會提供幫助。而 UBI 希望能夠不需要經過調查就能提供協助。</p>
-<p>用團結的角度去思考，如果我們經濟中產生的財富部分是集體產生的，或集體繼承而來，那麼將部分財富投資於維持每個人的生活是應當的，這不是一種慈善，而是一種團結行為。</p>
-<p>確保財富和安全基礎，符合我們的共同利益。可以使家庭擺脫貧困的最低收入，並獲得有意義的工作。這可以給予人們可以有能力共同戮力對抗不平等的結構。</p>
-<blockquote>
-<p><a href="https://pansci.asia/archives/355950">【2022 年搞笑諾貝爾經濟獎】不想努力的我，把運氣點滿就對了</a> ，這篇文章裡面提到運氣，但後面有說明補助的幾種差異跟可能結論。</p>
-<p>所以如果要看政府錢有沒有花在刀口上，要看的是「每花一塊錢，可以增加多少高能力族群的成功率？」也就是「效率＝（補助後成功率—補助前成功率）÷ 政府總預算」。用這個方式比的話，那個方案是第一名？</p>
-<p>答案可能讓你跌破眼鏡，是最簡單的「每次每人補助 1 元」！總共花 8000 元，可以讓成功率提升到 69.48%，提升了 37.43%。</p>
-<p>表現最差的是「表現前 10% 的發 20 元，其他人 0」這個極端的菁英主義方式，它的效率只有前者的 1／25，花了兩倍的 16000元，只提升了 2.93%，成為 34.98%。</p>
-<p>事實上，所有的「菁英主義」式的補助，幾乎都是表現最差的。 </p>
-</blockquote>
-<p>經濟學家 Darrick Hamilton 和 William “Sandy” Darity Jr. 建議在每個孩子出生時提供一個信託賬戶，讓父母和家庭成員有機會為新生兒增加資產。在 18 歲時就可以使用這些資金，這些資金可以用於高等教育，也可以用於購買房屋或創業。</p>
-<p>這樣的計劃預期能縮小種族貧富差距並改善整體結果。哥倫比亞大學 Naomi Zewde 的研究模擬了 Hamilton 和 Darity 所設想的實施的程序及運作方法。模擬嬰兒債券計劃的結果顯示: 如果沒有嬰兒債券計劃，年輕白人的財富中位數是年輕非洲裔美國人的 16 倍，但如果有嬰兒債券計劃，則差距下降到 1.4 倍。我們都互相關心時，我們都會做得更好。如此能夠和菁英主義式的補助做一比較。</p>
-<blockquote>
-<p>不過「嬰兒債券」，還是摻雜了資本主義裡用以尋租的金融工具，若能以擴增集智系統為基礎的心智元來取代，應該是更符合團結互助的意義，同時具備能量開源的特性，才能為其提供面對未來的動能。</p>
-</blockquote>
-<h3 id="The-Solidarity-Dividend"><a href="#The-Solidarity-Dividend" class="headerlink" title="The Solidarity Dividend"></a>The Solidarity Dividend</h3><p>作者所提到的「嬰兒債券」出發點是以團結股利 (Solidarity Dividend) 想法，既然財富由集體產生，因此將其中一部分進行再投資，以期每個人自的人生，都有體面的開始。但若是摻雜了尋租的金融工具就不是很理想。這些方案原本就應當由群體智能產生的創新過程。</p>
-<blockquote>
-<p>這似乎與UBI的問題很像，如果只是想著每個人要分享固定的收入，而不關注收入的來源。<br>就形成了全民尋租的狀況。</p>
-</blockquote>
-<p>這似乎也點出一個慣見的問題，不管是UBI 、社會安全網，或是嬰兒債券，目標並不應只是提供保證支付或是補償，而是集體所產生的財富要以有意義的方式來將他們的創造力貢獻給公共財，形成良性的循環。</p>
-<p>作者舉出 “團結股利” 的例子，以石油為基礎的阿拉斯加永久基金，自 1982 年以來一直向每位阿拉斯加居民支付紅利。 或許這種金融工具的作法，應該是有改進的餘地。 而UBI 是來自公共財富的回報，即”社會工資”的一種。</p>
-<p>“團結股利” 的資金來源可能是財富稅，或是來自於公共投資、消費者數據和植根於文化和社會生活的創新所產生的財富。其思想的框架為: 所有人都應該從集體繼承的科學知識和公眾部門對重大新技術投資產生的收入獲得定期付款。</p>
-<p>文中提到團結股利與無條件基本收入的差異不在於金額多寡，而在於對其認定的框架 - 不是”給予”的”補償”，而是對”公共收入”的”共享”。</p>
-<h3 id="Jobs-for-All"><a href="#Jobs-for-All" class="headerlink" title="Jobs for All"></a>Jobs for All</h3><p>雖然 “嬰兒債券” 和 “團結股利” 有助於解決陷入貧困者的收入差距，但是卻欠缺工作連結和工作激勵。<br>為了解決以上的問題，由政府所提供的工作保障似乎是一項不錯的選項。政府提供公共社區長期以來被忽略的工作需求，並相對地給予足夠生活所需的薪資。這類的計畫配合經濟的興衰週期而有所調整。當經濟衰退時就會擴張，反之亦然。</p>
-<p>如此的就業保障計畫有助於穩定商業的週期循環，增加有就業需求的人力可以滿足關鍵社區公共所需，隨著經濟復甦，這些人力將會轉移到收入更高的私人企業。</p>
-<p>在過去美國歷史中就曾經制定一系列聯邦政府贊助的就業計劃，例如羅斯福總統 1945 年發起全面就業法案 (Full Employment Bill )。計劃的直接成本大約為 GDP 的 2-3%，但也因此減少社會福利的支出，而且增加經濟和稅收收入，使得整體經濟得以提升。這似乎也應驗了團結經濟的精神。</p>
-<blockquote>
-<p>的確，UBI的志工代表Tim也說過，他們也在試圖模擬測試把UBI移植和落實到台灣社會，這裡面的重點並非是金額的多少，而是推動大眾產生普遍認同感後，同意用UBI來取代其原本的其他政府設計的社會救濟金，這樣也就不存在要求納稅人額外“多切蛋糕“的狀況。</p>
-<p>裡面也提到團結股利並不是要完全取代收入，用意是要提供一些額外的收入保障，可能有助於緩解勞動市場版圖的變化所造成的壓力 (ex.典範移轉造成的衝擊)，同時提高受薪階級的議價能力。而若團結股利的主要來源是來自對科技發展和創新產生的利潤徵稅，附帶效應是去平衡掉大型科技公司目前從壟斷市場和贏家通吃中攫取的不公平特權。</p>
-<p>沒錯，在UBI的提案和研究中講到的漸進式方案和他們協會正在踐行的也是也是致力於作為一個option，而並非目的在於完全取代收入的</p>
-</blockquote>
-<hr>
-<h2 id="A-Right-to-Shelter"><a href="#A-Right-to-Shelter" class="headerlink" title="A Right to Shelter"></a>A Right to Shelter</h2><p>居住的權力</p>
-<p>住屋的權利包含在世界人權宣言中，是屬於最低生活保障權的一部份。<br>2020年哈佛大學住房研究聯合中心發布的美國住房狀況報告指出，超過 30% 的美國家庭有住房成本負擔問題，亦即花費超過收入的 30%。</p>
-<p>大約半數的租房者有成本負擔，其中1/4的人超過 50% 的收入用於住房。不意外的這些統計數字顯示出種族差異——43% 的黑人家庭和 40% 的拉丁裔家庭有成本負擔，而白人只有 25%。</p>
-<p>超出家庭負荷的住屋成本除了傷害個別家庭，也會給我們的整體經濟帶來負面影響，房價限制快速發展公司僱用新員工的能力，預估經濟產出減少 8.9%。</p>
-<p>另外的影響就是高住房成本。對於消費商品產生排擠作用，導致經濟損失。而房東的收入就是典型的”尋租”，無助於刺激創新和生產力。</p>
-<p>美國政府住房補助主要針對中高收入者，透過與房屋所有權相關的稅收減免，包括貸款利息和財產稅支付，以及資本利得減免，總額在2015年就達到1300億美元的補助。相較之下對於租屋者提供的援助卻僅有 600 億美元，四分之三的低收入高風險租屋者沒有獲得任何政府援助。</p>
-<p>團結經濟的方法是對所有家庭的關注開始，無論是租屋者還是屋主。為租屋者提供安全保障，推廣社會住宅，用以提供私人市場之外的替代方案來平衡議價能力，並且終結無家可歸的現象。強調這一個公平與繁榮並存的領域。使人負擔得起的房屋不僅可以幫助窮人，還有助於提高儲蓄率，以及增加家庭收入，並有助於實現充滿活力和穩定的經濟。</p>
-<blockquote>
-<p>這會想到台灣近年有組織希望可以從社會住宅，轉為住宅合作社的過程。</p>
-<p>因為社會住宅大多為針對弱勢族群，但卻產生了標籤化的現象，以及居住空間等形式不能搭配居住需求者。</p>
-<p>然而，以合作社形式的問題，在於社員是否可以沒有排他性？可能社員費，便會造成了排擠弱勢族群的狀況。如果可以在兩者間去互補，或許有些更符合團結精神的形式。”</p>
-<p><a href="https://www.hucc-coop.tw/article/infografia/22274">合作打造互「住」家園　從人出發回應共融需求 | 台灣主婦聯盟生活消費合作社</a>： 主婦聯盟生活消費合作社2021年公益金贊助團體OURs都市改革組織（下稱OURs），致力推動以人的需求為主體的合作住宅，台灣房價居高不下，住的基本保障該如何滿足？OURs 提出第三條路可作為參考。</p>
-<p><a href="https://www.hisp.ntu.edu.tw/report_paper?id=266">「家」的新想像：合作住宅（Co-housing）的多元模式 | 新作坊</a>：街區再生的主角從來不只是規劃者或倡議者，每個在城市街區中真實生活的市民才是規劃與營造的核心要角。從蘇黎世案例回望臺灣合作住宅的路徑，這場講座重新叩問現代社會對於「家」的想像：人們緊攫的一紙房屋土地權狀，… </p>
-</blockquote>
-<h3 id="Expand-Rental-Units-and-Support"><a href="#Expand-Rental-Units-and-Support" class="headerlink" title="Expand Rental Units and Support"></a>Expand Rental Units and Support</h3><p>提供住屋援助有三種主要方式：鼓勵個人擁有房屋，支持租屋者，以及提供社會住宅。</p>
-<p>美國過於強調個人住房所有權，尤其是獨立的住宅。激勵獨戶住宅所有權的強調助長了空間和種族不平等，也區隔了租屋者和屋主，助長城市擴張，並使得貧困社區的投資更為不足。</p>
-<p>鼓勵自有房屋通常被視為重要的經濟刺激措施，但證據也顯示擁有房屋已成為經濟增長的拖累因素。雖然屋主可以從穩定性中受益，但同時也會限制求職、降低流動性、增加通勤時間，隨時間的推移減少商業形成率。當多數的人擁有房屋，會使得城市沒有發展空間，不再充滿活力，年長的屋主似乎也執意的保護自己的城堡，反觀新一代的年輕人，無法負擔高房價以及房租，而對資本主義充滿失望。似乎這也是如今我們所面臨的普遍現象。</p>
-<p>政府政策的架構如果過度聚焦在個人資產，恐怕會損害集體利益。作者認為應該擺脫優先考慮房屋所有權，轉而採行支持租房者的方式。美國聯邦計劃為低收入家庭發放住房券，但由於政府對總支出設定上限，大約3/4符合條件的家庭無法獲得補助。支持租房者的資金政府大可透過減少或者取消對屋主抵押貸款利息，或財產稅的補貼來取得。</p>
-<p>在 COVID-19 的經濟危機中，租屋者面臨更脆弱的經濟狀況。促進更多租賃、實施驅逐保護和實施租金控制尤其重要。關鍵是增加出租單元的產量以及為租屋者提供更多的幫助，將會產生廣泛的經濟和社會效益。</p>
-<p>我們需要深入的團結政治工作，使這些創新政策成為可能。</p>
-<h3 id="Expand-Social-Housing"><a href="#Expand-Social-Housing" class="headerlink" title="Expand Social Housing"></a>Expand Social Housing</h3><p>擴大社會住宅</p>
-<p>社會住宅是由政府或其他非盈利的組織擁有的房屋和公寓。目標是將土地和住房從市場中移除。可以由政府直接建造和擁有社會住宅。可惜，自 1950 年代以來，美國聯邦政府並未對建設社會住宅大量投資，而通過稅收優惠對非營利性社會住宅的支持也十分有限。</p>
-<p>美國社區發展出替代社會住房模式，由非營利組織取得土地並同意保持所有權的社區土地信託。可以出售地上建物的住宅，屋主可簽訂長期可續租的土地租約，而非擁有土地。這使得土地本身永久退出市場，降低住房總體成本。屋主通常也會簽訂限制轉售價格的協議，允許他們隨著持有時間累積資產，同時也確保永久的負擔能力。 </p>
-<p>只是這個有前景的想法和市場需求相較之下規模很小</p>
-<p>更為普遍的方式為有限股權住房合作社，人們並不是個人擁有住宅，而是實際購買合作擁有的建築物的股份，同時支付固定租金。</p>
-<p>在其他各國的做法中，新加玻的例子尤其傑出: 82% 的居民居住在公共補貼住宅。住房負擔能力的保障也成為出新加玻高水準的創業精神和經濟快速增長的重要因素。不僅獲得大眾的支持而得以擴展，並且也促進繁榮。</p>
-<h3 id="A-Place-to-Stay"><a href="#A-Place-to-Stay" class="headerlink" title="A Place to Stay"></a>A Place to Stay</h3><p>在居住的權利上，作者也考慮到無家可歸的族群，雖然根本原因是無法負擔得起住房成本，但也有因為患有精神疾病、藥物濫用和其他嚴重的健康問題而最終導致無家可歸。</p>
-<p>可信的研究表明，最有效的解決方法是永久性支持性住宅，包含住房補貼與結合附近社區的支持服務。相較之下，支持性住宅的成本比其他解決方案更低，例如精神病院、其他醫院護理、矯正機構、醫療補助資助…等方法。</p>
-<p>結束無家可歸需要我們將提供永久性支持性住房與關懷的經濟相結合。要做到如此，必須要超越新自由主義意識所認知的 “結果與個人努力有關” 這件事，並且接受街上的人們也是在做出選擇。團結的架構認知居住是一項權利，為每個人提供居住所需，確保所有人的生活更加穩定。</p>
-<hr>
-<h2 id="A-Right-to-Health"><a href="#A-Right-to-Health" class="headerlink" title="A Right to Health"></a>A Right to Health</h2><p>COVID-19 疫病大流行顯示美國的醫療保健系統出了問題: 美國擁有全世界 4% 的人口，大流行的第一年，將近四分之一的世界確診病例和五分之一的死亡病例。不意外地少數族裔占有多數的病例和死亡個案。這也只是反映出這些族裔在暴露於高風險環境、過度擁擠，以及合併症的情況。</p>
-<p>儘管美國平均每人健康支出是所有 36 個OECD(經濟合作暨發展組織)的2.5倍， GDP 百分比的2倍，但在許多國民健康結果方面表現更差。在 36 個OECD國家中，預期壽命排名第 28 ，低自殺率排名 29，低出生體重嬰兒排名 32，低嬰兒死亡率排名 33，超重人口百分比排名 34，獲得核心醫療保健服務的人口比例為 35。</p>
-<p>團結經濟表明需要承諾促進健康而不是治療疾病，解決潛在的社會決定性因素，例如貧窮、環境品質和社區凝聚力，並將不平等視為為對我們健康的嚴重風險。</p>
-<p>不公平的制度，導致投入醫療資源優先項目的錯置，試著想像一下關懷出生前的健康狀況是否比關注臨終更為重要? 不應該因為老人族群的膚色與財富，就讓醫療市場順應他們的利益。這種權力的不平衡實際上會侵蝕整體社會的健康和福祉。</p>
-<h3 id="Insuring-Everyone"><a href="#Insuring-Everyone" class="headerlink" title="Insuring Everyone"></a>Insuring Everyone</h3><p>確保所人在其整個生命任何時期中都能獲得負擔得起的醫療保健至關重要，尤其必須包含年輕人。出生時的健康也深深地影響未來收入、教育和殘疾狀況。而對於孕婦與產婦健康的照護不足，也會將此種不公平的現象傳遞到下一代身上。目前美國傾向於透過醫療保險提供老年人連續性護理，而對於母嬰健康方面卻是支出不足。</p>
-<p>獲得保險是維持健康的關鍵，有保障的保險融入了團結觀念：它增強了一般人的議價能力。你知道不會被取消保險，你就有可能反對不公平的醫療費用。了解到你一定可以得到政府保險，就更可能堅持降低成本。知道離開不良的雇主不會危及家人的健康，就有可能與其他人一起糾正錯誤的經濟。</p>
-<h3 id="Investing-in-Public-Health"><a href="#Investing-in-Public-Health" class="headerlink" title="Investing in Public Health"></a>Investing in Public Health</h3><p>由這次 COVID-19 大流行的結果反映出美國公共衛生系統的存在問題。新自由主義者擁護個人主義，使得有些人不願意戴口罩，而部分地方政府也不願意強制執行這種簡單的措施。反而相信疫苗和藥物治療，如此作法非但不能強化公共衛生系統，使大眾對抗未來的流行性疾病，反而使納稅人的錢進到製藥大廠的口袋之中。 而醫院診所也必須要為個人主義的行為善後。</p>
-<p>近年來美國疾病控制和預防中心 (CDC) 在各州的核心公共衛生和應急準備的預算大幅減少。在公共衛生應急準備項目方面，由 2002 年度的 9.4 億美元降至2020年的 6.75 億美元，而醫院準備計劃預算也從 2004 年度的 5.15 億美元降至 2020 年的 2.76 億美元。這也可能導致美國在這次疫情中表現不佳的原因之一。</p>
-<p>團結意味著必須提前計劃以防範未然，因此設計強大的系統來應對未來的疾病也至關重要。這其中包括對 CDC 的疫苗基礎設施、疫情預防和應對系統進行大量投資。<br>美國健康信託基金會(The Trust for America’s Health) 是專注於疾病預防的無黨派研究機構，它提出詳細的計劃，旨在通過增加對公共衛生的投資來充分保護和改善美國人的健康。</p>
-<p>他們的計劃當中也包括投資當地衛生部門的基礎設施，以公衛數據系統追踪疾病。建議投資於社區慢性病的預防，以及解決藥物濫用和自殺問題。</p>
-<p>信託基金還制定全面性的計劃，以解決社區內的健康和社會公平的決定因素。包括改善健康和學習、促進積極的生活和聯繫、確保安全、健康、負擔得起的住房計劃，以及改善經濟福祉，和收入支持計劃，促進社會公眾健康。</p>
-<h3 id="Prioritizing-Our-Environment"><a href="#Prioritizing-Our-Environment" class="headerlink" title="Prioritizing Our Environment"></a>Prioritizing Our Environment</h3><p>環境和氣候風險對我們的健康影響至為明顯。無法獲得清潔的空氣和水會帶來巨大的經濟成本，因此獲得安全、清潔和健康的環境應該也是基本人權。</p>
-<p>2008 美國水資源聯盟成立，目的是推進可實行的解決方案，以解決水資源問題。並制定了促進健康、可持續、公平的水資源管理，其中包括建設綠色基礎設施、促進可持續農業以及鼓勵在所有經濟活動中進行水資源管理和再利用。</p>
-<p>確保空氣清潔的作法是加強對車輛、發電廠和工業場所的排放標準和控制，以減少空氣中懸浮粒子或其他形式的空氣污染的形成與排放。包含了農作物殘留物和動物糞便管理，以及室內空氣中的黴菌、石棉、和甲醛等污染源。其他的活動則是擴大電動汽車的使用、投資公共交通和改善可再生能源。這些的作為都用以改善空氣品質。</p>
-<p>有色人種社區和低收入社區更有可能暴露於不良的環境中，例如因為缺乏公園、雜貨店和便利交通的社區更容易受到肥胖、糖尿病和其他健康疾病的困擾。這些不平等現象對繁榮的影響一樣，這實際上傷害了整體社會。</p>
-<p>正如美國 2005 年 Katrina 風災中一樣，當未能保護最脆弱的社區時，最終會因洪水氾濫而失去整個城市的大片地區。團結對我們的經濟有好處，對我們的環境有好處，對我們的健康也有好處。</p>
-<hr>
-<h2 id="Choosing-Solidarity"><a href="#Choosing-Solidarity" class="headerlink" title="Choosing Solidarity"></a>Choosing Solidarity</h2><p>即使在今日，貧困還是經常發生在我們社會的某些角落。但是如果總是發生在弱勢族群中，可能的原因會是系統長期的不平等。我們是否會去思考必須要靠自己的能力才能翻轉命運? </p>
-<p>新自由主義經濟的觀點也使多數人贊同個人收入反映了我們對經濟的貢獻。</p>
-<p>依照此邏輯，胸懷慈善的人會提供社會安全網延伸給不幸的人。但是也有部分人認為提供幫助只會使那些人失去努力的動機。這些政策與想法都是出自於主觀式的思維，無助於解決貧困的根本原因。必須要做到加強經濟安全感，同時也必須要使工人具有工資對等談判的能力、降低住房成本以及提供所需要的醫療保健。</p>
-<p>要扭轉受到這些既有觀念限制的思維與制度，需要堅持團結的語言和架構，也是社會政策和實踐的原則。並且了解團結經濟學所認知的財富是集體產生的，應該集體享有。</p>
-<p>原先許多人認為理所當然的社會安全網是要對於那些陷入貧困處境者伸出援手的高尚且善良的行為，其實沒有想到這些不幸者的運氣，就是由於結構性種族主義和剝削系統所造成的結果。</p>
-<p>一如本章開頭澳大利亞原住民視覺藝術家、學者 Lilla Watson 所言，“200 年來，澳大利亞的原住民一直接受西歐的福利概念，但這並沒有增加我們生活體驗。” 並且堅信不僅要重新思考知識是集體而非個人所產生的。而且還要重新思考如何提供援助，應該是以團結的形式而非慈善行為。團結經濟認為，應該設計賦能與我們所支持的人權力，而不是規定他們的價值觀和行為。</p>
-<p>而賦予的權力使得擁有較少財富的人擁有資產、收入、住房和醫療保健的保障基礎以及備援功能，以及面對財富所有者具備對等談判的能力。 並擴展這些概念到教育、勞動力發展和社區基礎設施的領域。其中最為關鍵的是我們需要一種強調團結、加強相互關係新的方法，使我們有動力建立一個既能兼顧人類又能維持地球的經濟。</p>
-<hr>
-<h2 id="團結經濟學簡介及閱讀攻略"><a href="#團結經濟學簡介及閱讀攻略" class="headerlink" title="團結經濟學簡介及閱讀攻略"></a>團結經濟學簡介及閱讀攻略</h2><blockquote>
-<p><a href="/Solidarity-Economics-Introduction/"><img src="https://solidarityeconomics.org/wp-content/uploads/2021/09/SE-Web-Slider-for-Website.png" alt="團結經濟"></a></p>
-</blockquote>
-<hr>
-<h2 id="各章導讀連結"><a href="#各章導讀連結" class="headerlink" title="各章導讀連結"></a>各章導讀連結</h2><ul>
-<li>團結經濟:<a href="/Solidarity-Economics-Introduction/">團結經濟學簡介</a></li>
-<li>第一章：<a href="/Reimagining-Our-Economy/">重新想像我們的經濟</a></li>
-<li>第二章：<a href="/Solidarity-and-Prosperity/">團結與繁榮</a></li>
-<li>第三章：<a href="/Solidarity-and-Innovation/">團結與創新</a></li>
-<li>第四章：<a href="/Solidarity-and-Social-Support/">團結與社會支持</a></li>
-<li>（其他章節持續更新中）</li>
-</ul>
-<hr>
-<h2 id="115B實驗室"><a href="#115B實驗室" class="headerlink" title="115B實驗室"></a>115B實驗室</h2><p>「115B實驗室」是由「嘉鼎智能團隊」，呼應社會團結經濟浪潮而成立，創立之初，以台北松山區的敦化南路1段1號5樓B室為起點，故以115B為紀念。</p>
-<p>主要在協助個體、或組織，運用國際股市連結全球社會經濟的人心智能，增強本身經濟實力；並在過程中融合永續進展的理念，追求經濟、社會、環境各方面的均衡進步發展，尤其經濟上要符合（經世濟民）道理。</p>
-<h3 id="加入團隊"><a href="#加入團隊" class="headerlink" title="加入團隊"></a>加入團隊</h3><p><a href="https://www.104.com.tw/company/10zcirfc">104 (嘉鼎智能｜115B實驗室)</a></p>
-<h3 id="社群媒體"><a href="#社群媒體" class="headerlink" title="社群媒體"></a>社群媒體</h3><p>歡迎加入我們的LINE社群一同推廣永續所得倡議</p>
-<blockquote>
-<p>👉 &emsp; <a href="(https://bit.ly/Slack115b"> 115B Slack 社群</a></p>
-<p>👉 &emsp; <a href="https://line.me/ti/g2/Yn9r9XlbjJjhjppxjyzmbQ"> 115B實驗室 LINE 社群</a></p>
-<p>👉 &emsp; <a href="https://www.facebook.com/sustainable.income.lab"> 115B實驗室 FB</a></p>
-</blockquote>
-]]></content>
-      <tags>
-        <tag>團結經濟學</tag>
-        <tag>團結經濟</tag>
       </tags>
   </entry>
 </search>
