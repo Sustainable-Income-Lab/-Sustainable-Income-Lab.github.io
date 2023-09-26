@@ -58,13 +58,13 @@ author:
 
 這點在人工智能火熱的今日，又顯得更重要。
 
-![人心智能](/img/acis-daptive/mind.png)
+![人心智能](/img/acis-adaptive//mind.png)
 
 #### 看見「自適應」一詞，會想到什麼關鍵詞？ 
 
 「與時並進」、「流動」、「滾動式調整」、「相容性」，可以發現與「適應不同的應用模式」、「應對不同的環境變動」、「再生迭代演進的能力」等三個面向都有所對應。
 
-![自適應](/img/acis-daptive/adaptive.png)
+![自適應](/img/acis-adaptive/adaptive.png)
 
 ### 本次討論參與者
 
