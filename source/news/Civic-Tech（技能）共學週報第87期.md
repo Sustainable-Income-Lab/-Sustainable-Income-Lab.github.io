@@ -1,5 +1,5 @@
 ---
-title: Civic Tech（技能）共學週報第86期
+title: Civic Tech（技能）共學週報第87期
 date: 2023-10-18 00:00:00
 categories:
 	- Civic-Tech
