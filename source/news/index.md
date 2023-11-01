@@ -2,6 +2,7 @@
 title: news
 ---
 
+- [Civic Tech（技能）共學週報第89期](/news/Civic-Tech（技能）共學週報第89期)
 - [Civic Tech（技能）共學週報第88期](/news/Civic-Tech（技能）共學週報第88期)
 - [Civic Tech（技能）共學週報第87期](/news/Civic-Tech（技能）共學週報第87期)
 - [Civic Tech（技能）共學週報第86期](/news/Civic-Tech（技能）共學週報第86期)
