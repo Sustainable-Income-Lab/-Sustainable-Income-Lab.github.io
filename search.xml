@@ -471,145 +471,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>文章導讀：社會團結合作組織的設計思路（下篇）｜Organisation-wide design as systems practice</title>
-    <url>/Organisation-wide-design-as-systems-practice-2/</url>
-    <content><![CDATA[<p>永續進展的概念中，同時包含了至少經濟、社會、環境等不同面向。需要以社會團結經濟的思路進行合作，亦即與既有不同思想的組織合作，每個組織為團結合作，而非競爭關係，達成共同目標。</p>
-<p>這在合作的設計上，產生了許多挑戰。如果團結合作組織的形式是由上至下，或中心化的管理，則往往每辦法集合每個成員的經驗，以及適應複雜多變的各種意外。</p>
-<p>本篇為文章下篇，以上篇提到有關Soft Space、鷹架等概念的實踐方式、會遇到的問題，以及調整的方式。</p>
-<span id="more"></span>
-
-<blockquote>
-<p><img src="https://miro.medium.com/max/1400/1*cuYHslyXpimdxrm6tJmWFg.jpeg" alt="下篇"><br><a href="https://snowfly.nl/en/behaviour-data-contagion-spread-love/">(圖片來源)</a></p>
-</blockquote>
-<hr>
-<h2 id="文章資訊"><a href="#文章資訊" class="headerlink" title="文章資訊"></a>文章資訊</h2><p>作者: Kevin Richard， Senior Designer &amp; Strategist in the🇨🇭Banking industry. Critical/UX/Design/Systems/Complexity thinker, learner, practitioner.</p>
-<p>原文連結： <a href="https://uxdesign.cc/organisation-wide-design-as-systems-practice-9b2959cbb3b7">Organisation-wide design as systems practice</a></p>
-<p>上篇： <a href="/Organisation-wide-design-as-systems-practice-1">文章導讀：社會團結合作組織的設計思路（上篇）｜Organisation-wide design as systems practice</a></p>
-<blockquote>
-<p><a href="/Organisation-wide-design-as-systems-practice-1"><img src="https://miro.medium.com/max/1400/1*zMWxJhPu-v5zO-plmmcAdQ.jpeg" alt="上篇"></a></p>
-</blockquote>
-<hr>
-<h2 id="目錄"><a href="#目錄" class="headerlink" title="目錄"></a>目錄</h2><ul>
-<li><a href="">摘要</a></li>
-<li><a href="#%E6%96%87%E7%AB%A0%E8%B3%87%E8%A8%8A">文章資訊</a></li>
-<li><a href="#%E7%9B%AE%E9%8C%84">目錄</a></li>
-<li><a href="#%E5%9B%9E%E9%A1%A7">回顧</a></li>
-<li><a href="#5-%E2%80%9CDesign-excellence%E2%80%9D-as-a-distributed-network%EF%BC%8Cnot-a-centralised-point-of-reference">“Design excellence” as a distributed network, not a centralised point of reference</a><ul>
-<li><a href="#5-1-Building-a-local-and-contextual-shared-understanding">Building a local and contextual shared understanding</a></li>
-<li><a href="#5-2-Distributed-design%EF%BC%8Cownership%EF%BC%8Cand-responsibility%EF%BC%9Aa-better-ethical-framework-for-complex-and-interconnected-challenges-and-to-build-trust-and-autonomy-within-an-organisation">Distributed design, ownership, and responsibility: a better ethical framework for complex &amp; interconnected challenges and to build trust &amp; autonomy within an organisation.</a></li>
-<li><a href="#5-3-Soft-spaces-as-oscillations-in-the-system">Soft spaces as oscillations in the system</a></li>
-<li><a href="#5-4-Focus-on-practice-and-safe-to-fail-spaces-over-generic-certifications">Focus on practice &amp; safe-to-fail spaces over generic certifications</a></li>
-</ul>
-</li>
-<li><a href="#6">Approaching the organisation as islands and archipelagos</a></li>
-<li><a href="#%E7%B8%BD%E7%B5%90">總結</a></li>
-<li><a href="#%E6%B0%B8%E7%BA%8C%E6%89%80%E5%BE%97%E5%AF%A6%E9%A9%97%E5%AE%A4">永續所得實驗室介紹</a></li>
-<li><a href="#%E5%8F%83%E8%80%83%E8%B3%87%E6%96%99">參考資料</a></li>
-</ul>
-<hr>
-<h2 id="回顧"><a href="#回顧" class="headerlink" title="回顧"></a>回顧</h2><p>「Organisation-wide design as systems practice」文章前面我們所討論的</p>
-<p>Enterprise Design: building an ecosystem 一節，討論對於「人類的複雜適應系統 complex adaptive human systems」，裡面由於複雜性，已無法用線性思維去設計系統去設計，需要以設計生態系的方式，即系統思維去設計。</p>
-<p>Beyond organising people, designing ‘spaces’ for interactions 一節，討論了不去強制組織人該做什麼，而是設計Soft Space 去幫助人互動，去產生能應對更多可能性的系統。</p>
-<p>Soft Spaces and enabling constraints一節討論到從政策設計的「The Soft Spaces of Local Economic Development」文章中提取了Soft Space 的概念，並提到了Soft Space非正式互動的重要性，而另外又從「Managing complexity (and chaos) in times of crisis」擷取，介紹了不同的約束形式會產生了不同的效果。</p>
-<p>Scaffolding and attractors</p>
-<p>一節，則是介紹了鷹架的概念作為約束來設計Soft Space 的參考思路，每個部分依照原來部分去連貫延伸，但每個部位都是可以可拆解，或可以任其腐朽。並以Attractors 的概念，去說明會帶來許多可能性的結果。</p>
-<hr>
-<h2 id="5-“Design-excellence”-as-a-distributed-network，not-a-centralised-point-of-reference"><a href="#5-“Design-excellence”-as-a-distributed-network，not-a-centralised-point-of-reference" class="headerlink" title="5-“Design-excellence”-as-a-distributed-network，not-a-centralised-point-of-reference"></a>5-“Design-excellence”-as-a-distributed-network，not-a-centralised-point-of-reference</h2><p>這一節，介紹了我們在設計上入希望將組織視為「複雜的自適應系統時」，會面臨許多挑戰，例如無法明確確定義組織內組織外，另外由於裡面的每個個體，都可能與其他的網絡連結，對於任語意的理解、每個個體動機都不同，甚至會產生互相矛盾。<br>傳統的做法是通過少數個人，或小群體，來詮釋各種語言，並設定所謂「更高的目標」，試圖可以達成一致性。這個方式在傳統很好，但是在組織越來越複雜的狀況，逐漸失效。<br>在面對更複雜的環境中，這樣中心化的做法，會過早簡化答案，而難以應對在複雜的環境中會需要許多不同的潛在方案共存的情況。<br>這種過早收斂的方式，期待一種答案便可應對各種可能性，似乎有些像以前我們談過的在路燈下找鑰匙的心態，希望明燈下有答案，但往往事與願違。</p>
-<blockquote>
-<p><img src="https://miro.medium.com/max/1400/1*Lgdc-hmPpHeb9KsU19Y-yA.png" alt="Path Dependence Theory, critical judgement &amp; the reduction of options"><br><a href="https://www.wiwiss.fu-berlin.de/forschung/pfadkolleg/downloads/organizational_paths.pdf">(圖片來源)</a></p>
-</blockquote>
-<p>另外一個去體會到，為何說過早收斂或中心化的方式，在複雜的社會中越來越難有效果，如下圖，如果一個組織定義為像左邊的正式結構，然而在每個個體，都同時存在更大的環境社會當中，而也同時屬於像右邊另一個非正式網絡中的一部分。<br>這代表不同的語意理解，不同的動機，共存在複雜的社會中，是無法消除的。<br>如文章說到的，不是每個人都會以同樣的方式去意識到同樣的問題，正並非只是階級結構的問題，而是人同時處在正式結構與非正式結構間。<br>「“Not everyone has knowledge of or is aware of the same things, at the same time, in the same way.” This is not (necessarily) a matter of hierarchy: consider instead how formal and informal networks work and influence the flow of information. 」</p>
-<blockquote>
-<p><img src="https://miro.medium.com/max/1400/1*cuYHslyXpimdxrm6tJmWFg.jpeg" alt="Informal network and viral contagion"><br><a href="https://snowfly.nl/en/behaviour-data-contagion-spread-love/">(圖片來源)</a></p>
-</blockquote>
-<h3 id="成員討論"><a href="#成員討論" class="headerlink" title="成員討論"></a>成員討論</h3><ul>
-<li>分享：我想，這也是為何思維需要從團隊內學習擴大到團隊間學習，甚至大家可能沒有意識到的時候也部分這樣做了。<br>我們雖然看起來是在內部群討論，而很可能回家後在親朋好友之間或是去參加外面的社群活動，在各種非正式網絡中去分享我們的概念，以及聽到其他人的理解。最後又會把這些觀念帶回來。可以說已經無法用辦公室人數的方式去理解「嘉鼎智能團隊」是誰。<br>而團隊間的學習，在於互動頻率的高低，當在每個更大社會中的各種網絡中互動時，才能包容更大的社會，也包容了更大社會中的各種不確定性，而非每個個體的對立。<ul>
-<li>回應：在日常，很容易不知不覺就形成特定行為模式(思維)，而此行為模式(思維)也會慢慢擴大到周遭接觸者。最終同頻率者會更靠近，並且循環此模式。</li>
-<li>回應：非常贊同團隊間的學習, 我這些日子也跟不少人分享了我們團隊的團結經濟的學習, “好奇怪” “很特殊” “有意思” “被洗腦了” “有績效” “對人有幫助” 等等各式各樣的反應都有. 理念可以擴散或者擴增集智的起點在於人可以感受到自己獲得受益, 這個受益可大可小, 可直接可間接, 但重點不是具體受益內容, 重點是受益的事件帶給每個人的”感受”. 因每個人的感受千差萬別, 所以更需要我們常常去聆聽對方的感受, 感同身受之後我們才有機會調整自己的受益/改變的描述(但自己受益的事情本身沒有任何改變!) , 讓對方接受跟白團結經濟可以帶給他的好處, 從而他也才有機會親自去實踐, 然後擴大影響力. </li>
-<li>回應：複雜的社會中有著正式和非正式的結構，就像是在舉辦的公民議題活動時, 參加者也會變成分享者，舉辦活動的工作人員也彷彿有時會如同為參加者，在不同的處境有著不同的變化。</li>
-</ul>
-</li>
-</ul>
-<hr>
-<h2 id="5-1-Building-a-local-and-contextual-shared-understanding"><a href="#5-1-Building-a-local-and-contextual-shared-understanding" class="headerlink" title="5-1-Building-a-local-and-contextual-shared-understanding"></a>5-1-Building-a-local-and-contextual-shared-understanding</h2><p>前面介紹了非正式網絡會對系統造成的影響，以及各種包含Soft Space、約束、鷹架、吸引子等的概念。而這節開始思考實際上該如何使用這些概念。<br>而前面已經提到了，我們不太可能定義一個明確的網路邊界，以及由中心化的強求一致性的風險。而這一段落強調了連貫性，以及降低實踐的門檻。</p>
-<p>在不知某一個脈絡而行動的情況，風險是做的事會與這個脈絡不一致。<br>然而，因為想要完全弄清某個脈絡，而不採取行動，則可能會損失一個脈絡可能帶來的更多可能性。（並且前面提到的，所謂認清脈絡，往往只是一小群人的意思，而會被小群人給限制。）<br>文章的建議是，採取行動重要於要弄清楚某些脈絡，長期來看可以產生更多的未來性。</p>
-<p>不過要注意到的，文章提到的行動，也並非任意行動，群體的「coherence連貫性」是個重點（如同之前提到的鷹架類似，是在原來群體的基礎上去延伸。）。<br>而重要的是群體能共同的行動，才能產生集智共創的效果。</p>
-<p>這意味著將某個小部分中心的脈絡，延伸到全部的地方，對決策並無太大幫助。（可以想想每個個體都處在不同非正式網絡。）<br>而我們需要的是，讓脈絡或知識可以幫助在每個局域性的範圍都能採取行動，但又能讓整體保持連貫性。<br>「As explained earlier, certain things make sense only to a certain point in the system and generalising this understanding (to other points in the system) won’t necessarily help make good decisions. This means we need to create knowledge and “bias toward action” (intrinsic motivation) at a local level while keeping an overall coherency.」</p>
-<h3 id="成員討論-1"><a href="#成員討論-1" class="headerlink" title="成員討論"></a>成員討論</h3><ul>
-<li>分享：確實如此, 我們在保持連貫性的背景下, 如果可以讓語意或知識推動環境裡面的人/組織去行動, 這樣對環境和這個環境相關的人事物就能夠起到正面的作用。</li>
-<li>分享：這可以讓我們思考ACIS幫助人的策略，由於裡面許多脈絡可能存在於我們內部。<br>我們可以創造一些可以簡單幫助社群動作的知識，但又需確認每位成員的動作是有連貫性的，最終內外社群一同去創立對系統的共同認知，以及共創成果。意味著避免Hard Space（全部由上至下，或中心化的定義脈絡，強加所有群體去理解才行動。），而也避免No Space（每個個體完全依照個人的意識行動，而沒有連貫性。）<br>「Building a local and contextual shared understanding」的方法，便在於建造局域性都能產生連貫動作的知識，而整體形成集體意識。（這一段應該可以幫助了解鷹架的概念，應該如何使用在集智上面）</li>
-<li>分享：從ACIS 來看的確有著共同的脈絡成長著，雖然只是在內部的少數人一同發展，但其中可以連結的人心智能卻是比內部人的好幾百倍或萬倍。</li>
-</ul>
-<hr>
-<h2 id="5-2-Distributed-design，ownership，and-responsibility：a-better-ethical-framework-for-complex-and-interconnected-challenges-and-to-build-trust-and-autonomy-within-an-organisation"><a href="#5-2-Distributed-design，ownership，and-responsibility：a-better-ethical-framework-for-complex-and-interconnected-challenges-and-to-build-trust-and-autonomy-within-an-organisation" class="headerlink" title="5-2-Distributed-design，ownership，and-responsibility：a-better-ethical-framework-for-complex-and-interconnected-challenges-and-to-build-trust-and-autonomy-within-an-organisation"></a>5-2-Distributed-design，ownership，and-responsibility：a-better-ethical-framework-for-complex-and-interconnected-challenges-and-to-build-trust-and-autonomy-within-an-organisation</h2><p>這一段介紹了以建立分散式的自主權，以及責任，是個更能適應複雜性及相互關聯的挑戰更好的框架，可以在組織中建立信任及自主權。<br>而整段在於介紹自主權如何幫助整個群體能產生更多的可能性，而責任則是一種輕約束，在於幫助整體有連貫性。</p>
-<p>建立一個隨時間演變的「感知網絡」，允許每個局部快速感知及反應各種挑戰。<br>讓每個局域的個體都具有自主權，根據個體的經驗去定義什麼是共同想看到的（“好”），以及什麼是不想看到的（“不好“）。此外，尚須讓每個局域都負起責任，去觀察是否整體有朝著正確（共同）的方向前進。<br>透過這個方法，各種脈絡的解釋責任放在每個局部，而非少數個人手中，而每個局域的個體同時可能屬於不同的非正式網絡，能夠用他們的經驗去更好地應對挑戰。<br>透過觀察網絡的連貫性的責任，建立Soft Space 去讓每個不同的局域，依然形成集智。</p>
-<p>這一段引用了另一篇文章的一張圖，「<a href="https://explorer.designcriticalthinking.com/">The Explorer’s Guide</a>」去描述「感知網絡」的島嶼形象。<br>並非組織中每個人都能知道或用同樣的方式理解同一件事。這並非完全是因為階級制，而是因為正式網絡及非正式網絡的信息互動，<br>就像一個島嶼的每個部位，其實都處於更大的背景中。<br>「Not everyone in an organization has knowledge of or is aware of the same things, at the same time, in the same way. This is not (necessarily) a matter of hierarchy: consider instead how formal and informal networks work and influence the flow of information.<br>Like an island might possess beaches, forests, rivers, mountains, abrupt cliffs, (etc.) organisations’ complexity, activities, and processes are both informed by the larger context of the organisation itself as well as the local specificities that people are facing.」</p>
-<blockquote>
-<p><img src="https://miro.medium.com/max/1400/1*HbCWY7QLfYTpa_mhUayosA.png"><br><a href="https://explorer.designcriticalthinking.com/chapters/energy-sensors-triangulation">圖片來源</a></p>
-</blockquote>
-<p>「<a href="https://explorer.designcriticalthinking.com/">The Explorer’s Guide</a>」一文與本文，應該是同一位作者（Kevin Richard ）。<br>在開頭邀請大家作為探索者，而非單純的問題解決者。<br>「An invitation to be explorers, not just problem-solvers」<br>對應我們的話來說，應該就是Zoom-Out，探索、觀察了解整個系統，而去意識到任何系統都可能只是更高維度的一小部分。</p>
-<hr>
-<h2 id="5-3-Soft-spaces-as-oscillations-in-the-system"><a href="#5-3-Soft-spaces-as-oscillations-in-the-system" class="headerlink" title="5-3-Soft-spaces-as-oscillations-in-the-system"></a>5-3-Soft-spaces-as-oscillations-in-the-system</h2><p>這段討論了正式網絡以及非正式網絡中的信息流，會相互影響，而信息流相當於能量在一個系統中流動，相當於一個振盪系統。（能量在動能及位能在不同部位中流動。）<br>以正式及非正式的方式收集，以及對待信息，會產生不同的產出消長，以及影響對脈絡理解的廣度及尺度。<br>Soft Space 的概念，很好的提供非正式信息流的存在，為系統創造更多可能，但在使用Soft Space的概念時，在實務上需要搭配正式的方法流程去設計。</p>
-<p>以收集信息為例，如同非正式的信息收集，有些像訪談，可以聽到大量信息，上下文脈絡可以有許多混合，透過故事形成每個段落的連貫性。缺點是，在處理信息上，可能形成許多雜訊。<br>而定向的收集信息方式，如同調查問卷，則提供了嚴格的框架來收集形式化的信息。</p>
-<p>而「distributing design」，可視為去連結各種正式與非正式網絡的各種互動。</p>
-<p>而在什麼範圍該利用正式或非正式的方法，這段落提供了三個概念。<br>Synchronicity（同步性）<br>適合每個局域性的部位，讓每個部位都有連貫。然而這也是能源密集型的，難以長久維持。<br>亦即前面提到的，讓每個局域部分有自主性，然而卻要避免最後讓這個局域形成中心化。<br>Asynchronicity（異步性）<br>允許具有延遲性、間接，但是自發的反饋。這樣的方式比較不消耗能量，但也比較沒辦法去針對具體情況。<br>Availability (perceived instantaneity) （可用性/瞬時的感知）<br>當異步性越多時，反饋機制往往響應更延遲，而我們在可用的需求下，會需要更瞬時的感知能力。<br>而Soft Space 的運用，則在三個概念中振盪。</p>
-<p>這一段的介紹，大多來自「<a href="https://explorer.designcriticalthinking.com/chapters/energy-sensors-triangulation">The Explorer’s Guide</a> 中的 Energy, Sensors, and Triangulation 一段」<br>而三種概念在不同的時間點及狀態下，都有其需要的地方。</p>
-<p>「All are needed at some point. Time and speed variations are important elements and patterns of synchronicity, asynchronicity, and availability are interesting ways to capture, process, and triangulate information from the network, by the network.」</p>
-<blockquote>
-<p><img src="https://2970742203-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-MT6UxeiaGaUpHnD5fGe%2F-Mf8peEIiijaopzX0QXS%2F-Mf8qD8AQX649YiDZ_td%2F1_XLprvjKt4i_kLP3y-MZAjg.png?alt=media&token=1cbbafd5-2936-49fe-bf7b-831494cee0a2"><br><a href="https://explorer.designcriticalthinking.com/chapters/energy-sensors-triangulation">圖片來源</a></p>
-</blockquote>
-<hr>
-<h2 id="5-4-Focus-on-practice-and-safe-to-fail-spaces-over-generic-certifications"><a href="#5-4-Focus-on-practice-and-safe-to-fail-spaces-over-generic-certifications" class="headerlink" title="5-4-Focus-on-practice-and-safe-to-fail-spaces-over-generic-certifications"></a>5-4-Focus-on-practice-and-safe-to-fail-spaces-over-generic-certifications</h2><p>這段提到了，專注於實踐，以及設計可以安全試錯的空間，而非設計通用的認證。<br>這段比較哲學，遵照「<a href="https://en.wikipedia.org/wiki/Contextualism">Contextualism</a>」脈絡主義的思想，認為各種脈絡是相對於每個動作、話語、表達而理解。</p>
-<p>而設計通用認證的方式，會產生許多限制，因為希望把希望把事物簡化成「基礎知識」，試圖快速生產「營運勞動力」及可操作性，然而卻忘了達到可操作可能需要許多必要且不可少掉的經驗累積，而不能只當作是學習成本。<br>然而，經驗又是相對於某個脈絡的，如果過於依賴經驗，則會對其產生的效果又產生過度想像。<br>而Soft Space 的概念則是提供學習及安全試錯的土壤。<br>最後用軍事概念的類比：小型機組人員、實地訓練、重複動作、情境啟發法等，以建立信任、信心、能力，並接近團體和個人的實踐學習。</p>
-<p>而這一段其中我會注意到的，經驗不可缺，但需要知道經驗只在某個脈絡上有用，在不同狀況下又無意義了。<br>整段可以回想起之前的一句話「緣起性空」，「諸法因緣生，諸法因緣滅」，經驗也是如此。</p>
-<p>網路上看到一段描述「<a href="http://www.thomehfang.com/kumarajiva2/lifeC.html">脈絡主義的生命哲學</a>」，沒找到原文，所以文章排版有些亂，但可以參考。<br>裡面提到脈絡主義的「變異哲學」，像是我們文章這一段提到的，許多傳統哲學希望把事物簡化或線性化，希望可以找到簡單原子的邏輯在各處通用。然而在複雜系統中，卻非如此。<br>『事素或情態不是歷歷分明的原子單位，而是種種趨勢的互攝相涵，備極複雜，經緯錯綜交織，形成大全整體，而又一一各具個性或特色。歷史、事事一網，物物一局，種種情態發生，千端萬緒，齊呈網狀結構，實一焦聚中心，總為其它歷史之諸特色所重重涉入，而原故不詳。脈路端緒構成經緯，經緯、脈路、脈絡等復互為相對。在某一脈絡情境中為脈路或細節者，在另一脈絡情境中其本身即一變而為脈絡矣。』</p>
-<p>看起來「經驗」的需要，就像「世間法」的需要，然而最後又需要看透其空性，Zoom out 「出世間」<br>而同維基百科上講到的。</p>
-<p>『世間和出世間的區別並不是截然斷裂，實際上佛教常說「出世間不離世間」、「煩惱即菩提」，甚至主張應該瞭解世間法，以此導向出世間。』</p>
-<h3 id="成員討論-2"><a href="#成員討論-2" class="headerlink" title="成員討論"></a>成員討論</h3><ul>
-<li>分享：贊同, 煩惱即菩提, 所有的發生都是突破自己, 讓自己變得更好的機會!</li>
-</ul>
-<hr>
-<h2 id="6-Approaching-the-organisation-as-islands-and-archipelagos"><a href="#6-Approaching-the-organisation-as-islands-and-archipelagos" class="headerlink" title="6-Approaching-the-organisation-as-islands-and-archipelagos"></a>6-Approaching-the-organisation-as-islands-and-archipelagos</h2><p>文章的最後一節，以島嶼及群島的形象去思考一個組織。<br>每個島嶼都包含複雜的生態系，我們從地平線接觸到一個島嶼時，無法了解其多大，而降落在其岸邊，也很難知道自己在哪。如同脈絡的複雜程度，大小，以及我們接觸到一個脈絡的角度也不容易知道。<br>然而卻會發現，島嶼上的人、生態系統、基礎設施、地形、當地天氣系統等等，都是相互關聯。<br>最後看到不同島嶼形成的群島，每個島嶼都是獨立的，非常不同的，但鄰近的島嶼卻都會有相關性。</p>
-<p>這一段提到島嶼的複雜性，以及相鄰的關係，主要是說到關注「相鄰可能」、「間接目標」，亦即是專注於現在、這裏可以做什麼？<br>在局域怎麼幫助到人。<br>「Adjacent possibles and aiming at indirect goals: What can be done here and now, that benefits people at a local level?」</p>
-<p>「相鄰可能 Adjacent possibles」是生物學家Stuart Kauffman提出，他發現生物的演化是一種漸進的過程，都是由許多「相鄰可能」所逐漸累積而成。<br>『相鄰可能的含義有二。<br>其一，生物的演化必然是發生在相鄰可能範圍之內。例如，原始細胞可能會演化成高等一些的細胞，但不會在一夜之間演化出人類。<br>其二，生物每一次演變都會打開新的相鄰可能。例如，原始細胞演化成高等一些的細胞後，又能再演化出更高等更多功能的細胞，慢慢的只要給予足夠長的時間，比如說幾十億年，就可能會演化成各種動物，包括人類。』（引自此處）<br>而這概念也被延伸到創新領域，以及複雜系統。<br>而與文章討論的鷹架的概念，相互呼應。亦即，專注於每個局域已有的部分去做延伸，而非想著要將一個中心概念同時可以套用在所有地方。<br>而如此鷹架形成的架構，才可能具有彈性，並組成更多可能性的系統。</p>
-<hr>
-<h2 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h2><p>回顧整個文章，「Organisation-wide design as systems practice」，專注於創造生態系，讓組織產生更多可能性，以及排除掉過硬，中心化的設計思路，我們這裡整理一下整個概念。</p>
-<ol>
-<li><p>為什麼是必須的？<br>符合現代組織是個複雜自適應系統，裡面的成員同時處在正式網絡（組織內），以及非正式網絡中。計劃一個明確未來的方式，而上至下的設計方式，已無法應對多變的社會，並且逐漸失效。</p>
-</li>
-<li><p>怎麼做？<br>文章以「軟空間」及「鷹架」的概念貫穿全文。<br>「軟空間」的概念，幫助組織設計時，不被限制住。然而依然需要有約束才能站在已有的基礎去延伸，「鷹架」的概念便成為可以保有軟空間特性的約束方式。<br>「鷹架」的概念，每一段可能會有不同體會，而這邊整理了下包含了幾個點。</p>
-</li>
-</ol>
-<ul>
-<li>需要在原有的系統上面去延伸。</li>
-<li>每個延伸，都是考慮局域性的，每個局域有連接的方式，而不需將一個點的方式生硬用在所有系統上，透過「相近可能」去演化延伸。<br>鷹架的每一部分的生鏽腐壞、或拆掉，都不影響整體系統。</li>
-<li>「鷹架」的概念，也被用在脈絡上，由每個點去理解脈絡，重在建立局域的互動，以及每個周圍點的連貫性，而非整體硬化的一致。</li>
-</ul>
-<hr>
-<h2 id="永續所得實驗室"><a href="#永續所得實驗室" class="headerlink" title="永續所得實驗室"></a>永續所得實驗室</h2><p>「永續所得實驗室」是由「嘉鼎智能團隊」，呼應社會團結經濟浪潮而成立，主要在協助個體、或組織，運用國際股市連結全球社會經濟的人心智能，增強本身經濟實力；並在過程中融合永續進展的理念，追求經濟、社會、環境各方面的均衡進步發展，尤其經濟上要符合（經世濟民）道理。</p>
-<h3 id="加入團隊"><a href="#加入團隊" class="headerlink" title="加入團隊"></a>加入團隊</h3><p><a href="https://www.104.com.tw/company/10zcirfc">104 (嘉鼎智能｜永續所得實驗室)</a></p>
-<h3 id="社群媒體"><a href="#社群媒體" class="headerlink" title="社群媒體"></a>社群媒體</h3><p>歡迎加入我們的LINE社群一同推廣永續所得倡議</p>
-<blockquote>
-<p>👉 &emsp; <a href="https://line.me/ti/g2/Yn9r9XlbjJjhjppxjyzmbQ"> 永續所得實驗室 LINE 社群</a></p>
-<p>👉 &emsp; <a href="https://www.facebook.com/sustainable.income.lab"> 永續所得實驗室 FB</a></p>
-</blockquote>
-<hr>
-<h2 id="參考資料"><a href="#參考資料" class="headerlink" title="參考資料"></a>參考資料</h2><ul>
-<li><a href="https://explorer.designcriticalthinking.com/">The Explorer’s Guide</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Contextualism">Contextualism</a></li>
-<li><a href="http://www.thomehfang.com/kumarajiva2/lifeC.html">脈絡主義的生命哲學</a></li>
-</ul>
-<p>上篇： <a href="/Organisation-wide-design-as-systems-practice-1">文章導讀：社會團結合作組織的設計思路（上篇）｜Organisation-wide design as systems practice</a></p>
-<blockquote>
-<p><a href="/Organisation-wide-design-as-systems-practice-1"><img src="https://miro.medium.com/max/1400/1*zMWxJhPu-v5zO-plmmcAdQ.jpeg" alt="上篇"></a></p>
-</blockquote>
-]]></content>
-      <tags>
-        <tag>社會團結經濟</tag>
-        <tag>合作</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>文章導讀：社會團結合作組織的設計思路（上篇）｜Organisation-wide design as systems practice</title>
     <url>/Organisation-wide-design-as-systems-practice-1/</url>
     <content><![CDATA[<p>永續進展的概念中，同時包含了至少經濟、社會、環境等不同面向。需要以社會團結經濟的思路進行合作，亦即與既有不同思想的組織合作，每個組織為團結合作，而非競爭關係，達成共同目標。</p>
@@ -795,6 +656,145 @@
 <li><a href="https://library.designcriticalthinking.com/library/books/field-guide-managing-complexity-and-chaos-in-times-of-crisis">Managing complexity (and chaos) in times of crisis</a></li>
 <li><a href="https://eand.co/were-living-through-the-collapse-of-liberal-democracy-ea12a875b9a5">We’re Living Through the Collapse of Liberal Democracy</a></li>
 </ul>
+]]></content>
+      <tags>
+        <tag>社會團結經濟</tag>
+        <tag>合作</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>文章導讀：社會團結合作組織的設計思路（下篇）｜Organisation-wide design as systems practice</title>
+    <url>/Organisation-wide-design-as-systems-practice-2/</url>
+    <content><![CDATA[<p>永續進展的概念中，同時包含了至少經濟、社會、環境等不同面向。需要以社會團結經濟的思路進行合作，亦即與既有不同思想的組織合作，每個組織為團結合作，而非競爭關係，達成共同目標。</p>
+<p>這在合作的設計上，產生了許多挑戰。如果團結合作組織的形式是由上至下，或中心化的管理，則往往每辦法集合每個成員的經驗，以及適應複雜多變的各種意外。</p>
+<p>本篇為文章下篇，以上篇提到有關Soft Space、鷹架等概念的實踐方式、會遇到的問題，以及調整的方式。</p>
+<span id="more"></span>
+
+<blockquote>
+<p><img src="https://miro.medium.com/max/1400/1*cuYHslyXpimdxrm6tJmWFg.jpeg" alt="下篇"><br><a href="https://snowfly.nl/en/behaviour-data-contagion-spread-love/">(圖片來源)</a></p>
+</blockquote>
+<hr>
+<h2 id="文章資訊"><a href="#文章資訊" class="headerlink" title="文章資訊"></a>文章資訊</h2><p>作者: Kevin Richard， Senior Designer &amp; Strategist in the🇨🇭Banking industry. Critical/UX/Design/Systems/Complexity thinker, learner, practitioner.</p>
+<p>原文連結： <a href="https://uxdesign.cc/organisation-wide-design-as-systems-practice-9b2959cbb3b7">Organisation-wide design as systems practice</a></p>
+<p>上篇： <a href="/Organisation-wide-design-as-systems-practice-1">文章導讀：社會團結合作組織的設計思路（上篇）｜Organisation-wide design as systems practice</a></p>
+<blockquote>
+<p><a href="/Organisation-wide-design-as-systems-practice-1"><img src="https://miro.medium.com/max/1400/1*zMWxJhPu-v5zO-plmmcAdQ.jpeg" alt="上篇"></a></p>
+</blockquote>
+<hr>
+<h2 id="目錄"><a href="#目錄" class="headerlink" title="目錄"></a>目錄</h2><ul>
+<li><a href="">摘要</a></li>
+<li><a href="#%E6%96%87%E7%AB%A0%E8%B3%87%E8%A8%8A">文章資訊</a></li>
+<li><a href="#%E7%9B%AE%E9%8C%84">目錄</a></li>
+<li><a href="#%E5%9B%9E%E9%A1%A7">回顧</a></li>
+<li><a href="#5-%E2%80%9CDesign-excellence%E2%80%9D-as-a-distributed-network%EF%BC%8Cnot-a-centralised-point-of-reference">“Design excellence” as a distributed network, not a centralised point of reference</a><ul>
+<li><a href="#5-1-Building-a-local-and-contextual-shared-understanding">Building a local and contextual shared understanding</a></li>
+<li><a href="#5-2-Distributed-design%EF%BC%8Cownership%EF%BC%8Cand-responsibility%EF%BC%9Aa-better-ethical-framework-for-complex-and-interconnected-challenges-and-to-build-trust-and-autonomy-within-an-organisation">Distributed design, ownership, and responsibility: a better ethical framework for complex &amp; interconnected challenges and to build trust &amp; autonomy within an organisation.</a></li>
+<li><a href="#5-3-Soft-spaces-as-oscillations-in-the-system">Soft spaces as oscillations in the system</a></li>
+<li><a href="#5-4-Focus-on-practice-and-safe-to-fail-spaces-over-generic-certifications">Focus on practice &amp; safe-to-fail spaces over generic certifications</a></li>
+</ul>
+</li>
+<li><a href="#6">Approaching the organisation as islands and archipelagos</a></li>
+<li><a href="#%E7%B8%BD%E7%B5%90">總結</a></li>
+<li><a href="#%E6%B0%B8%E7%BA%8C%E6%89%80%E5%BE%97%E5%AF%A6%E9%A9%97%E5%AE%A4">永續所得實驗室介紹</a></li>
+<li><a href="#%E5%8F%83%E8%80%83%E8%B3%87%E6%96%99">參考資料</a></li>
+</ul>
+<hr>
+<h2 id="回顧"><a href="#回顧" class="headerlink" title="回顧"></a>回顧</h2><p>「Organisation-wide design as systems practice」文章前面我們所討論的</p>
+<p>Enterprise Design: building an ecosystem 一節，討論對於「人類的複雜適應系統 complex adaptive human systems」，裡面由於複雜性，已無法用線性思維去設計系統去設計，需要以設計生態系的方式，即系統思維去設計。</p>
+<p>Beyond organising people, designing ‘spaces’ for interactions 一節，討論了不去強制組織人該做什麼，而是設計Soft Space 去幫助人互動，去產生能應對更多可能性的系統。</p>
+<p>Soft Spaces and enabling constraints一節討論到從政策設計的「The Soft Spaces of Local Economic Development」文章中提取了Soft Space 的概念，並提到了Soft Space非正式互動的重要性，而另外又從「Managing complexity (and chaos) in times of crisis」擷取，介紹了不同的約束形式會產生了不同的效果。</p>
+<p>Scaffolding and attractors</p>
+<p>一節，則是介紹了鷹架的概念作為約束來設計Soft Space 的參考思路，每個部分依照原來部分去連貫延伸，但每個部位都是可以可拆解，或可以任其腐朽。並以Attractors 的概念，去說明會帶來許多可能性的結果。</p>
+<hr>
+<h2 id="5-“Design-excellence”-as-a-distributed-network，not-a-centralised-point-of-reference"><a href="#5-“Design-excellence”-as-a-distributed-network，not-a-centralised-point-of-reference" class="headerlink" title="5-“Design-excellence”-as-a-distributed-network，not-a-centralised-point-of-reference"></a>5-“Design-excellence”-as-a-distributed-network，not-a-centralised-point-of-reference</h2><p>這一節，介紹了我們在設計上入希望將組織視為「複雜的自適應系統時」，會面臨許多挑戰，例如無法明確確定義組織內組織外，另外由於裡面的每個個體，都可能與其他的網絡連結，對於任語意的理解、每個個體動機都不同，甚至會產生互相矛盾。<br>傳統的做法是通過少數個人，或小群體，來詮釋各種語言，並設定所謂「更高的目標」，試圖可以達成一致性。這個方式在傳統很好，但是在組織越來越複雜的狀況，逐漸失效。<br>在面對更複雜的環境中，這樣中心化的做法，會過早簡化答案，而難以應對在複雜的環境中會需要許多不同的潛在方案共存的情況。<br>這種過早收斂的方式，期待一種答案便可應對各種可能性，似乎有些像以前我們談過的在路燈下找鑰匙的心態，希望明燈下有答案，但往往事與願違。</p>
+<blockquote>
+<p><img src="https://miro.medium.com/max/1400/1*Lgdc-hmPpHeb9KsU19Y-yA.png" alt="Path Dependence Theory, critical judgement &amp; the reduction of options"><br><a href="https://www.wiwiss.fu-berlin.de/forschung/pfadkolleg/downloads/organizational_paths.pdf">(圖片來源)</a></p>
+</blockquote>
+<p>另外一個去體會到，為何說過早收斂或中心化的方式，在複雜的社會中越來越難有效果，如下圖，如果一個組織定義為像左邊的正式結構，然而在每個個體，都同時存在更大的環境社會當中，而也同時屬於像右邊另一個非正式網絡中的一部分。<br>這代表不同的語意理解，不同的動機，共存在複雜的社會中，是無法消除的。<br>如文章說到的，不是每個人都會以同樣的方式去意識到同樣的問題，正並非只是階級結構的問題，而是人同時處在正式結構與非正式結構間。<br>「“Not everyone has knowledge of or is aware of the same things, at the same time, in the same way.” This is not (necessarily) a matter of hierarchy: consider instead how formal and informal networks work and influence the flow of information. 」</p>
+<blockquote>
+<p><img src="https://miro.medium.com/max/1400/1*cuYHslyXpimdxrm6tJmWFg.jpeg" alt="Informal network and viral contagion"><br><a href="https://snowfly.nl/en/behaviour-data-contagion-spread-love/">(圖片來源)</a></p>
+</blockquote>
+<h3 id="成員討論"><a href="#成員討論" class="headerlink" title="成員討論"></a>成員討論</h3><ul>
+<li>分享：我想，這也是為何思維需要從團隊內學習擴大到團隊間學習，甚至大家可能沒有意識到的時候也部分這樣做了。<br>我們雖然看起來是在內部群討論，而很可能回家後在親朋好友之間或是去參加外面的社群活動，在各種非正式網絡中去分享我們的概念，以及聽到其他人的理解。最後又會把這些觀念帶回來。可以說已經無法用辦公室人數的方式去理解「嘉鼎智能團隊」是誰。<br>而團隊間的學習，在於互動頻率的高低，當在每個更大社會中的各種網絡中互動時，才能包容更大的社會，也包容了更大社會中的各種不確定性，而非每個個體的對立。<ul>
+<li>回應：在日常，很容易不知不覺就形成特定行為模式(思維)，而此行為模式(思維)也會慢慢擴大到周遭接觸者。最終同頻率者會更靠近，並且循環此模式。</li>
+<li>回應：非常贊同團隊間的學習, 我這些日子也跟不少人分享了我們團隊的團結經濟的學習, “好奇怪” “很特殊” “有意思” “被洗腦了” “有績效” “對人有幫助” 等等各式各樣的反應都有. 理念可以擴散或者擴增集智的起點在於人可以感受到自己獲得受益, 這個受益可大可小, 可直接可間接, 但重點不是具體受益內容, 重點是受益的事件帶給每個人的”感受”. 因每個人的感受千差萬別, 所以更需要我們常常去聆聽對方的感受, 感同身受之後我們才有機會調整自己的受益/改變的描述(但自己受益的事情本身沒有任何改變!) , 讓對方接受跟白團結經濟可以帶給他的好處, 從而他也才有機會親自去實踐, 然後擴大影響力. </li>
+<li>回應：複雜的社會中有著正式和非正式的結構，就像是在舉辦的公民議題活動時, 參加者也會變成分享者，舉辦活動的工作人員也彷彿有時會如同為參加者，在不同的處境有著不同的變化。</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="5-1-Building-a-local-and-contextual-shared-understanding"><a href="#5-1-Building-a-local-and-contextual-shared-understanding" class="headerlink" title="5-1-Building-a-local-and-contextual-shared-understanding"></a>5-1-Building-a-local-and-contextual-shared-understanding</h2><p>前面介紹了非正式網絡會對系統造成的影響，以及各種包含Soft Space、約束、鷹架、吸引子等的概念。而這節開始思考實際上該如何使用這些概念。<br>而前面已經提到了，我們不太可能定義一個明確的網路邊界，以及由中心化的強求一致性的風險。而這一段落強調了連貫性，以及降低實踐的門檻。</p>
+<p>在不知某一個脈絡而行動的情況，風險是做的事會與這個脈絡不一致。<br>然而，因為想要完全弄清某個脈絡，而不採取行動，則可能會損失一個脈絡可能帶來的更多可能性。（並且前面提到的，所謂認清脈絡，往往只是一小群人的意思，而會被小群人給限制。）<br>文章的建議是，採取行動重要於要弄清楚某些脈絡，長期來看可以產生更多的未來性。</p>
+<p>不過要注意到的，文章提到的行動，也並非任意行動，群體的「coherence連貫性」是個重點（如同之前提到的鷹架類似，是在原來群體的基礎上去延伸。）。<br>而重要的是群體能共同的行動，才能產生集智共創的效果。</p>
+<p>這意味著將某個小部分中心的脈絡，延伸到全部的地方，對決策並無太大幫助。（可以想想每個個體都處在不同非正式網絡。）<br>而我們需要的是，讓脈絡或知識可以幫助在每個局域性的範圍都能採取行動，但又能讓整體保持連貫性。<br>「As explained earlier, certain things make sense only to a certain point in the system and generalising this understanding (to other points in the system) won’t necessarily help make good decisions. This means we need to create knowledge and “bias toward action” (intrinsic motivation) at a local level while keeping an overall coherency.」</p>
+<h3 id="成員討論-1"><a href="#成員討論-1" class="headerlink" title="成員討論"></a>成員討論</h3><ul>
+<li>分享：確實如此, 我們在保持連貫性的背景下, 如果可以讓語意或知識推動環境裡面的人/組織去行動, 這樣對環境和這個環境相關的人事物就能夠起到正面的作用。</li>
+<li>分享：這可以讓我們思考ACIS幫助人的策略，由於裡面許多脈絡可能存在於我們內部。<br>我們可以創造一些可以簡單幫助社群動作的知識，但又需確認每位成員的動作是有連貫性的，最終內外社群一同去創立對系統的共同認知，以及共創成果。意味著避免Hard Space（全部由上至下，或中心化的定義脈絡，強加所有群體去理解才行動。），而也避免No Space（每個個體完全依照個人的意識行動，而沒有連貫性。）<br>「Building a local and contextual shared understanding」的方法，便在於建造局域性都能產生連貫動作的知識，而整體形成集體意識。（這一段應該可以幫助了解鷹架的概念，應該如何使用在集智上面）</li>
+<li>分享：從ACIS 來看的確有著共同的脈絡成長著，雖然只是在內部的少數人一同發展，但其中可以連結的人心智能卻是比內部人的好幾百倍或萬倍。</li>
+</ul>
+<hr>
+<h2 id="5-2-Distributed-design，ownership，and-responsibility：a-better-ethical-framework-for-complex-and-interconnected-challenges-and-to-build-trust-and-autonomy-within-an-organisation"><a href="#5-2-Distributed-design，ownership，and-responsibility：a-better-ethical-framework-for-complex-and-interconnected-challenges-and-to-build-trust-and-autonomy-within-an-organisation" class="headerlink" title="5-2-Distributed-design，ownership，and-responsibility：a-better-ethical-framework-for-complex-and-interconnected-challenges-and-to-build-trust-and-autonomy-within-an-organisation"></a>5-2-Distributed-design，ownership，and-responsibility：a-better-ethical-framework-for-complex-and-interconnected-challenges-and-to-build-trust-and-autonomy-within-an-organisation</h2><p>這一段介紹了以建立分散式的自主權，以及責任，是個更能適應複雜性及相互關聯的挑戰更好的框架，可以在組織中建立信任及自主權。<br>而整段在於介紹自主權如何幫助整個群體能產生更多的可能性，而責任則是一種輕約束，在於幫助整體有連貫性。</p>
+<p>建立一個隨時間演變的「感知網絡」，允許每個局部快速感知及反應各種挑戰。<br>讓每個局域的個體都具有自主權，根據個體的經驗去定義什麼是共同想看到的（“好”），以及什麼是不想看到的（“不好“）。此外，尚須讓每個局域都負起責任，去觀察是否整體有朝著正確（共同）的方向前進。<br>透過這個方法，各種脈絡的解釋責任放在每個局部，而非少數個人手中，而每個局域的個體同時可能屬於不同的非正式網絡，能夠用他們的經驗去更好地應對挑戰。<br>透過觀察網絡的連貫性的責任，建立Soft Space 去讓每個不同的局域，依然形成集智。</p>
+<p>這一段引用了另一篇文章的一張圖，「<a href="https://explorer.designcriticalthinking.com/">The Explorer’s Guide</a>」去描述「感知網絡」的島嶼形象。<br>並非組織中每個人都能知道或用同樣的方式理解同一件事。這並非完全是因為階級制，而是因為正式網絡及非正式網絡的信息互動，<br>就像一個島嶼的每個部位，其實都處於更大的背景中。<br>「Not everyone in an organization has knowledge of or is aware of the same things, at the same time, in the same way. This is not (necessarily) a matter of hierarchy: consider instead how formal and informal networks work and influence the flow of information.<br>Like an island might possess beaches, forests, rivers, mountains, abrupt cliffs, (etc.) organisations’ complexity, activities, and processes are both informed by the larger context of the organisation itself as well as the local specificities that people are facing.」</p>
+<blockquote>
+<p><img src="https://miro.medium.com/max/1400/1*HbCWY7QLfYTpa_mhUayosA.png"><br><a href="https://explorer.designcriticalthinking.com/chapters/energy-sensors-triangulation">圖片來源</a></p>
+</blockquote>
+<p>「<a href="https://explorer.designcriticalthinking.com/">The Explorer’s Guide</a>」一文與本文，應該是同一位作者（Kevin Richard ）。<br>在開頭邀請大家作為探索者，而非單純的問題解決者。<br>「An invitation to be explorers, not just problem-solvers」<br>對應我們的話來說，應該就是Zoom-Out，探索、觀察了解整個系統，而去意識到任何系統都可能只是更高維度的一小部分。</p>
+<hr>
+<h2 id="5-3-Soft-spaces-as-oscillations-in-the-system"><a href="#5-3-Soft-spaces-as-oscillations-in-the-system" class="headerlink" title="5-3-Soft-spaces-as-oscillations-in-the-system"></a>5-3-Soft-spaces-as-oscillations-in-the-system</h2><p>這段討論了正式網絡以及非正式網絡中的信息流，會相互影響，而信息流相當於能量在一個系統中流動，相當於一個振盪系統。（能量在動能及位能在不同部位中流動。）<br>以正式及非正式的方式收集，以及對待信息，會產生不同的產出消長，以及影響對脈絡理解的廣度及尺度。<br>Soft Space 的概念，很好的提供非正式信息流的存在，為系統創造更多可能，但在使用Soft Space的概念時，在實務上需要搭配正式的方法流程去設計。</p>
+<p>以收集信息為例，如同非正式的信息收集，有些像訪談，可以聽到大量信息，上下文脈絡可以有許多混合，透過故事形成每個段落的連貫性。缺點是，在處理信息上，可能形成許多雜訊。<br>而定向的收集信息方式，如同調查問卷，則提供了嚴格的框架來收集形式化的信息。</p>
+<p>而「distributing design」，可視為去連結各種正式與非正式網絡的各種互動。</p>
+<p>而在什麼範圍該利用正式或非正式的方法，這段落提供了三個概念。<br>Synchronicity（同步性）<br>適合每個局域性的部位，讓每個部位都有連貫。然而這也是能源密集型的，難以長久維持。<br>亦即前面提到的，讓每個局域部分有自主性，然而卻要避免最後讓這個局域形成中心化。<br>Asynchronicity（異步性）<br>允許具有延遲性、間接，但是自發的反饋。這樣的方式比較不消耗能量，但也比較沒辦法去針對具體情況。<br>Availability (perceived instantaneity) （可用性/瞬時的感知）<br>當異步性越多時，反饋機制往往響應更延遲，而我們在可用的需求下，會需要更瞬時的感知能力。<br>而Soft Space 的運用，則在三個概念中振盪。</p>
+<p>這一段的介紹，大多來自「<a href="https://explorer.designcriticalthinking.com/chapters/energy-sensors-triangulation">The Explorer’s Guide</a> 中的 Energy, Sensors, and Triangulation 一段」<br>而三種概念在不同的時間點及狀態下，都有其需要的地方。</p>
+<p>「All are needed at some point. Time and speed variations are important elements and patterns of synchronicity, asynchronicity, and availability are interesting ways to capture, process, and triangulate information from the network, by the network.」</p>
+<blockquote>
+<p><img src="https://2970742203-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-MT6UxeiaGaUpHnD5fGe%2F-Mf8peEIiijaopzX0QXS%2F-Mf8qD8AQX649YiDZ_td%2F1_XLprvjKt4i_kLP3y-MZAjg.png?alt=media&token=1cbbafd5-2936-49fe-bf7b-831494cee0a2"><br><a href="https://explorer.designcriticalthinking.com/chapters/energy-sensors-triangulation">圖片來源</a></p>
+</blockquote>
+<hr>
+<h2 id="5-4-Focus-on-practice-and-safe-to-fail-spaces-over-generic-certifications"><a href="#5-4-Focus-on-practice-and-safe-to-fail-spaces-over-generic-certifications" class="headerlink" title="5-4-Focus-on-practice-and-safe-to-fail-spaces-over-generic-certifications"></a>5-4-Focus-on-practice-and-safe-to-fail-spaces-over-generic-certifications</h2><p>這段提到了，專注於實踐，以及設計可以安全試錯的空間，而非設計通用的認證。<br>這段比較哲學，遵照「<a href="https://en.wikipedia.org/wiki/Contextualism">Contextualism</a>」脈絡主義的思想，認為各種脈絡是相對於每個動作、話語、表達而理解。</p>
+<p>而設計通用認證的方式，會產生許多限制，因為希望把希望把事物簡化成「基礎知識」，試圖快速生產「營運勞動力」及可操作性，然而卻忘了達到可操作可能需要許多必要且不可少掉的經驗累積，而不能只當作是學習成本。<br>然而，經驗又是相對於某個脈絡的，如果過於依賴經驗，則會對其產生的效果又產生過度想像。<br>而Soft Space 的概念則是提供學習及安全試錯的土壤。<br>最後用軍事概念的類比：小型機組人員、實地訓練、重複動作、情境啟發法等，以建立信任、信心、能力，並接近團體和個人的實踐學習。</p>
+<p>而這一段其中我會注意到的，經驗不可缺，但需要知道經驗只在某個脈絡上有用，在不同狀況下又無意義了。<br>整段可以回想起之前的一句話「緣起性空」，「諸法因緣生，諸法因緣滅」，經驗也是如此。</p>
+<p>網路上看到一段描述「<a href="http://www.thomehfang.com/kumarajiva2/lifeC.html">脈絡主義的生命哲學</a>」，沒找到原文，所以文章排版有些亂，但可以參考。<br>裡面提到脈絡主義的「變異哲學」，像是我們文章這一段提到的，許多傳統哲學希望把事物簡化或線性化，希望可以找到簡單原子的邏輯在各處通用。然而在複雜系統中，卻非如此。<br>『事素或情態不是歷歷分明的原子單位，而是種種趨勢的互攝相涵，備極複雜，經緯錯綜交織，形成大全整體，而又一一各具個性或特色。歷史、事事一網，物物一局，種種情態發生，千端萬緒，齊呈網狀結構，實一焦聚中心，總為其它歷史之諸特色所重重涉入，而原故不詳。脈路端緒構成經緯，經緯、脈路、脈絡等復互為相對。在某一脈絡情境中為脈路或細節者，在另一脈絡情境中其本身即一變而為脈絡矣。』</p>
+<p>看起來「經驗」的需要，就像「世間法」的需要，然而最後又需要看透其空性，Zoom out 「出世間」<br>而同維基百科上講到的。</p>
+<p>『世間和出世間的區別並不是截然斷裂，實際上佛教常說「出世間不離世間」、「煩惱即菩提」，甚至主張應該瞭解世間法，以此導向出世間。』</p>
+<h3 id="成員討論-2"><a href="#成員討論-2" class="headerlink" title="成員討論"></a>成員討論</h3><ul>
+<li>分享：贊同, 煩惱即菩提, 所有的發生都是突破自己, 讓自己變得更好的機會!</li>
+</ul>
+<hr>
+<h2 id="6-Approaching-the-organisation-as-islands-and-archipelagos"><a href="#6-Approaching-the-organisation-as-islands-and-archipelagos" class="headerlink" title="6-Approaching-the-organisation-as-islands-and-archipelagos"></a>6-Approaching-the-organisation-as-islands-and-archipelagos</h2><p>文章的最後一節，以島嶼及群島的形象去思考一個組織。<br>每個島嶼都包含複雜的生態系，我們從地平線接觸到一個島嶼時，無法了解其多大，而降落在其岸邊，也很難知道自己在哪。如同脈絡的複雜程度，大小，以及我們接觸到一個脈絡的角度也不容易知道。<br>然而卻會發現，島嶼上的人、生態系統、基礎設施、地形、當地天氣系統等等，都是相互關聯。<br>最後看到不同島嶼形成的群島，每個島嶼都是獨立的，非常不同的，但鄰近的島嶼卻都會有相關性。</p>
+<p>這一段提到島嶼的複雜性，以及相鄰的關係，主要是說到關注「相鄰可能」、「間接目標」，亦即是專注於現在、這裏可以做什麼？<br>在局域怎麼幫助到人。<br>「Adjacent possibles and aiming at indirect goals: What can be done here and now, that benefits people at a local level?」</p>
+<p>「相鄰可能 Adjacent possibles」是生物學家Stuart Kauffman提出，他發現生物的演化是一種漸進的過程，都是由許多「相鄰可能」所逐漸累積而成。<br>『相鄰可能的含義有二。<br>其一，生物的演化必然是發生在相鄰可能範圍之內。例如，原始細胞可能會演化成高等一些的細胞，但不會在一夜之間演化出人類。<br>其二，生物每一次演變都會打開新的相鄰可能。例如，原始細胞演化成高等一些的細胞後，又能再演化出更高等更多功能的細胞，慢慢的只要給予足夠長的時間，比如說幾十億年，就可能會演化成各種動物，包括人類。』（引自此處）<br>而這概念也被延伸到創新領域，以及複雜系統。<br>而與文章討論的鷹架的概念，相互呼應。亦即，專注於每個局域已有的部分去做延伸，而非想著要將一個中心概念同時可以套用在所有地方。<br>而如此鷹架形成的架構，才可能具有彈性，並組成更多可能性的系統。</p>
+<hr>
+<h2 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h2><p>回顧整個文章，「Organisation-wide design as systems practice」，專注於創造生態系，讓組織產生更多可能性，以及排除掉過硬，中心化的設計思路，我們這裡整理一下整個概念。</p>
+<ol>
+<li><p>為什麼是必須的？<br>符合現代組織是個複雜自適應系統，裡面的成員同時處在正式網絡（組織內），以及非正式網絡中。計劃一個明確未來的方式，而上至下的設計方式，已無法應對多變的社會，並且逐漸失效。</p>
+</li>
+<li><p>怎麼做？<br>文章以「軟空間」及「鷹架」的概念貫穿全文。<br>「軟空間」的概念，幫助組織設計時，不被限制住。然而依然需要有約束才能站在已有的基礎去延伸，「鷹架」的概念便成為可以保有軟空間特性的約束方式。<br>「鷹架」的概念，每一段可能會有不同體會，而這邊整理了下包含了幾個點。</p>
+</li>
+</ol>
+<ul>
+<li>需要在原有的系統上面去延伸。</li>
+<li>每個延伸，都是考慮局域性的，每個局域有連接的方式，而不需將一個點的方式生硬用在所有系統上，透過「相近可能」去演化延伸。<br>鷹架的每一部分的生鏽腐壞、或拆掉，都不影響整體系統。</li>
+<li>「鷹架」的概念，也被用在脈絡上，由每個點去理解脈絡，重在建立局域的互動，以及每個周圍點的連貫性，而非整體硬化的一致。</li>
+</ul>
+<hr>
+<h2 id="永續所得實驗室"><a href="#永續所得實驗室" class="headerlink" title="永續所得實驗室"></a>永續所得實驗室</h2><p>「永續所得實驗室」是由「嘉鼎智能團隊」，呼應社會團結經濟浪潮而成立，主要在協助個體、或組織，運用國際股市連結全球社會經濟的人心智能，增強本身經濟實力；並在過程中融合永續進展的理念，追求經濟、社會、環境各方面的均衡進步發展，尤其經濟上要符合（經世濟民）道理。</p>
+<h3 id="加入團隊"><a href="#加入團隊" class="headerlink" title="加入團隊"></a>加入團隊</h3><p><a href="https://www.104.com.tw/company/10zcirfc">104 (嘉鼎智能｜永續所得實驗室)</a></p>
+<h3 id="社群媒體"><a href="#社群媒體" class="headerlink" title="社群媒體"></a>社群媒體</h3><p>歡迎加入我們的LINE社群一同推廣永續所得倡議</p>
+<blockquote>
+<p>👉 &emsp; <a href="https://line.me/ti/g2/Yn9r9XlbjJjhjppxjyzmbQ"> 永續所得實驗室 LINE 社群</a></p>
+<p>👉 &emsp; <a href="https://www.facebook.com/sustainable.income.lab"> 永續所得實驗室 FB</a></p>
+</blockquote>
+<hr>
+<h2 id="參考資料"><a href="#參考資料" class="headerlink" title="參考資料"></a>參考資料</h2><ul>
+<li><a href="https://explorer.designcriticalthinking.com/">The Explorer’s Guide</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Contextualism">Contextualism</a></li>
+<li><a href="http://www.thomehfang.com/kumarajiva2/lifeC.html">脈絡主義的生命哲學</a></li>
+</ul>
+<p>上篇： <a href="/Organisation-wide-design-as-systems-practice-1">文章導讀：社會團結合作組織的設計思路（上篇）｜Organisation-wide design as systems practice</a></p>
+<blockquote>
+<p><a href="/Organisation-wide-design-as-systems-practice-1"><img src="https://miro.medium.com/max/1400/1*zMWxJhPu-v5zO-plmmcAdQ.jpeg" alt="上篇"></a></p>
+</blockquote>
 ]]></content>
       <tags>
         <tag>社會團結經濟</tag>
@@ -2021,45 +2021,6 @@
       </tags>
   </entry>
   <entry>
-    <title>ETF 背後的巨頭現象</title>
-    <url>/The-Company-That-Owns-the-World/</url>
-    <content><![CDATA[<blockquote>
-<p><img src="https://miro.medium.com/max/1400/1*3RBGqHk2FRCaxpP4O-QUaw.jpeg"><br><a href="https://upload.wikimedia.org/wikipedia/commons/a/ac/Laurence_Douglas_Fink_%28cropped%29.jpg">(圖片來源)</a></p>
-</blockquote>
-<blockquote>
-<p>【為何摘錄這篇文章】<br>在2008年金融海嘯後，許多人選擇投資ETF，認為這是安全保存資產的方式。然而本篇文章提到ETF已經被金融巨頭壟斷，我們買這些ETF可能錢大多都進了這些巨頭的口袋。而巨頭的代表之一Blackrock的CEO曾提到認為石化燃料撤資的行為無意義，並且大量推行ESG基金。希望閱讀這邊文章後，可以思考金融巨頭是如何影響我們的認知，以及我們該如何應對？</p>
-</blockquote>
-<span id="more"></span>
-<hr>
-<p><a href="https://medium.com/predict/forget-fusion-the-future-of-energy-is-already-here-519ffd2448a9">完整原文：Forget Fusion, The Future Of Energy Is Already Here.</a></p>
-<h2 id="ETF-真的保值嗎？"><a href="#ETF-真的保值嗎？" class="headerlink" title="ETF 真的保值嗎？"></a>ETF 真的保值嗎？</h2><p>在2008年金融海嘯後，許多人開始覺得不要求要透過投資賺很多錢，只要保值就好，而去買ETF，然而事實上並非如此。ETF相當於是把資源聚集在幾個少家公司的集資表現。</p>
-<p>被三大ETF金融業者掌控操縱，是目前最為國際化的美國股市，令人難以忽視的潛在危機，我們或許應幫助更多人去look through、也就是加以「看（透、拆）穿」。</p>
-<p>而對指數走勢舉足輕重的「權值股」，通常就是市值名列前茅的企業，意味著投資人必須對其付出極高成本，故與Cost Potential（單位成本可連結到實體經濟的能量）上的表現背道而馳，故能成為一種破解之道。</p>
-<h2 id="金融對永續發展議題的自圓其說"><a href="#金融對永續發展議題的自圓其說" class="headerlink" title="金融對永續發展議題的自圓其說"></a>金融對永續發展議題的自圓其說</h2><p>其實這不單是金融問題，因為文中提到BlackRock的CEO Larry Fink對減少石化能源的看法：「“Unfortunately, so much of the policies are greenwashing,” Fink said. “Nothing is more greenwashing than divestiture. Because it doesn’t change the [carbon] footprint of the world.”」</p>
-<p><a href="https://mitsloan.mit.edu/ideas-made-to-matter/blackrocks-larry-fink-dont-divest-fossil-fuels-stay-game">另一篇文</a>，細節說到 Larry Fink為何認為石化燃料撤資無效，意思是以公開市場來說有人撤資了，另外的人會持有。</p>
-<p>「Keep in mind, if a foundation or an insurance company or a pension fund says, ‘I’m not going to own any hydrocarbons,’ well, somebody else is, so you’re not changing the world」</p>
-<p>但下面我們可以看到Larry Fink的說法，其實可能也是一種漂綠，想推進ESG基金。但可能他反而會用同樣的詞，說政府的撤資行動是浪費時間的漂綠。</p>
-<p>BlackRock 佔了近 39% 的ETF市場，再和上Vanguard、State Street，三大巨頭佔了80%的ETF，而也包含了ESG ETF。而形成資源、決定權集中在少數的狀況。</p>
-<p> Larry Fink 說，不需要對石化燃料撤資，理由是黑石只是一家公司，撤資不會造成任何改變，需要系統思考… 等等</p>
-<p>作者提到，這種說法對於說一個家庭做塑膠回收沒太多改變可能還有些邏輯，但說一個10兆美元下的公司的動作不會有任何用處，完全無道理。</p>
-<p>而這幾大巨頭控制了接近40%的美國企業，88% 的S&amp;P 500 企業，甚至包含看起來表面是競爭的企業，而其實完全是被這三大巨頭給冗斷。</p>
-<h2 id="小結"><a href="#小結" class="headerlink" title="小結"></a>小結</h2><p>文章希望大家能看穿這些點，能做些BlackRock不會做的事，即負擔起個人責任，作法是買ETF前需深思，否則，可能是幫助錢都到了BlackRock等巨頭的口袋。</p>
-<hr>
-<h2 id="永續所得實驗室"><a href="#永續所得實驗室" class="headerlink" title="永續所得實驗室"></a>永續所得實驗室</h2><p>「永續所得實驗室」是由「嘉鼎智能團隊」，呼應社會團結經濟浪潮而成立，主要在協助個體、或組織，運用國際股市連結全球社會經濟的人心智能，增強本身經濟實力；並在過程中融合永續進展的理念，追求經濟、社會、環境各方面的均衡進步發展，尤其經濟上要符合（經世濟民）道理。</p>
-<h3 id="加入團隊"><a href="#加入團隊" class="headerlink" title="加入團隊"></a>加入團隊</h3><p><a href="https://www.104.com.tw/company/10zcirfc">104 (嘉鼎智能｜永續所得實驗室)</a></p>
-<h3 id="社群媒體"><a href="#社群媒體" class="headerlink" title="社群媒體"></a>社群媒體</h3><p>歡迎加入我們的LINE社群一同推廣永續所得倡議</p>
-<blockquote>
-<p>👉 &emsp; <a href="https://line.me/ti/g2/Yn9r9XlbjJjhjppxjyzmbQ"> 永續所得實驗室 LINE 社群</a></p>
-<p>👉 &emsp; <a href="https://www.facebook.com/sustainable.income.lab"> 永續所得實驗室 FB</a></p>
-</blockquote>
-]]></content>
-      <tags>
-        <tag>永續所得實驗室</tag>
-        <tag>ETF</tag>
-        <tag>ESG</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>團結與社會支持</title>
     <url>/Solidarity-and-Social-Support/</url>
     <content><![CDATA[<blockquote>
@@ -2266,6 +2227,45 @@
       <tags>
         <tag>團結經濟學</tag>
         <tag>團結經濟</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>ETF 背後的巨頭現象</title>
+    <url>/The-Company-That-Owns-the-World/</url>
+    <content><![CDATA[<blockquote>
+<p><img src="https://miro.medium.com/max/1400/1*3RBGqHk2FRCaxpP4O-QUaw.jpeg"><br><a href="https://upload.wikimedia.org/wikipedia/commons/a/ac/Laurence_Douglas_Fink_%28cropped%29.jpg">(圖片來源)</a></p>
+</blockquote>
+<blockquote>
+<p>【為何摘錄這篇文章】<br>在2008年金融海嘯後，許多人選擇投資ETF，認為這是安全保存資產的方式。然而本篇文章提到ETF已經被金融巨頭壟斷，我們買這些ETF可能錢大多都進了這些巨頭的口袋。而巨頭的代表之一Blackrock的CEO曾提到認為石化燃料撤資的行為無意義，並且大量推行ESG基金。希望閱讀這邊文章後，可以思考金融巨頭是如何影響我們的認知，以及我們該如何應對？</p>
+</blockquote>
+<span id="more"></span>
+<hr>
+<p><a href="https://medium.com/predict/forget-fusion-the-future-of-energy-is-already-here-519ffd2448a9">完整原文：Forget Fusion, The Future Of Energy Is Already Here.</a></p>
+<h2 id="ETF-真的保值嗎？"><a href="#ETF-真的保值嗎？" class="headerlink" title="ETF 真的保值嗎？"></a>ETF 真的保值嗎？</h2><p>在2008年金融海嘯後，許多人開始覺得不要求要透過投資賺很多錢，只要保值就好，而去買ETF，然而事實上並非如此。ETF相當於是把資源聚集在幾個少家公司的集資表現。</p>
+<p>被三大ETF金融業者掌控操縱，是目前最為國際化的美國股市，令人難以忽視的潛在危機，我們或許應幫助更多人去look through、也就是加以「看（透、拆）穿」。</p>
+<p>而對指數走勢舉足輕重的「權值股」，通常就是市值名列前茅的企業，意味著投資人必須對其付出極高成本，故與Cost Potential（單位成本可連結到實體經濟的能量）上的表現背道而馳，故能成為一種破解之道。</p>
+<h2 id="金融對永續發展議題的自圓其說"><a href="#金融對永續發展議題的自圓其說" class="headerlink" title="金融對永續發展議題的自圓其說"></a>金融對永續發展議題的自圓其說</h2><p>其實這不單是金融問題，因為文中提到BlackRock的CEO Larry Fink對減少石化能源的看法：「“Unfortunately, so much of the policies are greenwashing,” Fink said. “Nothing is more greenwashing than divestiture. Because it doesn’t change the [carbon] footprint of the world.”」</p>
+<p><a href="https://mitsloan.mit.edu/ideas-made-to-matter/blackrocks-larry-fink-dont-divest-fossil-fuels-stay-game">另一篇文</a>，細節說到 Larry Fink為何認為石化燃料撤資無效，意思是以公開市場來說有人撤資了，另外的人會持有。</p>
+<p>「Keep in mind, if a foundation or an insurance company or a pension fund says, ‘I’m not going to own any hydrocarbons,’ well, somebody else is, so you’re not changing the world」</p>
+<p>但下面我們可以看到Larry Fink的說法，其實可能也是一種漂綠，想推進ESG基金。但可能他反而會用同樣的詞，說政府的撤資行動是浪費時間的漂綠。</p>
+<p>BlackRock 佔了近 39% 的ETF市場，再和上Vanguard、State Street，三大巨頭佔了80%的ETF，而也包含了ESG ETF。而形成資源、決定權集中在少數的狀況。</p>
+<p> Larry Fink 說，不需要對石化燃料撤資，理由是黑石只是一家公司，撤資不會造成任何改變，需要系統思考… 等等</p>
+<p>作者提到，這種說法對於說一個家庭做塑膠回收沒太多改變可能還有些邏輯，但說一個10兆美元下的公司的動作不會有任何用處，完全無道理。</p>
+<p>而這幾大巨頭控制了接近40%的美國企業，88% 的S&amp;P 500 企業，甚至包含看起來表面是競爭的企業，而其實完全是被這三大巨頭給冗斷。</p>
+<h2 id="小結"><a href="#小結" class="headerlink" title="小結"></a>小結</h2><p>文章希望大家能看穿這些點，能做些BlackRock不會做的事，即負擔起個人責任，作法是買ETF前需深思，否則，可能是幫助錢都到了BlackRock等巨頭的口袋。</p>
+<hr>
+<h2 id="永續所得實驗室"><a href="#永續所得實驗室" class="headerlink" title="永續所得實驗室"></a>永續所得實驗室</h2><p>「永續所得實驗室」是由「嘉鼎智能團隊」，呼應社會團結經濟浪潮而成立，主要在協助個體、或組織，運用國際股市連結全球社會經濟的人心智能，增強本身經濟實力；並在過程中融合永續進展的理念，追求經濟、社會、環境各方面的均衡進步發展，尤其經濟上要符合（經世濟民）道理。</p>
+<h3 id="加入團隊"><a href="#加入團隊" class="headerlink" title="加入團隊"></a>加入團隊</h3><p><a href="https://www.104.com.tw/company/10zcirfc">104 (嘉鼎智能｜永續所得實驗室)</a></p>
+<h3 id="社群媒體"><a href="#社群媒體" class="headerlink" title="社群媒體"></a>社群媒體</h3><p>歡迎加入我們的LINE社群一同推廣永續所得倡議</p>
+<blockquote>
+<p>👉 &emsp; <a href="https://line.me/ti/g2/Yn9r9XlbjJjhjppxjyzmbQ"> 永續所得實驗室 LINE 社群</a></p>
+<p>👉 &emsp; <a href="https://www.facebook.com/sustainable.income.lab"> 永續所得實驗室 FB</a></p>
+</blockquote>
+]]></content>
+      <tags>
+        <tag>永續所得實驗室</tag>
+        <tag>ETF</tag>
+        <tag>ESG</tag>
       </tags>
   </entry>
   <entry>
@@ -3407,166 +3407,6 @@
       </tags>
   </entry>
   <entry>
-    <title>【公民議題大家來討論｜經濟自主Ｘ永續發展】｜活動筆記</title>
-    <url>/economic-autonomy/</url>
-    <content><![CDATA[<blockquote>
-<p><img src="https://static.accupass.com/eventbanner/2302040924222571558980.jpg"></p>
-</blockquote>
-<blockquote>
-<p>本文由2023/2/24「115B實驗室」發起的【公民議題大家來討論】經濟自主Ｘ永續發展活動中，摘錄整理。這次，除了討論過程，也開放主題由參與者一同決定。</p>
-</blockquote>
-<span id="more"></span>
-
-<hr>
-<h2 id="活動連結"><a href="#活動連結" class="headerlink" title="活動連結"></a>活動連結</h2><ul>
-<li>活動頁面：<a href="https://www.accupass.com/event/2302040852345112882210">【公民議題大家來討論】經濟自主Ｘ永續發展</a></li>
-<li>討論區連結：<a href="https://join.skype.com/vW3qoOosG7Mg">本次系列活動Skype群組</a></li>
-<li>活動影片：<a href="https://fb.watch/i-XO_aXJfQ/">紀錄連結</a></li>
-</ul>
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fsustainable.income.lab%2Fvideos%2F5651146798345715%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
-
-<hr>
-<h2 id="目錄"><a href="#目錄" class="headerlink" title="目錄"></a>目錄</h2><ul>
-<li><a href="">簡介</a></li>
-<li><a href="#%E6%B4%BB%E5%8B%95%E9%80%A3%E7%B5%90">活動連結</a></li>
-<li><a href="#%E7%9B%AE%E9%8C%84">目錄</a></li>
-<li><a href="#%E7%B0%A1%E4%BB%8B">簡介</a></li>
-<li><a href="#%E6%9C%AC%E6%AC%A1%E8%A8%8E%E8%AB%96%E5%8F%83%E8%88%87%E8%80%85">本次討論參與者</a></li>
-<li><a href="#%E6%9C%AC%E6%AC%A1%E6%8F%90%E6%A1%88%E4%B8%BB%E9%A1%8C%E5%8F%8A%E8%A8%8E%E8%AB%96">本次提案主題及討論</a><ul>
-<li><a href="#%E4%B8%BB%E9%A1%8C%E4%B8%80%EF%BC%9AESG%E4%BF%AE%E5%BE%A9%E4%B8%96%E7%95%8C-%E6%B0%B4%E8%B3%87%E6%BA%90%C2%B7%E6%B7%A8%E9%9B%B6%E7%A2%B3%E6%8E%92">主題一：ESG修復世界-水資源·淨零碳排</a></li>
-<li><a href="#%E4%B8%BB%E9%A1%8C%E4%BA%8C%EF%BC%88%E8%87%A8%E6%99%82%E4%B8%BB%E9%A1%8C%EF%BC%89%EF%BC%9AAI%E8%88%87%E5%85%A8%E6%B0%91%E5%9F%BA%E6%9C%AC%E6%94%B6%E5%85%A5">主題二（臨時主題）：AI與全民基本收入</a></li>
-</ul>
-</li>
-<li><a href="#%E5%8F%AF%E6%8C%81%E7%BA%8C%E8%A8%8E%E8%AB%96%E4%B9%8B%E4%B8%BB%E9%A1%8C">可持續討論之主題</a></li>
-<li><a href="#%E5%BB%B6%E4%BC%B8%E7%B3%BB%E5%88%97%E4%B8%BB%E9%A1%8C%E8%83%8C%E6%99%AF">延伸系列主題背景</a></li>
-<li><a href="#%E5%8F%83%E8%88%87%E8%80%85%E7%B5%90%E5%B0%BE%E5%BF%83%E5%BE%97">參與者結尾心得</a></li>
-<li><a href="#115B%E5%AF%A6%E9%A9%97%E5%AE%A4">115B實驗室簡介</a></li>
-</ul>
-<hr>
-<h2 id="簡介"><a href="#簡介" class="headerlink" title="簡介"></a>簡介</h2><p>2022年，115B實驗室舉辦了「 永續發展 X 自主 」的系列活動，為大眾提供了一個有趣的學習平台，讓參與者獲得對永續發展的廣泛認識，以及深入探討與永續發展相關的議題。 </p>
-<p>在前兩次活動中，參與者可以通過討論、辯論以及實踐來理解「選擇權利自主」，以及「能源自主」對永續發展的重要性，並自主探索和採取可持續的行動。 </p>
-<p>為了更加深入地探索永續發展與經濟自主的相關話題，本次活動將采用審議式民主的形式，以小組討論、互動活動和小組討論為主，讓參與者共同思考和討論有關「永續發展和經濟自主」的議題，並通過各種想法和經驗，提出與永續發展有關的提案。</p>
-<hr>
-<h2 id="本次討論參與者"><a href="#本次討論參與者" class="headerlink" title="本次討論參與者"></a>本次討論參與者</h2><p>提案者：</p>
-<ul>
-<li>駿騰綠動有限公司-王宣堯（會前提案：ESG修復世界-水資源·淨零碳排）</li>
-<li>啾霖（臨時提案：AI與全民基本收入）</li>
-</ul>
-<p>語音討論參與者：</p>
-<ul>
-<li>林瑪莉</li>
-<li>黃世和</li>
-</ul>
-<hr>
-<h2 id="本次提案主題及討論"><a href="#本次提案主題及討論" class="headerlink" title="本次提案主題及討論"></a>本次提案主題及討論</h2><p>本次有兩個主題</p>
-<p>分別為</p>
-<ul>
-<li>ESG修復世界-水資源·淨零碳排</li>
-<li>AI與全民基本收入</li>
-</ul>
-<p>本次依照兩個題目進行討論</p>
-<h3 id="主題一：ESG修復世界-水資源·淨零碳排"><a href="#主題一：ESG修復世界-水資源·淨零碳排" class="headerlink" title="主題一：ESG修復世界-水資源·淨零碳排"></a>主題一：ESG修復世界-水資源·淨零碳排</h3><h4 id="主題描述"><a href="#主題描述" class="headerlink" title="主題描述"></a>主題描述</h4><p>2021年無颱風登台，也間接讓台灣今年遭逢百年大旱，中部更於4月份啟動供五停二限水措施，水情仍舊嚴峻，也威脅到了新竹科學園區的用水，台灣糧倉雲嘉南地區也紛紛停耕，水資源攸關民生用水與經濟發展。</p>
-<p>竹苗地區供應竹科主要水庫，蓄水率紛紛跌至5%上下，至今仍在供水調度下，新竹地區仍努力維持水情橙燈，經濟部指出，這一條管線全長26公里，原本要到今年6月才完工。但水利署2020年就預期水情嚴峻，與台水公司趕工拚進度，讓桃竹幹管提早四個月完工通水，也就是說，若沒有這條管線，水庫真的會空庫，以此有「一條水管救世界」的故事。<br>2022年尚未有颱風襲台，以致仰賴颱風帶來豐沛水氣的台灣水情吃緊。水利署指出，基隆市及新北市汐止區自8月15日水情燈號轉為綠燈，基隆新山水庫的蓄水量也僅剩4成，還好後有尼莎颱風來救援水情，但中央氣象局指出，未來預估每年太平洋反聖嬰現象加劇，每年仰賴颱風帶來豐沛水氣的台灣也陷入缺水危機。</p>
-<p>台灣降雨量全世界平均值兩倍以上，但因降雨區季節氣候與分佈不均影響，我們被聯合國列為世界缺水之一，此外因氣候變遷問題，同島一命不能淪為口號，因此如何提升水資源的調度與彈性，水利署目前有四大策略，開源、節流、調度、備援，本公司著重水利署備援開發此-民生用水機動給水方案計畫，目前水利署備援水機制為戰備水井機制，本公司計劃希望能為台灣備援水機制，提供研發創新的低成本民生用水的服務。<br>沿海地層下陷區可架設 例如太陽能板廠，集水池，漁電共生首先給魚好的環境，搭配自走式過濾裝置改善養殖水才會更好推動漁電共生。</p>
-<p>#<a href="https://e-info.org.tw/taxonomy/term/14773">自走式水底吸塵過濾裝置</a><br>#專利字號M633437</p>
-<h4 id="想要問參與者的三個問題"><a href="#想要問參與者的三個問題" class="headerlink" title="想要問參與者的三個問題"></a>想要問參與者的三個問題</h4><p>養殖水回收、雨水回收、戰備用水</p>
-<h4 id="分享摘錄"><a href="#分享摘錄" class="headerlink" title="分享摘錄"></a>分享摘錄</h4><p>駿騰綠動的王宣堯早期主要在推廣實踐魚菜共生，過程中發現水資源的缺乏是重要議題，因此發展了淨水的項目。</p>
-<p>像是新加坡、以色列等地，透過雨水過濾成為二級民生用水。一級及二級的差別主要在懸浮粒子ppm值，一般自來水在100-200ppm左右，可供於飲用、煮飯。二級則在300-700ppm。國土較小的國家會用二級民生用水用在洗澡、沖馬桶等用處，屬於大量用水。台灣每人平均約需250公升用水，而工廠消耗更多。</p>
-<p>對於雨水較多的台灣來說，因尚未永續將雨水保存，而長期有缺水議題。以前不留，一部分因為水庫淤砂現象不嚴重，然而隨著淤沙現象嚴重，缺水議題越來越嚴重。一杯水有三～四成的淤沙。又因氣候變遷加劇，淤水現象更重。王宣堯團隊開始了雨水回收加淨化系統的項目，建在屋頂上。<br>像是基隆去年降雨雖多，但許多沒有進入到水庫。國軍則是利用淨水卡車，台中也利用了移動式設備。</p>
-<p>台灣雖非聯合國的一部分，但由於全球關係，也受到了SDGs議題的影響，但目前較多專注於如綠電問題，水資源議題較少被提及。希望可以幫助民生用水，以及魚電共生。以魚電共生來說，可以透過進化水池，避免需要許多水資源利用，包含地下水的利用會影響。</p>
-<p>對於工廠來說，水的使用與電一樣重要，當停電時目前有許多來源，但停水時，就需要利用回收水。</p>
-<p>駿騰綠動已經與不同單位簽訂MOU，並希望有更多MOU能推進包含SBIR、各種政府資源，以推進項目。</p>
-<h4 id="問題"><a href="#問題" class="headerlink" title="問題"></a>問題</h4><ul>
-<li>淨水會需要用到用電，用電也會影響到不同永續議題，該如何平衡？<ul>
-<li>駿騰綠動目前使用渦輪馬達，較為省電，而也可以使用太陽能等綠電。</li>
-</ul>
-</li>
-<li>MOU：是合作備忘錄，透過簽備忘錄與合作者達成共識，當未來有更多資源可以大量上市，可以幫助客戶，也因為MOU來告訴政府其需求，來獲得資源。除了這個專案，其他永續發展的項目MOU也是重要的方式。</li>
-</ul>
-<h4 id="討論、聯想"><a href="#討論、聯想" class="headerlink" title="討論、聯想"></a>討論、聯想</h4><ul>
-<li>缺水＋永續發展會想到什麼？<ul>
-<li>新竹去年有喝好水公投，因為工廠需要大量用水，造成水的污染，但又不可以沒工廠傷害經濟，該如何放在一起？</li>
-<li>威尼詩水都也開始缺水，雖然可能一整年有許多水，但因為不平均，而有些季節缺水。台灣也有類似水不均的議題。</li>
-<li>SBIR海選是否能幫助資源？<ul>
-<li>一部分有幫助，但如何幫助政府了解其重要性？像是政府持續在補助綠電，淡水的部分較少。永續來說，也不可持續靠補助。中南部了解缺水，但北部往往忽略。</li>
-<li>「水的價值」，裡面從非洲的案例討論到許多永續發展議題如教育、兩性平權等等議題，背後都被水資源給影響。然而水議題在各種永續議題是往往被忽略的，可能因為太常見了而沒被注意到。</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>北部沒有感受到缺水對自身的影響，然而如南部用水影響到了農作，而北部不可能不被影響。許多永許發展的議題也是一樣，不可以只針對一小部分去看待，需要系統思考。對政府提案過程，如果過度分工也會發生無法系統思考的狀況。</li>
-<li>日常的家庭，也需要學習二次使用。</li>
-</ul>
-<h3 id="主題二（臨時主題）：AI與全民基本收入"><a href="#主題二（臨時主題）：AI與全民基本收入" class="headerlink" title="主題二（臨時主題）：AI與全民基本收入"></a>主題二（臨時主題）：AI與全民基本收入</h3><h4 id="主題描述-1"><a href="#主題描述-1" class="headerlink" title="主題描述"></a>主題描述</h4><p>如最近火熱的ChatGPT，已經非常的人性化，應用很廣。雖然不會完全取代人類，但卻會影響許多人的工作。那其產生的產值，是否能和UBI的概念能夠結合？</p>
-<h4 id="討論"><a href="#討論" class="headerlink" title="討論"></a>討論</h4><ul>
-<li><p>AI取代人的工作，但實際上AI背後的資料庫來自於人。所以可能造成AI的成果其實來自一部分人的努力，但卻造成了同一部分人的失業。是否該將這樣的產值還回？</p>
-</li>
-<li><p>世界是不斷前進，不該因此而去阻擋新科技、時代的發展？</p>
-<ul>
-<li>有老師因為害怕職業被搶走，而不教導學生，然而不該阻礙時代的進步。</li>
-<li>在這樣的時代，人需要順應改變。</li>
-<li>但這樣的過程，也要注意避免弱勢族群無法跟上。</li>
-</ul>
-</li>
-<li><p>GhatGPT的文字，是否代表了使用工具者的文字？</p>
-<ul>
-<li>例如著名吳姓作家，因AI製圖產生的爭議言論，也讓人省思AI的創作，屬於誰的權力？</li>
-<li>由使用關鍵字的過程，可能也包含為創作的一部分。似乎的確使用AI創作，也是一種創作者，但並非代表全部都是創作者的。而非AI的時代，也有類似的思考，許多創作者經過學習，才創作，這背後代表創作背後其實都是許多人共同的成果。</li>
-</ul>
-</li>
-</ul>
-<hr>
-<h2 id="可持續討論之主題"><a href="#可持續討論之主題" class="headerlink" title="可持續討論之主題"></a>可持續討論之主題</h2><ul>
-<li>您想到的經濟自主方式有哪些？</li>
-<li>上面想到的經濟自主方式，有是否有可能與永續發展相矛盾？</li>
-<li>該如何避免上面矛盾？經濟在永續發展中的地位為何？</li>
-</ul>
-<hr>
-<h2 id="延伸系列主題背景"><a href="#延伸系列主題背景" class="headerlink" title="延伸系列主題背景"></a>延伸系列主題背景</h2><p>永續發展以及再生的概念，往往是有環境、社會、經濟不同面向的系統交互。其中，「自主」在不同面向，皆佔有重要地位。本次系列的活動中，將會有三個面向的大主題，並以社群提案主題，以及參與討論的形式，一同討論自主在不同領域的探索</p>
-<ul>
-<li>2022年11月：選擇自主<ul>
-<li><a href="/right-to-choose/">【公民議題大家來討論｜選擇權利自主Ｘ永續發展】｜活動筆記</a></li>
-</ul>
-</li>
-<li>2022年12月：能源自主<ul>
-<li><a href="/energy-independence/">【公民議題大家來討論｜能源自主Ｘ永續發展】</a></li>
-</ul>
-</li>
-<li>2023年2月：經濟自主<ul>
-<li><a href="/economic-autonomy/">公民議題大家來討論｜經濟自主Ｘ永續發展】</a></li>
-</ul>
-</li>
-</ul>
-<p>活動，參考審議式類型活動中的開放會議技術，並且以實際人數、線上做大幅調整。由「115B實驗室」設定大主題、時間，並由參與者依造大主題，提出自己自己對大主題的不同問題，以及想像。透過帶領分享的形式進行討論</p>
-<hr>
-<h2 id="參與者結尾心得"><a href="#參與者結尾心得" class="headerlink" title="參與者結尾心得"></a>參與者結尾心得</h2><p>這次結尾，下面包含了一些參與者的心得摘錄。</p>
-<ul>
-<li>永續發展議題需要有系統思維。例如南部的水資源缺乏，雖北部不直接缺水，但被農作物等因素給影響。</li>
-<li>創作許多時候無論是否有AI，往往都非由個人而來，代表著其創作產生的價值都該有一大部分須與大家共享</li>
-<li>台灣的水太便宜，讓大家忘記了這個議題，希望大家能夠透過各種方法注意到。</li>
-<li>AI幫助了我們許多的部分，但沒有完全取代人。</li>
-<li>許多人沒有感受到經濟跟個人的相關，透過討論，可以幫助了解各種因素的相互關聯。</li>
-</ul>
-<p>包含上面可持續討論之主題，歡迎各位參與者持續在SkyPe的對話區內，或我們的社群內持續探討。希望未來，除了探討外，也一同嘗試各種實踐。</p>
-<hr>
-<h2 id="115B實驗室"><a href="#115B實驗室" class="headerlink" title="115B實驗室"></a>115B實驗室</h2><p>「115B實驗室」是由「嘉鼎智能團隊」，呼應社會團結經濟浪潮而成立，主要在協助個體、或組織，運用國際股市連結全球社會經濟的人心智能，增強本身經濟實力；並在過程中融合永續進展的理念，追求經濟、社會、環境各方面的均衡進步發展，尤其經濟上要符合（經世濟民）道理。</p>
-<h3 id="加入團隊"><a href="#加入團隊" class="headerlink" title="加入團隊"></a>加入團隊</h3><p><a href="https://www.104.com.tw/company/10zcirfc">104 (嘉鼎智能｜115B實驗室)</a></p>
-<h3 id="社群媒體"><a href="#社群媒體" class="headerlink" title="社群媒體"></a>社群媒體</h3><p>歡迎加入我們的LINE社群一同推廣永續所得倡議</p>
-<blockquote>
-<p>👉 &emsp; <a href="https://line.me/ti/g2/Yn9r9XlbjJjhjppxjyzmbQ"> 115B實驗室 LINE 社群</a></p>
-<p>👉 &emsp; <a href="https://www.facebook.com/sustainable.income.lab">115B實驗室 FB</a></p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>公民議題大家來討論</category>
-      </categories>
-      <tags>
-        <tag>115B實驗室</tag>
-        <tag>自主</tag>
-        <tag>經濟</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>文章導讀：面對金融化｜過度金融化對經濟帶來的負面影響</title>
     <url>/confronting-financialisation/</url>
     <content><![CDATA[<p>自1980年以來，可說是金融化的時期 - 當中涵蓋金融部門的增長、金融工具的廣泛發展、放鬆金融管制和金融自由化、金融機構對公司的所有權以及對「股東價值」的追求、私有化和金融部門去共同化等。金融化的影響力遍及全球，以各種不同的速度與形式發展。</p>
@@ -3773,6 +3613,166 @@
       <tags>
         <tag>永續所得</tag>
         <tag>去金融化</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【公民議題大家來討論｜經濟自主Ｘ永續發展】｜活動筆記</title>
+    <url>/economic-autonomy/</url>
+    <content><![CDATA[<blockquote>
+<p><img src="https://static.accupass.com/eventbanner/2302040924222571558980.jpg"></p>
+</blockquote>
+<blockquote>
+<p>本文由2023/2/24「115B實驗室」發起的【公民議題大家來討論】經濟自主Ｘ永續發展活動中，摘錄整理。這次，除了討論過程，也開放主題由參與者一同決定。</p>
+</blockquote>
+<span id="more"></span>
+
+<hr>
+<h2 id="活動連結"><a href="#活動連結" class="headerlink" title="活動連結"></a>活動連結</h2><ul>
+<li>活動頁面：<a href="https://www.accupass.com/event/2302040852345112882210">【公民議題大家來討論】經濟自主Ｘ永續發展</a></li>
+<li>討論區連結：<a href="https://join.skype.com/vW3qoOosG7Mg">本次系列活動Skype群組</a></li>
+<li>活動影片：<a href="https://fb.watch/i-XO_aXJfQ/">紀錄連結</a></li>
+</ul>
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fsustainable.income.lab%2Fvideos%2F5651146798345715%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+<hr>
+<h2 id="目錄"><a href="#目錄" class="headerlink" title="目錄"></a>目錄</h2><ul>
+<li><a href="">簡介</a></li>
+<li><a href="#%E6%B4%BB%E5%8B%95%E9%80%A3%E7%B5%90">活動連結</a></li>
+<li><a href="#%E7%9B%AE%E9%8C%84">目錄</a></li>
+<li><a href="#%E7%B0%A1%E4%BB%8B">簡介</a></li>
+<li><a href="#%E6%9C%AC%E6%AC%A1%E8%A8%8E%E8%AB%96%E5%8F%83%E8%88%87%E8%80%85">本次討論參與者</a></li>
+<li><a href="#%E6%9C%AC%E6%AC%A1%E6%8F%90%E6%A1%88%E4%B8%BB%E9%A1%8C%E5%8F%8A%E8%A8%8E%E8%AB%96">本次提案主題及討論</a><ul>
+<li><a href="#%E4%B8%BB%E9%A1%8C%E4%B8%80%EF%BC%9AESG%E4%BF%AE%E5%BE%A9%E4%B8%96%E7%95%8C-%E6%B0%B4%E8%B3%87%E6%BA%90%C2%B7%E6%B7%A8%E9%9B%B6%E7%A2%B3%E6%8E%92">主題一：ESG修復世界-水資源·淨零碳排</a></li>
+<li><a href="#%E4%B8%BB%E9%A1%8C%E4%BA%8C%EF%BC%88%E8%87%A8%E6%99%82%E4%B8%BB%E9%A1%8C%EF%BC%89%EF%BC%9AAI%E8%88%87%E5%85%A8%E6%B0%91%E5%9F%BA%E6%9C%AC%E6%94%B6%E5%85%A5">主題二（臨時主題）：AI與全民基本收入</a></li>
+</ul>
+</li>
+<li><a href="#%E5%8F%AF%E6%8C%81%E7%BA%8C%E8%A8%8E%E8%AB%96%E4%B9%8B%E4%B8%BB%E9%A1%8C">可持續討論之主題</a></li>
+<li><a href="#%E5%BB%B6%E4%BC%B8%E7%B3%BB%E5%88%97%E4%B8%BB%E9%A1%8C%E8%83%8C%E6%99%AF">延伸系列主題背景</a></li>
+<li><a href="#%E5%8F%83%E8%88%87%E8%80%85%E7%B5%90%E5%B0%BE%E5%BF%83%E5%BE%97">參與者結尾心得</a></li>
+<li><a href="#115B%E5%AF%A6%E9%A9%97%E5%AE%A4">115B實驗室簡介</a></li>
+</ul>
+<hr>
+<h2 id="簡介"><a href="#簡介" class="headerlink" title="簡介"></a>簡介</h2><p>2022年，115B實驗室舉辦了「 永續發展 X 自主 」的系列活動，為大眾提供了一個有趣的學習平台，讓參與者獲得對永續發展的廣泛認識，以及深入探討與永續發展相關的議題。 </p>
+<p>在前兩次活動中，參與者可以通過討論、辯論以及實踐來理解「選擇權利自主」，以及「能源自主」對永續發展的重要性，並自主探索和採取可持續的行動。 </p>
+<p>為了更加深入地探索永續發展與經濟自主的相關話題，本次活動將采用審議式民主的形式，以小組討論、互動活動和小組討論為主，讓參與者共同思考和討論有關「永續發展和經濟自主」的議題，並通過各種想法和經驗，提出與永續發展有關的提案。</p>
+<hr>
+<h2 id="本次討論參與者"><a href="#本次討論參與者" class="headerlink" title="本次討論參與者"></a>本次討論參與者</h2><p>提案者：</p>
+<ul>
+<li>駿騰綠動有限公司-王宣堯（會前提案：ESG修復世界-水資源·淨零碳排）</li>
+<li>啾霖（臨時提案：AI與全民基本收入）</li>
+</ul>
+<p>語音討論參與者：</p>
+<ul>
+<li>林瑪莉</li>
+<li>黃世和</li>
+</ul>
+<hr>
+<h2 id="本次提案主題及討論"><a href="#本次提案主題及討論" class="headerlink" title="本次提案主題及討論"></a>本次提案主題及討論</h2><p>本次有兩個主題</p>
+<p>分別為</p>
+<ul>
+<li>ESG修復世界-水資源·淨零碳排</li>
+<li>AI與全民基本收入</li>
+</ul>
+<p>本次依照兩個題目進行討論</p>
+<h3 id="主題一：ESG修復世界-水資源·淨零碳排"><a href="#主題一：ESG修復世界-水資源·淨零碳排" class="headerlink" title="主題一：ESG修復世界-水資源·淨零碳排"></a>主題一：ESG修復世界-水資源·淨零碳排</h3><h4 id="主題描述"><a href="#主題描述" class="headerlink" title="主題描述"></a>主題描述</h4><p>2021年無颱風登台，也間接讓台灣今年遭逢百年大旱，中部更於4月份啟動供五停二限水措施，水情仍舊嚴峻，也威脅到了新竹科學園區的用水，台灣糧倉雲嘉南地區也紛紛停耕，水資源攸關民生用水與經濟發展。</p>
+<p>竹苗地區供應竹科主要水庫，蓄水率紛紛跌至5%上下，至今仍在供水調度下，新竹地區仍努力維持水情橙燈，經濟部指出，這一條管線全長26公里，原本要到今年6月才完工。但水利署2020年就預期水情嚴峻，與台水公司趕工拚進度，讓桃竹幹管提早四個月完工通水，也就是說，若沒有這條管線，水庫真的會空庫，以此有「一條水管救世界」的故事。<br>2022年尚未有颱風襲台，以致仰賴颱風帶來豐沛水氣的台灣水情吃緊。水利署指出，基隆市及新北市汐止區自8月15日水情燈號轉為綠燈，基隆新山水庫的蓄水量也僅剩4成，還好後有尼莎颱風來救援水情，但中央氣象局指出，未來預估每年太平洋反聖嬰現象加劇，每年仰賴颱風帶來豐沛水氣的台灣也陷入缺水危機。</p>
+<p>台灣降雨量全世界平均值兩倍以上，但因降雨區季節氣候與分佈不均影響，我們被聯合國列為世界缺水之一，此外因氣候變遷問題，同島一命不能淪為口號，因此如何提升水資源的調度與彈性，水利署目前有四大策略，開源、節流、調度、備援，本公司著重水利署備援開發此-民生用水機動給水方案計畫，目前水利署備援水機制為戰備水井機制，本公司計劃希望能為台灣備援水機制，提供研發創新的低成本民生用水的服務。<br>沿海地層下陷區可架設 例如太陽能板廠，集水池，漁電共生首先給魚好的環境，搭配自走式過濾裝置改善養殖水才會更好推動漁電共生。</p>
+<p>#<a href="https://e-info.org.tw/taxonomy/term/14773">自走式水底吸塵過濾裝置</a><br>#專利字號M633437</p>
+<h4 id="想要問參與者的三個問題"><a href="#想要問參與者的三個問題" class="headerlink" title="想要問參與者的三個問題"></a>想要問參與者的三個問題</h4><p>養殖水回收、雨水回收、戰備用水</p>
+<h4 id="分享摘錄"><a href="#分享摘錄" class="headerlink" title="分享摘錄"></a>分享摘錄</h4><p>駿騰綠動的王宣堯早期主要在推廣實踐魚菜共生，過程中發現水資源的缺乏是重要議題，因此發展了淨水的項目。</p>
+<p>像是新加坡、以色列等地，透過雨水過濾成為二級民生用水。一級及二級的差別主要在懸浮粒子ppm值，一般自來水在100-200ppm左右，可供於飲用、煮飯。二級則在300-700ppm。國土較小的國家會用二級民生用水用在洗澡、沖馬桶等用處，屬於大量用水。台灣每人平均約需250公升用水，而工廠消耗更多。</p>
+<p>對於雨水較多的台灣來說，因尚未永續將雨水保存，而長期有缺水議題。以前不留，一部分因為水庫淤砂現象不嚴重，然而隨著淤沙現象嚴重，缺水議題越來越嚴重。一杯水有三～四成的淤沙。又因氣候變遷加劇，淤水現象更重。王宣堯團隊開始了雨水回收加淨化系統的項目，建在屋頂上。<br>像是基隆去年降雨雖多，但許多沒有進入到水庫。國軍則是利用淨水卡車，台中也利用了移動式設備。</p>
+<p>台灣雖非聯合國的一部分，但由於全球關係，也受到了SDGs議題的影響，但目前較多專注於如綠電問題，水資源議題較少被提及。希望可以幫助民生用水，以及魚電共生。以魚電共生來說，可以透過進化水池，避免需要許多水資源利用，包含地下水的利用會影響。</p>
+<p>對於工廠來說，水的使用與電一樣重要，當停電時目前有許多來源，但停水時，就需要利用回收水。</p>
+<p>駿騰綠動已經與不同單位簽訂MOU，並希望有更多MOU能推進包含SBIR、各種政府資源，以推進項目。</p>
+<h4 id="問題"><a href="#問題" class="headerlink" title="問題"></a>問題</h4><ul>
+<li>淨水會需要用到用電，用電也會影響到不同永續議題，該如何平衡？<ul>
+<li>駿騰綠動目前使用渦輪馬達，較為省電，而也可以使用太陽能等綠電。</li>
+</ul>
+</li>
+<li>MOU：是合作備忘錄，透過簽備忘錄與合作者達成共識，當未來有更多資源可以大量上市，可以幫助客戶，也因為MOU來告訴政府其需求，來獲得資源。除了這個專案，其他永續發展的項目MOU也是重要的方式。</li>
+</ul>
+<h4 id="討論、聯想"><a href="#討論、聯想" class="headerlink" title="討論、聯想"></a>討論、聯想</h4><ul>
+<li>缺水＋永續發展會想到什麼？<ul>
+<li>新竹去年有喝好水公投，因為工廠需要大量用水，造成水的污染，但又不可以沒工廠傷害經濟，該如何放在一起？</li>
+<li>威尼詩水都也開始缺水，雖然可能一整年有許多水，但因為不平均，而有些季節缺水。台灣也有類似水不均的議題。</li>
+<li>SBIR海選是否能幫助資源？<ul>
+<li>一部分有幫助，但如何幫助政府了解其重要性？像是政府持續在補助綠電，淡水的部分較少。永續來說，也不可持續靠補助。中南部了解缺水，但北部往往忽略。</li>
+<li>「水的價值」，裡面從非洲的案例討論到許多永續發展議題如教育、兩性平權等等議題，背後都被水資源給影響。然而水議題在各種永續議題是往往被忽略的，可能因為太常見了而沒被注意到。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>北部沒有感受到缺水對自身的影響，然而如南部用水影響到了農作，而北部不可能不被影響。許多永許發展的議題也是一樣，不可以只針對一小部分去看待，需要系統思考。對政府提案過程，如果過度分工也會發生無法系統思考的狀況。</li>
+<li>日常的家庭，也需要學習二次使用。</li>
+</ul>
+<h3 id="主題二（臨時主題）：AI與全民基本收入"><a href="#主題二（臨時主題）：AI與全民基本收入" class="headerlink" title="主題二（臨時主題）：AI與全民基本收入"></a>主題二（臨時主題）：AI與全民基本收入</h3><h4 id="主題描述-1"><a href="#主題描述-1" class="headerlink" title="主題描述"></a>主題描述</h4><p>如最近火熱的ChatGPT，已經非常的人性化，應用很廣。雖然不會完全取代人類，但卻會影響許多人的工作。那其產生的產值，是否能和UBI的概念能夠結合？</p>
+<h4 id="討論"><a href="#討論" class="headerlink" title="討論"></a>討論</h4><ul>
+<li><p>AI取代人的工作，但實際上AI背後的資料庫來自於人。所以可能造成AI的成果其實來自一部分人的努力，但卻造成了同一部分人的失業。是否該將這樣的產值還回？</p>
+</li>
+<li><p>世界是不斷前進，不該因此而去阻擋新科技、時代的發展？</p>
+<ul>
+<li>有老師因為害怕職業被搶走，而不教導學生，然而不該阻礙時代的進步。</li>
+<li>在這樣的時代，人需要順應改變。</li>
+<li>但這樣的過程，也要注意避免弱勢族群無法跟上。</li>
+</ul>
+</li>
+<li><p>GhatGPT的文字，是否代表了使用工具者的文字？</p>
+<ul>
+<li>例如著名吳姓作家，因AI製圖產生的爭議言論，也讓人省思AI的創作，屬於誰的權力？</li>
+<li>由使用關鍵字的過程，可能也包含為創作的一部分。似乎的確使用AI創作，也是一種創作者，但並非代表全部都是創作者的。而非AI的時代，也有類似的思考，許多創作者經過學習，才創作，這背後代表創作背後其實都是許多人共同的成果。</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="可持續討論之主題"><a href="#可持續討論之主題" class="headerlink" title="可持續討論之主題"></a>可持續討論之主題</h2><ul>
+<li>您想到的經濟自主方式有哪些？</li>
+<li>上面想到的經濟自主方式，有是否有可能與永續發展相矛盾？</li>
+<li>該如何避免上面矛盾？經濟在永續發展中的地位為何？</li>
+</ul>
+<hr>
+<h2 id="延伸系列主題背景"><a href="#延伸系列主題背景" class="headerlink" title="延伸系列主題背景"></a>延伸系列主題背景</h2><p>永續發展以及再生的概念，往往是有環境、社會、經濟不同面向的系統交互。其中，「自主」在不同面向，皆佔有重要地位。本次系列的活動中，將會有三個面向的大主題，並以社群提案主題，以及參與討論的形式，一同討論自主在不同領域的探索</p>
+<ul>
+<li>2022年11月：選擇自主<ul>
+<li><a href="/right-to-choose/">【公民議題大家來討論｜選擇權利自主Ｘ永續發展】｜活動筆記</a></li>
+</ul>
+</li>
+<li>2022年12月：能源自主<ul>
+<li><a href="/energy-independence/">【公民議題大家來討論｜能源自主Ｘ永續發展】</a></li>
+</ul>
+</li>
+<li>2023年2月：經濟自主<ul>
+<li><a href="/economic-autonomy/">公民議題大家來討論｜經濟自主Ｘ永續發展】</a></li>
+</ul>
+</li>
+</ul>
+<p>活動，參考審議式類型活動中的開放會議技術，並且以實際人數、線上做大幅調整。由「115B實驗室」設定大主題、時間，並由參與者依造大主題，提出自己自己對大主題的不同問題，以及想像。透過帶領分享的形式進行討論</p>
+<hr>
+<h2 id="參與者結尾心得"><a href="#參與者結尾心得" class="headerlink" title="參與者結尾心得"></a>參與者結尾心得</h2><p>這次結尾，下面包含了一些參與者的心得摘錄。</p>
+<ul>
+<li>永續發展議題需要有系統思維。例如南部的水資源缺乏，雖北部不直接缺水，但被農作物等因素給影響。</li>
+<li>創作許多時候無論是否有AI，往往都非由個人而來，代表著其創作產生的價值都該有一大部分須與大家共享</li>
+<li>台灣的水太便宜，讓大家忘記了這個議題，希望大家能夠透過各種方法注意到。</li>
+<li>AI幫助了我們許多的部分，但沒有完全取代人。</li>
+<li>許多人沒有感受到經濟跟個人的相關，透過討論，可以幫助了解各種因素的相互關聯。</li>
+</ul>
+<p>包含上面可持續討論之主題，歡迎各位參與者持續在SkyPe的對話區內，或我們的社群內持續探討。希望未來，除了探討外，也一同嘗試各種實踐。</p>
+<hr>
+<h2 id="115B實驗室"><a href="#115B實驗室" class="headerlink" title="115B實驗室"></a>115B實驗室</h2><p>「115B實驗室」是由「嘉鼎智能團隊」，呼應社會團結經濟浪潮而成立，主要在協助個體、或組織，運用國際股市連結全球社會經濟的人心智能，增強本身經濟實力；並在過程中融合永續進展的理念，追求經濟、社會、環境各方面的均衡進步發展，尤其經濟上要符合（經世濟民）道理。</p>
+<h3 id="加入團隊"><a href="#加入團隊" class="headerlink" title="加入團隊"></a>加入團隊</h3><p><a href="https://www.104.com.tw/company/10zcirfc">104 (嘉鼎智能｜115B實驗室)</a></p>
+<h3 id="社群媒體"><a href="#社群媒體" class="headerlink" title="社群媒體"></a>社群媒體</h3><p>歡迎加入我們的LINE社群一同推廣永續所得倡議</p>
+<blockquote>
+<p>👉 &emsp; <a href="https://line.me/ti/g2/Yn9r9XlbjJjhjppxjyzmbQ"> 115B實驗室 LINE 社群</a></p>
+<p>👉 &emsp; <a href="https://www.facebook.com/sustainable.income.lab">115B實驗室 FB</a></p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>公民議題大家來討論</category>
+      </categories>
+      <tags>
+        <tag>115B實驗室</tag>
+        <tag>自主</tag>
+        <tag>經濟</tag>
       </tags>
   </entry>
   <entry>
@@ -4514,97 +4514,6 @@
       </tags>
   </entry>
   <entry>
-    <title>如何把樸門（永續農業）的理念，用在設計上？</title>
-    <url>/permaculture-and-design/</url>
-    <content><![CDATA[<blockquote>
-<p><img src="https://miro.medium.com/max/1400/1*7ofzoYrXI5GMBcxlYjRxOg.png"><br><a href="https://www.freepik.com/author/stories">(圖片來源來自Freepik上的storyset)</a></p>
-</blockquote>
-<blockquote>
-<p>【為何摘錄這篇文章】<br>樸門的理念，向大自然學習，重新設計永續農業。本文將樸門的思維用在UX設計上。透過本文的共學，我們也可以思考若我們要利用股票或其它工具來實踐團結經濟，同樣的理念也可以幫助我們更好重塑經濟的運作樣貌。</p>
-</blockquote>
-<span id="more"></span>
-
-<hr>
-<h2 id="原文"><a href="#原文" class="headerlink" title="原文"></a>原文</h2><p>完整原文：<a href="https://uxdesign.cc/applying-the-principles-of-permaculture-for-a-more-sustainable-design-ethos-6049c08db9e4">Applying the principles of permaculture for a more sustainable design ethos</a></p>
-<hr>
-<h2 id="簡介"><a href="#簡介" class="headerlink" title="簡介"></a>簡介</h2><p>Permaculture（樸門），為由”permanent”（永恆的）、”agriculture”（農業）和”culture”（文化）的縮寫字，最早提出為永續農作的概念，核心理念圍繞在三點。</p>
-<ul>
-<li>對地球的關懷，重建自然之都。</li>
-<li>對人的關懷，養育自我、親友、社群。</li>
-<li>公平的共享，限制消費，再生產，重新分配剩餘。</li>
-</ul>
-<p>透過這些理念，仿造自然去設計農業。</p>
-<p>本篇文章參考 <a href="https://permacultureprinciples.com/resources/free-downloads/">Essence of Permaculture</a></p>
-<p>一文整理出的12項原則，並應用在不只是農業，而是更廣泛，特別是的UX設計思路上。</p>
-<h3 id="1-觀察並且互動"><a href="#1-觀察並且互動" class="headerlink" title="1. 觀察並且互動"></a>1. 觀察並且互動</h3><p>觀察自然界的模式及進程後，再與其互動。所以可以與環境共生協作，而非互斥。</p>
-<p>在UX的應用上，則可以是觀察用戶的行為及互動模式。設計師設計出的產品可以是與用戶共同學習並賦能，而非想要操控用戶行為。</p>
-<h3 id="2-捕捉保存能量"><a href="#2-捕捉保存能量" class="headerlink" title="2. 捕捉保存能量"></a>2. 捕捉保存能量</h3><p>能量豐收時，先捕捉保存，當能量缺少時便可以使用。</p>
-<p>UX的應用上，反饋作為輕推的能量。一般沒有注意到用戶的行為是耗能的，而許多傳統產品的設計是希望用戶持續使用能量，對產品成癮。</p>
-<h3 id="3-獲得收益"><a href="#3-獲得收益" class="headerlink" title="3.獲得收益"></a>3.獲得收益</h3><p>在樸門的系統中，無論食物、燃料或其他，都要確定系統是高效、自給自足、能夠生存的。</p>
-<p>應用在UX上，必須小心理解。這裡的獲得收益並不僅是商業上說的要獲得盈利。而是整個系統是否有持續存活的力量，當同時考慮的用戶量、使用率、社會影響力…等因素，交織在一起，便會自然產生整個系統可以共享的收益。</p>
-<h3 id="4-自我約束及接納反饋"><a href="#4-自我約束及接納反饋" class="headerlink" title="4. 自我約束及接納反饋"></a>4. 自我約束及接納反饋</h3><p>樸門系統設計上需要自我約束，並且透過反饋持續修正。這意味著設計過程不可以獨立，而是共同的去互惠協作產生。</p>
-<p>在UX的應用上，需要開放各種批評及挑戰，來持續迭代。反饋的過程也必須經過設計，否則也會淪於口號。可以透過下面方法。</p>
-<ul>
-<li>確定有提供反饋的方式，譬如網站上的表單、客戶支持團隊的聯絡方式。</li>
-<li>規律性的歸納意見。</li>
-<li>花時間分析得到的反饋，更好的了解用戶所需或遇到的問題。</li>
-</ul>
-<h3 id="5-使用及重視再生資源及服務"><a href="#5-使用及重視再生資源及服務" class="headerlink" title="5. 使用及重視再生資源及服務"></a>5. 使用及重視再生資源及服務</h3><p>像是太陽能、風能、水能等的再生能源，在墣們的概念中也是可以是為後代保留的使用能源。</p>
-<p>在UX的應用上，嘗試使用可再利用的元素。</p>
-<ul>
-<li>使用共同的元素。用戶因為在其他地方也用過，可以使得用戶容易接受。</li>
-<li>模板，重複使用模版，也能使得整的設計的佈局有一致性。</li>
-<li>樣式指南，例如顏色、字體、以及其他元素可以是同質的，並屬於同一類。</li>
-</ul>
-<h3 id="6-不製造浪費"><a href="#6-不製造浪費" class="headerlink" title="6. 不製造浪費"></a>6. 不製造浪費</h3><p>樸門系統強調不過多製造浪費，而是重複循環利用資源。</p>
-<p>應用在UX，必須要考慮的是產品的整個生命週期。一些指導性的問題可以包含</p>
-<ul>
-<li>產品從何來？</li>
-<li>產品用完後會去哪？</li>
-<li>製造過程需要用到什麼資源？</li>
-<li>是不是可以重複使用或回收？</li>
-</ul>
-<h3 id="7-從模式到細節的設計"><a href="#7-從模式到細節的設計" class="headerlink" title="7. 從模式到細節的設計"></a>7. 從模式到細節的設計</h3><p>樸門最讓大家常思考的概念在於，不重新設計系統，而是像自然界去發掘模式，重複用在其他處。不需要複雜的重新設計，而是利用已有可以用作的系統，從而開始演化。</p>
-<p>在UX上，也可以嘗試了解在UX的環境中，有哪些已經是可以用的，並在其之上進行補充。</p>
-<h3 id="8-整合而非肢解"><a href="#8-整合而非肢解" class="headerlink" title="8. 整合而非肢解"></a>8. 整合而非肢解</h3><p>樸門系統設計上是集成的，所有元素都與其它元素相支持。與傳統的分工、獨立運作的邏輯很不同。</p>
-<p>在UX上，設計的過程必須將不同部分結合，而不是造成衝突對立。需要讓用戶、設計師、開發人員及各種相關者一同去進行設計。</p>
-<h3 id="9-使用小而緩和的解決方案"><a href="#9-使用小而緩和的解決方案" class="headerlink" title="9. 使用小而緩和的解決方案"></a>9. 使用小而緩和的解決方案</h3><p>小的方案，比較容易維護並開始。並且使用過程對環境的影響較小。</p>
-<p>這在UX設計上，並不是要用冗長，需要透過長時間組成的複雜方案。相反的，是像建立原型一樣，從簡單可以較快開始，的方案開始。</p>
-<h3 id="10-使用及重視多樣性"><a href="#10-使用及重視多樣性" class="headerlink" title="10. 使用及重視多樣性"></a>10. 使用及重視多樣性</h3><p>多樣性對系統至關重要，有時看起來會造成相互矛盾，但這需要細心地去做平衡。</p>
-<p>UX上，當考慮了多樣性才會容納更廣泛的受眾。每個人都可以舒適地分享他們獨特的觀點，可以帶來更豐富的團隊或用戶體驗。</p>
-<h3 id="11-使用並重視被邊緣的部分"><a href="#11-使用並重視被邊緣的部分" class="headerlink" title="11.  使用並重視被邊緣的部分"></a>11.  使用並重視被邊緣的部分</h3><p>系統被邊緣的部分，往往是最俱生產力及多樣性的。因為它們往往是互相連接，而不是獨立的微氣候生態。即使這是對的，但也是這些原則中特別具挑戰的一部分。</p>
-<p>在UX的設計上，邊緣化的族群既重要，又令人擔憂。往往會超出許多用戶的行為，需要花費許多時間去設計引導。有時設計師會乾脆放棄這些族群，但卻會忽略了這些族群帶來的潛能。</p>
-<h3 id="12-創造性的對變化的使用及響應"><a href="#12-創造性的對變化的使用及響應" class="headerlink" title="12. 創造性的對變化的使用及響應"></a>12. 創造性的對變化的使用及響應</h3><p>樸門系統是不斷的演化及發展的，為了適應人和環境的變化。結構必須要有適應能力強並留出可迭代的空間。</p>
-<p>在UX上，也需要持續的關注環境的變化，去適應改變。對各種新的改變，保持開放的心態。</p>
-<hr>
-<h2 id="結語：腳踏實地"><a href="#結語：腳踏實地" class="headerlink" title="結語：腳踏實地"></a>結語：腳踏實地</h2><p>許多激進的方式，不該被稱為永續，而是種包裝宣傳的訊息。任何事不會在一夜之間進行180度的大轉變，我們需要一步步腳踏實地的前進，才能更接近永續。</p>
-<hr>
-<h2 id="其它參考資料"><a href="#其它參考資料" class="headerlink" title="其它參考資料"></a>其它參考資料</h2><ul>
-<li><p><a href="https://zh.wikipedia.org/wiki/%E6%A8%B8%E9%96%80">樸門維基百科</a></p>
-</li>
-<li><p><a href="https://sustainable-income-lab.github.io/Life-centred-design/">以「生活生態中心」設計，取代「用戶中心」設計</a></p>
-</li>
-<li><p><a href="https://permacultureprinciples.com/resources/free-downloads/">Essence of Permaculture</a></p>
-</li>
-</ul>
-<hr>
-<h2 id="115B永續所得實驗室"><a href="#115B永續所得實驗室" class="headerlink" title="115B永續所得實驗室"></a>115B永續所得實驗室</h2><p>「115B永續所得實驗室」是由「嘉鼎智能團隊」，呼應社會團結經濟浪潮而成立，創立之初，以台北松山區的敦化南路1段1號5樓B室為起點，故以115B為紀念。</p>
-<p>主要在協助個體、或組織，運用國際股市連結全球社會經濟的人心智能，增強本身經濟實力；並在過程中融合永續進展的理念，追求經濟、社會、環境各方面的均衡進步發展，尤其經濟上要符合（經世濟民）道理。</p>
-<h3 id="加入團隊"><a href="#加入團隊" class="headerlink" title="加入團隊"></a>加入團隊</h3><p><a href="https://www.104.com.tw/company/10zcirfc">104 (嘉鼎智能｜115B永續所得實驗室)</a></p>
-<h3 id="社群媒體"><a href="#社群媒體" class="headerlink" title="社群媒體"></a>社群媒體</h3><p>歡迎加入我們的LINE社群一同推廣永續所得倡議</p>
-<blockquote>
-<p>👉 &emsp; <a href="(https://bit.ly/Slack115b"> 115B Slack 社群</a></p>
-<p>👉 &emsp; <a href="https://line.me/ti/g2/Yn9r9XlbjJjhjppxjyzmbQ"> 115B永續所得實驗室 LINE 社群</a></p>
-<p>👉 &emsp; <a href="https://www.facebook.com/sustainable.income.lab"> 115B永續所得實驗室 FB</a></p>
-</blockquote>
-]]></content>
-      <tags>
-        <tag>永續</tag>
-        <tag>樸門</tag>
-        <tag>設計</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【被動收入/組合收入 VS 永續所得】，你所不知道關於被動式收入的坑</title>
     <url>/passive-income-vs-sustainable-income/</url>
     <content><![CDATA[<p>美國國稅局（IRS）把收入劃分為三種類型，分別是主動收入，被動收入，和組合收入。</p>
@@ -4841,6 +4750,97 @@
         <tag>永續所得</tag>
         <tag>被動收入</tag>
         <tag>無條件基本收入</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>如何把樸門（永續農業）的理念，用在設計上？</title>
+    <url>/permaculture-and-design/</url>
+    <content><![CDATA[<blockquote>
+<p><img src="https://miro.medium.com/max/1400/1*7ofzoYrXI5GMBcxlYjRxOg.png"><br><a href="https://www.freepik.com/author/stories">(圖片來源來自Freepik上的storyset)</a></p>
+</blockquote>
+<blockquote>
+<p>【為何摘錄這篇文章】<br>樸門的理念，向大自然學習，重新設計永續農業。本文將樸門的思維用在UX設計上。透過本文的共學，我們也可以思考若我們要利用股票或其它工具來實踐團結經濟，同樣的理念也可以幫助我們更好重塑經濟的運作樣貌。</p>
+</blockquote>
+<span id="more"></span>
+
+<hr>
+<h2 id="原文"><a href="#原文" class="headerlink" title="原文"></a>原文</h2><p>完整原文：<a href="https://uxdesign.cc/applying-the-principles-of-permaculture-for-a-more-sustainable-design-ethos-6049c08db9e4">Applying the principles of permaculture for a more sustainable design ethos</a></p>
+<hr>
+<h2 id="簡介"><a href="#簡介" class="headerlink" title="簡介"></a>簡介</h2><p>Permaculture（樸門），為由”permanent”（永恆的）、”agriculture”（農業）和”culture”（文化）的縮寫字，最早提出為永續農作的概念，核心理念圍繞在三點。</p>
+<ul>
+<li>對地球的關懷，重建自然之都。</li>
+<li>對人的關懷，養育自我、親友、社群。</li>
+<li>公平的共享，限制消費，再生產，重新分配剩餘。</li>
+</ul>
+<p>透過這些理念，仿造自然去設計農業。</p>
+<p>本篇文章參考 <a href="https://permacultureprinciples.com/resources/free-downloads/">Essence of Permaculture</a></p>
+<p>一文整理出的12項原則，並應用在不只是農業，而是更廣泛，特別是的UX設計思路上。</p>
+<h3 id="1-觀察並且互動"><a href="#1-觀察並且互動" class="headerlink" title="1. 觀察並且互動"></a>1. 觀察並且互動</h3><p>觀察自然界的模式及進程後，再與其互動。所以可以與環境共生協作，而非互斥。</p>
+<p>在UX的應用上，則可以是觀察用戶的行為及互動模式。設計師設計出的產品可以是與用戶共同學習並賦能，而非想要操控用戶行為。</p>
+<h3 id="2-捕捉保存能量"><a href="#2-捕捉保存能量" class="headerlink" title="2. 捕捉保存能量"></a>2. 捕捉保存能量</h3><p>能量豐收時，先捕捉保存，當能量缺少時便可以使用。</p>
+<p>UX的應用上，反饋作為輕推的能量。一般沒有注意到用戶的行為是耗能的，而許多傳統產品的設計是希望用戶持續使用能量，對產品成癮。</p>
+<h3 id="3-獲得收益"><a href="#3-獲得收益" class="headerlink" title="3.獲得收益"></a>3.獲得收益</h3><p>在樸門的系統中，無論食物、燃料或其他，都要確定系統是高效、自給自足、能夠生存的。</p>
+<p>應用在UX上，必須小心理解。這裡的獲得收益並不僅是商業上說的要獲得盈利。而是整個系統是否有持續存活的力量，當同時考慮的用戶量、使用率、社會影響力…等因素，交織在一起，便會自然產生整個系統可以共享的收益。</p>
+<h3 id="4-自我約束及接納反饋"><a href="#4-自我約束及接納反饋" class="headerlink" title="4. 自我約束及接納反饋"></a>4. 自我約束及接納反饋</h3><p>樸門系統設計上需要自我約束，並且透過反饋持續修正。這意味著設計過程不可以獨立，而是共同的去互惠協作產生。</p>
+<p>在UX的應用上，需要開放各種批評及挑戰，來持續迭代。反饋的過程也必須經過設計，否則也會淪於口號。可以透過下面方法。</p>
+<ul>
+<li>確定有提供反饋的方式，譬如網站上的表單、客戶支持團隊的聯絡方式。</li>
+<li>規律性的歸納意見。</li>
+<li>花時間分析得到的反饋，更好的了解用戶所需或遇到的問題。</li>
+</ul>
+<h3 id="5-使用及重視再生資源及服務"><a href="#5-使用及重視再生資源及服務" class="headerlink" title="5. 使用及重視再生資源及服務"></a>5. 使用及重視再生資源及服務</h3><p>像是太陽能、風能、水能等的再生能源，在墣們的概念中也是可以是為後代保留的使用能源。</p>
+<p>在UX的應用上，嘗試使用可再利用的元素。</p>
+<ul>
+<li>使用共同的元素。用戶因為在其他地方也用過，可以使得用戶容易接受。</li>
+<li>模板，重複使用模版，也能使得整的設計的佈局有一致性。</li>
+<li>樣式指南，例如顏色、字體、以及其他元素可以是同質的，並屬於同一類。</li>
+</ul>
+<h3 id="6-不製造浪費"><a href="#6-不製造浪費" class="headerlink" title="6. 不製造浪費"></a>6. 不製造浪費</h3><p>樸門系統強調不過多製造浪費，而是重複循環利用資源。</p>
+<p>應用在UX，必須要考慮的是產品的整個生命週期。一些指導性的問題可以包含</p>
+<ul>
+<li>產品從何來？</li>
+<li>產品用完後會去哪？</li>
+<li>製造過程需要用到什麼資源？</li>
+<li>是不是可以重複使用或回收？</li>
+</ul>
+<h3 id="7-從模式到細節的設計"><a href="#7-從模式到細節的設計" class="headerlink" title="7. 從模式到細節的設計"></a>7. 從模式到細節的設計</h3><p>樸門最讓大家常思考的概念在於，不重新設計系統，而是像自然界去發掘模式，重複用在其他處。不需要複雜的重新設計，而是利用已有可以用作的系統，從而開始演化。</p>
+<p>在UX上，也可以嘗試了解在UX的環境中，有哪些已經是可以用的，並在其之上進行補充。</p>
+<h3 id="8-整合而非肢解"><a href="#8-整合而非肢解" class="headerlink" title="8. 整合而非肢解"></a>8. 整合而非肢解</h3><p>樸門系統設計上是集成的，所有元素都與其它元素相支持。與傳統的分工、獨立運作的邏輯很不同。</p>
+<p>在UX上，設計的過程必須將不同部分結合，而不是造成衝突對立。需要讓用戶、設計師、開發人員及各種相關者一同去進行設計。</p>
+<h3 id="9-使用小而緩和的解決方案"><a href="#9-使用小而緩和的解決方案" class="headerlink" title="9. 使用小而緩和的解決方案"></a>9. 使用小而緩和的解決方案</h3><p>小的方案，比較容易維護並開始。並且使用過程對環境的影響較小。</p>
+<p>這在UX設計上，並不是要用冗長，需要透過長時間組成的複雜方案。相反的，是像建立原型一樣，從簡單可以較快開始，的方案開始。</p>
+<h3 id="10-使用及重視多樣性"><a href="#10-使用及重視多樣性" class="headerlink" title="10. 使用及重視多樣性"></a>10. 使用及重視多樣性</h3><p>多樣性對系統至關重要，有時看起來會造成相互矛盾，但這需要細心地去做平衡。</p>
+<p>UX上，當考慮了多樣性才會容納更廣泛的受眾。每個人都可以舒適地分享他們獨特的觀點，可以帶來更豐富的團隊或用戶體驗。</p>
+<h3 id="11-使用並重視被邊緣的部分"><a href="#11-使用並重視被邊緣的部分" class="headerlink" title="11.  使用並重視被邊緣的部分"></a>11.  使用並重視被邊緣的部分</h3><p>系統被邊緣的部分，往往是最俱生產力及多樣性的。因為它們往往是互相連接，而不是獨立的微氣候生態。即使這是對的，但也是這些原則中特別具挑戰的一部分。</p>
+<p>在UX的設計上，邊緣化的族群既重要，又令人擔憂。往往會超出許多用戶的行為，需要花費許多時間去設計引導。有時設計師會乾脆放棄這些族群，但卻會忽略了這些族群帶來的潛能。</p>
+<h3 id="12-創造性的對變化的使用及響應"><a href="#12-創造性的對變化的使用及響應" class="headerlink" title="12. 創造性的對變化的使用及響應"></a>12. 創造性的對變化的使用及響應</h3><p>樸門系統是不斷的演化及發展的，為了適應人和環境的變化。結構必須要有適應能力強並留出可迭代的空間。</p>
+<p>在UX上，也需要持續的關注環境的變化，去適應改變。對各種新的改變，保持開放的心態。</p>
+<hr>
+<h2 id="結語：腳踏實地"><a href="#結語：腳踏實地" class="headerlink" title="結語：腳踏實地"></a>結語：腳踏實地</h2><p>許多激進的方式，不該被稱為永續，而是種包裝宣傳的訊息。任何事不會在一夜之間進行180度的大轉變，我們需要一步步腳踏實地的前進，才能更接近永續。</p>
+<hr>
+<h2 id="其它參考資料"><a href="#其它參考資料" class="headerlink" title="其它參考資料"></a>其它參考資料</h2><ul>
+<li><p><a href="https://zh.wikipedia.org/wiki/%E6%A8%B8%E9%96%80">樸門維基百科</a></p>
+</li>
+<li><p><a href="https://sustainable-income-lab.github.io/Life-centred-design/">以「生活生態中心」設計，取代「用戶中心」設計</a></p>
+</li>
+<li><p><a href="https://permacultureprinciples.com/resources/free-downloads/">Essence of Permaculture</a></p>
+</li>
+</ul>
+<hr>
+<h2 id="115B永續所得實驗室"><a href="#115B永續所得實驗室" class="headerlink" title="115B永續所得實驗室"></a>115B永續所得實驗室</h2><p>「115B永續所得實驗室」是由「嘉鼎智能團隊」，呼應社會團結經濟浪潮而成立，創立之初，以台北松山區的敦化南路1段1號5樓B室為起點，故以115B為紀念。</p>
+<p>主要在協助個體、或組織，運用國際股市連結全球社會經濟的人心智能，增強本身經濟實力；並在過程中融合永續進展的理念，追求經濟、社會、環境各方面的均衡進步發展，尤其經濟上要符合（經世濟民）道理。</p>
+<h3 id="加入團隊"><a href="#加入團隊" class="headerlink" title="加入團隊"></a>加入團隊</h3><p><a href="https://www.104.com.tw/company/10zcirfc">104 (嘉鼎智能｜115B永續所得實驗室)</a></p>
+<h3 id="社群媒體"><a href="#社群媒體" class="headerlink" title="社群媒體"></a>社群媒體</h3><p>歡迎加入我們的LINE社群一同推廣永續所得倡議</p>
+<blockquote>
+<p>👉 &emsp; <a href="(https://bit.ly/Slack115b"> 115B Slack 社群</a></p>
+<p>👉 &emsp; <a href="https://line.me/ti/g2/Yn9r9XlbjJjhjppxjyzmbQ"> 115B永續所得實驗室 LINE 社群</a></p>
+<p>👉 &emsp; <a href="https://www.facebook.com/sustainable.income.lab"> 115B永續所得實驗室 FB</a></p>
+</blockquote>
+]]></content>
+      <tags>
+        <tag>永續</tag>
+        <tag>樸門</tag>
+        <tag>設計</tag>
       </tags>
   </entry>
   <entry>
