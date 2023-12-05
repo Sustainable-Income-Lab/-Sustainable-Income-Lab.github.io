@@ -46,7 +46,16 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 ## 學習資料分享
 ### 系統思維
 
-#### 👉 &emsp; 
+#### 👉 &emsp; [自己的所得自己收](https://medium.com/acis-intellicollective/%E8%87%AA%E5%B7%B1%E7%9A%84%E6%89%80%E5%BE%97%E8%87%AA%E5%B7%B1%E6%94%B6-520525692157)
+
+能源和經濟的發展演進正日趨分散化,從過去的集中供給向著個人化解決方案轉型。面對高齡化社會的來臨,建立可持續的收入將成為重要課題。
+
+
+### 👉 &emsp; [2023/11/24 活動筆記｜【公民議題大家來討論】再生經濟：以人心智能進行開源](https://sustainable-income-lab.github.io/2023-11-24-open-source/)
+
+本次討論集中在經濟開源、智慧製造、碳稅與普發，經過討論，發現各種領域都需要以人心智能為基礎。
+
+經濟開源要有真實用戶需求驅動，智慧製造應該是幫助用戶而非壓榨用戶消費，而從碳稅的例子則幫助用戶了解需求不能只是感性的必須包含理性。
 
 ### 社會經濟
 
@@ -62,6 +71,15 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 
 ### 技術
 
+- [A Complete Guide to LangChain in JavaScript](https://www.sitepoint.com/langchain-javascript-complete-guide/)
+
+- [Project IDX: Google’s New Web and Mobile App Development IDE](https://thenewstack.io/project-idx-googles-new-web-and-mobile-app-development-ide/)
+
+- [OpenAI Launches GPTs to Enable Creating No-Code, Custom Versions of ChatGPT](https://www.infoq.com/news/2023/11/openai-gpts-custom-chatgpt/)
+
+- [The False Dichotomy of Monolith vs. Microservices](https://www.infoq.com/articles/monolith-versus-microservices/)
+
+- [the curse of docker](https://computer.rip/2023-11-25-the-curse-of-docker.html)
 
 ---
 ## 活動分享
