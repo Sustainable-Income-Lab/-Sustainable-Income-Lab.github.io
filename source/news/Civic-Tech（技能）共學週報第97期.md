@@ -8,7 +8,7 @@ author:
 	- 115B實驗室
 	- Huanry編輯
 ---
-# Civic Tech（技能）共學週報｜第96期 (2023.12.26)
+# Civic Tech（技能）共學週報｜第97期 (2023.12.26)
 
 ![Civic-Tech-97](/img/ct/97.png)
 
