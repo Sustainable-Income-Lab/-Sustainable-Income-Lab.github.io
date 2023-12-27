@@ -1,6 +1,6 @@
 ---
-title: Civic Tech（技能）共學週報第96期
-date: 2023-12-20 00:00:00
+title: Civic Tech（技能）共學週報第97期
+date: 2023-12-26 00:00:00
 categories:
 	- Civic-Tech
 author:
@@ -8,9 +8,9 @@ author:
 	- 115B實驗室
 	- Huanry編輯
 ---
-# Civic Tech（技能）共學週報｜第96期 (2023.12.20)
+# Civic Tech（技能）共學週報｜第96期 (2023.12.26)
 
-![Civic-Tech-96](/img/ct/96.png)
+![Civic-Tech-97](/img/ct/97.png)
 
 ## 前言
 
@@ -76,43 +76,19 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 ## 學習資料分享
 ### 系統思維
 
-（暫無分享）
+#### 👉 &emsp; [利特爾的瓶頸](https://medium.com/acis-intellicollective/%E5%88%A9%E7%89%B9%E7%88%BE%E7%9A%84%E7%93%B6%E9%A0%B8-e165a3bb34ba)
+
+本文討論 Little’s law 與限制理論的綜合討論， 決定系統效益的並非系統的總和，而是最終產出的限制。
+
+#### 👉 &emsp; [ACIS、LTV、MUT、Imputation](https://medium.com/acis-intellicollective/acis-ltv-mut-imputation-e0cdf1595dbd)
+
+文章討論了 勞動價值論、邊際效用理論，兩者一種被認為是唯物理論，另一種是唯心。歸因理論則嘗試在這兩種中間達成平衡。
+
+其中不同文章中分享了對這些內容的比對、理論攻防。
 
 ### 社會經濟
 
-#### 👉 &emsp; [Regeneration not renewal, conference told](https://www.shine.cn/news/metro/2312124678/)
-
-這個在上海的論壇，討論了urban regeneration。
-
-文章的其中一位中科院、同濟大學的教授提到Regeneration不僅是Renewal，也就是再生不僅是更新。
-
-這由都更再到都市再生的脈絡，形成更好的理解。
-
-都更只強調打掉重練，而都市再生如同文章提到的，再生在於適應性的復興，新舊共存，而非分離。
-『the process is more about adaptive renaissance than pulverizing the old, about coexistence of the old and new than the separation of the two, and about regional collaboration than a solo act.』
-
-但這也不意味著是守舊，而是「適應性的復興」，在於舊的也可以透過活化產生力量。
-
-
-另外，可參考台灣的經驗，有台北市都更處所辦的[都市再生學苑](https://issuu.com/kenlin83/docs/_-2023_1_31)，則是建立由下至上的社造網絡。
-
-#### 👉 &emsp; [Inflation — A Misnomer](https://thehonestsorcerer.medium.com/inflation-a-misnomer-80618fc94e8e)
-
-文章中，先討論了通膨一詞在現今及過去已經失去其原意。
-
-後續討論到購買力的問題，購買力少，但因通膨，經濟成長卻在短期看起來是正的。
-
-接下來由各種面向去看購買力對經濟呈現的重要，包含其背後元素，而看起來經濟的衰減也難以避免。
-
-以購買力來說，不只是因為中央政府發鈔、要還貸款等元素降低了購買力。其中食物、能源的價格漲高也是主要因素，甚至食物的漲價也包含了食物佔了能源15%的使用而相互影響。
-
-上面來說，央行過於關注貨幣、經濟間的供需關係，過於忽略自然與經濟間的不可分。
-
-由與自然資源是有限的，就算建立再生能源系統也需要舊有石化燃料作為過渡轉型去支撐建設。
-
-這不意味著作者要忽視氣候議題，而是提到這個趨勢對能源造成的影響在對經濟的影響趨勢是難以轉變的。
-
-最後提到不可忽視的問題，中產階級可以持續靠努力工作舒適的生活的日子終究會失去，購買力的失去以及能源的減少依然在。
+（本次無分享內容）
 
 ### 協作溝通
 
@@ -124,33 +100,29 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 
 ### 技術
 
-- [Beyond the Numbers: Decoding Metrics for Assessing Client-Side Engineer Impact](https://www.infoq.com/articles/client-side-engineering-metrics/)
+- [How to Sustain Quality and Velocity in a JavaScript or TypeScript Project?](https://www.infoq.com/articles/javascript-typescript-quality-velocity/)
 
-- [Anthropic Announces Claude 2.1 LLM with Wider Context Window and Support for AI Tools](https://www.infoq.com/news/2023/11/anthropic-announces-claude-2-1/)
+- [Deleting 50,000 Lines of Code in 3 Days](https://aakashns.com/delete)
 
-- [A faster web in 2024](https://rviscomi.dev/2023/11/a-faster-web-in-2024/)
+- [Writing your first Unit Test in React](https://dev.to/thesanjeevsharma/writing-your-first-unit-test-in-react-150h)
 
 ---
 ## 活動分享
 
-**12月26日**
-- [HTMX：HTML 的超能力加持](https://www.accupass.com/event/2312150515351945877216)
+**1月3日**
+- [網路自由小聚 [1月] ：拒絕真的需要勇氣，當平台遇到法律問題...](https://ocftw.kktix.cc/events/internetfreedom-january2024)
 
-- [生成式AI的探索與實踐工作坊](https://www.accupass.com/event/2312110743347637649890)
-**12月27日**
-- [打造高效生成式 AI 助手，指令技巧大公開｜AI CAFÉ 線上聽 #27](https://www.accupass.com/event/2312060233119322505690)
+- [Deep Learning Conversations & Happy Hour](https://www.meetup.com/deep-learning-conversations/events/298011970/)
+**1月6日**
+- [Introduction to Data Analysis WITHOUT RDBMS](https://tritonho.kktix.cc/events/2024-q1)
 
-- [從 Merkle Tree 到 LazyTower](https://tem.kktix.cc/events/tem231227)
-**12月28日**
-- [ChatGPT語言啟示門：詠唱啟蒙之旅（第一回）](https://www.accupass.com/event/2312172038181193007916)
+- [台灣零時政府第陸拾次記得投票黑客松](https://g0v-jothon.kktix.cc/events/g0v-hackath60n)
 
-- [臺鐵科工館站公共藝術科技的綠動講座暨論壇](https://www.accupass.com/event/2312140427321861680174)
-**12月29日**
-- [大人之夜-我不想被 AI 取代、操弄或主宰?!](https://www.accupass.com/event/2311230650013909447150)
+- [萬華(gl)itch](https://www.accupass.com/event/2312250044481803245663)
 
-- [AIGC數位生成科技應用人才培訓班](https://www.accupass.com/event/2309190937121599123171)
+- [【生成式AI如何協助我？】AI新浪潮：生成式變革｜AI科普沙龍系列講座](https://www.accupass.com/event/2311100359471530496320)
 
-- [Bio Mixer](https://www.accupass.com/event/2312090858181380224664)
+- [WordPress - 桃園午茶小聚 Linner Meetup](https://www.meetup.com/taoyuan-wordpress-meetup/events/298052588/)
 
 ---
 ## 新聞分享
