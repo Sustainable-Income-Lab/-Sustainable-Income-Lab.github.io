@@ -85,7 +85,7 @@ https://115bworkspace.slack.com/archives/C03GV6V20KY/p1704952532624709
 ## 學習資料分享
 ### 系統思維
 
-#### 👉 &emsp; 
+（本次無分享內容）
 
 ### 社會經濟
 
@@ -132,6 +132,10 @@ https://115bworkspace.slack.com/archives/C03GV6V20KY/p1704952532624709
 - [Master of Science in Cyber Security](https://careerera.kktix.cc/events/masterofscienceincybersecurity)
 **1月25日**
 - [DevOps Taiwan Meetup](https://devops.kktix.cc/events/meetup-58)
+**1月26日**
+- [115B Lab Co-Working Office Open Day](https://g0v.hackmd.io/@hPYQ2FA4RfiIxO0j-xMb9w/BkcZxJ6Op)
+
+- [人生發展設計師：用學校沒教的事開拓人生](https://pse.is/5jerg2)
 **1月27日**
 - [CONCOM 2024](https://ocftw.kktix.cc/events/concom2024)
 
