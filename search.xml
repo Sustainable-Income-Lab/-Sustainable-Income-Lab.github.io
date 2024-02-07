@@ -117,13 +117,13 @@
       </tags>
   </entry>
   <entry>
-    <title>2023/12/26 活動筆記｜【公民議題大家來討論】 人生發展設計師 - 用學校沒教的事開拓人生</title>
+    <title>2024/1/26 活動筆記｜【公民議題大家來討論】 人生發展設計師 - 用學校沒教的事開拓人生</title>
     <url>/2024-12-26-life-development-designer/</url>
     <content><![CDATA[<blockquote>
 <p><img src="https://static.accupass.com/eventbanner/2401150540294844067540.jpg"></p>
 </blockquote>
 <blockquote>
-<p>本文由2023/12/6「115B實驗室」發起的【公民議題大家來討論】 人生發展設計師 - 用學校沒教的事開拓人生 整理</p>
+<p>本文由2023/1/26「115B實驗室」發起的【公民議題大家來討論】 人生發展設計師 - 用學校沒教的事開拓人生 整理</p>
 <p>學校教會我們很多知識，但出社會後每個人的發展卻不盡相同。在這個快速變化的時代，有哪些資源與新知，可以協助我們重新設計自己的人生呢？經濟環境與生活環境是大眾最關心的兩個場域，這場活動以討論平台的形式，希望集結社會公民的意見和智慧，共同探索如何打造不一樣的經濟生活與人生規劃。</p>
 </blockquote>
 <span id="more"></span>
@@ -333,6 +333,126 @@
       </tags>
   </entry>
   <entry>
+    <title>為人性而設計｜人類週期表</title>
+    <url>/Human-Elements-Periodic-Table/</url>
+    <content><![CDATA[<blockquote>
+<p><img src="https://miro.medium.com/max/1400/1*tKfmFcyAzq-jApP7ahmPMw.jpeg"><br><a href="https://uxdesign.cc/how-to-humanize-your-product-92fc871d6b0f">(圖片來源)</a></p>
+</blockquote>
+<blockquote>
+<p>【為何摘錄這篇文章】<br>產品設計，有時雖然會提到要考慮以人為中心設計，卻少考慮到科技是為了讓人更好而設計，而非吸引人。因此需要了解什麼元素可以幫助人生活得更好？文章利用MIT Ideating Lab 所建立的人類週期表來幫助設計師更好地了解人的元素。然而我們也必須知道，人非化學元素所組成，這樣的週期表也有其限制，在設計過程還是需要考慮到人的更多面向。 </p>
+</blockquote>
+<span id="more"></span>
+
+<hr>
+<h2 id="原文"><a href="#原文" class="headerlink" title="原文"></a>原文</h2><p>完整原文：<a href="https://uxdesign.cc/how-to-humanize-your-product-92fc871d6b0f">Humanize your product with the Periodic Table of Human Elements</a></p>
+<hr>
+<h2 id="摘要"><a href="#摘要" class="headerlink" title="摘要"></a>摘要</h2><p>文章一開始，以一個實驗來提到，設計上太過於專注在功能上，少了人性化，即使對於猴子都會感覺到其缺失。</p>
+<p>然而，所謂的人性化的設計，不在於為了吸引人，不單純為了解決人的問題，而是考慮幫助人獲得其真正需要的，幸福感，讓生命、生活更美好。</p>
+<hr>
+<h2 id="實踐的困境"><a href="#實踐的困境" class="headerlink" title="實踐的困境"></a>實踐的困境</h2><p>上面理論雖好，也的確遇到了兩個挑戰，所以少被實踐</p>
+<ul>
+<li>理解是什麼推動人的福祉？<ul>
+<li>一般產品設計會專注在功能、痛點、問題上，因為相對簡單。然而，對於要對生命真正有用，卻會產生許多不同理解，甚至不易找到共同語言。像是在團隊夥伴間，有些人認為某種元素是「控制」，但另外有人會認為那是種「自信」</li>
+</ul>
+</li>
+<li>為福祉設計<ul>
+<li>為功能設計相對簡單，但更為進階的概念如安全、歸屬感、自由和超越，相對抽象。</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="人類週期表"><a href="#人類週期表" class="headerlink" title="人類週期表"></a>人類週期表</h2><p>MIT的Ideating Lab 建立關於人的週期表，了解什麼元素可以改善人的福祉，作為設計的共同語言。</p>
+<p>透過如此設計，有幾個基本步驟</p>
+<ul>
+<li>揭露最為相關的元素<ul>
+<li>針對某一群人進行設計時，透過量化研究，以問卷的方式去了解這群人最需要的元素有哪些。</li>
+</ul>
+</li>
+<li>發掘更多元素<ul>
+<li>雖然週期表上只有15個元素，但對每個人來說，是更為多元，15個元素只是入口，可以去發掘更多。例如以一個人在某種情境下想要的「掌控」元素，可以再進行深挖，如<ul>
+<li>什麼外在的因素會使這群人感覺到能夠掌控？</li>
+<li>什麼內在的元素使得這群人能感受到掌控？</li>
+<li>在真實世界中，哪些是真正能「掌控」的，哪些是不能的？</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>設計有形的特增，去擴增這些元素<ul>
+<li>前面兩個步驟比較類似調研過程，在這步驟，嘗試將其有形建構，作者提出一些提示方向<ul>
+<li>槓桿：以前面的掌控為例，如何擴大掌控力，以及現實狀況他們能被擴大的是什麼？</li>
+<li>地圖：如何讓人更清楚認識狀況、脈絡？</li>
+<li>適應模糊性：以掌控來說，幫助這個群體意識到某些時候失去掌控是正常的，並且幫助適應。</li>
+<li>校正：當過於無法掌控時，該如何修正回正軌？</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="結語"><a href="#結語" class="headerlink" title="結語"></a>結語</h2><p>不過人畢竟不像化學元素，組成因素更多，也必須先了解這個週期表作為工具的限制，將核心放在以幫助人生命過得更好的設計。</p>
+<hr>
+<h2 id="115B永續所得實驗室"><a href="#115B永續所得實驗室" class="headerlink" title="115B永續所得實驗室"></a>115B永續所得實驗室</h2><p>「115B永續所得實驗室」是由「嘉鼎智能團隊」，呼應社會團結經濟浪潮而成立，創立之初，以台北松山區的敦化南路1段1號5樓B室為起點，故以115B為紀念。</p>
+<p>主要在協助個體、或組織，運用國際股市連結全球社會經濟的人心智能，增強本身經濟實力；並在過程中融合永續進展的理念，追求經濟、社會、環境各方面的均衡進步發展，尤其經濟上要符合（經世濟民）道理。</p>
+<h3 id="加入團隊"><a href="#加入團隊" class="headerlink" title="加入團隊"></a>加入團隊</h3><p><a href="https://www.104.com.tw/company/10zcirfc">104 (嘉鼎智能｜115B永續所得實驗室)</a></p>
+<h3 id="社群媒體"><a href="#社群媒體" class="headerlink" title="社群媒體"></a>社群媒體</h3><p>歡迎加入我們的LINE社群一同推廣永續所得倡議</p>
+<blockquote>
+<p>👉 &emsp; <a href="(https://bit.ly/Slack115b"> 115B Slack 社群</a></p>
+<p>👉 &emsp; <a href="https://line.me/ti/g2/Yn9r9XlbjJjhjppxjyzmbQ"> 115B永續所得實驗室 LINE 社群</a></p>
+<p>👉 &emsp; <a href="https://www.facebook.com/sustainable.income.lab"> 115B永續所得實驗室 FB</a></p>
+</blockquote>
+]]></content>
+  </entry>
+  <entry>
+    <title>以「生活生態中心」設計，取代「用戶中心」設計</title>
+    <url>/Life-centred-design/</url>
+    <content><![CDATA[<blockquote>
+<p><img src="https://miro.medium.com/max/700/1*9P4-JHQaKdPiMS3k3wPeYA.png"><br><a href="hhttps://uxdesign.cc/life-centred-design-96965acdcbf4">(圖片來源)</a></p>
+</blockquote>
+<blockquote>
+<p>【為何摘錄這篇文章】<br>從「用戶中心」設計，轉換到「生活生態中心」設計。為的是避免過去商業設計，造成對經濟、社會、環境過度索取所造成的副作用。文章可同樣作為「團結經濟」的設計參考，不僅考慮人群、還需考慮眾生，跳脫以個人利益為為中心的經濟學。以「團隊結義」、與「眾生共生」取代「利益的結合」。</p>
+</blockquote>
+<span id="more"></span>
+
+<hr>
+<h2 id="原文"><a href="#原文" class="headerlink" title="原文"></a>原文</h2><p>完整原文：<a href="hhttps://uxdesign.cc/life-centred-design-96965acdcbf4">Life-centred design</a></p>
+<h2 id="文章摘要"><a href="#文章摘要" class="headerlink" title="文章摘要"></a>文章摘要</h2><p>文章討論從「用戶中心」設計，轉換到「生活生態圈中心」設計。<br>前者以用戶中心為考量，但在商業的世界，容易失衡造成從自然界索取過多並浪費。而後者則是考慮與生態共生，所以常會用到些循環經濟、系統思考、仿生學、甜甜圈經濟學的概念。<br>整個設計思路包含了三群相互影響的利害關係者、三個支撐的支柱、以及響應方式。</p>
+<blockquote>
+<p><img src="https://miro.medium.com/max/700/1*bBCYk-DRcqrLNq_BXx-hsQ.png"><br><a href="hhttps://uxdesign.cc/life-centred-design-96965acdcbf4">(圖片來源)</a></p>
+</blockquote>
+<h3 id="三群利害關係者"><a href="#三群利害關係者" class="headerlink" title="三群利害關係者"></a>三群利害關係者</h3><p>應該也是從小到大後面包含前面的。</p>
+<ul>
+<li>第一群，從所有人開始。不僅包含「用戶中心」所關心的用戶以及商業關係人，還需包含所有如生產製造的人群、看似不在生活圈但會被影響到的所有人。</li>
+<li>第二群更為廣，包含了整個甚至是非生物的眾生，如土地、水、空氣。這些眾生也被發現具有知覺、記憶、認知等，可是視為生命的一部分。</li>
+<li>第三群，包含了整個星球。</li>
+</ul>
+<p>整體亦即，不僅考慮是用戶為中心，而是考慮以所有人、眾生、整個環境共生。</p>
+<h3 id="三個支柱"><a href="#三個支柱" class="headerlink" title="三個支柱"></a>三個支柱</h3><p>包含了</p>
+<ul>
+<li>永續、可再生。必須與所有眾生環境共生，取代商業造成的過度索取。而需要跳脫個人及用戶，考慮經濟、社會、環境的共同未來。</li>
+<li>包容、多元化。以人的部分，特別會考慮到性別身份、文化、種族、顏色、年紀的多元包容。</li>
+<li>負責任且言行一致。所有的設計需要透明、可被檢視、科學化的。教導用戶及夥伴一同跳脫自我，關心整個生活生態圈。</li>
+</ul>
+<h3 id="響應的方式"><a href="#響應的方式" class="headerlink" title="響應的方式"></a>響應的方式</h3><p>需要考慮跨越時間空間。</p>
+<ul>
+<li>同時考量微觀活動的需要以及全局的前進目標。包含zoom-in、zoom-out，系統性思考及局部問題的調和，傳統及現代智慧的包容，人類及自然間的共生。</li>
+<li>考慮整個週期的設計，接近循環經濟的概念。從物質的採集、製造、運送、購買、利用、再利用、修復、再製、回收…等。都須考慮所有過程對人、眾生、星球的影響。</li>
+<li>考慮過去及未來。尊重過去的智慧，及考慮未來的利害相關者。</li>
+</ul>
+<h2 id="結語"><a href="#結語" class="headerlink" title="結語"></a>結語</h2><p>傳統設計師，本身就已被訓練有一些基本能力了。包含以人為中心、識別並解決問題、系統思考、進行有影響力的迭代等。</p>
+<p>而需要做的事，便是跳脫用戶，而具有更宏觀以整個生活生態圈為考量的設計脈絡重構。</p>
+<hr>
+<h2 id="115B永續所得實驗室"><a href="#115B永續所得實驗室" class="headerlink" title="115B永續所得實驗室"></a>115B永續所得實驗室</h2><p>「115B永續所得實驗室」是由「嘉鼎智能團隊」，呼應社會團結經濟浪潮而成立，創立之初，以台北松山區的敦化南路1段1號5樓B室為起點，故以115B為紀念。</p>
+<p>主要在協助個體、或組織，運用國際股市連結全球社會經濟的人心智能，增強本身經濟實力；並在過程中融合永續進展的理念，追求經濟、社會、環境各方面的均衡進步發展，尤其經濟上要符合（經世濟民）道理。</p>
+<h3 id="加入團隊"><a href="#加入團隊" class="headerlink" title="加入團隊"></a>加入團隊</h3><p><a href="https://www.104.com.tw/company/10zcirfc">104 (嘉鼎智能｜115B永續所得實驗室)</a></p>
+<h3 id="社群媒體"><a href="#社群媒體" class="headerlink" title="社群媒體"></a>社群媒體</h3><p>歡迎加入我們的LINE社群一同推廣永續所得倡議</p>
+<blockquote>
+<p>👉 &emsp; <a href="(https://bit.ly/Slack115b"> 115B Slack 社群</a></p>
+<p>👉 &emsp; <a href="https://line.me/ti/g2/Yn9r9XlbjJjhjppxjyzmbQ"> 115B永續所得實驗室 LINE 社群</a></p>
+<p>👉 &emsp; <a href="https://www.facebook.com/sustainable.income.lab"> 115B永續所得實驗室 FB</a></p>
+</blockquote>
+]]></content>
+  </entry>
+  <entry>
     <title>【公民議題大家來討論｜通貨膨脹與永續發展議題之爭】｜活動筆記</title>
     <url>/Inflation-and-Sustainability/</url>
     <content><![CDATA[<blockquote>
@@ -489,126 +609,6 @@
         <tag>永續發展</tag>
         <tag>外部成本內部化</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>為人性而設計｜人類週期表</title>
-    <url>/Human-Elements-Periodic-Table/</url>
-    <content><![CDATA[<blockquote>
-<p><img src="https://miro.medium.com/max/1400/1*tKfmFcyAzq-jApP7ahmPMw.jpeg"><br><a href="https://uxdesign.cc/how-to-humanize-your-product-92fc871d6b0f">(圖片來源)</a></p>
-</blockquote>
-<blockquote>
-<p>【為何摘錄這篇文章】<br>產品設計，有時雖然會提到要考慮以人為中心設計，卻少考慮到科技是為了讓人更好而設計，而非吸引人。因此需要了解什麼元素可以幫助人生活得更好？文章利用MIT Ideating Lab 所建立的人類週期表來幫助設計師更好地了解人的元素。然而我們也必須知道，人非化學元素所組成，這樣的週期表也有其限制，在設計過程還是需要考慮到人的更多面向。 </p>
-</blockquote>
-<span id="more"></span>
-
-<hr>
-<h2 id="原文"><a href="#原文" class="headerlink" title="原文"></a>原文</h2><p>完整原文：<a href="https://uxdesign.cc/how-to-humanize-your-product-92fc871d6b0f">Humanize your product with the Periodic Table of Human Elements</a></p>
-<hr>
-<h2 id="摘要"><a href="#摘要" class="headerlink" title="摘要"></a>摘要</h2><p>文章一開始，以一個實驗來提到，設計上太過於專注在功能上，少了人性化，即使對於猴子都會感覺到其缺失。</p>
-<p>然而，所謂的人性化的設計，不在於為了吸引人，不單純為了解決人的問題，而是考慮幫助人獲得其真正需要的，幸福感，讓生命、生活更美好。</p>
-<hr>
-<h2 id="實踐的困境"><a href="#實踐的困境" class="headerlink" title="實踐的困境"></a>實踐的困境</h2><p>上面理論雖好，也的確遇到了兩個挑戰，所以少被實踐</p>
-<ul>
-<li>理解是什麼推動人的福祉？<ul>
-<li>一般產品設計會專注在功能、痛點、問題上，因為相對簡單。然而，對於要對生命真正有用，卻會產生許多不同理解，甚至不易找到共同語言。像是在團隊夥伴間，有些人認為某種元素是「控制」，但另外有人會認為那是種「自信」</li>
-</ul>
-</li>
-<li>為福祉設計<ul>
-<li>為功能設計相對簡單，但更為進階的概念如安全、歸屬感、自由和超越，相對抽象。</li>
-</ul>
-</li>
-</ul>
-<hr>
-<h2 id="人類週期表"><a href="#人類週期表" class="headerlink" title="人類週期表"></a>人類週期表</h2><p>MIT的Ideating Lab 建立關於人的週期表，了解什麼元素可以改善人的福祉，作為設計的共同語言。</p>
-<p>透過如此設計，有幾個基本步驟</p>
-<ul>
-<li>揭露最為相關的元素<ul>
-<li>針對某一群人進行設計時，透過量化研究，以問卷的方式去了解這群人最需要的元素有哪些。</li>
-</ul>
-</li>
-<li>發掘更多元素<ul>
-<li>雖然週期表上只有15個元素，但對每個人來說，是更為多元，15個元素只是入口，可以去發掘更多。例如以一個人在某種情境下想要的「掌控」元素，可以再進行深挖，如<ul>
-<li>什麼外在的因素會使這群人感覺到能夠掌控？</li>
-<li>什麼內在的元素使得這群人能感受到掌控？</li>
-<li>在真實世界中，哪些是真正能「掌控」的，哪些是不能的？</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>設計有形的特增，去擴增這些元素<ul>
-<li>前面兩個步驟比較類似調研過程，在這步驟，嘗試將其有形建構，作者提出一些提示方向<ul>
-<li>槓桿：以前面的掌控為例，如何擴大掌控力，以及現實狀況他們能被擴大的是什麼？</li>
-<li>地圖：如何讓人更清楚認識狀況、脈絡？</li>
-<li>適應模糊性：以掌控來說，幫助這個群體意識到某些時候失去掌控是正常的，並且幫助適應。</li>
-<li>校正：當過於無法掌控時，該如何修正回正軌？</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<hr>
-<h2 id="結語"><a href="#結語" class="headerlink" title="結語"></a>結語</h2><p>不過人畢竟不像化學元素，組成因素更多，也必須先了解這個週期表作為工具的限制，將核心放在以幫助人生命過得更好的設計。</p>
-<hr>
-<h2 id="115B永續所得實驗室"><a href="#115B永續所得實驗室" class="headerlink" title="115B永續所得實驗室"></a>115B永續所得實驗室</h2><p>「115B永續所得實驗室」是由「嘉鼎智能團隊」，呼應社會團結經濟浪潮而成立，創立之初，以台北松山區的敦化南路1段1號5樓B室為起點，故以115B為紀念。</p>
-<p>主要在協助個體、或組織，運用國際股市連結全球社會經濟的人心智能，增強本身經濟實力；並在過程中融合永續進展的理念，追求經濟、社會、環境各方面的均衡進步發展，尤其經濟上要符合（經世濟民）道理。</p>
-<h3 id="加入團隊"><a href="#加入團隊" class="headerlink" title="加入團隊"></a>加入團隊</h3><p><a href="https://www.104.com.tw/company/10zcirfc">104 (嘉鼎智能｜115B永續所得實驗室)</a></p>
-<h3 id="社群媒體"><a href="#社群媒體" class="headerlink" title="社群媒體"></a>社群媒體</h3><p>歡迎加入我們的LINE社群一同推廣永續所得倡議</p>
-<blockquote>
-<p>👉 &emsp; <a href="(https://bit.ly/Slack115b"> 115B Slack 社群</a></p>
-<p>👉 &emsp; <a href="https://line.me/ti/g2/Yn9r9XlbjJjhjppxjyzmbQ"> 115B永續所得實驗室 LINE 社群</a></p>
-<p>👉 &emsp; <a href="https://www.facebook.com/sustainable.income.lab"> 115B永續所得實驗室 FB</a></p>
-</blockquote>
-]]></content>
-  </entry>
-  <entry>
-    <title>以「生活生態中心」設計，取代「用戶中心」設計</title>
-    <url>/Life-centred-design/</url>
-    <content><![CDATA[<blockquote>
-<p><img src="https://miro.medium.com/max/700/1*9P4-JHQaKdPiMS3k3wPeYA.png"><br><a href="hhttps://uxdesign.cc/life-centred-design-96965acdcbf4">(圖片來源)</a></p>
-</blockquote>
-<blockquote>
-<p>【為何摘錄這篇文章】<br>從「用戶中心」設計，轉換到「生活生態中心」設計。為的是避免過去商業設計，造成對經濟、社會、環境過度索取所造成的副作用。文章可同樣作為「團結經濟」的設計參考，不僅考慮人群、還需考慮眾生，跳脫以個人利益為為中心的經濟學。以「團隊結義」、與「眾生共生」取代「利益的結合」。</p>
-</blockquote>
-<span id="more"></span>
-
-<hr>
-<h2 id="原文"><a href="#原文" class="headerlink" title="原文"></a>原文</h2><p>完整原文：<a href="hhttps://uxdesign.cc/life-centred-design-96965acdcbf4">Life-centred design</a></p>
-<h2 id="文章摘要"><a href="#文章摘要" class="headerlink" title="文章摘要"></a>文章摘要</h2><p>文章討論從「用戶中心」設計，轉換到「生活生態圈中心」設計。<br>前者以用戶中心為考量，但在商業的世界，容易失衡造成從自然界索取過多並浪費。而後者則是考慮與生態共生，所以常會用到些循環經濟、系統思考、仿生學、甜甜圈經濟學的概念。<br>整個設計思路包含了三群相互影響的利害關係者、三個支撐的支柱、以及響應方式。</p>
-<blockquote>
-<p><img src="https://miro.medium.com/max/700/1*bBCYk-DRcqrLNq_BXx-hsQ.png"><br><a href="hhttps://uxdesign.cc/life-centred-design-96965acdcbf4">(圖片來源)</a></p>
-</blockquote>
-<h3 id="三群利害關係者"><a href="#三群利害關係者" class="headerlink" title="三群利害關係者"></a>三群利害關係者</h3><p>應該也是從小到大後面包含前面的。</p>
-<ul>
-<li>第一群，從所有人開始。不僅包含「用戶中心」所關心的用戶以及商業關係人，還需包含所有如生產製造的人群、看似不在生活圈但會被影響到的所有人。</li>
-<li>第二群更為廣，包含了整個甚至是非生物的眾生，如土地、水、空氣。這些眾生也被發現具有知覺、記憶、認知等，可是視為生命的一部分。</li>
-<li>第三群，包含了整個星球。</li>
-</ul>
-<p>整體亦即，不僅考慮是用戶為中心，而是考慮以所有人、眾生、整個環境共生。</p>
-<h3 id="三個支柱"><a href="#三個支柱" class="headerlink" title="三個支柱"></a>三個支柱</h3><p>包含了</p>
-<ul>
-<li>永續、可再生。必須與所有眾生環境共生，取代商業造成的過度索取。而需要跳脫個人及用戶，考慮經濟、社會、環境的共同未來。</li>
-<li>包容、多元化。以人的部分，特別會考慮到性別身份、文化、種族、顏色、年紀的多元包容。</li>
-<li>負責任且言行一致。所有的設計需要透明、可被檢視、科學化的。教導用戶及夥伴一同跳脫自我，關心整個生活生態圈。</li>
-</ul>
-<h3 id="響應的方式"><a href="#響應的方式" class="headerlink" title="響應的方式"></a>響應的方式</h3><p>需要考慮跨越時間空間。</p>
-<ul>
-<li>同時考量微觀活動的需要以及全局的前進目標。包含zoom-in、zoom-out，系統性思考及局部問題的調和，傳統及現代智慧的包容，人類及自然間的共生。</li>
-<li>考慮整個週期的設計，接近循環經濟的概念。從物質的採集、製造、運送、購買、利用、再利用、修復、再製、回收…等。都須考慮所有過程對人、眾生、星球的影響。</li>
-<li>考慮過去及未來。尊重過去的智慧，及考慮未來的利害相關者。</li>
-</ul>
-<h2 id="結語"><a href="#結語" class="headerlink" title="結語"></a>結語</h2><p>傳統設計師，本身就已被訓練有一些基本能力了。包含以人為中心、識別並解決問題、系統思考、進行有影響力的迭代等。</p>
-<p>而需要做的事，便是跳脫用戶，而具有更宏觀以整個生活生態圈為考量的設計脈絡重構。</p>
-<hr>
-<h2 id="115B永續所得實驗室"><a href="#115B永續所得實驗室" class="headerlink" title="115B永續所得實驗室"></a>115B永續所得實驗室</h2><p>「115B永續所得實驗室」是由「嘉鼎智能團隊」，呼應社會團結經濟浪潮而成立，創立之初，以台北松山區的敦化南路1段1號5樓B室為起點，故以115B為紀念。</p>
-<p>主要在協助個體、或組織，運用國際股市連結全球社會經濟的人心智能，增強本身經濟實力；並在過程中融合永續進展的理念，追求經濟、社會、環境各方面的均衡進步發展，尤其經濟上要符合（經世濟民）道理。</p>
-<h3 id="加入團隊"><a href="#加入團隊" class="headerlink" title="加入團隊"></a>加入團隊</h3><p><a href="https://www.104.com.tw/company/10zcirfc">104 (嘉鼎智能｜115B永續所得實驗室)</a></p>
-<h3 id="社群媒體"><a href="#社群媒體" class="headerlink" title="社群媒體"></a>社群媒體</h3><p>歡迎加入我們的LINE社群一同推廣永續所得倡議</p>
-<blockquote>
-<p>👉 &emsp; <a href="(https://bit.ly/Slack115b"> 115B Slack 社群</a></p>
-<p>👉 &emsp; <a href="https://line.me/ti/g2/Yn9r9XlbjJjhjppxjyzmbQ"> 115B永續所得實驗室 LINE 社群</a></p>
-<p>👉 &emsp; <a href="https://www.facebook.com/sustainable.income.lab"> 115B永續所得實驗室 FB</a></p>
-</blockquote>
-]]></content>
   </entry>
   <entry>
     <title>文章導讀：社會團結合作組織的設計思路（上篇）｜Organisation-wide design as systems practice</title>
@@ -1828,215 +1828,6 @@
       </tags>
   </entry>
   <entry>
-    <title>ETF 背後的巨頭現象</title>
-    <url>/The-Company-That-Owns-the-World/</url>
-    <content><![CDATA[<blockquote>
-<p><img src="https://miro.medium.com/max/1400/1*3RBGqHk2FRCaxpP4O-QUaw.jpeg"><br><a href="https://upload.wikimedia.org/wikipedia/commons/a/ac/Laurence_Douglas_Fink_%28cropped%29.jpg">(圖片來源)</a></p>
-</blockquote>
-<blockquote>
-<p>【為何摘錄這篇文章】<br>在2008年金融海嘯後，許多人選擇投資ETF，認為這是安全保存資產的方式。然而本篇文章提到ETF已經被金融巨頭壟斷，我們買這些ETF可能錢大多都進了這些巨頭的口袋。而巨頭的代表之一Blackrock的CEO曾提到認為石化燃料撤資的行為無意義，並且大量推行ESG基金。希望閱讀這邊文章後，可以思考金融巨頭是如何影響我們的認知，以及我們該如何應對？</p>
-</blockquote>
-<span id="more"></span>
-<hr>
-<p><a href="https://medium.com/predict/forget-fusion-the-future-of-energy-is-already-here-519ffd2448a9">完整原文：Forget Fusion, The Future Of Energy Is Already Here.</a></p>
-<h2 id="ETF-真的保值嗎？"><a href="#ETF-真的保值嗎？" class="headerlink" title="ETF 真的保值嗎？"></a>ETF 真的保值嗎？</h2><p>在2008年金融海嘯後，許多人開始覺得不要求要透過投資賺很多錢，只要保值就好，而去買ETF，然而事實上並非如此。ETF相當於是把資源聚集在幾個少家公司的集資表現。</p>
-<p>被三大ETF金融業者掌控操縱，是目前最為國際化的美國股市，令人難以忽視的潛在危機，我們或許應幫助更多人去look through、也就是加以「看（透、拆）穿」。</p>
-<p>而對指數走勢舉足輕重的「權值股」，通常就是市值名列前茅的企業，意味著投資人必須對其付出極高成本，故與Cost Potential（單位成本可連結到實體經濟的能量）上的表現背道而馳，故能成為一種破解之道。</p>
-<h2 id="金融對永續發展議題的自圓其說"><a href="#金融對永續發展議題的自圓其說" class="headerlink" title="金融對永續發展議題的自圓其說"></a>金融對永續發展議題的自圓其說</h2><p>其實這不單是金融問題，因為文中提到BlackRock的CEO Larry Fink對減少石化能源的看法：「“Unfortunately, so much of the policies are greenwashing,” Fink said. “Nothing is more greenwashing than divestiture. Because it doesn’t change the [carbon] footprint of the world.”」</p>
-<p><a href="https://mitsloan.mit.edu/ideas-made-to-matter/blackrocks-larry-fink-dont-divest-fossil-fuels-stay-game">另一篇文</a>，細節說到 Larry Fink為何認為石化燃料撤資無效，意思是以公開市場來說有人撤資了，另外的人會持有。</p>
-<p>「Keep in mind, if a foundation or an insurance company or a pension fund says, ‘I’m not going to own any hydrocarbons,’ well, somebody else is, so you’re not changing the world」</p>
-<p>但下面我們可以看到Larry Fink的說法，其實可能也是一種漂綠，想推進ESG基金。但可能他反而會用同樣的詞，說政府的撤資行動是浪費時間的漂綠。</p>
-<p>BlackRock 佔了近 39% 的ETF市場，再和上Vanguard、State Street，三大巨頭佔了80%的ETF，而也包含了ESG ETF。而形成資源、決定權集中在少數的狀況。</p>
-<p> Larry Fink 說，不需要對石化燃料撤資，理由是黑石只是一家公司，撤資不會造成任何改變，需要系統思考… 等等</p>
-<p>作者提到，這種說法對於說一個家庭做塑膠回收沒太多改變可能還有些邏輯，但說一個10兆美元下的公司的動作不會有任何用處，完全無道理。</p>
-<p>而這幾大巨頭控制了接近40%的美國企業，88% 的S&amp;P 500 企業，甚至包含看起來表面是競爭的企業，而其實完全是被這三大巨頭給冗斷。</p>
-<h2 id="小結"><a href="#小結" class="headerlink" title="小結"></a>小結</h2><p>文章希望大家能看穿這些點，能做些BlackRock不會做的事，即負擔起個人責任，作法是買ETF前需深思，否則，可能是幫助錢都到了BlackRock等巨頭的口袋。</p>
-<hr>
-<h2 id="永續所得實驗室"><a href="#永續所得實驗室" class="headerlink" title="永續所得實驗室"></a>永續所得實驗室</h2><p>「永續所得實驗室」是由「嘉鼎智能團隊」，呼應社會團結經濟浪潮而成立，主要在協助個體、或組織，運用國際股市連結全球社會經濟的人心智能，增強本身經濟實力；並在過程中融合永續進展的理念，追求經濟、社會、環境各方面的均衡進步發展，尤其經濟上要符合（經世濟民）道理。</p>
-<h3 id="加入團隊"><a href="#加入團隊" class="headerlink" title="加入團隊"></a>加入團隊</h3><p><a href="https://www.104.com.tw/company/10zcirfc">104 (嘉鼎智能｜永續所得實驗室)</a></p>
-<h3 id="社群媒體"><a href="#社群媒體" class="headerlink" title="社群媒體"></a>社群媒體</h3><p>歡迎加入我們的LINE社群一同推廣永續所得倡議</p>
-<blockquote>
-<p>👉 &emsp; <a href="https://line.me/ti/g2/Yn9r9XlbjJjhjppxjyzmbQ"> 永續所得實驗室 LINE 社群</a></p>
-<p>👉 &emsp; <a href="https://www.facebook.com/sustainable.income.lab"> 永續所得實驗室 FB</a></p>
-</blockquote>
-]]></content>
-      <tags>
-        <tag>永續所得實驗室</tag>
-        <tag>ETF</tag>
-        <tag>ESG</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>極少人知道，電動車對氣候的影響竟然是這樣的！</title>
-    <url>/Three-Little-Known-Climate-Change-Impacts-of-Electric-Cars/</url>
-    <content><![CDATA[<blockquote>
-<p><img src="https://miro.medium.com/max/1400/1*SS_Hly2qQ26IRLlI-aq8mg.jpeg"><br><a href="https://pixabay.com/photos/car-electric-car-hybrid-car-3117778/">(圖片來源)</a></p>
-</blockquote>
-<blockquote>
-<p>【為何摘錄這篇文章】<br>電動車的發展常被認為是能源轉型的重要一環，然而這篇文章卻告訴我們事情並非這麽容易。<br>文章去分析電動車的不同車型，從製造過程，到使用所需的電力、使用的地區，最後到其使用生命週期。我們會發現電動車的過度推廣，有可能對解決氣候問題造成反效果。<br>裡面特別提到了Jevons Paradox 以及 社會貼現率 兩個概念，這對「永續所得實驗室」社群夥伴在思考社會團結經濟時，能夠理解，效率如果使用不當可能會帶來的負面效應，以及先破壞環境期待未來自然會恢復的心態常常不可行。</p>
-</blockquote>
-<span id="more"></span>
-<hr>
-<p>完整原文：<a href="https://medium.com/a-balanced-transition/three-little-known-climate-change-impacts-of-electric-cars-108d3f6efc4f">Three Little-Known Climate Change Impacts of Electric Cars</a></p>
-<p>電動車常常被當成是改善氣候變遷議題的解方，然而文章從幾個面向討論了，其實電動車的過大推廣對於減碳很可能無幫助，甚至有負面效果。</p>
-<p>例如：</p>
-<ol>
-<li><p>電動車需要大量用電，電的生產背後常有大量的碳排發生。</p>
-</li>
-<li><p>電池由於通常過重，電動車會嘗試用鋁之類的較輕的金屬製造，然而鋁等金屬的煉製過程碳排甚至比鐵高。而其他製造電動車的材料，亦有碳排的問題。</p>
-</li>
-<li><p>Jevons Paradox，由於電動車在減碳上有一定效率，但被政府用大量激勵方式推廣，造成過度需求，而反而加上前面效應，總碳排容易增加。</p>
-</li>
-<li><p>CO2的社會貼現率，亦即現在的碳排所造成的負面效應對未來的影響。社會貼現率越大，代表認為負面效應對未來影響較小，而可能造成許多人在現在排碳。與油電混合車相比，在低碳電力國家，低碳貼現率下，電動車坐造成的碳排在一定里程數下，可以低於油電混合車，許多國家用這個理由推廣電動車。然而實際上對於世界平均的電力造成的碳排下，大多國家的潔淨能源是不足的，電動車的累積碳排永遠無法低於油電混合車。</p>
-</li>
-</ol>
-<p>“they will be considering the latest hybrids, several of which already exceed 50 MPG in real-world driving conditions. Doubling the gasoline benchmark’s fuel efficiency would essentially halve the lifecycle greenhouse gas emissions of gasoline cars in the graph above, erasing almost the entire electric car benefit.” 會發現，現行混合動力車款其實有時比純電動車環保。</p>
-<p>許多大肆宣傳電動車成效的研究，常常是忽略了上面的某些效應。而另外，有人考慮可以如增加油稅增加電稅來控制電的使用量，然而油稅只影響交通，而電稅則影響許多經濟不同層面，幾乎無法執行。</p>
-<p>最後文章有提到，是不是有些電動車類型對環境的正面效益較佳？文章提到小型的電動車，或如電動機車的確有些較佳的狀況。但作者所在的挪威，許多大型的SUVs </p>
-<p>電動車被補貼，而既使挪威有需多潔淨能源資源，由於歐洲也許多地區會需要利用到這些潔淨能源，作者並不贊同挪威的補助方式。 </p>
-<hr>
-<h2 id="永續所得實驗室"><a href="#永續所得實驗室" class="headerlink" title="永續所得實驗室"></a>永續所得實驗室</h2><p>「永續所得實驗室」是由「嘉鼎智能團隊」，呼應社會團結經濟浪潮而成立，主要在協助個體、或組織，運用國際股市連結全球社會經濟的人心智能，增強本身經濟實力；並在過程中融合永續進展的理念，追求經濟、社會、環境各方面的均衡進步發展，尤其經濟上要符合（經世濟民）道理。</p>
-<h3 id="加入團隊"><a href="#加入團隊" class="headerlink" title="加入團隊"></a>加入團隊</h3><p><a href="https://www.104.com.tw/company/10zcirfc">104 (嘉鼎智能｜永續所得實驗室)</a></p>
-<h3 id="社群媒體"><a href="#社群媒體" class="headerlink" title="社群媒體"></a>社群媒體</h3><p>歡迎加入我們的LINE社群一同推廣永續所得倡議</p>
-<blockquote>
-<p>👉 &emsp; <a href="https://line.me/ti/g2/Yn9r9XlbjJjhjppxjyzmbQ"> 永續所得實驗室 LINE 社群</a></p>
-<p>👉 &emsp; <a href="https://www.facebook.com/sustainable.income.lab"> 永續所得實驗室 FB</a></p>
-</blockquote>
-]]></content>
-      <tags>
-        <tag>永續所得實驗室</tag>
-        <tag>電動車</tag>
-        <tag>減碳</tag>
-        <tag>氣候變遷</tag>
-        <tag>Jevons Paradox</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【公民議題大家來討論】自適應準則，擴增集智的再生迭代｜活動筆記</title>
-    <url>/acis-adaptive/</url>
-    <content><![CDATA[<blockquote>
-<p><img src="https://static.accupass.com/eventbanner/2309040543471843093224.jpg"></p>
-</blockquote>
-<blockquote>
-<p>本文由2023/9/22「115B實驗室」發起的【公民議題大家來討論】自適應準則，擴增集智的再生迭代，摘錄整理。這次，除了討論過程，也開放主題由參與者一同決定。</p>
-</blockquote>
-<span id="more"></span>
-
-<hr>
-<h2 id="活動連結"><a href="#活動連結" class="headerlink" title="活動連結"></a>活動連結</h2><ul>
-<li>活動頁面：<a href="https://www.accupass.com/event/2309040543051339494978">【公民議題大家來討論】自適應準則，擴增集智的再生迭代</a></li>
-<li>討論區連結：<a href="https://join.skype.com/vW3qoOosG7Mg">本次系列活動Skype群組</a></li>
-<li>活動影片：<a href="https://fb.watch/ngHTo1O6pH/">紀錄連結</a></li>
-</ul>
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fsustainable.income.lab%2Fvideos%2F1449039305661432%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
-
-<hr>
-<h2 id="目錄"><a href="#目錄" class="headerlink" title="目錄"></a>目錄</h2><ul>
-<li><a href="#%E6%B4%BB%E5%8B%95%E9%80%A3%E7%B5%90">活動連結</a></li>
-<li><a href="#%E7%9B%AE%E9%8C%84">目錄</a></li>
-<li><a href="#%E7%B0%A1%E4%BB%8B">簡介</a><ul>
-<li><a href="#%E7%A4%BE%E7%BE%A4%E5%B0%8D%E6%9C%AC%E6%AC%A1%E8%AD%B0%E9%A1%8C%E7%9B%B8%E9%97%9C%E6%A6%82%E5%BF%B5%E7%9A%84%E5%88%9D%E6%AC%A1%E6%83%B3%E5%83%8F">社群對本次議題相關概念的初次想像</a></li>
-<li><a href="#%E6%9C%AC%E6%AC%A1%E8%A8%8E%E8%AB%96%E5%8F%83%E8%88%87%E8%80%85">本次討論參與者</a></li>
-</ul>
-</li>
-<li><a href="#%E5%A0%B1%E5%90%8D%E8%80%85%E5%B8%8C%E6%9C%9B%E5%8F%AF%E4%BB%A5%E5%92%8C%E5%A4%A7%E5%AE%B6%E4%B8%80%E8%B5%B7%E8%A8%8E%E8%AB%96%E7%9A%84%E4%B8%BB%E9%A1%8C">報名者希望可以和大家一起討論的主題</a></li>
-<li><a href="%E6%93%B4%E5%A2%9E%E9%9B%86%E6%99%BA%E7%9A%84%E8%87%AA%E9%81%A9%E6%87%89%E6%BA%96%E5%89%87">擴增集智的自適應準則</a></li>
-<li><a href="#115B%E5%AF%A6%E9%A9%97%E5%AE%A4">115B實驗室簡介</a></li>
-</ul>
-<hr>
-<h2 id="簡介"><a href="#簡介" class="headerlink" title="簡介"></a>簡介</h2><p>本次以<a href="https://docs.google.com/document/d/1qNus42juM5SnVmFaoETRJuGquGqbSrPC6mhccdc4MjQ">「ACIS（擴增集體智能）協作指南」</a>的第7準則，自適應準則為元素，</p>
-<p>我們將深入探討擴增集智如何在再生經濟、經濟能量、人心智能等領域中展現獨特魅力。自適應準則是指擴增集體智能系統（ACIS）在其設計和運作中具備了適應性的特性。</p>
-<p>這意味著ACIS可以靈活地適應不同的應用模式，以滿足使用者的多重需求。同時，ACIS還需要能夠應對不同的環境變動，透過自動調配機制確保在環境變動中能夠持續高效運作。最重要的是，ACIS必須具備再生迭代演進的能力，透過汰舊更新機制確保其長期可持續發展，不僅跟上技術的變革，還能不斷改進和升華集體智能的表現。</p>
-<p>整理出來，至少包含三個面向，「適應不同的應用模式」、「應對不同的環境變動」、「再生迭代演進的能力」。</p>
-<h3 id="社群對本次議題相關概念的初次想像"><a href="#社群對本次議題相關概念的初次想像" class="headerlink" title="社群對本次議題相關概念的初次想像"></a>社群對本次議題相關概念的初次想像</h3><p>在本次活動報名時，便收集對於「人心智能」、「自適應」兩個概念的聯想。</p>
-<h4 id="看見「人心智能」一詞，會想到什麼關鍵詞？"><a href="#看見「人心智能」一詞，會想到什麼關鍵詞？" class="headerlink" title="看見「人心智能」一詞，會想到什麼關鍵詞？"></a>看見「人心智能」一詞，會想到什麼關鍵詞？</h4><p>這次收集到的關鍵詞，包含「共創」、「集體智慧框架的擴展」、「創造力與約束力」，這一次的收集內容，相對過去來說，大家有更關注在人心的部分，而非智能的部分。</p>
-<p>這點在人工智能火熱的今日，又顯得更重要。</p>
-<p><img src="/img/acis-adaptive//mind.png" alt="人心智能"></p>
-<h4 id="看見「自適應」一詞，會想到什麼關鍵詞？"><a href="#看見「自適應」一詞，會想到什麼關鍵詞？" class="headerlink" title="看見「自適應」一詞，會想到什麼關鍵詞？"></a>看見「自適應」一詞，會想到什麼關鍵詞？</h4><p>「與時並進」、「流動」、「滾動式調整」、「相容性」，可以發現與「適應不同的應用模式」、「應對不同的環境變動」、「再生迭代演進的能力」等三個面向都有所對應。</p>
-<p><img src="/img/acis-adaptive/adaptive.png" alt="自適應"></p>
-<h3 id="本次討論參與者"><a href="#本次討論參與者" class="headerlink" title="本次討論參與者"></a>本次討論參與者</h3><ul>
-<li><p>麥克風參與</p>
-<ul>
-<li>Jeffery</li>
-<li>Jolin</li>
-<li>James</li>
-<li>Sherry</li>
-<li>Huanry 黃世和（主持人）</li>
-</ul>
-</li>
-<li><p>文字參與</p>
-<ul>
-<li>Brian</li>
-</ul>
-</li>
-<li><p>文字摘錄</p>
-<ul>
-<li>Huanry</li>
-</ul>
-</li>
-</ul>
-<hr>
-<h2 id="報名者希望可以和大家一起討論的主題"><a href="#報名者希望可以和大家一起討論的主題" class="headerlink" title="報名者希望可以和大家一起討論的主題"></a>報名者希望可以和大家一起討論的主題</h2><blockquote>
-<p>Huanry（主持人）：在報名時，我們有收集大家希望討論的議題，本次有兩個</p>
-</blockquote>
-<ul>
-<li>個體與群體心智快速流動，這是種什麼樣的經驗?</li>
-<li>共創</li>
-</ul>
-<blockquote>
-<p>由於第一個是由Jeffrey提出，請Jeffery分享這個主題的意思，以及請各位夥伴分享對這兩個主題的看法或聯想。</p>
-<p>Jeffery：關於「個體與群體心智快速流動」，以今天的活動為例，自己是一個個體，到了嘉鼎智能115B實驗室這個集體參加活動，也在感受及了解自己能吸收多少，以及會幫助到這個集體多少。活動前聽到了許多例子，像是Huanry提到的接觸即興，也感覺很有趣。</p>
-<p>Huanry：這也會想到集體智能的集體和個體的智能流動性問題。以接觸即興來說，被認為是創造集體智能的一種表現，但對於習慣的人，是否能讓新進的個體融入，如果不能，則可能也少了適應新群體的表現。</p>
-<p>James：聽到這些概念會想到在一個文化或群體中，例如工程師的文化是一種群體，但是不是可以去生出觸手，了解到用戶所需要。</p>
-<p>Jolin：以前會聽到設計師自己個體的生活經驗，會影響到其設計的思維，再影響到整個設計領域的集體。</p>
-<p>Alvin：以螞蟻來講，許多人雖然認為其具有許多集體智能的表現，然而實際上一個個體的螞蟻進入蟻群，卻會因為氣味等因素無法融入。群體是否能夠接收個體，也令人值得得思考，像是外國人到達如澳洲這樣的國家，有兩個面向的適應流動，一個是澳洲是否能接納外來人士進入，另外是外來人士是否能適應其文化。這樣雙方的面相需要考量。</p>
-<p>Sherry：新住民為例，在台灣是小群體，政府開始幫助這些像是個體的小群體融入台灣這樣的大群體。如果從更宏觀來看，新住民原來的國家都比台灣大許多，當我們接納這些融入，也反向的是我們融入的更大的群體。</p>
-<p>Jolin：共創的部分會想到雲端協作，讓許多共創變得可能。</p>
-<p>James：大的群體對小的群體，往往都是複製、殖民、索取資源。以美國為例，然而後來變為從歐洲來的多元文化、宗教的融合，但又形成了以白人為主的另外一種大群體。</p>
-</blockquote>
-<h3 id="小結"><a href="#小結" class="headerlink" title="小結"></a>小結</h3><p>在這一段我們更多討論了關於集體、個體，或是大群體、小群體間的心智流動，會發現這是需要相互的，也自然引入到這次的主題，自適應。</p>
-<p>對於大群體要如何接納小群體的融入，從更大的層次來看，也代表著可以去適應更大的群體。就入前面提到台灣接納新住民，也代表著嘗試與新住民原來國家間更大群體的適應。</p>
-<hr>
-<h2 id="擴增集智的自適應準則"><a href="#擴增集智的自適應準則" class="headerlink" title="擴增集智的自適應準則"></a>擴增集智的自適應準則</h2><p>在本段，基於前面提到自適應準則的三個面向「適應不同的應用模式」、「應對不同的環境變動」、「再生迭代演進的能力」，這段，期待透過跳脫這樣的框架，再次進行討論。</p>
-<h3 id="你想像的自適應是什麼意思？"><a href="#你想像的自適應是什麼意思？" class="headerlink" title="你想像的自適應是什麼意思？"></a>你想像的自適應是什麼意思？</h3><blockquote>
-<p>Huanry：上一段的討論，可以看到自動連結到自適應準則當中。今天的參加者過去都討論了關於集體智能的意義，這次不再進行討論。簡單來說，集體智能是強調集體的智能，而非個體。如果一群人，既使裡面每個個體都具有高智能，也不一定會在集體會呈現出好的智能。所以我們常聽到群聚效應等等的概念。<br>接下來討論自適應的概念，我第一次聽到這個詞是關於網站，當手機時代來臨了以後產生了這個需求，網站要同時符合電腦端、手機端的適應。<br>後來在集體智能的領域也聽到這個概念，如何群體能自我適應不同環境的變化。</p>
-<p>Sherry：我第一次也是在網站領域聽到，後來會想到一些像是AI時代如何自處，包含工作及人生如何自我適應。</p>
-<p>Alvin：最早聽到這個概念是在工程領域，像是變頻。後來會聽到像是ChatGPT也有些自適應的過程，去適應問題者要的答案。</p>
-<p>Huanry：這聽起來會產生過度擬合的狀況。</p>
-<p>Alvin：是的，像是以前有某的品牌，變頻效果不好，卻用取巧的方式去調整冷氣數字，但沒有真實變化。</p>
-<p>Jolin：以前沒聽過自適應這個詞，這會想到有些AI管家的概念，去專門適應學習成主人需要的樣子。</p>
-<p>Huanry：這會想到有文章在討論AI的雙生火焰，一個部分可以去監測一個人更幫助一個人，但可能也產生了過度擬合人，或是資料安全的另一面議題。</p>
-<p>James：過去沒聽過自適應，只聽過適應。就像是IT中的模組功能，可不可以與其他不同語言的模塊有兼容性。</p>
-<p>在其他的例子會想到像是產業外移，該如何面對適應。或像是麵包店原來在交通轉運中心，當不再是其中心時，要如何適應人群的減少。</p>
-<p>另外會想到嘉鼎的心智元的概念，要如何幫助如然受到環境變化的人？</p>
-<p>Huanry：這會想到有長期和短期的，以心智元來說，的確適合長期的共學，像是健康中的保健。然而短期問題，就像疾病一樣，不一定能幫，但保健便是為了避免面對極端情況無法適應的提前措施。</p>
-<p>Jeffery：適應是一定會發生，但很在意要如何幫助人可以無痛的去適應。</p>
-<p>Brian：如下文將企業法人視為AI的話，那人和AI的協作，應該也就與人和企業團隊之間的協作，有著相同的重要性<br>（<a href="https://indica.medium.com/the-worst-case-scenario-for-ai-is-already-here-b224721402ee%EF%BC%89">https://indica.medium.com/the-worst-case-scenario-for-ai-is-already-here-b224721402ee）</a></p>
-<p>Huanry：文章先提到企業這種人造的產物，已經有了人格，包含在法律上具有法人，並實際上有了許多影響力，可以做過去被認為人才能做的事。而認為企業可以算是一種人工智能AI。 有人認為企業的決策是由人組成，然而實際上卻不不完全，既使是CEO都不真正完全控制這個機器的運作。 許多人擔心現在提到的人工智能，如ChatGPT會對人類造成影響。 然而實際上，從荷蘭東印度公司開始產生了企業的概念，企業這種AI對人類的負面影響早已長久存在。</p>
-<p>Alvin：有些討論人與AI一同長大，最後人變成是AI造出的人。企業去有一定的自適應能力，在疫情中小型的企業逐漸消失，而壟斷是的企業，卻持續適應。以前面AI的例子來說，不僅是AI適應人，也是人在適應AI，除間失去智能。這種情況下，人是否能懂得質疑，也是可以深思。</p>
-<p>Huanry：這裡和上面的討論會發現，我們前面提到自適應的需要，但這裡會發現AI的自適應的能力，會對社會造成一些反面效果。要如何避免，剛剛提到的適應和質疑間的平衡也是需要的。</p>
-<p>Jolin：推薦一部相關的電影『窒友梅根』</p>
-</blockquote>
-<h2 id="小結-1"><a href="#小結-1" class="headerlink" title="小結"></a>小結</h2><p>在我們討論集體智能的自適應的過程中，一個部分可以發現這是雙向的，個體如何適應集體，集體是否能適應個體。但我們討論中也發現，要擴增集體智能，要的不僅僅是適應，也會需要保有其能夠質疑的能力。</p>
-<hr>
-<h2 id="115B實驗室"><a href="#115B實驗室" class="headerlink" title="115B實驗室"></a>115B實驗室</h2><p>「115B實驗室」是由「嘉鼎智能團隊」，呼應社會團結經濟浪潮而成立，主要在協助個體、或組織，運用國際股市連結全球社會經濟的人心智能，增強本身經濟實力；並在過程中融合永續進展的理念，追求經濟、社會、環境各方面的均衡進步發展，尤其經濟上要符合（經世濟民）道理。</p>
-<h3 id="加入團隊"><a href="#加入團隊" class="headerlink" title="加入團隊"></a>加入團隊</h3><p><a href="https://www.104.com.tw/company/10zcirfc">104 (嘉鼎智能｜115B實驗室)</a></p>
-<h3 id="社群媒體"><a href="#社群媒體" class="headerlink" title="社群媒體"></a>社群媒體</h3><p>歡迎加入我們的LINE社群一同推廣永續所得倡議</p>
-<blockquote>
-<p>👉 &emsp; <a href="https://line.me/ti/g2/Yn9r9XlbjJjhjppxjyzmbQ"> 115B實驗室 LINE 社群</a></p>
-<p>👉 &emsp; <a href="https://www.facebook.com/sustainable.income.lab">115B實驗室 FB</a></p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>公民議題大家來討論</category>
-      </categories>
-      <tags>
-        <tag>115B實驗室</tag>
-        <tag>再生</tag>
-        <tag>集體智能</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>團結與繁榮</title>
     <url>/Solidarity-and-Prosperity/</url>
     <content><![CDATA[<blockquote>
@@ -2576,6 +2367,215 @@
       <tags>
         <tag>團結經濟學</tag>
         <tag>團結經濟</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>ETF 背後的巨頭現象</title>
+    <url>/The-Company-That-Owns-the-World/</url>
+    <content><![CDATA[<blockquote>
+<p><img src="https://miro.medium.com/max/1400/1*3RBGqHk2FRCaxpP4O-QUaw.jpeg"><br><a href="https://upload.wikimedia.org/wikipedia/commons/a/ac/Laurence_Douglas_Fink_%28cropped%29.jpg">(圖片來源)</a></p>
+</blockquote>
+<blockquote>
+<p>【為何摘錄這篇文章】<br>在2008年金融海嘯後，許多人選擇投資ETF，認為這是安全保存資產的方式。然而本篇文章提到ETF已經被金融巨頭壟斷，我們買這些ETF可能錢大多都進了這些巨頭的口袋。而巨頭的代表之一Blackrock的CEO曾提到認為石化燃料撤資的行為無意義，並且大量推行ESG基金。希望閱讀這邊文章後，可以思考金融巨頭是如何影響我們的認知，以及我們該如何應對？</p>
+</blockquote>
+<span id="more"></span>
+<hr>
+<p><a href="https://medium.com/predict/forget-fusion-the-future-of-energy-is-already-here-519ffd2448a9">完整原文：Forget Fusion, The Future Of Energy Is Already Here.</a></p>
+<h2 id="ETF-真的保值嗎？"><a href="#ETF-真的保值嗎？" class="headerlink" title="ETF 真的保值嗎？"></a>ETF 真的保值嗎？</h2><p>在2008年金融海嘯後，許多人開始覺得不要求要透過投資賺很多錢，只要保值就好，而去買ETF，然而事實上並非如此。ETF相當於是把資源聚集在幾個少家公司的集資表現。</p>
+<p>被三大ETF金融業者掌控操縱，是目前最為國際化的美國股市，令人難以忽視的潛在危機，我們或許應幫助更多人去look through、也就是加以「看（透、拆）穿」。</p>
+<p>而對指數走勢舉足輕重的「權值股」，通常就是市值名列前茅的企業，意味著投資人必須對其付出極高成本，故與Cost Potential（單位成本可連結到實體經濟的能量）上的表現背道而馳，故能成為一種破解之道。</p>
+<h2 id="金融對永續發展議題的自圓其說"><a href="#金融對永續發展議題的自圓其說" class="headerlink" title="金融對永續發展議題的自圓其說"></a>金融對永續發展議題的自圓其說</h2><p>其實這不單是金融問題，因為文中提到BlackRock的CEO Larry Fink對減少石化能源的看法：「“Unfortunately, so much of the policies are greenwashing,” Fink said. “Nothing is more greenwashing than divestiture. Because it doesn’t change the [carbon] footprint of the world.”」</p>
+<p><a href="https://mitsloan.mit.edu/ideas-made-to-matter/blackrocks-larry-fink-dont-divest-fossil-fuels-stay-game">另一篇文</a>，細節說到 Larry Fink為何認為石化燃料撤資無效，意思是以公開市場來說有人撤資了，另外的人會持有。</p>
+<p>「Keep in mind, if a foundation or an insurance company or a pension fund says, ‘I’m not going to own any hydrocarbons,’ well, somebody else is, so you’re not changing the world」</p>
+<p>但下面我們可以看到Larry Fink的說法，其實可能也是一種漂綠，想推進ESG基金。但可能他反而會用同樣的詞，說政府的撤資行動是浪費時間的漂綠。</p>
+<p>BlackRock 佔了近 39% 的ETF市場，再和上Vanguard、State Street，三大巨頭佔了80%的ETF，而也包含了ESG ETF。而形成資源、決定權集中在少數的狀況。</p>
+<p> Larry Fink 說，不需要對石化燃料撤資，理由是黑石只是一家公司，撤資不會造成任何改變，需要系統思考… 等等</p>
+<p>作者提到，這種說法對於說一個家庭做塑膠回收沒太多改變可能還有些邏輯，但說一個10兆美元下的公司的動作不會有任何用處，完全無道理。</p>
+<p>而這幾大巨頭控制了接近40%的美國企業，88% 的S&amp;P 500 企業，甚至包含看起來表面是競爭的企業，而其實完全是被這三大巨頭給冗斷。</p>
+<h2 id="小結"><a href="#小結" class="headerlink" title="小結"></a>小結</h2><p>文章希望大家能看穿這些點，能做些BlackRock不會做的事，即負擔起個人責任，作法是買ETF前需深思，否則，可能是幫助錢都到了BlackRock等巨頭的口袋。</p>
+<hr>
+<h2 id="永續所得實驗室"><a href="#永續所得實驗室" class="headerlink" title="永續所得實驗室"></a>永續所得實驗室</h2><p>「永續所得實驗室」是由「嘉鼎智能團隊」，呼應社會團結經濟浪潮而成立，主要在協助個體、或組織，運用國際股市連結全球社會經濟的人心智能，增強本身經濟實力；並在過程中融合永續進展的理念，追求經濟、社會、環境各方面的均衡進步發展，尤其經濟上要符合（經世濟民）道理。</p>
+<h3 id="加入團隊"><a href="#加入團隊" class="headerlink" title="加入團隊"></a>加入團隊</h3><p><a href="https://www.104.com.tw/company/10zcirfc">104 (嘉鼎智能｜永續所得實驗室)</a></p>
+<h3 id="社群媒體"><a href="#社群媒體" class="headerlink" title="社群媒體"></a>社群媒體</h3><p>歡迎加入我們的LINE社群一同推廣永續所得倡議</p>
+<blockquote>
+<p>👉 &emsp; <a href="https://line.me/ti/g2/Yn9r9XlbjJjhjppxjyzmbQ"> 永續所得實驗室 LINE 社群</a></p>
+<p>👉 &emsp; <a href="https://www.facebook.com/sustainable.income.lab"> 永續所得實驗室 FB</a></p>
+</blockquote>
+]]></content>
+      <tags>
+        <tag>永續所得實驗室</tag>
+        <tag>ETF</tag>
+        <tag>ESG</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>極少人知道，電動車對氣候的影響竟然是這樣的！</title>
+    <url>/Three-Little-Known-Climate-Change-Impacts-of-Electric-Cars/</url>
+    <content><![CDATA[<blockquote>
+<p><img src="https://miro.medium.com/max/1400/1*SS_Hly2qQ26IRLlI-aq8mg.jpeg"><br><a href="https://pixabay.com/photos/car-electric-car-hybrid-car-3117778/">(圖片來源)</a></p>
+</blockquote>
+<blockquote>
+<p>【為何摘錄這篇文章】<br>電動車的發展常被認為是能源轉型的重要一環，然而這篇文章卻告訴我們事情並非這麽容易。<br>文章去分析電動車的不同車型，從製造過程，到使用所需的電力、使用的地區，最後到其使用生命週期。我們會發現電動車的過度推廣，有可能對解決氣候問題造成反效果。<br>裡面特別提到了Jevons Paradox 以及 社會貼現率 兩個概念，這對「永續所得實驗室」社群夥伴在思考社會團結經濟時，能夠理解，效率如果使用不當可能會帶來的負面效應，以及先破壞環境期待未來自然會恢復的心態常常不可行。</p>
+</blockquote>
+<span id="more"></span>
+<hr>
+<p>完整原文：<a href="https://medium.com/a-balanced-transition/three-little-known-climate-change-impacts-of-electric-cars-108d3f6efc4f">Three Little-Known Climate Change Impacts of Electric Cars</a></p>
+<p>電動車常常被當成是改善氣候變遷議題的解方，然而文章從幾個面向討論了，其實電動車的過大推廣對於減碳很可能無幫助，甚至有負面效果。</p>
+<p>例如：</p>
+<ol>
+<li><p>電動車需要大量用電，電的生產背後常有大量的碳排發生。</p>
+</li>
+<li><p>電池由於通常過重，電動車會嘗試用鋁之類的較輕的金屬製造，然而鋁等金屬的煉製過程碳排甚至比鐵高。而其他製造電動車的材料，亦有碳排的問題。</p>
+</li>
+<li><p>Jevons Paradox，由於電動車在減碳上有一定效率，但被政府用大量激勵方式推廣，造成過度需求，而反而加上前面效應，總碳排容易增加。</p>
+</li>
+<li><p>CO2的社會貼現率，亦即現在的碳排所造成的負面效應對未來的影響。社會貼現率越大，代表認為負面效應對未來影響較小，而可能造成許多人在現在排碳。與油電混合車相比，在低碳電力國家，低碳貼現率下，電動車坐造成的碳排在一定里程數下，可以低於油電混合車，許多國家用這個理由推廣電動車。然而實際上對於世界平均的電力造成的碳排下，大多國家的潔淨能源是不足的，電動車的累積碳排永遠無法低於油電混合車。</p>
+</li>
+</ol>
+<p>“they will be considering the latest hybrids, several of which already exceed 50 MPG in real-world driving conditions. Doubling the gasoline benchmark’s fuel efficiency would essentially halve the lifecycle greenhouse gas emissions of gasoline cars in the graph above, erasing almost the entire electric car benefit.” 會發現，現行混合動力車款其實有時比純電動車環保。</p>
+<p>許多大肆宣傳電動車成效的研究，常常是忽略了上面的某些效應。而另外，有人考慮可以如增加油稅增加電稅來控制電的使用量，然而油稅只影響交通，而電稅則影響許多經濟不同層面，幾乎無法執行。</p>
+<p>最後文章有提到，是不是有些電動車類型對環境的正面效益較佳？文章提到小型的電動車，或如電動機車的確有些較佳的狀況。但作者所在的挪威，許多大型的SUVs </p>
+<p>電動車被補貼，而既使挪威有需多潔淨能源資源，由於歐洲也許多地區會需要利用到這些潔淨能源，作者並不贊同挪威的補助方式。 </p>
+<hr>
+<h2 id="永續所得實驗室"><a href="#永續所得實驗室" class="headerlink" title="永續所得實驗室"></a>永續所得實驗室</h2><p>「永續所得實驗室」是由「嘉鼎智能團隊」，呼應社會團結經濟浪潮而成立，主要在協助個體、或組織，運用國際股市連結全球社會經濟的人心智能，增強本身經濟實力；並在過程中融合永續進展的理念，追求經濟、社會、環境各方面的均衡進步發展，尤其經濟上要符合（經世濟民）道理。</p>
+<h3 id="加入團隊"><a href="#加入團隊" class="headerlink" title="加入團隊"></a>加入團隊</h3><p><a href="https://www.104.com.tw/company/10zcirfc">104 (嘉鼎智能｜永續所得實驗室)</a></p>
+<h3 id="社群媒體"><a href="#社群媒體" class="headerlink" title="社群媒體"></a>社群媒體</h3><p>歡迎加入我們的LINE社群一同推廣永續所得倡議</p>
+<blockquote>
+<p>👉 &emsp; <a href="https://line.me/ti/g2/Yn9r9XlbjJjhjppxjyzmbQ"> 永續所得實驗室 LINE 社群</a></p>
+<p>👉 &emsp; <a href="https://www.facebook.com/sustainable.income.lab"> 永續所得實驗室 FB</a></p>
+</blockquote>
+]]></content>
+      <tags>
+        <tag>永續所得實驗室</tag>
+        <tag>電動車</tag>
+        <tag>減碳</tag>
+        <tag>氣候變遷</tag>
+        <tag>Jevons Paradox</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【公民議題大家來討論】自適應準則，擴增集智的再生迭代｜活動筆記</title>
+    <url>/acis-adaptive/</url>
+    <content><![CDATA[<blockquote>
+<p><img src="https://static.accupass.com/eventbanner/2309040543471843093224.jpg"></p>
+</blockquote>
+<blockquote>
+<p>本文由2023/9/22「115B實驗室」發起的【公民議題大家來討論】自適應準則，擴增集智的再生迭代，摘錄整理。這次，除了討論過程，也開放主題由參與者一同決定。</p>
+</blockquote>
+<span id="more"></span>
+
+<hr>
+<h2 id="活動連結"><a href="#活動連結" class="headerlink" title="活動連結"></a>活動連結</h2><ul>
+<li>活動頁面：<a href="https://www.accupass.com/event/2309040543051339494978">【公民議題大家來討論】自適應準則，擴增集智的再生迭代</a></li>
+<li>討論區連結：<a href="https://join.skype.com/vW3qoOosG7Mg">本次系列活動Skype群組</a></li>
+<li>活動影片：<a href="https://fb.watch/ngHTo1O6pH/">紀錄連結</a></li>
+</ul>
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fsustainable.income.lab%2Fvideos%2F1449039305661432%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+<hr>
+<h2 id="目錄"><a href="#目錄" class="headerlink" title="目錄"></a>目錄</h2><ul>
+<li><a href="#%E6%B4%BB%E5%8B%95%E9%80%A3%E7%B5%90">活動連結</a></li>
+<li><a href="#%E7%9B%AE%E9%8C%84">目錄</a></li>
+<li><a href="#%E7%B0%A1%E4%BB%8B">簡介</a><ul>
+<li><a href="#%E7%A4%BE%E7%BE%A4%E5%B0%8D%E6%9C%AC%E6%AC%A1%E8%AD%B0%E9%A1%8C%E7%9B%B8%E9%97%9C%E6%A6%82%E5%BF%B5%E7%9A%84%E5%88%9D%E6%AC%A1%E6%83%B3%E5%83%8F">社群對本次議題相關概念的初次想像</a></li>
+<li><a href="#%E6%9C%AC%E6%AC%A1%E8%A8%8E%E8%AB%96%E5%8F%83%E8%88%87%E8%80%85">本次討論參與者</a></li>
+</ul>
+</li>
+<li><a href="#%E5%A0%B1%E5%90%8D%E8%80%85%E5%B8%8C%E6%9C%9B%E5%8F%AF%E4%BB%A5%E5%92%8C%E5%A4%A7%E5%AE%B6%E4%B8%80%E8%B5%B7%E8%A8%8E%E8%AB%96%E7%9A%84%E4%B8%BB%E9%A1%8C">報名者希望可以和大家一起討論的主題</a></li>
+<li><a href="%E6%93%B4%E5%A2%9E%E9%9B%86%E6%99%BA%E7%9A%84%E8%87%AA%E9%81%A9%E6%87%89%E6%BA%96%E5%89%87">擴增集智的自適應準則</a></li>
+<li><a href="#115B%E5%AF%A6%E9%A9%97%E5%AE%A4">115B實驗室簡介</a></li>
+</ul>
+<hr>
+<h2 id="簡介"><a href="#簡介" class="headerlink" title="簡介"></a>簡介</h2><p>本次以<a href="https://docs.google.com/document/d/1qNus42juM5SnVmFaoETRJuGquGqbSrPC6mhccdc4MjQ">「ACIS（擴增集體智能）協作指南」</a>的第7準則，自適應準則為元素，</p>
+<p>我們將深入探討擴增集智如何在再生經濟、經濟能量、人心智能等領域中展現獨特魅力。自適應準則是指擴增集體智能系統（ACIS）在其設計和運作中具備了適應性的特性。</p>
+<p>這意味著ACIS可以靈活地適應不同的應用模式，以滿足使用者的多重需求。同時，ACIS還需要能夠應對不同的環境變動，透過自動調配機制確保在環境變動中能夠持續高效運作。最重要的是，ACIS必須具備再生迭代演進的能力，透過汰舊更新機制確保其長期可持續發展，不僅跟上技術的變革，還能不斷改進和升華集體智能的表現。</p>
+<p>整理出來，至少包含三個面向，「適應不同的應用模式」、「應對不同的環境變動」、「再生迭代演進的能力」。</p>
+<h3 id="社群對本次議題相關概念的初次想像"><a href="#社群對本次議題相關概念的初次想像" class="headerlink" title="社群對本次議題相關概念的初次想像"></a>社群對本次議題相關概念的初次想像</h3><p>在本次活動報名時，便收集對於「人心智能」、「自適應」兩個概念的聯想。</p>
+<h4 id="看見「人心智能」一詞，會想到什麼關鍵詞？"><a href="#看見「人心智能」一詞，會想到什麼關鍵詞？" class="headerlink" title="看見「人心智能」一詞，會想到什麼關鍵詞？"></a>看見「人心智能」一詞，會想到什麼關鍵詞？</h4><p>這次收集到的關鍵詞，包含「共創」、「集體智慧框架的擴展」、「創造力與約束力」，這一次的收集內容，相對過去來說，大家有更關注在人心的部分，而非智能的部分。</p>
+<p>這點在人工智能火熱的今日，又顯得更重要。</p>
+<p><img src="/img/acis-adaptive//mind.png" alt="人心智能"></p>
+<h4 id="看見「自適應」一詞，會想到什麼關鍵詞？"><a href="#看見「自適應」一詞，會想到什麼關鍵詞？" class="headerlink" title="看見「自適應」一詞，會想到什麼關鍵詞？"></a>看見「自適應」一詞，會想到什麼關鍵詞？</h4><p>「與時並進」、「流動」、「滾動式調整」、「相容性」，可以發現與「適應不同的應用模式」、「應對不同的環境變動」、「再生迭代演進的能力」等三個面向都有所對應。</p>
+<p><img src="/img/acis-adaptive/adaptive.png" alt="自適應"></p>
+<h3 id="本次討論參與者"><a href="#本次討論參與者" class="headerlink" title="本次討論參與者"></a>本次討論參與者</h3><ul>
+<li><p>麥克風參與</p>
+<ul>
+<li>Jeffery</li>
+<li>Jolin</li>
+<li>James</li>
+<li>Sherry</li>
+<li>Huanry 黃世和（主持人）</li>
+</ul>
+</li>
+<li><p>文字參與</p>
+<ul>
+<li>Brian</li>
+</ul>
+</li>
+<li><p>文字摘錄</p>
+<ul>
+<li>Huanry</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="報名者希望可以和大家一起討論的主題"><a href="#報名者希望可以和大家一起討論的主題" class="headerlink" title="報名者希望可以和大家一起討論的主題"></a>報名者希望可以和大家一起討論的主題</h2><blockquote>
+<p>Huanry（主持人）：在報名時，我們有收集大家希望討論的議題，本次有兩個</p>
+</blockquote>
+<ul>
+<li>個體與群體心智快速流動，這是種什麼樣的經驗?</li>
+<li>共創</li>
+</ul>
+<blockquote>
+<p>由於第一個是由Jeffrey提出，請Jeffery分享這個主題的意思，以及請各位夥伴分享對這兩個主題的看法或聯想。</p>
+<p>Jeffery：關於「個體與群體心智快速流動」，以今天的活動為例，自己是一個個體，到了嘉鼎智能115B實驗室這個集體參加活動，也在感受及了解自己能吸收多少，以及會幫助到這個集體多少。活動前聽到了許多例子，像是Huanry提到的接觸即興，也感覺很有趣。</p>
+<p>Huanry：這也會想到集體智能的集體和個體的智能流動性問題。以接觸即興來說，被認為是創造集體智能的一種表現，但對於習慣的人，是否能讓新進的個體融入，如果不能，則可能也少了適應新群體的表現。</p>
+<p>James：聽到這些概念會想到在一個文化或群體中，例如工程師的文化是一種群體，但是不是可以去生出觸手，了解到用戶所需要。</p>
+<p>Jolin：以前會聽到設計師自己個體的生活經驗，會影響到其設計的思維，再影響到整個設計領域的集體。</p>
+<p>Alvin：以螞蟻來講，許多人雖然認為其具有許多集體智能的表現，然而實際上一個個體的螞蟻進入蟻群，卻會因為氣味等因素無法融入。群體是否能夠接收個體，也令人值得得思考，像是外國人到達如澳洲這樣的國家，有兩個面向的適應流動，一個是澳洲是否能接納外來人士進入，另外是外來人士是否能適應其文化。這樣雙方的面相需要考量。</p>
+<p>Sherry：新住民為例，在台灣是小群體，政府開始幫助這些像是個體的小群體融入台灣這樣的大群體。如果從更宏觀來看，新住民原來的國家都比台灣大許多，當我們接納這些融入，也反向的是我們融入的更大的群體。</p>
+<p>Jolin：共創的部分會想到雲端協作，讓許多共創變得可能。</p>
+<p>James：大的群體對小的群體，往往都是複製、殖民、索取資源。以美國為例，然而後來變為從歐洲來的多元文化、宗教的融合，但又形成了以白人為主的另外一種大群體。</p>
+</blockquote>
+<h3 id="小結"><a href="#小結" class="headerlink" title="小結"></a>小結</h3><p>在這一段我們更多討論了關於集體、個體，或是大群體、小群體間的心智流動，會發現這是需要相互的，也自然引入到這次的主題，自適應。</p>
+<p>對於大群體要如何接納小群體的融入，從更大的層次來看，也代表著可以去適應更大的群體。就入前面提到台灣接納新住民，也代表著嘗試與新住民原來國家間更大群體的適應。</p>
+<hr>
+<h2 id="擴增集智的自適應準則"><a href="#擴增集智的自適應準則" class="headerlink" title="擴增集智的自適應準則"></a>擴增集智的自適應準則</h2><p>在本段，基於前面提到自適應準則的三個面向「適應不同的應用模式」、「應對不同的環境變動」、「再生迭代演進的能力」，這段，期待透過跳脫這樣的框架，再次進行討論。</p>
+<h3 id="你想像的自適應是什麼意思？"><a href="#你想像的自適應是什麼意思？" class="headerlink" title="你想像的自適應是什麼意思？"></a>你想像的自適應是什麼意思？</h3><blockquote>
+<p>Huanry：上一段的討論，可以看到自動連結到自適應準則當中。今天的參加者過去都討論了關於集體智能的意義，這次不再進行討論。簡單來說，集體智能是強調集體的智能，而非個體。如果一群人，既使裡面每個個體都具有高智能，也不一定會在集體會呈現出好的智能。所以我們常聽到群聚效應等等的概念。<br>接下來討論自適應的概念，我第一次聽到這個詞是關於網站，當手機時代來臨了以後產生了這個需求，網站要同時符合電腦端、手機端的適應。<br>後來在集體智能的領域也聽到這個概念，如何群體能自我適應不同環境的變化。</p>
+<p>Sherry：我第一次也是在網站領域聽到，後來會想到一些像是AI時代如何自處，包含工作及人生如何自我適應。</p>
+<p>Alvin：最早聽到這個概念是在工程領域，像是變頻。後來會聽到像是ChatGPT也有些自適應的過程，去適應問題者要的答案。</p>
+<p>Huanry：這聽起來會產生過度擬合的狀況。</p>
+<p>Alvin：是的，像是以前有某的品牌，變頻效果不好，卻用取巧的方式去調整冷氣數字，但沒有真實變化。</p>
+<p>Jolin：以前沒聽過自適應這個詞，這會想到有些AI管家的概念，去專門適應學習成主人需要的樣子。</p>
+<p>Huanry：這會想到有文章在討論AI的雙生火焰，一個部分可以去監測一個人更幫助一個人，但可能也產生了過度擬合人，或是資料安全的另一面議題。</p>
+<p>James：過去沒聽過自適應，只聽過適應。就像是IT中的模組功能，可不可以與其他不同語言的模塊有兼容性。</p>
+<p>在其他的例子會想到像是產業外移，該如何面對適應。或像是麵包店原來在交通轉運中心，當不再是其中心時，要如何適應人群的減少。</p>
+<p>另外會想到嘉鼎的心智元的概念，要如何幫助如然受到環境變化的人？</p>
+<p>Huanry：這會想到有長期和短期的，以心智元來說，的確適合長期的共學，像是健康中的保健。然而短期問題，就像疾病一樣，不一定能幫，但保健便是為了避免面對極端情況無法適應的提前措施。</p>
+<p>Jeffery：適應是一定會發生，但很在意要如何幫助人可以無痛的去適應。</p>
+<p>Brian：如下文將企業法人視為AI的話，那人和AI的協作，應該也就與人和企業團隊之間的協作，有著相同的重要性<br>（<a href="https://indica.medium.com/the-worst-case-scenario-for-ai-is-already-here-b224721402ee%EF%BC%89">https://indica.medium.com/the-worst-case-scenario-for-ai-is-already-here-b224721402ee）</a></p>
+<p>Huanry：文章先提到企業這種人造的產物，已經有了人格，包含在法律上具有法人，並實際上有了許多影響力，可以做過去被認為人才能做的事。而認為企業可以算是一種人工智能AI。 有人認為企業的決策是由人組成，然而實際上卻不不完全，既使是CEO都不真正完全控制這個機器的運作。 許多人擔心現在提到的人工智能，如ChatGPT會對人類造成影響。 然而實際上，從荷蘭東印度公司開始產生了企業的概念，企業這種AI對人類的負面影響早已長久存在。</p>
+<p>Alvin：有些討論人與AI一同長大，最後人變成是AI造出的人。企業去有一定的自適應能力，在疫情中小型的企業逐漸消失，而壟斷是的企業，卻持續適應。以前面AI的例子來說，不僅是AI適應人，也是人在適應AI，除間失去智能。這種情況下，人是否能懂得質疑，也是可以深思。</p>
+<p>Huanry：這裡和上面的討論會發現，我們前面提到自適應的需要，但這裡會發現AI的自適應的能力，會對社會造成一些反面效果。要如何避免，剛剛提到的適應和質疑間的平衡也是需要的。</p>
+<p>Jolin：推薦一部相關的電影『窒友梅根』</p>
+</blockquote>
+<h2 id="小結-1"><a href="#小結-1" class="headerlink" title="小結"></a>小結</h2><p>在我們討論集體智能的自適應的過程中，一個部分可以發現這是雙向的，個體如何適應集體，集體是否能適應個體。但我們討論中也發現，要擴增集體智能，要的不僅僅是適應，也會需要保有其能夠質疑的能力。</p>
+<hr>
+<h2 id="115B實驗室"><a href="#115B實驗室" class="headerlink" title="115B實驗室"></a>115B實驗室</h2><p>「115B實驗室」是由「嘉鼎智能團隊」，呼應社會團結經濟浪潮而成立，主要在協助個體、或組織，運用國際股市連結全球社會經濟的人心智能，增強本身經濟實力；並在過程中融合永續進展的理念，追求經濟、社會、環境各方面的均衡進步發展，尤其經濟上要符合（經世濟民）道理。</p>
+<h3 id="加入團隊"><a href="#加入團隊" class="headerlink" title="加入團隊"></a>加入團隊</h3><p><a href="https://www.104.com.tw/company/10zcirfc">104 (嘉鼎智能｜115B實驗室)</a></p>
+<h3 id="社群媒體"><a href="#社群媒體" class="headerlink" title="社群媒體"></a>社群媒體</h3><p>歡迎加入我們的LINE社群一同推廣永續所得倡議</p>
+<blockquote>
+<p>👉 &emsp; <a href="https://line.me/ti/g2/Yn9r9XlbjJjhjppxjyzmbQ"> 115B實驗室 LINE 社群</a></p>
+<p>👉 &emsp; <a href="https://www.facebook.com/sustainable.income.lab">115B實驗室 FB</a></p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>公民議題大家來討論</category>
+      </categories>
+      <tags>
+        <tag>115B實驗室</tag>
+        <tag>再生</tag>
+        <tag>集體智能</tag>
       </tags>
   </entry>
   <entry>
@@ -5522,248 +5522,6 @@
       </tags>
   </entry>
   <entry>
-    <title>【公民議題大家來討論】永續還是包裝？（一）生活中的永續宣傳｜活動筆記</title>
-    <url>/sustainable-washing-1/</url>
-    <content><![CDATA[<blockquote>
-<blockquote>
-<p><img src="https://static.accupass.com/eventbanner/2205260701289565041690.jpg"></p>
-</blockquote>
-</blockquote>
-<blockquote>
-<p>本文由2022/6/10「永續所得實驗室」發起的【公民議題大家來討論｜永續還是包裝？（一）生活中的永續宣傳】活動中，摘錄整理。</p>
-</blockquote>
-<p>「永續」一詞，在過去十年，關注度快速上升，特別是2020的疫情，讓大家注意到人類經濟社會如何受大自然被動的影響。「永續」一詞的關注度，很好的幫助人類反思自身與大自然的關係。各種商業產品及服務，也跟上這波熱潮，將產品服務掛上「永續」兩字，期待抓住消費者的眼球。 </p>
-<p> 然而也因為環境、社會、經濟間錯綜複雜的關係，產生了許多「真永續」、「假永續」的爭論，甚至有包裝為永續，但在隱藏面對永續有害的「漂綠」現象。  </p>
-<p>這次活動，邀請參與者分享這股熱潮的正反兩面，並且討論如何在解決問題的過程，不製造更多問題。</p>
-<span id="more"></span>
-
-<hr>
-<h2 id="活動連結"><a href="#活動連結" class="headerlink" title="活動連結"></a>活動連結</h2><h3 id="活動頁面"><a href="#活動頁面" class="headerlink" title="活動頁面"></a>活動頁面</h3><p><a href="https://www.accupass.com/event/2205260558071032673470">【公民議題大家來討論】永續還是包裝？（一）生活中的永續宣傳</a></p>
-<h3 id="活動回放影片"><a href="#活動回放影片" class="headerlink" title="活動回放影片"></a>活動回放影片</h3><p>👉 &emsp; <a href="https://fb.watch/dCKXRfrJuY/">點此播放</a></p>
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fsustainable.income.lab%2Fvideos%2F1015166209200340%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
-
-<hr>
-<h2 id="聽過什麼關於「永續」的宣傳字眼？"><a href="#聽過什麼關於「永續」的宣傳字眼？" class="headerlink" title="聽過什麼關於「永續」的宣傳字眼？"></a>聽過什麼關於「永續」的宣傳字眼？</h2><p>首先，在活動報名表上，報名者已經先填寫了關於曾經聽過跟「永續」相關的宣傳字眼。</p>
-<h3 id="ESG"><a href="#ESG" class="headerlink" title="ESG"></a>ESG</h3><p>本次19人報名，收集的資料中，「ESG」為最多人聽到。「ESG」關於企業永續關於「環境、社會、治理」三面向的考量。由於金融機構大量宣傳，成為熱門關鍵字，不過也因為指標的主觀性，產生許多思辨討論。（七月的活動主題，剛好是與這一主題相關，歡迎參與討論。）</p>
-<h3 id="CSR"><a href="#CSR" class="headerlink" title="CSR"></a>CSR</h3><p>企業社會責任，與ESG同樣，以企業的角度為出發，考慮須付出的社會責任。但同樣的也產生商業本質，是否產生挖東牆補西牆的弊病。</p>
-<h3 id="淨零排放、淨零碳排"><a href="#淨零排放、淨零碳排" class="headerlink" title="淨零排放、淨零碳排"></a>淨零排放、淨零碳排</h3><p>碳排是造成氣候變遷的主要因素，並且直接影響地球村的發展，因而淨零碳排也被大家重視。 </p>
-<h3 id="SDGs"><a href="#SDGs" class="headerlink" title="SDGs"></a>SDGs</h3><p>聯合國提出的2030永續發展目標，以國家的角度，立定了17項與環境、社會、經濟不同面向的目標。相對其它關鍵詞較為多元。</p>
-<h3 id="循環經濟"><a href="#循環經濟" class="headerlink" title="循環經濟"></a>循環經濟</h3><p>經濟活動與自然資源消耗脫鉤的方式，成為永續概念的重要準則。</p>
-<p>其它還有許多不同的關鍵詞，下面將會討論參與者對各種永續相關關鍵詞的反應，以及其正反面向的思辨。</p>
-<p><img src="/img/sustainable-washing-1/1.png" alt="聽過什麼關於「永續」的宣傳字眼？"></p>
-<hr>
-<h2 id="「永續」一詞如何影響你的消費習慣？"><a href="#「永續」一詞如何影響你的消費習慣？" class="headerlink" title="「永續」一詞如何影響你的消費習慣？"></a>「永續」一詞如何影響你的消費習慣？</h2><p>在Slido 上面，參與者回復了</p>
-<ul>
-<li>購買時看到永續會做更多功課</li>
-<li>回收字眼，會讓自己會嘗試再利用</li>
-<li>選擇包裝較少商品或裸買</li>
-<li>可循環或可分解</li>
-<li>增加黏性</li>
-<li>拒絕被廣告洗腦</li>
-<li>選擇公平貿易商品</li>
-<li>關心產品的產地、來源、成分、等等資訊</li>
-<li>不使用一次性垃圾</li>
-</ul>
-<p>本次參與者，大多不會因為永續相關的關鍵字去過度的改變自己的消費習慣。然而若是同質的商品服務，則有機會去優先選擇，或是增加消費黏性。</p>
-<p>另外，參與者提到，如果產品服務上如果有提到如可以「回收」的動作，部分參與者會增加自己回收的意識。</p>
-<p>也有參與者提到，心中有永續相關的概念，會讓自己的消費行為有改變，不是被廣告宣傳洗腦，而是會考慮如不使用造成一次性垃圾的商品服務，嘗試裸買。另外，在購買固定商品服務時，會持續做更多功課，關心商品服務的產地、來源、成分等資訊。</p>
-<p><img src="/img/sustainable-washing-1/2.png" alt="「永續」一詞如何影響你的消費習慣？"></p>
-<hr>
-<h2 id="曾經對「永續」一詞，產生過怎麼樣的懷疑嗎？"><a href="#曾經對「永續」一詞，產生過怎麼樣的懷疑嗎？" class="headerlink" title="曾經對「永續」一詞，產生過怎麼樣的懷疑嗎？"></a>曾經對「永續」一詞，產生過怎麼樣的懷疑嗎？</h2><p>對「永續」相關的關鍵詞，參與者曾感到的懷疑，包含</p>
-<ul>
-<li>信任之前先要有效的聆聽、聽懂不同利害關係人的立場跟需求。</li>
-<li>不知道到底有沒有真正做到永續，還是只是表面寫一寫而已</li>
-<li>認證，無法非常完美，無法一次到位</li>
-<li>這攸關到信任、對品牌或企業的信任、以及第三方是否中立客觀的信任！</li>
-<li>企業的永續，有部分破壞，永部分宣稱永續，是不是能平衡呢？</li>
-<li>表面上寫得正正當當，可以怎麼檢核、公開透明、知後同意呢??</li>
-</ul>
-<p>裡面最主要討論到的問題，在於似乎各種宣稱永續的說法，都無法完美被驗證。第三方機構，當有利益關係，便可能無法被完全信任。</p>
-<p>例如SDGs或其它指標，非常的多樣，沒有人能完全都分析到，亦即無法完全檢核。若因為幾項驗證而貼上永續的標籤，但有害的部分沒有被揭露出來，是否會讓事情變得更糟？</p>
-<p>「漂綠」一詞，常有不同的理解，通常是指外衣包裝為對綠色（環境）有正向幫助，但實質幫助不大。然而更為嚴重的是，不僅沒有幫助，有的甚至是造成更多破壞，但透過簡化的指標包裝，破壞力更為嚴重。</p>
-<p><img src="/img/sustainable-washing-1/3.png" alt="曾經對「永續」一詞，產生過怎麼樣的懷疑嗎？"></p>
-<hr>
-<h2 id="「永續」一詞，真的只是包裝嗎？"><a href="#「永續」一詞，真的只是包裝嗎？" class="headerlink" title="「永續」一詞，真的只是包裝嗎？"></a>「永續」一詞，真的只是包裝嗎？</h2><p>前面提到，「永續」相關的各種概念的限制。但難道需要拋棄這個概念嗎？抑或是這中間也能帶出正向的效果？參與者提到</p>
-<ul>
-<li>訂下目標就是好的開始，改變過程比較重要</li>
-<li>或者也可以換個字眼(雖然目前沒有想到…)，因為永續的”永”，會讓人有距離遙遠、很難盡快實現這樣的錯覺???</li>
-<li>可以是包裝、可以是行銷話術，但也可以變成一種習慣，落實在生活各方面。</li>
-<li>只要有人做，就有機會改變</li>
-</ul>
-<p>一個部分是，如果使用這些關鍵字是作為一種改變的目標，而非宣傳，則形成習慣，依然可以形成正向的力量。</p>
-<p><img src="/img/sustainable-washing-1/4.png" alt="「永續」一詞，真的只是包裝嗎？"></p>
-<hr>
-<h2 id="如何在消費上符合「永續」，又避免被「漂綠」產品操控？"><a href="#如何在消費上符合「永續」，又避免被「漂綠」產品操控？" class="headerlink" title="如何在消費上符合「永續」，又避免被「漂綠」產品操控？"></a>如何在消費上符合「永續」，又避免被「漂綠」產品操控？</h2><p>綜合上面討論，該如何利用「永續」相關的概念，又要避免讓事情變得更糟？參與者的反饋</p>
-<ul>
-<li>消費習慣以裸買為主，傳統雜糧行和無包裝商店，透過無包裝商店的選物也可以知道是否符合永續，消費的同時還能避免過多包裝</li>
-<li>集智，正反面資訊都要提到</li>
-<li>推推「從自身需求出發」和「掃了再買」</li>
-<li>真正有需求時才去購買，並時常反省、妥善利用這項產品或服務，避免濫買濫用</li>
-<li>考慮是不是真的需要一些產品，不過度消費，消費過程多方了解</li>
-<li>反省、關注負面的效應，不因為包裝而過度反應</li>
-<li>曾聽過有個民間團體做了一個APP叫 「掃了再買」，就是可以掃描後去仔細檢視企業有沒有漂綠的疑慮，是否認真的做永續。</li>
-</ul>
-<p>其中參與者提到了一款叫「掃了再買」APP，裡面會提供商品服務的各種檢視資訊。例如有些金融商品宣稱符合許多永續相關指標，然而卻會發現，其造成許多有破壞力的資訊。也就是，透過負面表列的資訊，可以幫助我們更清楚商品服務背後的各種問題，作為我們選擇的參考。如同參考評分網站，負面評價因為不易被刷，而成為比正面評價更有意義的資訊。</p>
-<p>除此，參與者提到「從自身需求出發」，同時依照自己的理性及感性作為消費驅動，才能專注的了解背後的各項資訊。</p>
-<p>也有參與者，嘗試不被許多關鍵字過度驅動，但透過如裸買、重複利用、回收循環等概念，來實行「永續」動作。</p>
-<p><img src="/img/sustainable-washing-1/5.png" alt="如何在消費上符合「永續」，又避免被「漂綠」產品操控？"></p>
-<hr>
-<h2 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h2><p>「永續」一詞衍生的各種概念，當如果被過度簡化為各種指標，總是會產生限制。如果單以這些指標，作為消費習慣的參考，便可能造成包裝，造成「漂綠」，並且破壞更多的現象。</p>
-<p>要避免此一類現象發生，一部分是把各種永續的概念當作為自我訂定目標，反省的過程，而非包裝的過程。</p>
-<p>在檢視的過程，除了多方考量各面向外，反面檢視亦具有重要性。任何經濟過程不可避免的需要利用到部分自然資源，但透過社群檢視各種負面現象，才能評判其所造成的消耗是否為可以透過再生修正。</p>
-<hr>
-<h2 id="參考資料"><a href="#參考資料" class="headerlink" title="參考資料"></a>參考資料</h2><ul>
-<li><a href="https://sustainable-income-lab.github.io/Should-we-ditch-sustainability/">我們該放棄「永續」一詞嗎？</a><ul>
-<li>「漂綠」現象頻繁，該如何「永續」但避免再被「漂」？</li>
-</ul>
-</li>
-<li><a href="https://sustainable-income-lab.github.io/The-Company-That-Owns-the-World/">ETF 背後的巨頭現象</a><ul>
-<li>從石化撤資、ESG基金，看穿金融機構對於「永續」的自我詮釋現象。</li>
-</ul>
-</li>
-<li><a href="https://divestmentdatabase.org/">石化撤資數據</a></li>
-<li><a href="https://www.youtube.com/watch?v=eWbqwcj9ALo">少即是多</a><ul>
-<li>對資本主義消耗自然資源的反思。</li>
-</ul>
-</li>
-<li><a href="https://www.books.com.tw/products/0010900689">重新想像資本主義</a></li>
-</ul>
-<hr>
-<h2 id="活動參加證明NFT"><a href="#活動參加證明NFT" class="headerlink" title="活動參加證明NFT"></a>活動參加證明NFT</h2><p>本次活動，11人以上參與，4人發言（包含組織者），部分參與者透過申請獲得參加POAP</p>
-<ul>
-<li><a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/6529201914064203535989870829941386348666317685817575610379076918115894820868">參與者POAP</a></li>
-<li><a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/6529201914064203535989870829941386348666317685817575610379076919215406448644">組織者POAP</a></li>
-</ul>
-<p>若您喜歡本次參與者的討論，歡迎分享文章，或提供各種贊助給參與者。</p>
-<hr>
-<h2 id="115B"><a href="#115B" class="headerlink" title="115B"></a>115B</h2><p>「115B」是由「嘉鼎智能團隊」，呼應社會團結經濟浪潮而成立，主要在協助個體、或組織，運用國際股市連結全球社會經濟的人心智能，增強本身經濟實力；並在過程中融合永續進展的理念，追求經濟、社會、環境各方面的均衡進步發展，尤其經濟上要符合（經世濟民）道理。</p>
-<h3 id="加入團隊"><a href="#加入團隊" class="headerlink" title="加入團隊"></a>加入團隊</h3><p><a href="https://www.104.com.tw/company/10zcirfc">104 (嘉鼎智能｜永續所得實驗室)</a></p>
-<h3 id="社群媒體"><a href="#社群媒體" class="headerlink" title="社群媒體"></a>社群媒體</h3><p>歡迎加入我們的LINE社群一同推廣永續所得倡議</p>
-<blockquote>
-<p>👉 &emsp; <a href="https://bit.ly/Slack115b">115B Slack 群</a></p>
-<p>👉 &emsp; <a href="https://line.me/ti/g2/Yn9r9XlbjJjhjppxjyzmbQ">115B LINE 社群</a></p>
-<p>👉 &emsp; <a href="https://www.facebook.com/sustainable.income.lab">115B FB</a></p>
-</blockquote>
-]]></content>
-      <tags>
-        <tag>永續</tag>
-        <tag>115B</tag>
-        <tag>漂綠</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【公民議題大家來討論】永續還是包裝？（二）｜馬斯克說ESG是個騙局，您怎麼看？｜活動筆記</title>
-    <url>/sustainable-washing-2/</url>
-    <content><![CDATA[<blockquote>
-<blockquote>
-<p><img src="https://static.accupass.com/eventbanner/2206230835389680438480.jpg"></p>
-</blockquote>
-</blockquote>
-<blockquote>
-<p>標普500 ESG 指數（The S&amp;P 500 ESG Index），以ESG（環境、社會、治理）不同面向來評判企業，並作為指標。在2022年的標普500 ESG 指數中，將屬於電動車行業的特斯拉（Tesla）拉除名，與此同時，美國石油巨頭埃克森美孚（Exxon Mobil） 依然在榜單上。特斯拉CEO馬斯克，因而批評「ESG 是騙局」。與此相對，全球金融業的巨頭貝萊德及黑石的CEO，都曾宣稱化石燃料撤資無意義，並認為需要大力支持ESG投資。到底ESG投資、化石燃料撤資運動，哪些動作對於永續發展有真實意義？哪些又是企業及金融的漂綠現象？本次【公民議題大家來討論】，邀請社群一同討論資金利用對永續發展的正反面影響。</p>
-</blockquote>
-<span id="more"></span>
-
-<hr>
-<h2 id="活動連結"><a href="#活動連結" class="headerlink" title="活動連結"></a>活動連結</h2><h3 id="活動頁面"><a href="#活動頁面" class="headerlink" title="活動頁面"></a>活動頁面</h3><p><a href="https://www.accupass.com/event/2206230834458842085400">【公民議題大家來討論】永續還是包裝？（二）｜馬斯克說ESG是個騙局，您怎麼看？</a></p>
-<hr>
-<h2 id="對「ESG金融」、「撤資行動」兩個概念的支持程度"><a href="#對「ESG金融」、「撤資行動」兩個概念的支持程度" class="headerlink" title="對「ESG金融」、「撤資行動」兩個概念的支持程度"></a>對「ESG金融」、「撤資行動」兩個概念的支持程度</h2><p>本次在活動報名時，要求參與填寫對「ESG金融」，以及「撤資行動」，兩個概念的支持程度，分為五個等級</p>
-<ul>
-<li>強烈反對</li>
-<li>不同意</li>
-<li>既不同意也不反對</li>
-<li>同意</li>
-<li>堅決同意</li>
-</ul>
-<p>有18位報名者，可看到本次參與者，並無人反對這兩個概念。然而對於「ESG金融」支持度為「同意」者較多，對於「撤資行動」則較多為「既不同意也不反對」。經過詢問後，發現會有這個現象的原因，在於參與者比較多聽過「ESG金融」，卻較少聽過「撤資行動」。</p>
-<p>會產生這個現象，可能有多種因素，像是金融業資源較多，因而較多激勵推廣「ESG金融」，但較少激勵推廣有利益違背的「撤資行動」。另外後面提到「撤資行動」所帶來的影響相對不易量化及理解，也可能是因素。</p>
-<p>除此之外，兩個概念中，選擇「堅決同意」的人數皆相對較少，也意味著參與者對這兩個概念皆有部分疑慮。下面的討論中，我們便可以看到不同的參與者對這兩個概念的想法。</p>
-<p><img src="/img/sustainable-washing-2/ESG%E9%87%91%E8%9E%8D%E5%8F%8A%E6%92%A4%E8%B3%87%E8%A1%8C%E5%8B%95.png" alt="對「ESG金融」、「撤資行動」兩個概念的支持程度"></p>
-<hr>
-<h2 id="馬斯克說ESG是個騙局，您怎麼看？"><a href="#馬斯克說ESG是個騙局，您怎麼看？" class="headerlink" title="馬斯克說ESG是個騙局，您怎麼看？"></a>馬斯克說ESG是個騙局，您怎麼看？</h2><p>在2022年5月19日，特斯拉CEO馬斯克，在Twitter上發文，提到標普道瓊500 ESG指數（The S&amp;P 500 ESG Index）將做電動車的特斯拉（Tesla）移除，然而卻將可能造成碳排的美國石油巨頭埃克森美孚（Exxon Mobil）留在榜上。馬斯克因而稱ESG是場騙局。</p>
-<p>本次的參加者關於這個現象的看法留言如下</p>
-<ul>
-<li>ESG不是用來幫助永續發展，只是投資風險參考</li>
-<li>大部分人不太熟悉，有框架、多元化。可能有心人士會利用，似乎沒有必要說是騙局，可以看兩面</li>
-<li>ESG是否客觀？</li>
-<li>企業整形師</li>
-<li>有些極端、氣話。EXXON，碳排減，會不會有正向幫助？</li>
-<li>因為馬斯克是KOL，所以提出的話題都有很大的熱度，而且馬斯克向來語不驚人死不休XD</li>
-</ul>
-<p>因為馬斯克是為具有影響力的發言者，這個說法帶來不同面相的討論，包含反對者及支持者。</p>
-<p>不同的評論中，提到了，其實ESG更多是在評判企業在E、S、G三個面向的努力及改善程度，本身對於幫助永續發展並不直接相關，雖然特斯拉以製造對環境改善有正向幫助的電動車為主，但在公司治理層面，以及其他層面未作較多改善。而Exxon Mobil雖然持續有碳排議題，但正在嘗試改善。</p>
-<p>不過馬斯克的發言，也讓人產生更多省思。ESG的評判指標過於主觀、不同，過多金融機構誇大宣稱ESG對永續發展的幫助。或許我們該將ESG當成自我改善的自評工具，而非包裝的工具。並且我們也不應該僅僅因為ESG指標，而過分集中將資源投向具ESG指標的產業。</p>
-<p><img src="/img/sustainable-washing-2/%E9%A6%AC%E6%96%AF%E5%85%8B%E8%AA%AAESG%E6%98%AF%E5%80%8B%E9%A8%99%E5%B1%80.png" alt="馬斯克說ESG是個騙局，您怎麼看？"></p>
-<hr>
-<h2 id="部分金融機構說「撤資行動」無意義，您怎麼看？"><a href="#部分金融機構說「撤資行動」無意義，您怎麼看？" class="headerlink" title="部分金融機構說「撤資行動」無意義，您怎麼看？"></a>部分金融機構說「撤資行動」無意義，您怎麼看？</h2><p>撤資行動，指的是要求金融機構或各種資金，從對經濟、環境、社會有害的產業抽離。如果「ESG金融」是金融機構推廣將資源投向具ESG指標的企業（前面提到了如此做可能會產生的疑慮），「撤資行動」則是反其道而行。</p>
-<p>本次參與者較少人聽過撤資行動，因此在最前面的投票大多是持不支持也不反對立場。下面是參與者對「撤資行動」看法的留言</p>
-<ul>
-<li>第一次聽到撤資，所以持中立的立場。聽起來有幫助，但需要在對的目標才會有意義，否則成為不理性、或報復行為。</li>
-<li>不太了解，了解完後蠻能理解的。有資源的人，判斷正義、非正義會有影響。個人雖影響較小，但可以先關注行為、意義。</li>
-<li>動盪很大時，似乎影響才會比較大！</li>
-<li>「撤資行動」還是有意義，只要多人關注，似乎還是有所幫助。</li>
-<li>賣壓很強，也會有些影響，但需要很大。</li>
-<li>撤資後會發生什麼事？</li>
-<li>撤資，別人收購，似乎效應不強？</li>
-<li>我起初是投不支持也不反對，原因是我不知道撤資的具體內容是什麼?撤資要撤到什麼程度?</li>
-</ul>
-<p>我們觀察資料後會發現，撤資行動會關注較少，可能有多種原因。</p>
-<ol>
-<li>撤資行動影響到金融機構既有佈局及利益，因而正面支持的金融機構相對較少。</li>
-<li>撤資行動，當有人撤資，過程中會轉手到另一位投資者，撤資產生的效應不明顯。</li>
-<li>不知道要撤資到什麼程度，撤資帶來的效應似乎需要大量動作才能顯現。</li>
-<li>撤資後的資金將被用向何處，也是需要被關注的議題。</li>
-</ol>
-<p>但經過大家的討論後，會發現，雖然撤資造成的效應不易被呈現，然而只要更多人關注，依然有正向幫助。並非像金融機構宣稱的，毫無幫助。</p>
-<p><img src="/img/sustainable-washing-2/%E9%83%A8%E5%88%86%E9%87%91%E8%9E%8D%E6%A9%9F%E6%A7%8B%E8%AA%AA%E6%92%A4%E8%B3%87%E8%A1%8C%E5%8B%95%E7%84%A1%E6%84%8F%E7%BE%A9.png" alt="部分金融機構說「撤資行動」無意義，您怎麼看？"></p>
-<hr>
-<h2 id="資金的利用，若要對經濟、社會、環境有幫助，而非負面效應，必須考慮哪些因素？"><a href="#資金的利用，若要對經濟、社會、環境有幫助，而非負面效應，必須考慮哪些因素？" class="headerlink" title="資金的利用，若要對經濟、社會、環境有幫助，而非負面效應，必須考慮哪些因素？"></a>資金的利用，若要對經濟、社會、環境有幫助，而非負面效應，必須考慮哪些因素？</h2><p>前面的兩個議題，一個在於資金的利用，另一個則是資金的抽離，兩者是否會幫助永續發展，皆可注意到其部分效果，但也注意到過度指標化會產生的反效果。</p>
-<p>對於該如何使用資金，對永續發展是幫助而非反效果，參與者會考慮到的因素發言如下</p>
-<ul>
-<li>正面、負面，要如何最大？</li>
-<li>以化妝品為例，多買對經濟似乎有成長，但生產過程似乎有些反面。意識到時，可能無法完全改，但可以透過注意到逐步醒思。</li>
-<li>出去認識人，才能認識社會。</li>
-<li>資金的利用，賺錢、存錢、花錢。的深思、修正。</li>
-<li>避免做習慣性的判斷。同樣的動作在不同情況會有所不同。</li>
-<li>對經濟、社會、環境有幫助，必須要有了解。必須要接觸許多人，不同面向的意見，去察覺。</li>
-<li>好難的題目XDD 因為要case by case~~ 我想到的是 「利害關係人盤點」，所有內部外部、明顯跟隱性受影響的關係人都要徹底盤點，才不會有漏掉的。</li>
-</ul>
-<p>這個議題，一開始會想到的是各種顯性、隱性的「利害關係人盤點」。然而會發現，各種盤點方法，皆可能無法完善。較多參加者提到了關於多元意見的需要，一個部分是透過多認識不同人，接受不同的觀點，避免同溫層。另外，也嘗試避免慣性思維，因為在某些狀況有效的動作，在另外的狀況也不一定可行。</p>
-<p>最後，由於各面向的改變，些有諸多需要考量的點，因此心態上必須緩和，為了快速效率而進行的動作，難免會產生反效果。</p>
-<p><img src="/img/sustainable-washing-2/%E8%B3%87%E9%87%91%E5%88%A9%E7%94%A8%E8%88%87%E5%9C%98%E7%B5%90%E7%B6%93%E6%BF%9F.png" alt="資金的利用，若要對經濟、社會、環境有幫助，而非負面效應，必須考慮哪些因素？"></p>
-<hr>
-<h2 id="小結"><a href="#小結" class="headerlink" title="小結"></a>小結</h2><p>本次以馬斯克說ESG是個騙局的新聞，去讓參與者討論資金利用、撤除資金兩種方式對永續發展的影響。會發現兩種動作對永續發展的幫助並不見得非常的大，但的確有部分的影響。</p>
-<p>為擴大效率，過度的指標化，也可能會產生反效果。由於每個指標的限制，在不同情境下會有不同效果。</p>
-<p>需要透過不斷的接受各種多元思維的討論，才能避免單一慣性思維的限制。</p>
-<p>我們在實踐團結經濟的過程，也會遇到各種種取捨的問題，及指標上的限制。學習接受差異性，並且持續共同參與各種目標方向的擬定，追求共同成果，才能儘可能避免經濟、社會、環境，三者在進步的過程，所造成的不平衡。</p>
-<hr>
-<h2 id="參考資料"><a href="#參考資料" class="headerlink" title="參考資料"></a>參考資料</h2><ul>
-<li><a href="https://sustainable-income-lab.github.io/sustainable-washing-1/">【公民議題大家來討論】永續還是包裝？（一）生活中的永續宣傳｜活動筆記</a></li>
-<li><a href="https://technews.tw/2022/05/19/tesla-esg-sp-dow-jones-elon-musk/">馬斯克痛批 ESG 是騙局，為何標普 ESG 指數踢出特斯拉？</a></li>
-<li><a href="https://sustainable-income-lab.github.io/The-Company-That-Owns-the-World/">ETF 背後的巨頭現象</a></li>
-<li><a href="http://ddpp.ntu.edu.tw/selected-articles/domestic-news/1839-1110513n3.html">非營利組織揭銀行煤業政策評比 七家官股銀行抱鴨蛋</a></li>
-<li><a href="https://tw.stock.yahoo.com/news/%E6%83%B9%E6%AF%9B%E9%A6%AC%E6%96%AF%E5%85%8B%E3%80%81%E4%B8%80%E7%A5%A8%E7%9F%BD%E8%B0%B7%E6%8A%95%E8%B3%87%E4%BA%BA%EF%BC%81%E8%8F%AF%E7%88%BE%E8%A1%97%E5%87%BA%E7%8F%BE%E3%80%8C%E5%8F%8Desg%E3%80%8D%E6%B5%AA%E6%BD%AE%EF%BC%9F-230039846.html">惹毛馬斯克、一票矽谷投資人！華爾街出現「反ESG」浪潮？</a></li>
-<li><a href="https://mitsloan.mit.edu/ideas-made-to-matter/blackrocks-larry-fink-dont-divest-fossil-fuels-stay-game#:~:text=%E2%80%9CKeep%20in%20mind,the%20Environment.%E2%80%9D">BlackRock’s Larry Fink: Don’t divest fossil fuels, stay in the game</a></li>
-</ul>
-<hr>
-<h2 id="115B"><a href="#115B" class="headerlink" title="115B"></a>115B</h2><p>「115B」是由「嘉鼎智能團隊」，呼應社會團結經濟浪潮而成立，主要在協助個體、或組織，運用國際股市連結全球社會經濟的人心智能，增強本身經濟實力；並在過程中融合永續進展的理念，追求經濟、社會、環境各方面的均衡進步發展，尤其經濟上要符合（經世濟民）道理。</p>
-<h3 id="加入團隊"><a href="#加入團隊" class="headerlink" title="加入團隊"></a>加入團隊</h3><p><a href="https://www.104.com.tw/company/10zcirfc">104 (嘉鼎智能｜永續所得實驗室)</a></p>
-<h3 id="社群媒體"><a href="#社群媒體" class="headerlink" title="社群媒體"></a>社群媒體</h3><p>歡迎加入我們的LINE社群一同推廣永續所得倡議</p>
-<blockquote>
-<p>👉 &emsp; <a href="https://bit.ly/Slack115b">115B Slack 群</a></p>
-<p>👉 &emsp; <a href="https://line.me/ti/g2/Yn9r9XlbjJjhjppxjyzmbQ">115B LINE 社群</a></p>
-<p>👉 &emsp; <a href="https://www.facebook.com/sustainable.income.lab">115B FB</a></p>
-</blockquote>
-]]></content>
-      <tags>
-        <tag>永續</tag>
-        <tag>ESG</tag>
-        <tag>115B</tag>
-        <tag>漂綠</tag>
-        <tag>撤資</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>永續所得是什麽？ 永續所得完整學習指南</title>
     <url>/sustainable-income-guidebook/</url>
     <content><![CDATA[<p>永續所得的概念包含了所得的永續性、發展性及進展。看似簡單的概念，背後會造成永續所得的限制有非常多元。</p>
@@ -6000,6 +5758,118 @@
       </tags>
   </entry>
   <entry>
+    <title>【公民議題大家來討論】永續還是包裝？（二）｜馬斯克說ESG是個騙局，您怎麼看？｜活動筆記</title>
+    <url>/sustainable-washing-2/</url>
+    <content><![CDATA[<blockquote>
+<blockquote>
+<p><img src="https://static.accupass.com/eventbanner/2206230835389680438480.jpg"></p>
+</blockquote>
+</blockquote>
+<blockquote>
+<p>標普500 ESG 指數（The S&amp;P 500 ESG Index），以ESG（環境、社會、治理）不同面向來評判企業，並作為指標。在2022年的標普500 ESG 指數中，將屬於電動車行業的特斯拉（Tesla）拉除名，與此同時，美國石油巨頭埃克森美孚（Exxon Mobil） 依然在榜單上。特斯拉CEO馬斯克，因而批評「ESG 是騙局」。與此相對，全球金融業的巨頭貝萊德及黑石的CEO，都曾宣稱化石燃料撤資無意義，並認為需要大力支持ESG投資。到底ESG投資、化石燃料撤資運動，哪些動作對於永續發展有真實意義？哪些又是企業及金融的漂綠現象？本次【公民議題大家來討論】，邀請社群一同討論資金利用對永續發展的正反面影響。</p>
+</blockquote>
+<span id="more"></span>
+
+<hr>
+<h2 id="活動連結"><a href="#活動連結" class="headerlink" title="活動連結"></a>活動連結</h2><h3 id="活動頁面"><a href="#活動頁面" class="headerlink" title="活動頁面"></a>活動頁面</h3><p><a href="https://www.accupass.com/event/2206230834458842085400">【公民議題大家來討論】永續還是包裝？（二）｜馬斯克說ESG是個騙局，您怎麼看？</a></p>
+<hr>
+<h2 id="對「ESG金融」、「撤資行動」兩個概念的支持程度"><a href="#對「ESG金融」、「撤資行動」兩個概念的支持程度" class="headerlink" title="對「ESG金融」、「撤資行動」兩個概念的支持程度"></a>對「ESG金融」、「撤資行動」兩個概念的支持程度</h2><p>本次在活動報名時，要求參與填寫對「ESG金融」，以及「撤資行動」，兩個概念的支持程度，分為五個等級</p>
+<ul>
+<li>強烈反對</li>
+<li>不同意</li>
+<li>既不同意也不反對</li>
+<li>同意</li>
+<li>堅決同意</li>
+</ul>
+<p>有18位報名者，可看到本次參與者，並無人反對這兩個概念。然而對於「ESG金融」支持度為「同意」者較多，對於「撤資行動」則較多為「既不同意也不反對」。經過詢問後，發現會有這個現象的原因，在於參與者比較多聽過「ESG金融」，卻較少聽過「撤資行動」。</p>
+<p>會產生這個現象，可能有多種因素，像是金融業資源較多，因而較多激勵推廣「ESG金融」，但較少激勵推廣有利益違背的「撤資行動」。另外後面提到「撤資行動」所帶來的影響相對不易量化及理解，也可能是因素。</p>
+<p>除此之外，兩個概念中，選擇「堅決同意」的人數皆相對較少，也意味著參與者對這兩個概念皆有部分疑慮。下面的討論中，我們便可以看到不同的參與者對這兩個概念的想法。</p>
+<p><img src="/img/sustainable-washing-2/ESG%E9%87%91%E8%9E%8D%E5%8F%8A%E6%92%A4%E8%B3%87%E8%A1%8C%E5%8B%95.png" alt="對「ESG金融」、「撤資行動」兩個概念的支持程度"></p>
+<hr>
+<h2 id="馬斯克說ESG是個騙局，您怎麼看？"><a href="#馬斯克說ESG是個騙局，您怎麼看？" class="headerlink" title="馬斯克說ESG是個騙局，您怎麼看？"></a>馬斯克說ESG是個騙局，您怎麼看？</h2><p>在2022年5月19日，特斯拉CEO馬斯克，在Twitter上發文，提到標普道瓊500 ESG指數（The S&amp;P 500 ESG Index）將做電動車的特斯拉（Tesla）移除，然而卻將可能造成碳排的美國石油巨頭埃克森美孚（Exxon Mobil）留在榜上。馬斯克因而稱ESG是場騙局。</p>
+<p>本次的參加者關於這個現象的看法留言如下</p>
+<ul>
+<li>ESG不是用來幫助永續發展，只是投資風險參考</li>
+<li>大部分人不太熟悉，有框架、多元化。可能有心人士會利用，似乎沒有必要說是騙局，可以看兩面</li>
+<li>ESG是否客觀？</li>
+<li>企業整形師</li>
+<li>有些極端、氣話。EXXON，碳排減，會不會有正向幫助？</li>
+<li>因為馬斯克是KOL，所以提出的話題都有很大的熱度，而且馬斯克向來語不驚人死不休XD</li>
+</ul>
+<p>因為馬斯克是為具有影響力的發言者，這個說法帶來不同面相的討論，包含反對者及支持者。</p>
+<p>不同的評論中，提到了，其實ESG更多是在評判企業在E、S、G三個面向的努力及改善程度，本身對於幫助永續發展並不直接相關，雖然特斯拉以製造對環境改善有正向幫助的電動車為主，但在公司治理層面，以及其他層面未作較多改善。而Exxon Mobil雖然持續有碳排議題，但正在嘗試改善。</p>
+<p>不過馬斯克的發言，也讓人產生更多省思。ESG的評判指標過於主觀、不同，過多金融機構誇大宣稱ESG對永續發展的幫助。或許我們該將ESG當成自我改善的自評工具，而非包裝的工具。並且我們也不應該僅僅因為ESG指標，而過分集中將資源投向具ESG指標的產業。</p>
+<p><img src="/img/sustainable-washing-2/%E9%A6%AC%E6%96%AF%E5%85%8B%E8%AA%AAESG%E6%98%AF%E5%80%8B%E9%A8%99%E5%B1%80.png" alt="馬斯克說ESG是個騙局，您怎麼看？"></p>
+<hr>
+<h2 id="部分金融機構說「撤資行動」無意義，您怎麼看？"><a href="#部分金融機構說「撤資行動」無意義，您怎麼看？" class="headerlink" title="部分金融機構說「撤資行動」無意義，您怎麼看？"></a>部分金融機構說「撤資行動」無意義，您怎麼看？</h2><p>撤資行動，指的是要求金融機構或各種資金，從對經濟、環境、社會有害的產業抽離。如果「ESG金融」是金融機構推廣將資源投向具ESG指標的企業（前面提到了如此做可能會產生的疑慮），「撤資行動」則是反其道而行。</p>
+<p>本次參與者較少人聽過撤資行動，因此在最前面的投票大多是持不支持也不反對立場。下面是參與者對「撤資行動」看法的留言</p>
+<ul>
+<li>第一次聽到撤資，所以持中立的立場。聽起來有幫助，但需要在對的目標才會有意義，否則成為不理性、或報復行為。</li>
+<li>不太了解，了解完後蠻能理解的。有資源的人，判斷正義、非正義會有影響。個人雖影響較小，但可以先關注行為、意義。</li>
+<li>動盪很大時，似乎影響才會比較大！</li>
+<li>「撤資行動」還是有意義，只要多人關注，似乎還是有所幫助。</li>
+<li>賣壓很強，也會有些影響，但需要很大。</li>
+<li>撤資後會發生什麼事？</li>
+<li>撤資，別人收購，似乎效應不強？</li>
+<li>我起初是投不支持也不反對，原因是我不知道撤資的具體內容是什麼?撤資要撤到什麼程度?</li>
+</ul>
+<p>我們觀察資料後會發現，撤資行動會關注較少，可能有多種原因。</p>
+<ol>
+<li>撤資行動影響到金融機構既有佈局及利益，因而正面支持的金融機構相對較少。</li>
+<li>撤資行動，當有人撤資，過程中會轉手到另一位投資者，撤資產生的效應不明顯。</li>
+<li>不知道要撤資到什麼程度，撤資帶來的效應似乎需要大量動作才能顯現。</li>
+<li>撤資後的資金將被用向何處，也是需要被關注的議題。</li>
+</ol>
+<p>但經過大家的討論後，會發現，雖然撤資造成的效應不易被呈現，然而只要更多人關注，依然有正向幫助。並非像金融機構宣稱的，毫無幫助。</p>
+<p><img src="/img/sustainable-washing-2/%E9%83%A8%E5%88%86%E9%87%91%E8%9E%8D%E6%A9%9F%E6%A7%8B%E8%AA%AA%E6%92%A4%E8%B3%87%E8%A1%8C%E5%8B%95%E7%84%A1%E6%84%8F%E7%BE%A9.png" alt="部分金融機構說「撤資行動」無意義，您怎麼看？"></p>
+<hr>
+<h2 id="資金的利用，若要對經濟、社會、環境有幫助，而非負面效應，必須考慮哪些因素？"><a href="#資金的利用，若要對經濟、社會、環境有幫助，而非負面效應，必須考慮哪些因素？" class="headerlink" title="資金的利用，若要對經濟、社會、環境有幫助，而非負面效應，必須考慮哪些因素？"></a>資金的利用，若要對經濟、社會、環境有幫助，而非負面效應，必須考慮哪些因素？</h2><p>前面的兩個議題，一個在於資金的利用，另一個則是資金的抽離，兩者是否會幫助永續發展，皆可注意到其部分效果，但也注意到過度指標化會產生的反效果。</p>
+<p>對於該如何使用資金，對永續發展是幫助而非反效果，參與者會考慮到的因素發言如下</p>
+<ul>
+<li>正面、負面，要如何最大？</li>
+<li>以化妝品為例，多買對經濟似乎有成長，但生產過程似乎有些反面。意識到時，可能無法完全改，但可以透過注意到逐步醒思。</li>
+<li>出去認識人，才能認識社會。</li>
+<li>資金的利用，賺錢、存錢、花錢。的深思、修正。</li>
+<li>避免做習慣性的判斷。同樣的動作在不同情況會有所不同。</li>
+<li>對經濟、社會、環境有幫助，必須要有了解。必須要接觸許多人，不同面向的意見，去察覺。</li>
+<li>好難的題目XDD 因為要case by case~~ 我想到的是 「利害關係人盤點」，所有內部外部、明顯跟隱性受影響的關係人都要徹底盤點，才不會有漏掉的。</li>
+</ul>
+<p>這個議題，一開始會想到的是各種顯性、隱性的「利害關係人盤點」。然而會發現，各種盤點方法，皆可能無法完善。較多參加者提到了關於多元意見的需要，一個部分是透過多認識不同人，接受不同的觀點，避免同溫層。另外，也嘗試避免慣性思維，因為在某些狀況有效的動作，在另外的狀況也不一定可行。</p>
+<p>最後，由於各面向的改變，些有諸多需要考量的點，因此心態上必須緩和，為了快速效率而進行的動作，難免會產生反效果。</p>
+<p><img src="/img/sustainable-washing-2/%E8%B3%87%E9%87%91%E5%88%A9%E7%94%A8%E8%88%87%E5%9C%98%E7%B5%90%E7%B6%93%E6%BF%9F.png" alt="資金的利用，若要對經濟、社會、環境有幫助，而非負面效應，必須考慮哪些因素？"></p>
+<hr>
+<h2 id="小結"><a href="#小結" class="headerlink" title="小結"></a>小結</h2><p>本次以馬斯克說ESG是個騙局的新聞，去讓參與者討論資金利用、撤除資金兩種方式對永續發展的影響。會發現兩種動作對永續發展的幫助並不見得非常的大，但的確有部分的影響。</p>
+<p>為擴大效率，過度的指標化，也可能會產生反效果。由於每個指標的限制，在不同情境下會有不同效果。</p>
+<p>需要透過不斷的接受各種多元思維的討論，才能避免單一慣性思維的限制。</p>
+<p>我們在實踐團結經濟的過程，也會遇到各種種取捨的問題，及指標上的限制。學習接受差異性，並且持續共同參與各種目標方向的擬定，追求共同成果，才能儘可能避免經濟、社會、環境，三者在進步的過程，所造成的不平衡。</p>
+<hr>
+<h2 id="參考資料"><a href="#參考資料" class="headerlink" title="參考資料"></a>參考資料</h2><ul>
+<li><a href="https://sustainable-income-lab.github.io/sustainable-washing-1/">【公民議題大家來討論】永續還是包裝？（一）生活中的永續宣傳｜活動筆記</a></li>
+<li><a href="https://technews.tw/2022/05/19/tesla-esg-sp-dow-jones-elon-musk/">馬斯克痛批 ESG 是騙局，為何標普 ESG 指數踢出特斯拉？</a></li>
+<li><a href="https://sustainable-income-lab.github.io/The-Company-That-Owns-the-World/">ETF 背後的巨頭現象</a></li>
+<li><a href="http://ddpp.ntu.edu.tw/selected-articles/domestic-news/1839-1110513n3.html">非營利組織揭銀行煤業政策評比 七家官股銀行抱鴨蛋</a></li>
+<li><a href="https://tw.stock.yahoo.com/news/%E6%83%B9%E6%AF%9B%E9%A6%AC%E6%96%AF%E5%85%8B%E3%80%81%E4%B8%80%E7%A5%A8%E7%9F%BD%E8%B0%B7%E6%8A%95%E8%B3%87%E4%BA%BA%EF%BC%81%E8%8F%AF%E7%88%BE%E8%A1%97%E5%87%BA%E7%8F%BE%E3%80%8C%E5%8F%8Desg%E3%80%8D%E6%B5%AA%E6%BD%AE%EF%BC%9F-230039846.html">惹毛馬斯克、一票矽谷投資人！華爾街出現「反ESG」浪潮？</a></li>
+<li><a href="https://mitsloan.mit.edu/ideas-made-to-matter/blackrocks-larry-fink-dont-divest-fossil-fuels-stay-game#:~:text=%E2%80%9CKeep%20in%20mind,the%20Environment.%E2%80%9D">BlackRock’s Larry Fink: Don’t divest fossil fuels, stay in the game</a></li>
+</ul>
+<hr>
+<h2 id="115B"><a href="#115B" class="headerlink" title="115B"></a>115B</h2><p>「115B」是由「嘉鼎智能團隊」，呼應社會團結經濟浪潮而成立，主要在協助個體、或組織，運用國際股市連結全球社會經濟的人心智能，增強本身經濟實力；並在過程中融合永續進展的理念，追求經濟、社會、環境各方面的均衡進步發展，尤其經濟上要符合（經世濟民）道理。</p>
+<h3 id="加入團隊"><a href="#加入團隊" class="headerlink" title="加入團隊"></a>加入團隊</h3><p><a href="https://www.104.com.tw/company/10zcirfc">104 (嘉鼎智能｜永續所得實驗室)</a></p>
+<h3 id="社群媒體"><a href="#社群媒體" class="headerlink" title="社群媒體"></a>社群媒體</h3><p>歡迎加入我們的LINE社群一同推廣永續所得倡議</p>
+<blockquote>
+<p>👉 &emsp; <a href="https://bit.ly/Slack115b">115B Slack 群</a></p>
+<p>👉 &emsp; <a href="https://line.me/ti/g2/Yn9r9XlbjJjhjppxjyzmbQ">115B LINE 社群</a></p>
+<p>👉 &emsp; <a href="https://www.facebook.com/sustainable.income.lab">115B FB</a></p>
+</blockquote>
+]]></content>
+      <tags>
+        <tag>永續</tag>
+        <tag>ESG</tag>
+        <tag>115B</tag>
+        <tag>漂綠</tag>
+        <tag>撤資</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>戴上共產主義面具的資本主義｜共有、人心智能、經濟學本質</title>
     <url>/the-communism-of-capital/</url>
     <content><![CDATA[<blockquote>
@@ -6075,6 +5945,136 @@
         <tag>共產資本主義</tag>
         <tag>共有</tag>
         <tag>人心智能</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【公民議題大家來討論】永續還是包裝？（一）生活中的永續宣傳｜活動筆記</title>
+    <url>/sustainable-washing-1/</url>
+    <content><![CDATA[<blockquote>
+<blockquote>
+<p><img src="https://static.accupass.com/eventbanner/2205260701289565041690.jpg"></p>
+</blockquote>
+</blockquote>
+<blockquote>
+<p>本文由2022/6/10「永續所得實驗室」發起的【公民議題大家來討論｜永續還是包裝？（一）生活中的永續宣傳】活動中，摘錄整理。</p>
+</blockquote>
+<p>「永續」一詞，在過去十年，關注度快速上升，特別是2020的疫情，讓大家注意到人類經濟社會如何受大自然被動的影響。「永續」一詞的關注度，很好的幫助人類反思自身與大自然的關係。各種商業產品及服務，也跟上這波熱潮，將產品服務掛上「永續」兩字，期待抓住消費者的眼球。 </p>
+<p> 然而也因為環境、社會、經濟間錯綜複雜的關係，產生了許多「真永續」、「假永續」的爭論，甚至有包裝為永續，但在隱藏面對永續有害的「漂綠」現象。  </p>
+<p>這次活動，邀請參與者分享這股熱潮的正反兩面，並且討論如何在解決問題的過程，不製造更多問題。</p>
+<span id="more"></span>
+
+<hr>
+<h2 id="活動連結"><a href="#活動連結" class="headerlink" title="活動連結"></a>活動連結</h2><h3 id="活動頁面"><a href="#活動頁面" class="headerlink" title="活動頁面"></a>活動頁面</h3><p><a href="https://www.accupass.com/event/2205260558071032673470">【公民議題大家來討論】永續還是包裝？（一）生活中的永續宣傳</a></p>
+<h3 id="活動回放影片"><a href="#活動回放影片" class="headerlink" title="活動回放影片"></a>活動回放影片</h3><p>👉 &emsp; <a href="https://fb.watch/dCKXRfrJuY/">點此播放</a></p>
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fsustainable.income.lab%2Fvideos%2F1015166209200340%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+<hr>
+<h2 id="聽過什麼關於「永續」的宣傳字眼？"><a href="#聽過什麼關於「永續」的宣傳字眼？" class="headerlink" title="聽過什麼關於「永續」的宣傳字眼？"></a>聽過什麼關於「永續」的宣傳字眼？</h2><p>首先，在活動報名表上，報名者已經先填寫了關於曾經聽過跟「永續」相關的宣傳字眼。</p>
+<h3 id="ESG"><a href="#ESG" class="headerlink" title="ESG"></a>ESG</h3><p>本次19人報名，收集的資料中，「ESG」為最多人聽到。「ESG」關於企業永續關於「環境、社會、治理」三面向的考量。由於金融機構大量宣傳，成為熱門關鍵字，不過也因為指標的主觀性，產生許多思辨討論。（七月的活動主題，剛好是與這一主題相關，歡迎參與討論。）</p>
+<h3 id="CSR"><a href="#CSR" class="headerlink" title="CSR"></a>CSR</h3><p>企業社會責任，與ESG同樣，以企業的角度為出發，考慮須付出的社會責任。但同樣的也產生商業本質，是否產生挖東牆補西牆的弊病。</p>
+<h3 id="淨零排放、淨零碳排"><a href="#淨零排放、淨零碳排" class="headerlink" title="淨零排放、淨零碳排"></a>淨零排放、淨零碳排</h3><p>碳排是造成氣候變遷的主要因素，並且直接影響地球村的發展，因而淨零碳排也被大家重視。 </p>
+<h3 id="SDGs"><a href="#SDGs" class="headerlink" title="SDGs"></a>SDGs</h3><p>聯合國提出的2030永續發展目標，以國家的角度，立定了17項與環境、社會、經濟不同面向的目標。相對其它關鍵詞較為多元。</p>
+<h3 id="循環經濟"><a href="#循環經濟" class="headerlink" title="循環經濟"></a>循環經濟</h3><p>經濟活動與自然資源消耗脫鉤的方式，成為永續概念的重要準則。</p>
+<p>其它還有許多不同的關鍵詞，下面將會討論參與者對各種永續相關關鍵詞的反應，以及其正反面向的思辨。</p>
+<p><img src="/img/sustainable-washing-1/1.png" alt="聽過什麼關於「永續」的宣傳字眼？"></p>
+<hr>
+<h2 id="「永續」一詞如何影響你的消費習慣？"><a href="#「永續」一詞如何影響你的消費習慣？" class="headerlink" title="「永續」一詞如何影響你的消費習慣？"></a>「永續」一詞如何影響你的消費習慣？</h2><p>在Slido 上面，參與者回復了</p>
+<ul>
+<li>購買時看到永續會做更多功課</li>
+<li>回收字眼，會讓自己會嘗試再利用</li>
+<li>選擇包裝較少商品或裸買</li>
+<li>可循環或可分解</li>
+<li>增加黏性</li>
+<li>拒絕被廣告洗腦</li>
+<li>選擇公平貿易商品</li>
+<li>關心產品的產地、來源、成分、等等資訊</li>
+<li>不使用一次性垃圾</li>
+</ul>
+<p>本次參與者，大多不會因為永續相關的關鍵字去過度的改變自己的消費習慣。然而若是同質的商品服務，則有機會去優先選擇，或是增加消費黏性。</p>
+<p>另外，參與者提到，如果產品服務上如果有提到如可以「回收」的動作，部分參與者會增加自己回收的意識。</p>
+<p>也有參與者提到，心中有永續相關的概念，會讓自己的消費行為有改變，不是被廣告宣傳洗腦，而是會考慮如不使用造成一次性垃圾的商品服務，嘗試裸買。另外，在購買固定商品服務時，會持續做更多功課，關心商品服務的產地、來源、成分等資訊。</p>
+<p><img src="/img/sustainable-washing-1/2.png" alt="「永續」一詞如何影響你的消費習慣？"></p>
+<hr>
+<h2 id="曾經對「永續」一詞，產生過怎麼樣的懷疑嗎？"><a href="#曾經對「永續」一詞，產生過怎麼樣的懷疑嗎？" class="headerlink" title="曾經對「永續」一詞，產生過怎麼樣的懷疑嗎？"></a>曾經對「永續」一詞，產生過怎麼樣的懷疑嗎？</h2><p>對「永續」相關的關鍵詞，參與者曾感到的懷疑，包含</p>
+<ul>
+<li>信任之前先要有效的聆聽、聽懂不同利害關係人的立場跟需求。</li>
+<li>不知道到底有沒有真正做到永續，還是只是表面寫一寫而已</li>
+<li>認證，無法非常完美，無法一次到位</li>
+<li>這攸關到信任、對品牌或企業的信任、以及第三方是否中立客觀的信任！</li>
+<li>企業的永續，有部分破壞，永部分宣稱永續，是不是能平衡呢？</li>
+<li>表面上寫得正正當當，可以怎麼檢核、公開透明、知後同意呢??</li>
+</ul>
+<p>裡面最主要討論到的問題，在於似乎各種宣稱永續的說法，都無法完美被驗證。第三方機構，當有利益關係，便可能無法被完全信任。</p>
+<p>例如SDGs或其它指標，非常的多樣，沒有人能完全都分析到，亦即無法完全檢核。若因為幾項驗證而貼上永續的標籤，但有害的部分沒有被揭露出來，是否會讓事情變得更糟？</p>
+<p>「漂綠」一詞，常有不同的理解，通常是指外衣包裝為對綠色（環境）有正向幫助，但實質幫助不大。然而更為嚴重的是，不僅沒有幫助，有的甚至是造成更多破壞，但透過簡化的指標包裝，破壞力更為嚴重。</p>
+<p><img src="/img/sustainable-washing-1/3.png" alt="曾經對「永續」一詞，產生過怎麼樣的懷疑嗎？"></p>
+<hr>
+<h2 id="「永續」一詞，真的只是包裝嗎？"><a href="#「永續」一詞，真的只是包裝嗎？" class="headerlink" title="「永續」一詞，真的只是包裝嗎？"></a>「永續」一詞，真的只是包裝嗎？</h2><p>前面提到，「永續」相關的各種概念的限制。但難道需要拋棄這個概念嗎？抑或是這中間也能帶出正向的效果？參與者提到</p>
+<ul>
+<li>訂下目標就是好的開始，改變過程比較重要</li>
+<li>或者也可以換個字眼(雖然目前沒有想到…)，因為永續的”永”，會讓人有距離遙遠、很難盡快實現這樣的錯覺???</li>
+<li>可以是包裝、可以是行銷話術，但也可以變成一種習慣，落實在生活各方面。</li>
+<li>只要有人做，就有機會改變</li>
+</ul>
+<p>一個部分是，如果使用這些關鍵字是作為一種改變的目標，而非宣傳，則形成習慣，依然可以形成正向的力量。</p>
+<p><img src="/img/sustainable-washing-1/4.png" alt="「永續」一詞，真的只是包裝嗎？"></p>
+<hr>
+<h2 id="如何在消費上符合「永續」，又避免被「漂綠」產品操控？"><a href="#如何在消費上符合「永續」，又避免被「漂綠」產品操控？" class="headerlink" title="如何在消費上符合「永續」，又避免被「漂綠」產品操控？"></a>如何在消費上符合「永續」，又避免被「漂綠」產品操控？</h2><p>綜合上面討論，該如何利用「永續」相關的概念，又要避免讓事情變得更糟？參與者的反饋</p>
+<ul>
+<li>消費習慣以裸買為主，傳統雜糧行和無包裝商店，透過無包裝商店的選物也可以知道是否符合永續，消費的同時還能避免過多包裝</li>
+<li>集智，正反面資訊都要提到</li>
+<li>推推「從自身需求出發」和「掃了再買」</li>
+<li>真正有需求時才去購買，並時常反省、妥善利用這項產品或服務，避免濫買濫用</li>
+<li>考慮是不是真的需要一些產品，不過度消費，消費過程多方了解</li>
+<li>反省、關注負面的效應，不因為包裝而過度反應</li>
+<li>曾聽過有個民間團體做了一個APP叫 「掃了再買」，就是可以掃描後去仔細檢視企業有沒有漂綠的疑慮，是否認真的做永續。</li>
+</ul>
+<p>其中參與者提到了一款叫「掃了再買」APP，裡面會提供商品服務的各種檢視資訊。例如有些金融商品宣稱符合許多永續相關指標，然而卻會發現，其造成許多有破壞力的資訊。也就是，透過負面表列的資訊，可以幫助我們更清楚商品服務背後的各種問題，作為我們選擇的參考。如同參考評分網站，負面評價因為不易被刷，而成為比正面評價更有意義的資訊。</p>
+<p>除此，參與者提到「從自身需求出發」，同時依照自己的理性及感性作為消費驅動，才能專注的了解背後的各項資訊。</p>
+<p>也有參與者，嘗試不被許多關鍵字過度驅動，但透過如裸買、重複利用、回收循環等概念，來實行「永續」動作。</p>
+<p><img src="/img/sustainable-washing-1/5.png" alt="如何在消費上符合「永續」，又避免被「漂綠」產品操控？"></p>
+<hr>
+<h2 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h2><p>「永續」一詞衍生的各種概念，當如果被過度簡化為各種指標，總是會產生限制。如果單以這些指標，作為消費習慣的參考，便可能造成包裝，造成「漂綠」，並且破壞更多的現象。</p>
+<p>要避免此一類現象發生，一部分是把各種永續的概念當作為自我訂定目標，反省的過程，而非包裝的過程。</p>
+<p>在檢視的過程，除了多方考量各面向外，反面檢視亦具有重要性。任何經濟過程不可避免的需要利用到部分自然資源，但透過社群檢視各種負面現象，才能評判其所造成的消耗是否為可以透過再生修正。</p>
+<hr>
+<h2 id="參考資料"><a href="#參考資料" class="headerlink" title="參考資料"></a>參考資料</h2><ul>
+<li><a href="https://sustainable-income-lab.github.io/Should-we-ditch-sustainability/">我們該放棄「永續」一詞嗎？</a><ul>
+<li>「漂綠」現象頻繁，該如何「永續」但避免再被「漂」？</li>
+</ul>
+</li>
+<li><a href="https://sustainable-income-lab.github.io/The-Company-That-Owns-the-World/">ETF 背後的巨頭現象</a><ul>
+<li>從石化撤資、ESG基金，看穿金融機構對於「永續」的自我詮釋現象。</li>
+</ul>
+</li>
+<li><a href="https://divestmentdatabase.org/">石化撤資數據</a></li>
+<li><a href="https://www.youtube.com/watch?v=eWbqwcj9ALo">少即是多</a><ul>
+<li>對資本主義消耗自然資源的反思。</li>
+</ul>
+</li>
+<li><a href="https://www.books.com.tw/products/0010900689">重新想像資本主義</a></li>
+</ul>
+<hr>
+<h2 id="活動參加證明NFT"><a href="#活動參加證明NFT" class="headerlink" title="活動參加證明NFT"></a>活動參加證明NFT</h2><p>本次活動，11人以上參與，4人發言（包含組織者），部分參與者透過申請獲得參加POAP</p>
+<ul>
+<li><a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/6529201914064203535989870829941386348666317685817575610379076918115894820868">參與者POAP</a></li>
+<li><a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/6529201914064203535989870829941386348666317685817575610379076919215406448644">組織者POAP</a></li>
+</ul>
+<p>若您喜歡本次參與者的討論，歡迎分享文章，或提供各種贊助給參與者。</p>
+<hr>
+<h2 id="115B"><a href="#115B" class="headerlink" title="115B"></a>115B</h2><p>「115B」是由「嘉鼎智能團隊」，呼應社會團結經濟浪潮而成立，主要在協助個體、或組織，運用國際股市連結全球社會經濟的人心智能，增強本身經濟實力；並在過程中融合永續進展的理念，追求經濟、社會、環境各方面的均衡進步發展，尤其經濟上要符合（經世濟民）道理。</p>
+<h3 id="加入團隊"><a href="#加入團隊" class="headerlink" title="加入團隊"></a>加入團隊</h3><p><a href="https://www.104.com.tw/company/10zcirfc">104 (嘉鼎智能｜永續所得實驗室)</a></p>
+<h3 id="社群媒體"><a href="#社群媒體" class="headerlink" title="社群媒體"></a>社群媒體</h3><p>歡迎加入我們的LINE社群一同推廣永續所得倡議</p>
+<blockquote>
+<p>👉 &emsp; <a href="https://bit.ly/Slack115b">115B Slack 群</a></p>
+<p>👉 &emsp; <a href="https://line.me/ti/g2/Yn9r9XlbjJjhjppxjyzmbQ">115B LINE 社群</a></p>
+<p>👉 &emsp; <a href="https://www.facebook.com/sustainable.income.lab">115B FB</a></p>
+</blockquote>
+]]></content>
+      <tags>
+        <tag>永續</tag>
+        <tag>115B</tag>
+        <tag>漂綠</tag>
       </tags>
   </entry>
   <entry>
