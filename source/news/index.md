@@ -2,6 +2,7 @@
 title: news
 ---
 
+- [Civic Tech（技能）共學週報第106期](/news/Civic-Tech（技能）共學週報第106期)
 - [Civic Tech（技能）共學週報第105期](/news/Civic-Tech（技能）共學週報第105期)
 - [Civic Tech（技能）共學週報第104期](/news/Civic-Tech（技能）共學週報第104期)
 - [Civic Tech（技能）共學週報第103期](/news/Civic-Tech（技能）共學週報第103期)

@@ -64,6 +64,7 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 
 ### 技術
 
+- [New Harvard study finds Open Source is worth up to $8.8 trillion](https://www.thestack.technology/open-source-value-trillions-harvard/)
 
 ---
 ## 活動分享
