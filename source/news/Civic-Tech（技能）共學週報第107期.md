@@ -1,6 +1,6 @@
 ---
-title: Civic Tech（技能）共學週報第106期
-date: 2024-03-13 00:00:00
+title: Civic Tech（技能）共學週報第107期
+date: 2024-03-20 00:00:00
 categories:
 	- Civic-Tech
 author:
@@ -8,9 +8,9 @@ author:
 	- 115B實驗室
 	- Huanry編輯
 ---
-# Civic Tech（技能）共學週報｜第106期 (2024.03.13)
+# Civic Tech（技能）共學週報｜第107期 (2024.03.20)
 
-![Civic-Tech-106](/img/ct/106.png)
+![Civic-Tech-107](/img/ct/107.png)
 
 ## 前言
 
@@ -76,11 +76,7 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 
 ### 社會經濟
 
-#### 👉 &emsp; [伊斯蘭金融與經濟](https://medium.com/acis-intellicollective/%E4%BC%8A%E6%96%AF%E8%98%AD%E9%87%91%E8%9E%8D%E8%88%87%E7%B6%93%E6%BF%9F-d850e480b14a)
-
-
-本文介紹了伊斯蘭經濟學的基本觀點。它突顯了一些現代社會經濟發展值得反思的觀點，如剩餘價值應當共享，而非透過剝奪他人成果的方式。伊斯蘭經濟學強調金融制度應促進文明發展和社會福祉，反對囤積和投機。這些觀點在當今道德金融和永續金融中得到關注，卻早已成為伊斯蘭金融的核心價值。
-
+#### 👉 &emsp; 
 ### 協作溝通
 
 （本次無分享內容）
@@ -91,39 +87,43 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 
 ### 技術
 
-- [How Quora Died](https://slate.com/technology/2024/02/quora-what-happened-ai-decline.html)
 
-- [Databases Are Falling Apart: Database Disassembly and Its Implications](https://materializedview.io/p/databases-are-falling-apart)
 
 ---
 ## 活動分享
 
-**3月19日**
-- [資安教育免費線上課程](https://acercsi.kktix.cc/events/2024csr)
+**3月26日**
+- [WordPress 彩虹小聚](https://www.meetup.com/taipei-wordpress/events/299746698/)
 
-- [NTNU University AWSome Day](https://docs.google.com/forms/d/e/1FAIpQLSdpEcsp-7LevKrQuDHinSM_6-ALNt9b57RimynR5ASpyDAvoQ/viewform)
-**3月20日**
-- [OnedaySoftware × Test Corner #34](https://testcorner.kktix.cc/events/onedaysoftware-testcorner34)
+- [Elixir Taiwan Monthly Meetup](https://www.meetup.com/elixirtw-taipei/events/299304368/)
 
-- [SyntaxError](https://www.meetup.com/pythonhug/events/299504110/)
+- [Flutter Meetup](https://meetup.com/flutter-taipei/events/299673221/)
 
-- [協作革命：透過 Slack 釋放企業生產力](https://www.accupass.com/event/2402190144083143138390)
+- [Ruby Jam 2024/3 月場](https://rubytaiwan.kktix.cc/events/rubyjam2403)
 
-- [虛擬資產世代品牌成長心法 feat. ACCUPASS x Qubic x 發票怪獸](https://www.accupass.com/event/2402270753291604894957)
+- [Agile.Taipei 2024.3](https://agilecommtw.kktix.cc/events/letsimpactmapping)
+**3月27日**
+- [SyntaxError](https://meetup.com/pythonhug/events/299651695/)
+**3月28日**
+- [HackingThursday 黑客星期四](https://meetup.com/hackingthursday/events/299672764/)
 
-- [打造透明新生態，重塑新聞信任：區塊鏈技術與新聞影像驗證平台計畫發布會](https://www.accupass.com/event/2403070943131853526881)
-**3月21日**
-- [HackingThursday 黑客星期四](https://www.meetup.com/hackingthursday/events/299526449/)
+- [CCNS 定期聚 — 終端機大亂鬥！來和大家分享你的終端機配置吧！](https://ccns.kktix.cc/events/terminal-fight)
+**3月29日**
+- [第8次 - 共同工作及創意駭客開放日](https://www.accupass.com/event/2403070634373013982730)
 
-- [SWAG Tech Open Day | 軟體工程師專場](https://www.accupass.com/event/2402201136527312219000)
-**3月22日**
-- [AI交響曲：Power Platform與Copilot完美協奏](https://www.accupass.com/event/2402260927391720263607)
+- [高雄 CDC 雲端小聚－雲來如此！雲端工程師的一天](https://cdckh.kktix.cc/events/cdc0329)
 
-- [ETHTaipei Hackathon 2024 (March 22 - 24)](https://taikai.network/ethtaipei/hackathons/hackathon-2024)
-**3月24日**
-- [Taiwan Product Managers 3rd PM x 數據人小聚](https://taiwanproductmanagers.kktix.cc/events/godofdatahelp)
+- [vLAB ICT技術群_2024高雄實體聚會](https://vlab.kktix.cc/events/52bd20d8)
 
-- [Cofacts 真的假的 第41次查核協作培訓](https://cofacts.kktix.cc/events/cofactseditor41)
+- [高科技產業_資安防護交流會](https://shieldx.kktix.cc/events/hti)
+
+- [教育體系資安專業課程訓練 - 網頁弱點掃描](https://hackersir.kktix.cc/events/20240329-vulnscan)
+**3月30日**
+- [Job for AI 探索未來：工作與人工智慧的交匯](https://meetup.com/women-who-code-taipei/events/299565370/)
+
+- [System Design on a MVP IM(Instant Messaging)](https://tritonho.kktix.cc/events/2024-m3)
+
+
 
 ## 新聞分享
 
