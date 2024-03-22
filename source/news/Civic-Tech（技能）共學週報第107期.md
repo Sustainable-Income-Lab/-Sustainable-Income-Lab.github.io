@@ -76,7 +76,10 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 
 ### 社會經濟
 
-#### 👉 &emsp; 
+#### 👉 &emsp; [The Monetary System to Improve Social Well-being | 增進人類福祉的貨幣系統](https://medium.com/acis-intellicollective/%E5%A2%9E%E9%80%B2%E4%BA%BA%E9%A1%9E%E7%A6%8F%E7%A5%89%E7%9A%84%E8%B2%A8%E5%B9%A3%E7%B3%BB%E7%B5%B1-the-monetary-system-to-improve-social-well-being-f8ea6b51a29c)
+
+在數位/虛擬貨幣系統萌芽的時代，有群正在思索怎樣的貨幣系統可以增進人類福祉，而非只是做為資源流動或分配的依據。這篇筆記整理了這群人的資料閱讀筆記。
+
 ### 協作溝通
 
 （本次無分享內容）
@@ -87,7 +90,11 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 
 ### 技術
 
+- [The Hidden Cost of Using Managed Databases](https://www.infoq.com/articles/managed-relational-databases-costs/)
 
+- [AWS Lambda under the Hood](https://www.infoq.com/articles/aws-lambda-under-the-hood/)
+
+- [Loco is a New Framework for Rust Inspired by Rails](https://www.infoq.com/news/2024/02/loco-new-framework-rust-rails/)
 
 ---
 ## 活動分享
