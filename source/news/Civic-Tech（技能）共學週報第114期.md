@@ -63,7 +63,7 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 ## 學習資料分享
 ### 系統思維
 
-[What is ReFi | Regenerative Finance explained](https://blog.toucan.earth/what-is-refi-regenerative-finance/)
+#### 👉 &emsp; [What is ReFi | Regenerative Finance explained](https://blog.toucan.earth/what-is-refi-regenerative-finance/)
 
 文中提及再生概念及傳統性別生態的觀點，這些看法反映在她的文字中。起初，從標題來看，似乎這篇文章的脈絡與之前閱讀的再生科技投資文章相似，但實際上有所不同。
 
@@ -76,6 +76,11 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 文章中間部分強調，雖然DeFi標榜公開透明，但需要一定理解，否則不建議投入太多資產。文章的建議是正確的，但這並不意味著文章中提到的項目都是可信的。
 
 例如，Toucan的碳信用仍由少數人決定哪些內容可以上鏈。PoolTogether這個項目宣稱本金不會減少，但可以賺取彩券的錢。事實上，本金被悄悄挪用去其他投資。如果投資無效或大量參與者提款，也不見得保證本金的安全。
+
+#### 👉 &emsp; [AI 正在「吸乾」全球電力？耗電問題只是冰山一角，更可怕的事還在後面](https://www.techbang.com/posts/114780-is-ai-sucking-up-the-worlds-electricity-something-worse-is)
+
+
+從本篇文章與心智元比對，電力（power）就可用購買力（Purchasing Power）來取代，而介質則是將水、空氣⋯⋯等，改以股權來擔當，而推動介質的位能、動能，則是由人心智能來置換。而在利他、或從事對社會有益之事的前提，應該是「反求諸己」，先在經濟上，不斷充實本身的能力、即購買力，避免成為社會的負擔開始。而在實力的擴增上，也儘量運用既有的資源來再生，避免再去破壞社會及環境，採用新創、挖礦（GPU轉戰AI，如下面新聞所述）、甚而尋租、投機炒作、乃至詐騙等手段，演變成損人也不利己的局面。
 
 ### 協作溝通
 
