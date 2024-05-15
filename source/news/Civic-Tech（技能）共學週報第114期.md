@@ -8,9 +8,9 @@ author:
 	- 115B實驗室
 	- Huanry編輯
 ---
-# Civic Tech（技能）共學週報｜第113期 (2024.05.15)
+# Civic Tech（技能）共學週報｜第114期 (2024.05.15)
 
-![Civic-Tech-113](/img/ct/113.png)
+![Civic-Tech-113](/img/ct/114.png)
 
 ## 前言
 
