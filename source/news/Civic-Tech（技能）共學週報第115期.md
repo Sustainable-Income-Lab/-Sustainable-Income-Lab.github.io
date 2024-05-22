@@ -10,7 +10,7 @@ author:
 ---
 # Civic Tech（技能）共學週報｜第115期 (2024.05.22)
 
-![Civic-Tech-113](/img/ct/115.png)
+![Civic-Tech-115](/img/ct/115.png)
 
 ## 前言
 
@@ -65,7 +65,7 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 
 #### 👉 &emsp; [Time is Money but labor? | 時間就是金錢，但勞動呢?](https://medium.com/acis-intellicollective/time-is-money-but-labor-%E6%99%82%E9%96%93%E5%B0%B1%E6%98%AF%E9%87%91%E9%8C%A2-%E4%BD%86%E5%8B%9E%E5%8B%95%E5%91%A2-f6a3d54ad46a)
 
-這篇文章討論時間、勞動、用戶需求之前的關係，由此去看經濟學中討論的尋租。由此去探討，該如何看待人心智能在經濟中扮演的位置。
+這篇文章討論時間、勞動、用戶需求之間的關係，由此去看經濟學中討論的尋租。由此去探討，該如何看待人心智能在經濟中扮演的位置。
 
 ### 協作溝通
 
