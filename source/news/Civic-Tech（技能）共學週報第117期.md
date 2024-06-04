@@ -1,6 +1,6 @@
 ---
-title: Civic Tech（技能）共學週報第116期
-date: 2024-05-29 00:00:00
+title: Civic Tech（技能）共學週報第117期
+date: 2024-06-05 00:00:00
 categories:
 	- Civic-Tech
 author:
@@ -8,9 +8,9 @@ author:
 	- 115B實驗室
 	- Huanry編輯
 ---
-# Civic Tech（技能）共學週報｜第116期 (2024.05.29)
+# Civic Tech（技能）共學週報｜第117期 (2024.06.05)
 
-![Civic-Tech-116](/img/ct/116.png)
+![Civic-Tech-117](/img/ct/117.png)
 
 ## 前言
 
@@ -26,23 +26,6 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 >[![公民科技共學群](/img/產品共學群.jpg)](https://line.me/ti/g2/Dj4AkbdDsY6o4D_CdDUB6Q)
 >
 >如果大家有知道各種新資訊以及好的活動，也歡迎加入我們的LINE社群，分享給大家。
-
----
-### 特別推薦活動
-
-### 第10次 - 共同工作及創意駭客開放日
-
-親愛的夥伴們，115B實驗室即將舉辦第10次共同工作及創意駭客開放日！這是一個輕鬆愉快的空間，歡迎所有關心再生經濟、社會創新的您加入。在這裡，您可以自由發揮創意，找到志同道合的夥伴，一同探索未來的可能性。活動時間為4月26日上午9:30至下午4:30，在台北市大安區社會創新實驗中心108教室舉行。名額有限，請盡早報名！期待與您共度充滿靈感與支持的一天！
-
-
-🗓 活動資訊
-• 日期：2024年5月31日
-• 時間：上午9:30-16:00
-• 地點：台北市大安區仁愛路三段99號，社會創新實驗中心108教室
-• 人數限制：會議室位置有限，僅限20位參與者，快點報名吧！
-• 報名連結：[報名連結](https://www.accupass.com/event/2404290705022052071196)
-
-[![](https://static.accupass.com/eventbanner/2404290709301040746221.jpg)](https://www.accupass.com/event/2404290705022052071196)
 
 ---
 ## 目錄
@@ -63,31 +46,18 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 ## 學習資料分享
 ### 系統思維
 
-#### 👉 &emsp; [Re-design GDP (1) / 重寫GDP (上)](https://medium.com/acis-intellicollective/redesign-gdp-1-%E9%87%8D%E5%AF%ABgdp-%E4%B8%8A-afcd519ec6ca)
+#### 👉 &emsp; [Designing better UX for AI — 8 best practices to follow](https://uxdesign.cc/designing-better-ux-for-ai-3913ba156e20)
 
-這篇文章將GDP拆解為勞動力及尋租者兩個部分，去討論過於關注其中一邊所帶來的不合理現象。
-
-另外，這裡面沒有加入自然物，也造成了無限制的開採資源，必須去重構。
-
-
-#### 👉 &emsp; [Forget Sustainability—Regeneration Is Now Urgently Needed](https://www.psychologytoday.com/us/blog/community-is-medicine/202405/forget-sustainability-regeneration-is-now-urgently-needed)
-
-為了面對 climate-ecosystem-biodiversity 議題，人體、經濟、農業等不同領域再生都需要。
-
-然而文章認為最重要的是Regenerating Communities，回到人與人的多樣性的關懷。
-
-對應到夥伴關係，應該在每個區域間人與人的關懷，了解彼此所需，而不是由少數人由上至下的執行。
+文章中提到了3種不同類型的AI，Freeform AI、Task-Driven AI、Invisible AI，每個有其特性又有其缺少的地方。
+作者給出8種建議來使得這些工具體驗更好。
 
 
-#### 👉 &emsp;[Introducing the Connected Community Approach: Social Innovation With and In Community](https://socialinnovationsjournal.com/index.php/sij/article/view/7728/6564)
+[Future Art Ecosystems Vol 3. Art x Decentralised Tech](https://futureartecosystems.org/briefing/fae3/)
 
+文中是以藝術領域，來討論Web3加入之後，造成的影響。
 
-文章簡單來說，提到「by the community for the community」，裡面提出兩個重點，一個是協調員的角色，另一個是10個 Connected Community Approach 的關鍵。
+裡面提到了『重要的是，體認到去中心技術社群與文化組織，都有多元利害關係人牽涉其中，如投資者、藝術家、短期套利者或技術專家，這些人被侷限在同一個時空間內，相互影響，甚至衝突。』
 
-其中在協調員的角色，給出了一個 Collective Impact 與 Connected Community Approach 的比較，也就是前者有一些像是由上至下的去共同解決複雜議題，後者則是去讓地方去發生各種的方案。
-
-似乎前者有些像是目前SDGs的做法，透過協調去共同解決共同議題。 後者則接近再生，去讓不同的生態蓬勃發展，協調員的角色也因此改變。
-比對 [Organisation-wide design as systems practice](https://sustainable-income-lab.github.io/Organisation-wide-design-as-systems-practice-1/) ，也似乎是這種提供由下至上的軟空間，協調員則像是在建立鷹架，去將不同內容連結，但不是不可拆解。
 
 ### 協作溝通
 
@@ -99,25 +69,41 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 
 ### 技術
 
-- [Expedia Open-Sources Container-Startup-Autoscaler (CSA) for Scaling Kubernetes Workloads](https://www.infoq.com/news/2024/04/expedia-startup-autoscaler/)
+- [Rust-Written Borgo Language Brings Algebraic Data Types and More to Go](https://www.infoq.com/news/2024/05/borgo-adds-types-to-go/)
 
-- [Open-Source APM and Observability Tool Coroot Now GA](https://www.infoq.com/news/2024/05/coroot-apm-observability/)
+- [Multi-Cloud Observability Using Fluent Bit](https://www.infoq.com/articles/multi-cloud-observability-fluent-bit/)
 
 ---
 ## 活動分享
 
-**6月4日**
-- [AI領航員 創新應用關鍵戰](https://www.accupass.com/event/2404090708421533369148)
-**6月5日**
-- [2024人工智慧與法律思辨學術研討會](https://docs.google.com/forms/d/e/1FAIpQLSeuUjf2o9sBNbRQ1g1YppwZr-aYaD4NSJ2OUhgSyiWwOrVQcw/viewform)
+**6月11日**
+- [Self-Taught Coding Tuesdays - Study, Code, Design, Build, Network](https://www.meetup.com/taiwan-code-camp/events/301173252/)
 
-- [設計生成式：透過設計思考，開啟循環經濟](https://docs.google.com/forms/d/e/1FAIpQLSeeI9pt-s-xvvCpZk74maPqqSixHL9u9Ol0TWhIZig5QXSYrg/viewform)
+- [默默會Ｘ React 19 火力全開](https://www.accupass.com/event/2405240918401782600780)
 
-- [自然生成式：從雞本設計，看見永續生態模式](https://docs.google.com/forms/d/e/1FAIpQLSeeI9pt-s-xvvCpZk74maPqqSixHL9u9Ol0TWhIZig5QXSYrg/viewform)
-**6月6日**
-- [2024 第三屆安全達人養成計劃](https://www.accupass.com/event/2405100449202104766405)
+- [Notion應用工作坊-零基礎新手教學](https://www.accupass.com/event/2405140627163846328180)
+**6月12日**
+- [數位交流分享會─6/12 AI夯什麼？變化應用大公開](https://www.accupass.com/event/2405060848581857371840)
+**6月13日**
+- [HackingThursday 黑客星期四](https://www.meetup.com/hackingthursday/events/301215829/)
 
-- [Excel 樞紐分析與 ChatGPT 結合應用](https://www.accupass.com/event/2405100419165073090200)
+- [Agile.Taipei 2024.6月聚會：黑手阿一之敏捷接化發《超圖解敏捷管理》](https://agilecommtw.kktix.cc/events/yvesbook)
+
+- [TSMC IT Community Meetup (Hsinchu) #7](https://tsmcitcommunitymeetup.kktix.cc/events/tsmc-it-meetup-hsinchu-07)
+**6月14日**
+- [Taipei DevOps User Group 9th Event, supported by Wankuma Alliance](https://www.meetup.com/taipei-devops-user-group/events/301397658/)
+
+- [邁入AI新境界 Copilot for Microsoft 365 技巧攻略與數據安全實踐](https://www.accupass.com/event/2405251012141511840161)
+**6月15日**
+- [從盲人到社會： AI 驅動的多元創新之路](https://wtmtw.kktix.cc/events/accessibility0615)
+
+- [Nextstep線下交流會報名表](https://docs.google.com/forms/d/e/1FAIpQLSfkPW1O55kVBAjjiALAFXR0i_7BiS5DC9lc20WZ0OiHwFb1RQ/viewform)
+
+- [ASTRO Camp 16th Demo Day](https://www.accupass.com/event/2405310623311263331708)
+
+- [【黑潮洋流發電】｜淨零台灣 何得何能？｜探索基礎科學系列講座](https://www.accupass.com/event/2405300344369860503600)
+
+- [Taoyuan WordPress Café 桃園咖啡小聚 #37](https://www.meetup.com/taoyuan-wordpress-meetup/events/301012751/)
 
 ## 新聞分享
 
