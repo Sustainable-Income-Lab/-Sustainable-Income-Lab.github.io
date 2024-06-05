@@ -52,7 +52,7 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 作者給出8種建議來使得這些工具體驗更好。
 
 
-[Future Art Ecosystems Vol 3. Art x Decentralised Tech](https://futureartecosystems.org/briefing/fae3/)
+#### 👉 &emsp; [Future Art Ecosystems Vol 3. Art x Decentralised Tech](https://futureartecosystems.org/briefing/fae3/)
 
 文中是以藝術領域，來討論Web3加入之後，造成的影響。
 
