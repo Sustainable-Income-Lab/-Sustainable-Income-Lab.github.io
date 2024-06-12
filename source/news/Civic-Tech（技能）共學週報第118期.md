@@ -80,7 +80,7 @@ Lab 115B cordially invites you to the 11th "Co-Working and Creative Hackathon Op
 ## 學習資料分享
 ### 系統思維
 
-#### 👉 &emsp; 
+（本次無分享內容）
 
 ### 協作溝通
 
