@@ -3,6 +3,7 @@ title: news
 ---
 
 
+- [Civic Tech（技能）共學週報第118期](/news/Civic-Tech（技能）共學週報第118期)
 - [Civic Tech（技能）共學週報第117期](/news/Civic-Tech（技能）共學週報第117期)
 - [Civic Tech（技能）共學週報第116期](/news/Civic-Tech（技能）共學週報第116期)
 - [Civic Tech（技能）共學週報第115期](/news/Civic-Tech（技能）共學週報第115期)
