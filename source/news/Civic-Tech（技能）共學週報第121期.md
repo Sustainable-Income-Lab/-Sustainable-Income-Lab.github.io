@@ -47,6 +47,7 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 • 地點：台北市大安區仁愛路三段99號，社會創新實驗中心108教室
 • 人數限制：會議室位置有限，僅限20位參與者，快點報名吧！
 • 報名連結：[報名連結](https://www.accupass.com/event/2407010240003076923820)
+• 共筆：[共筆連結](https://www.notion.so/115b/7-12-115B-e1520e541e314f3a918fd8397b999c42?pvs=4)
 
 [![](https://static.accupass.com/eventbanner/2407010242301377490322.jpg)](https://www.accupass.com/event/2407010240003076923820)
 
