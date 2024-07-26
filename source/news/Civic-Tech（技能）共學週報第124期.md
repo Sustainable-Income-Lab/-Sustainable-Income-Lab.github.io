@@ -65,7 +65,23 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 ## 學習資料分享
 ### 系統思維
 
-#### 👉 &emsp; 
+#### 👉 &emsp; [How To Store Renewable Energy in Bricks](https://medium.com/the-new-climate/how-to-store-renewable-energy-in-bricks-eaab5819e1d3)
+
+文章中提到的磚塊，雖然一開始儲電的效率只有鋰電池的1%。
+
+然而與鋰電池相比，可以使用的週期幾乎無限長，意味著不需要一直去找原材料。
+
+另外如果用儲熱的方式，不用一直將其他再生能源轉為太多不同形式的能量，而可以使用熱的形式，重力能的過程，也是同樣的環保。
+
+
+#### 👉 &emsp; [Introducing The Regeneration Handbook](https://www.shareable.net/introducing-the-regeneration-handbook/)
+
+
+文章中提到的「人類世」好像也越來越多被討論，雖然沒有準確的定義，但有學者認為追朔到農業革命的產生，開始把人和自然的關係產生了階級。後來到了城市的產生、工業革命，人之間也更多的階級產生。
+
+這些在歷史上發生不久，帶來了破壞，但人類卻覺得這才是正常現象，會維持。
+
+手冊的標題「改變自己，改變世界」，文章中也提到了許多方法其實不缺少，而是缺少每個人的行動。
 
 
 ### 協作溝通
@@ -74,7 +90,18 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 
 ### 設計
 
-（本次無分享內容）
+#### 👉 &emsp; [Why designers need to be more like gardeners](https://uxdesign.cc/why-designers-need-to-be-more-like-gardeners-a6096928f4b2)
+
+文章中提到的設計師，需要像園丁一樣，不是設計好了一個內容就結束了，而是去想到其與用戶關係的長久，並且有更多蓬勃發展。（再生）
+
+而要這樣做，單純的循環是不夠的，而是需要讓設計出來的內容可以使用的更久。
+
+這篇文章又比過去的文章更實際，因為使內容用得更久，並不只是物理上可以使得更久，而是在各中「心」的需求上可以讓用戶有更多的連結。
+
+文章提到許多用戶的心理需求，例如產品對自己的表徵、產品與其他外面的產品比較是否過時？這些產品雖然可以用，可以符合馬洛斯需求的最底層，但卻沒法持續符合馬洛斯需求上層關於心靈的層面。
+
+因而設計師在設計得更長久時，不僅意味著物理功能上，而是要使其在用戶心靈上，要有更多意義的蓬勃發展的存在。
+
 
 ### 技術
 
@@ -91,6 +118,8 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 **7月29日**
 - [《電子簽章法》通過後的解決方案－FinDeal多人協作數位簽章平台推廣說明會](https://www.accupass.com/event/2407100627122784871210)
 **7月30日**
+- [公民組織的數位安全：從零開始的防禦指南](https://ocftw.kktix.cc/events/csotaipeiworkshop)
+
 - [輕鬆學會AI打造高吸睛文案](https://docs.google.com/forms/d/e/1FAIpQLSdFrPut8hj6aPvVJ9nKyZptJ-1qvPnDNLNZxce5ppZq7g9m5g/viewform)
 **7月31日**
 - [Blockchain Era - Innovation & Growth](https://www.accupass.com/event/2406250426532633592200)
@@ -99,11 +128,18 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 
 - [第八屆 Design For Taiwan【無限 Infinite】社會設計展](https://www.accupass.com/event/2405160813011772823716)
 **8月1日**
+- [TSMC IT Community Meetup (Taichung) #5](https://tsmcitcommunitymeetup.kktix.cc/events/tsmc-it-meetup-taichung-05)
+
 - [教育部輔大苗圃 初階教師工作坊02](https://www.accupass.com/event/2406280514091230677618)
 
 - [數位人才培育工作坊#9:Excel VBA 入門實作](https://www.accupass.com/event/2407180522071570726097)
+**8月3日**
+- [第貳次國會松](https://g0v-congress.kktix.cc/events/g0v-congress2n)
 **8月4日**
 - [高雄美國資料中心: PyLadies Python 入門](https://www.accupass.com/event/2407030322111303497070)
+
+
+- [OCF ⭐ COSCUP 2024 開源星手村桌遊體驗工作坊](https://docs.google.com/forms/d/e/1FAIpQLSdQpOGDNUQ__r0_El7EWIsPdFyQkoL-2wX9252tTSmL9vf4LA/viewform)
 
 ## 新聞分享
 
