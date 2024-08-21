@@ -611,145 +611,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>文章導讀：社會團結合作組織的設計思路（下篇）｜Organisation-wide design as systems practice</title>
-    <url>/Organisation-wide-design-as-systems-practice-2/</url>
-    <content><![CDATA[<p>永續進展的概念中，同時包含了至少經濟、社會、環境等不同面向。需要以社會團結經濟的思路進行合作，亦即與既有不同思想的組織合作，每個組織為團結合作，而非競爭關係，達成共同目標。</p>
-<p>這在合作的設計上，產生了許多挑戰。如果團結合作組織的形式是由上至下，或中心化的管理，則往往每辦法集合每個成員的經驗，以及適應複雜多變的各種意外。</p>
-<p>本篇為文章下篇，以上篇提到有關Soft Space、鷹架等概念的實踐方式、會遇到的問題，以及調整的方式。</p>
-<span id="more"></span>
-
-<blockquote>
-<p><img src="https://miro.medium.com/max/1400/1*cuYHslyXpimdxrm6tJmWFg.jpeg" alt="下篇"><br><a href="https://snowfly.nl/en/behaviour-data-contagion-spread-love/">(圖片來源)</a></p>
-</blockquote>
-<hr>
-<h2 id="文章資訊"><a href="#文章資訊" class="headerlink" title="文章資訊"></a>文章資訊</h2><p>作者: Kevin Richard， Senior Designer &amp; Strategist in the🇨🇭Banking industry. Critical/UX/Design/Systems/Complexity thinker, learner, practitioner.</p>
-<p>原文連結： <a href="https://uxdesign.cc/organisation-wide-design-as-systems-practice-9b2959cbb3b7">Organisation-wide design as systems practice</a></p>
-<p>上篇： <a href="/Organisation-wide-design-as-systems-practice-1">文章導讀：社會團結合作組織的設計思路（上篇）｜Organisation-wide design as systems practice</a></p>
-<blockquote>
-<p><a href="/Organisation-wide-design-as-systems-practice-1"><img src="https://miro.medium.com/max/1400/1*zMWxJhPu-v5zO-plmmcAdQ.jpeg" alt="上篇"></a></p>
-</blockquote>
-<hr>
-<h2 id="目錄"><a href="#目錄" class="headerlink" title="目錄"></a>目錄</h2><ul>
-<li><a href="">摘要</a></li>
-<li><a href="#%E6%96%87%E7%AB%A0%E8%B3%87%E8%A8%8A">文章資訊</a></li>
-<li><a href="#%E7%9B%AE%E9%8C%84">目錄</a></li>
-<li><a href="#%E5%9B%9E%E9%A1%A7">回顧</a></li>
-<li><a href="#5-%E2%80%9CDesign-excellence%E2%80%9D-as-a-distributed-network%EF%BC%8Cnot-a-centralised-point-of-reference">“Design excellence” as a distributed network, not a centralised point of reference</a><ul>
-<li><a href="#5-1-Building-a-local-and-contextual-shared-understanding">Building a local and contextual shared understanding</a></li>
-<li><a href="#5-2-Distributed-design%EF%BC%8Cownership%EF%BC%8Cand-responsibility%EF%BC%9Aa-better-ethical-framework-for-complex-and-interconnected-challenges-and-to-build-trust-and-autonomy-within-an-organisation">Distributed design, ownership, and responsibility: a better ethical framework for complex &amp; interconnected challenges and to build trust &amp; autonomy within an organisation.</a></li>
-<li><a href="#5-3-Soft-spaces-as-oscillations-in-the-system">Soft spaces as oscillations in the system</a></li>
-<li><a href="#5-4-Focus-on-practice-and-safe-to-fail-spaces-over-generic-certifications">Focus on practice &amp; safe-to-fail spaces over generic certifications</a></li>
-</ul>
-</li>
-<li><a href="#6">Approaching the organisation as islands and archipelagos</a></li>
-<li><a href="#%E7%B8%BD%E7%B5%90">總結</a></li>
-<li><a href="#%E6%B0%B8%E7%BA%8C%E6%89%80%E5%BE%97%E5%AF%A6%E9%A9%97%E5%AE%A4">永續所得實驗室介紹</a></li>
-<li><a href="#%E5%8F%83%E8%80%83%E8%B3%87%E6%96%99">參考資料</a></li>
-</ul>
-<hr>
-<h2 id="回顧"><a href="#回顧" class="headerlink" title="回顧"></a>回顧</h2><p>「Organisation-wide design as systems practice」文章前面我們所討論的</p>
-<p>Enterprise Design: building an ecosystem 一節，討論對於「人類的複雜適應系統 complex adaptive human systems」，裡面由於複雜性，已無法用線性思維去設計系統去設計，需要以設計生態系的方式，即系統思維去設計。</p>
-<p>Beyond organising people, designing ‘spaces’ for interactions 一節，討論了不去強制組織人該做什麼，而是設計Soft Space 去幫助人互動，去產生能應對更多可能性的系統。</p>
-<p>Soft Spaces and enabling constraints一節討論到從政策設計的「The Soft Spaces of Local Economic Development」文章中提取了Soft Space 的概念，並提到了Soft Space非正式互動的重要性，而另外又從「Managing complexity (and chaos) in times of crisis」擷取，介紹了不同的約束形式會產生了不同的效果。</p>
-<p>Scaffolding and attractors</p>
-<p>一節，則是介紹了鷹架的概念作為約束來設計Soft Space 的參考思路，每個部分依照原來部分去連貫延伸，但每個部位都是可以可拆解，或可以任其腐朽。並以Attractors 的概念，去說明會帶來許多可能性的結果。</p>
-<hr>
-<h2 id="5-“Design-excellence”-as-a-distributed-network，not-a-centralised-point-of-reference"><a href="#5-“Design-excellence”-as-a-distributed-network，not-a-centralised-point-of-reference" class="headerlink" title="5-“Design-excellence”-as-a-distributed-network，not-a-centralised-point-of-reference"></a>5-“Design-excellence”-as-a-distributed-network，not-a-centralised-point-of-reference</h2><p>這一節，介紹了我們在設計上入希望將組織視為「複雜的自適應系統時」，會面臨許多挑戰，例如無法明確確定義組織內組織外，另外由於裡面的每個個體，都可能與其他的網絡連結，對於任語意的理解、每個個體動機都不同，甚至會產生互相矛盾。<br>傳統的做法是通過少數個人，或小群體，來詮釋各種語言，並設定所謂「更高的目標」，試圖可以達成一致性。這個方式在傳統很好，但是在組織越來越複雜的狀況，逐漸失效。<br>在面對更複雜的環境中，這樣中心化的做法，會過早簡化答案，而難以應對在複雜的環境中會需要許多不同的潛在方案共存的情況。<br>這種過早收斂的方式，期待一種答案便可應對各種可能性，似乎有些像以前我們談過的在路燈下找鑰匙的心態，希望明燈下有答案，但往往事與願違。</p>
-<blockquote>
-<p><img src="https://miro.medium.com/max/1400/1*Lgdc-hmPpHeb9KsU19Y-yA.png" alt="Path Dependence Theory, critical judgement &amp; the reduction of options"><br><a href="https://www.wiwiss.fu-berlin.de/forschung/pfadkolleg/downloads/organizational_paths.pdf">(圖片來源)</a></p>
-</blockquote>
-<p>另外一個去體會到，為何說過早收斂或中心化的方式，在複雜的社會中越來越難有效果，如下圖，如果一個組織定義為像左邊的正式結構，然而在每個個體，都同時存在更大的環境社會當中，而也同時屬於像右邊另一個非正式網絡中的一部分。<br>這代表不同的語意理解，不同的動機，共存在複雜的社會中，是無法消除的。<br>如文章說到的，不是每個人都會以同樣的方式去意識到同樣的問題，正並非只是階級結構的問題，而是人同時處在正式結構與非正式結構間。<br>「“Not everyone has knowledge of or is aware of the same things, at the same time, in the same way.” This is not (necessarily) a matter of hierarchy: consider instead how formal and informal networks work and influence the flow of information. 」</p>
-<blockquote>
-<p><img src="https://miro.medium.com/max/1400/1*cuYHslyXpimdxrm6tJmWFg.jpeg" alt="Informal network and viral contagion"><br><a href="https://snowfly.nl/en/behaviour-data-contagion-spread-love/">(圖片來源)</a></p>
-</blockquote>
-<h3 id="成員討論"><a href="#成員討論" class="headerlink" title="成員討論"></a>成員討論</h3><ul>
-<li>分享：我想，這也是為何思維需要從團隊內學習擴大到團隊間學習，甚至大家可能沒有意識到的時候也部分這樣做了。<br>我們雖然看起來是在內部群討論，而很可能回家後在親朋好友之間或是去參加外面的社群活動，在各種非正式網絡中去分享我們的概念，以及聽到其他人的理解。最後又會把這些觀念帶回來。可以說已經無法用辦公室人數的方式去理解「嘉鼎智能團隊」是誰。<br>而團隊間的學習，在於互動頻率的高低，當在每個更大社會中的各種網絡中互動時，才能包容更大的社會，也包容了更大社會中的各種不確定性，而非每個個體的對立。<ul>
-<li>回應：在日常，很容易不知不覺就形成特定行為模式(思維)，而此行為模式(思維)也會慢慢擴大到周遭接觸者。最終同頻率者會更靠近，並且循環此模式。</li>
-<li>回應：非常贊同團隊間的學習, 我這些日子也跟不少人分享了我們團隊的團結經濟的學習, “好奇怪” “很特殊” “有意思” “被洗腦了” “有績效” “對人有幫助” 等等各式各樣的反應都有. 理念可以擴散或者擴增集智的起點在於人可以感受到自己獲得受益, 這個受益可大可小, 可直接可間接, 但重點不是具體受益內容, 重點是受益的事件帶給每個人的”感受”. 因每個人的感受千差萬別, 所以更需要我們常常去聆聽對方的感受, 感同身受之後我們才有機會調整自己的受益/改變的描述(但自己受益的事情本身沒有任何改變!) , 讓對方接受跟白團結經濟可以帶給他的好處, 從而他也才有機會親自去實踐, 然後擴大影響力. </li>
-<li>回應：複雜的社會中有著正式和非正式的結構，就像是在舉辦的公民議題活動時, 參加者也會變成分享者，舉辦活動的工作人員也彷彿有時會如同為參加者，在不同的處境有著不同的變化。</li>
-</ul>
-</li>
-</ul>
-<hr>
-<h2 id="5-1-Building-a-local-and-contextual-shared-understanding"><a href="#5-1-Building-a-local-and-contextual-shared-understanding" class="headerlink" title="5-1-Building-a-local-and-contextual-shared-understanding"></a>5-1-Building-a-local-and-contextual-shared-understanding</h2><p>前面介紹了非正式網絡會對系統造成的影響，以及各種包含Soft Space、約束、鷹架、吸引子等的概念。而這節開始思考實際上該如何使用這些概念。<br>而前面已經提到了，我們不太可能定義一個明確的網路邊界，以及由中心化的強求一致性的風險。而這一段落強調了連貫性，以及降低實踐的門檻。</p>
-<p>在不知某一個脈絡而行動的情況，風險是做的事會與這個脈絡不一致。<br>然而，因為想要完全弄清某個脈絡，而不採取行動，則可能會損失一個脈絡可能帶來的更多可能性。（並且前面提到的，所謂認清脈絡，往往只是一小群人的意思，而會被小群人給限制。）<br>文章的建議是，採取行動重要於要弄清楚某些脈絡，長期來看可以產生更多的未來性。</p>
-<p>不過要注意到的，文章提到的行動，也並非任意行動，群體的「coherence連貫性」是個重點（如同之前提到的鷹架類似，是在原來群體的基礎上去延伸。）。<br>而重要的是群體能共同的行動，才能產生集智共創的效果。</p>
-<p>這意味著將某個小部分中心的脈絡，延伸到全部的地方，對決策並無太大幫助。（可以想想每個個體都處在不同非正式網絡。）<br>而我們需要的是，讓脈絡或知識可以幫助在每個局域性的範圍都能採取行動，但又能讓整體保持連貫性。<br>「As explained earlier, certain things make sense only to a certain point in the system and generalising this understanding (to other points in the system) won’t necessarily help make good decisions. This means we need to create knowledge and “bias toward action” (intrinsic motivation) at a local level while keeping an overall coherency.」</p>
-<h3 id="成員討論-1"><a href="#成員討論-1" class="headerlink" title="成員討論"></a>成員討論</h3><ul>
-<li>分享：確實如此, 我們在保持連貫性的背景下, 如果可以讓語意或知識推動環境裡面的人/組織去行動, 這樣對環境和這個環境相關的人事物就能夠起到正面的作用。</li>
-<li>分享：這可以讓我們思考ACIS幫助人的策略，由於裡面許多脈絡可能存在於我們內部。<br>我們可以創造一些可以簡單幫助社群動作的知識，但又需確認每位成員的動作是有連貫性的，最終內外社群一同去創立對系統的共同認知，以及共創成果。意味著避免Hard Space（全部由上至下，或中心化的定義脈絡，強加所有群體去理解才行動。），而也避免No Space（每個個體完全依照個人的意識行動，而沒有連貫性。）<br>「Building a local and contextual shared understanding」的方法，便在於建造局域性都能產生連貫動作的知識，而整體形成集體意識。（這一段應該可以幫助了解鷹架的概念，應該如何使用在集智上面）</li>
-<li>分享：從ACIS 來看的確有著共同的脈絡成長著，雖然只是在內部的少數人一同發展，但其中可以連結的人心智能卻是比內部人的好幾百倍或萬倍。</li>
-</ul>
-<hr>
-<h2 id="5-2-Distributed-design，ownership，and-responsibility：a-better-ethical-framework-for-complex-and-interconnected-challenges-and-to-build-trust-and-autonomy-within-an-organisation"><a href="#5-2-Distributed-design，ownership，and-responsibility：a-better-ethical-framework-for-complex-and-interconnected-challenges-and-to-build-trust-and-autonomy-within-an-organisation" class="headerlink" title="5-2-Distributed-design，ownership，and-responsibility：a-better-ethical-framework-for-complex-and-interconnected-challenges-and-to-build-trust-and-autonomy-within-an-organisation"></a>5-2-Distributed-design，ownership，and-responsibility：a-better-ethical-framework-for-complex-and-interconnected-challenges-and-to-build-trust-and-autonomy-within-an-organisation</h2><p>這一段介紹了以建立分散式的自主權，以及責任，是個更能適應複雜性及相互關聯的挑戰更好的框架，可以在組織中建立信任及自主權。<br>而整段在於介紹自主權如何幫助整個群體能產生更多的可能性，而責任則是一種輕約束，在於幫助整體有連貫性。</p>
-<p>建立一個隨時間演變的「感知網絡」，允許每個局部快速感知及反應各種挑戰。<br>讓每個局域的個體都具有自主權，根據個體的經驗去定義什麼是共同想看到的（“好”），以及什麼是不想看到的（“不好“）。此外，尚須讓每個局域都負起責任，去觀察是否整體有朝著正確（共同）的方向前進。<br>透過這個方法，各種脈絡的解釋責任放在每個局部，而非少數個人手中，而每個局域的個體同時可能屬於不同的非正式網絡，能夠用他們的經驗去更好地應對挑戰。<br>透過觀察網絡的連貫性的責任，建立Soft Space 去讓每個不同的局域，依然形成集智。</p>
-<p>這一段引用了另一篇文章的一張圖，「<a href="https://explorer.designcriticalthinking.com/">The Explorer’s Guide</a>」去描述「感知網絡」的島嶼形象。<br>並非組織中每個人都能知道或用同樣的方式理解同一件事。這並非完全是因為階級制，而是因為正式網絡及非正式網絡的信息互動，<br>就像一個島嶼的每個部位，其實都處於更大的背景中。<br>「Not everyone in an organization has knowledge of or is aware of the same things, at the same time, in the same way. This is not (necessarily) a matter of hierarchy: consider instead how formal and informal networks work and influence the flow of information.<br>Like an island might possess beaches, forests, rivers, mountains, abrupt cliffs, (etc.) organisations’ complexity, activities, and processes are both informed by the larger context of the organisation itself as well as the local specificities that people are facing.」</p>
-<blockquote>
-<p><img src="https://miro.medium.com/max/1400/1*HbCWY7QLfYTpa_mhUayosA.png"><br><a href="https://explorer.designcriticalthinking.com/chapters/energy-sensors-triangulation">圖片來源</a></p>
-</blockquote>
-<p>「<a href="https://explorer.designcriticalthinking.com/">The Explorer’s Guide</a>」一文與本文，應該是同一位作者（Kevin Richard ）。<br>在開頭邀請大家作為探索者，而非單純的問題解決者。<br>「An invitation to be explorers, not just problem-solvers」<br>對應我們的話來說，應該就是Zoom-Out，探索、觀察了解整個系統，而去意識到任何系統都可能只是更高維度的一小部分。</p>
-<hr>
-<h2 id="5-3-Soft-spaces-as-oscillations-in-the-system"><a href="#5-3-Soft-spaces-as-oscillations-in-the-system" class="headerlink" title="5-3-Soft-spaces-as-oscillations-in-the-system"></a>5-3-Soft-spaces-as-oscillations-in-the-system</h2><p>這段討論了正式網絡以及非正式網絡中的信息流，會相互影響，而信息流相當於能量在一個系統中流動，相當於一個振盪系統。（能量在動能及位能在不同部位中流動。）<br>以正式及非正式的方式收集，以及對待信息，會產生不同的產出消長，以及影響對脈絡理解的廣度及尺度。<br>Soft Space 的概念，很好的提供非正式信息流的存在，為系統創造更多可能，但在使用Soft Space的概念時，在實務上需要搭配正式的方法流程去設計。</p>
-<p>以收集信息為例，如同非正式的信息收集，有些像訪談，可以聽到大量信息，上下文脈絡可以有許多混合，透過故事形成每個段落的連貫性。缺點是，在處理信息上，可能形成許多雜訊。<br>而定向的收集信息方式，如同調查問卷，則提供了嚴格的框架來收集形式化的信息。</p>
-<p>而「distributing design」，可視為去連結各種正式與非正式網絡的各種互動。</p>
-<p>而在什麼範圍該利用正式或非正式的方法，這段落提供了三個概念。<br>Synchronicity（同步性）<br>適合每個局域性的部位，讓每個部位都有連貫。然而這也是能源密集型的，難以長久維持。<br>亦即前面提到的，讓每個局域部分有自主性，然而卻要避免最後讓這個局域形成中心化。<br>Asynchronicity（異步性）<br>允許具有延遲性、間接，但是自發的反饋。這樣的方式比較不消耗能量，但也比較沒辦法去針對具體情況。<br>Availability (perceived instantaneity) （可用性/瞬時的感知）<br>當異步性越多時，反饋機制往往響應更延遲，而我們在可用的需求下，會需要更瞬時的感知能力。<br>而Soft Space 的運用，則在三個概念中振盪。</p>
-<p>這一段的介紹，大多來自「<a href="https://explorer.designcriticalthinking.com/chapters/energy-sensors-triangulation">The Explorer’s Guide</a> 中的 Energy, Sensors, and Triangulation 一段」<br>而三種概念在不同的時間點及狀態下，都有其需要的地方。</p>
-<p>「All are needed at some point. Time and speed variations are important elements and patterns of synchronicity, asynchronicity, and availability are interesting ways to capture, process, and triangulate information from the network, by the network.」</p>
-<blockquote>
-<p><img src="https://2970742203-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-MT6UxeiaGaUpHnD5fGe%2F-Mf8peEIiijaopzX0QXS%2F-Mf8qD8AQX649YiDZ_td%2F1_XLprvjKt4i_kLP3y-MZAjg.png?alt=media&token=1cbbafd5-2936-49fe-bf7b-831494cee0a2"><br><a href="https://explorer.designcriticalthinking.com/chapters/energy-sensors-triangulation">圖片來源</a></p>
-</blockquote>
-<hr>
-<h2 id="5-4-Focus-on-practice-and-safe-to-fail-spaces-over-generic-certifications"><a href="#5-4-Focus-on-practice-and-safe-to-fail-spaces-over-generic-certifications" class="headerlink" title="5-4-Focus-on-practice-and-safe-to-fail-spaces-over-generic-certifications"></a>5-4-Focus-on-practice-and-safe-to-fail-spaces-over-generic-certifications</h2><p>這段提到了，專注於實踐，以及設計可以安全試錯的空間，而非設計通用的認證。<br>這段比較哲學，遵照「<a href="https://en.wikipedia.org/wiki/Contextualism">Contextualism</a>」脈絡主義的思想，認為各種脈絡是相對於每個動作、話語、表達而理解。</p>
-<p>而設計通用認證的方式，會產生許多限制，因為希望把希望把事物簡化成「基礎知識」，試圖快速生產「營運勞動力」及可操作性，然而卻忘了達到可操作可能需要許多必要且不可少掉的經驗累積，而不能只當作是學習成本。<br>然而，經驗又是相對於某個脈絡的，如果過於依賴經驗，則會對其產生的效果又產生過度想像。<br>而Soft Space 的概念則是提供學習及安全試錯的土壤。<br>最後用軍事概念的類比：小型機組人員、實地訓練、重複動作、情境啟發法等，以建立信任、信心、能力，並接近團體和個人的實踐學習。</p>
-<p>而這一段其中我會注意到的，經驗不可缺，但需要知道經驗只在某個脈絡上有用，在不同狀況下又無意義了。<br>整段可以回想起之前的一句話「緣起性空」，「諸法因緣生，諸法因緣滅」，經驗也是如此。</p>
-<p>網路上看到一段描述「<a href="http://www.thomehfang.com/kumarajiva2/lifeC.html">脈絡主義的生命哲學</a>」，沒找到原文，所以文章排版有些亂，但可以參考。<br>裡面提到脈絡主義的「變異哲學」，像是我們文章這一段提到的，許多傳統哲學希望把事物簡化或線性化，希望可以找到簡單原子的邏輯在各處通用。然而在複雜系統中，卻非如此。<br>『事素或情態不是歷歷分明的原子單位，而是種種趨勢的互攝相涵，備極複雜，經緯錯綜交織，形成大全整體，而又一一各具個性或特色。歷史、事事一網，物物一局，種種情態發生，千端萬緒，齊呈網狀結構，實一焦聚中心，總為其它歷史之諸特色所重重涉入，而原故不詳。脈路端緒構成經緯，經緯、脈路、脈絡等復互為相對。在某一脈絡情境中為脈路或細節者，在另一脈絡情境中其本身即一變而為脈絡矣。』</p>
-<p>看起來「經驗」的需要，就像「世間法」的需要，然而最後又需要看透其空性，Zoom out 「出世間」<br>而同維基百科上講到的。</p>
-<p>『世間和出世間的區別並不是截然斷裂，實際上佛教常說「出世間不離世間」、「煩惱即菩提」，甚至主張應該瞭解世間法，以此導向出世間。』</p>
-<h3 id="成員討論-2"><a href="#成員討論-2" class="headerlink" title="成員討論"></a>成員討論</h3><ul>
-<li>分享：贊同, 煩惱即菩提, 所有的發生都是突破自己, 讓自己變得更好的機會!</li>
-</ul>
-<hr>
-<h2 id="6-Approaching-the-organisation-as-islands-and-archipelagos"><a href="#6-Approaching-the-organisation-as-islands-and-archipelagos" class="headerlink" title="6-Approaching-the-organisation-as-islands-and-archipelagos"></a>6-Approaching-the-organisation-as-islands-and-archipelagos</h2><p>文章的最後一節，以島嶼及群島的形象去思考一個組織。<br>每個島嶼都包含複雜的生態系，我們從地平線接觸到一個島嶼時，無法了解其多大，而降落在其岸邊，也很難知道自己在哪。如同脈絡的複雜程度，大小，以及我們接觸到一個脈絡的角度也不容易知道。<br>然而卻會發現，島嶼上的人、生態系統、基礎設施、地形、當地天氣系統等等，都是相互關聯。<br>最後看到不同島嶼形成的群島，每個島嶼都是獨立的，非常不同的，但鄰近的島嶼卻都會有相關性。</p>
-<p>這一段提到島嶼的複雜性，以及相鄰的關係，主要是說到關注「相鄰可能」、「間接目標」，亦即是專注於現在、這裏可以做什麼？<br>在局域怎麼幫助到人。<br>「Adjacent possibles and aiming at indirect goals: What can be done here and now, that benefits people at a local level?」</p>
-<p>「相鄰可能 Adjacent possibles」是生物學家Stuart Kauffman提出，他發現生物的演化是一種漸進的過程，都是由許多「相鄰可能」所逐漸累積而成。<br>『相鄰可能的含義有二。<br>其一，生物的演化必然是發生在相鄰可能範圍之內。例如，原始細胞可能會演化成高等一些的細胞，但不會在一夜之間演化出人類。<br>其二，生物每一次演變都會打開新的相鄰可能。例如，原始細胞演化成高等一些的細胞後，又能再演化出更高等更多功能的細胞，慢慢的只要給予足夠長的時間，比如說幾十億年，就可能會演化成各種動物，包括人類。』（引自此處）<br>而這概念也被延伸到創新領域，以及複雜系統。<br>而與文章討論的鷹架的概念，相互呼應。亦即，專注於每個局域已有的部分去做延伸，而非想著要將一個中心概念同時可以套用在所有地方。<br>而如此鷹架形成的架構，才可能具有彈性，並組成更多可能性的系統。</p>
-<hr>
-<h2 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h2><p>回顧整個文章，「Organisation-wide design as systems practice」，專注於創造生態系，讓組織產生更多可能性，以及排除掉過硬，中心化的設計思路，我們這裡整理一下整個概念。</p>
-<ol>
-<li><p>為什麼是必須的？<br>符合現代組織是個複雜自適應系統，裡面的成員同時處在正式網絡（組織內），以及非正式網絡中。計劃一個明確未來的方式，而上至下的設計方式，已無法應對多變的社會，並且逐漸失效。</p>
-</li>
-<li><p>怎麼做？<br>文章以「軟空間」及「鷹架」的概念貫穿全文。<br>「軟空間」的概念，幫助組織設計時，不被限制住。然而依然需要有約束才能站在已有的基礎去延伸，「鷹架」的概念便成為可以保有軟空間特性的約束方式。<br>「鷹架」的概念，每一段可能會有不同體會，而這邊整理了下包含了幾個點。</p>
-</li>
-</ol>
-<ul>
-<li>需要在原有的系統上面去延伸。</li>
-<li>每個延伸，都是考慮局域性的，每個局域有連接的方式，而不需將一個點的方式生硬用在所有系統上，透過「相近可能」去演化延伸。<br>鷹架的每一部分的生鏽腐壞、或拆掉，都不影響整體系統。</li>
-<li>「鷹架」的概念，也被用在脈絡上，由每個點去理解脈絡，重在建立局域的互動，以及每個周圍點的連貫性，而非整體硬化的一致。</li>
-</ul>
-<hr>
-<h2 id="永續所得實驗室"><a href="#永續所得實驗室" class="headerlink" title="永續所得實驗室"></a>永續所得實驗室</h2><p>「永續所得實驗室」是由「嘉鼎智能團隊」，呼應社會團結經濟浪潮而成立，主要在協助個體、或組織，運用國際股市連結全球社會經濟的人心智能，增強本身經濟實力；並在過程中融合永續進展的理念，追求經濟、社會、環境各方面的均衡進步發展，尤其經濟上要符合（經世濟民）道理。</p>
-<h3 id="加入團隊"><a href="#加入團隊" class="headerlink" title="加入團隊"></a>加入團隊</h3><p><a href="https://www.104.com.tw/company/10zcirfc">104 (嘉鼎智能｜永續所得實驗室)</a></p>
-<h3 id="社群媒體"><a href="#社群媒體" class="headerlink" title="社群媒體"></a>社群媒體</h3><p>歡迎加入我們的LINE社群一同推廣永續所得倡議</p>
-<blockquote>
-<p>👉 &emsp; <a href="https://line.me/ti/g2/Yn9r9XlbjJjhjppxjyzmbQ"> 永續所得實驗室 LINE 社群</a></p>
-<p>👉 &emsp; <a href="https://www.facebook.com/sustainable.income.lab"> 永續所得實驗室 FB</a></p>
-</blockquote>
-<hr>
-<h2 id="參考資料"><a href="#參考資料" class="headerlink" title="參考資料"></a>參考資料</h2><ul>
-<li><a href="https://explorer.designcriticalthinking.com/">The Explorer’s Guide</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Contextualism">Contextualism</a></li>
-<li><a href="http://www.thomehfang.com/kumarajiva2/lifeC.html">脈絡主義的生命哲學</a></li>
-</ul>
-<p>上篇： <a href="/Organisation-wide-design-as-systems-practice-1">文章導讀：社會團結合作組織的設計思路（上篇）｜Organisation-wide design as systems practice</a></p>
-<blockquote>
-<p><a href="/Organisation-wide-design-as-systems-practice-1"><img src="https://miro.medium.com/max/1400/1*zMWxJhPu-v5zO-plmmcAdQ.jpeg" alt="上篇"></a></p>
-</blockquote>
-]]></content>
-      <tags>
-        <tag>社會團結經濟</tag>
-        <tag>合作</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>文章導讀：社會團結合作組織的設計思路（上篇）｜Organisation-wide design as systems practice</title>
     <url>/Organisation-wide-design-as-systems-practice-1/</url>
     <content><![CDATA[<p>永續進展的概念中，同時包含了至少經濟、社會、環境等不同面向。需要以社會團結經濟的思路進行合作，亦即與既有不同思想的組織合作，每個組織為團結合作，而非競爭關係，達成共同目標。</p>
@@ -935,6 +796,145 @@
 <li><a href="https://library.designcriticalthinking.com/library/books/field-guide-managing-complexity-and-chaos-in-times-of-crisis">Managing complexity (and chaos) in times of crisis</a></li>
 <li><a href="https://eand.co/were-living-through-the-collapse-of-liberal-democracy-ea12a875b9a5">We’re Living Through the Collapse of Liberal Democracy</a></li>
 </ul>
+]]></content>
+      <tags>
+        <tag>社會團結經濟</tag>
+        <tag>合作</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>文章導讀：社會團結合作組織的設計思路（下篇）｜Organisation-wide design as systems practice</title>
+    <url>/Organisation-wide-design-as-systems-practice-2/</url>
+    <content><![CDATA[<p>永續進展的概念中，同時包含了至少經濟、社會、環境等不同面向。需要以社會團結經濟的思路進行合作，亦即與既有不同思想的組織合作，每個組織為團結合作，而非競爭關係，達成共同目標。</p>
+<p>這在合作的設計上，產生了許多挑戰。如果團結合作組織的形式是由上至下，或中心化的管理，則往往每辦法集合每個成員的經驗，以及適應複雜多變的各種意外。</p>
+<p>本篇為文章下篇，以上篇提到有關Soft Space、鷹架等概念的實踐方式、會遇到的問題，以及調整的方式。</p>
+<span id="more"></span>
+
+<blockquote>
+<p><img src="https://miro.medium.com/max/1400/1*cuYHslyXpimdxrm6tJmWFg.jpeg" alt="下篇"><br><a href="https://snowfly.nl/en/behaviour-data-contagion-spread-love/">(圖片來源)</a></p>
+</blockquote>
+<hr>
+<h2 id="文章資訊"><a href="#文章資訊" class="headerlink" title="文章資訊"></a>文章資訊</h2><p>作者: Kevin Richard， Senior Designer &amp; Strategist in the🇨🇭Banking industry. Critical/UX/Design/Systems/Complexity thinker, learner, practitioner.</p>
+<p>原文連結： <a href="https://uxdesign.cc/organisation-wide-design-as-systems-practice-9b2959cbb3b7">Organisation-wide design as systems practice</a></p>
+<p>上篇： <a href="/Organisation-wide-design-as-systems-practice-1">文章導讀：社會團結合作組織的設計思路（上篇）｜Organisation-wide design as systems practice</a></p>
+<blockquote>
+<p><a href="/Organisation-wide-design-as-systems-practice-1"><img src="https://miro.medium.com/max/1400/1*zMWxJhPu-v5zO-plmmcAdQ.jpeg" alt="上篇"></a></p>
+</blockquote>
+<hr>
+<h2 id="目錄"><a href="#目錄" class="headerlink" title="目錄"></a>目錄</h2><ul>
+<li><a href="">摘要</a></li>
+<li><a href="#%E6%96%87%E7%AB%A0%E8%B3%87%E8%A8%8A">文章資訊</a></li>
+<li><a href="#%E7%9B%AE%E9%8C%84">目錄</a></li>
+<li><a href="#%E5%9B%9E%E9%A1%A7">回顧</a></li>
+<li><a href="#5-%E2%80%9CDesign-excellence%E2%80%9D-as-a-distributed-network%EF%BC%8Cnot-a-centralised-point-of-reference">“Design excellence” as a distributed network, not a centralised point of reference</a><ul>
+<li><a href="#5-1-Building-a-local-and-contextual-shared-understanding">Building a local and contextual shared understanding</a></li>
+<li><a href="#5-2-Distributed-design%EF%BC%8Cownership%EF%BC%8Cand-responsibility%EF%BC%9Aa-better-ethical-framework-for-complex-and-interconnected-challenges-and-to-build-trust-and-autonomy-within-an-organisation">Distributed design, ownership, and responsibility: a better ethical framework for complex &amp; interconnected challenges and to build trust &amp; autonomy within an organisation.</a></li>
+<li><a href="#5-3-Soft-spaces-as-oscillations-in-the-system">Soft spaces as oscillations in the system</a></li>
+<li><a href="#5-4-Focus-on-practice-and-safe-to-fail-spaces-over-generic-certifications">Focus on practice &amp; safe-to-fail spaces over generic certifications</a></li>
+</ul>
+</li>
+<li><a href="#6">Approaching the organisation as islands and archipelagos</a></li>
+<li><a href="#%E7%B8%BD%E7%B5%90">總結</a></li>
+<li><a href="#%E6%B0%B8%E7%BA%8C%E6%89%80%E5%BE%97%E5%AF%A6%E9%A9%97%E5%AE%A4">永續所得實驗室介紹</a></li>
+<li><a href="#%E5%8F%83%E8%80%83%E8%B3%87%E6%96%99">參考資料</a></li>
+</ul>
+<hr>
+<h2 id="回顧"><a href="#回顧" class="headerlink" title="回顧"></a>回顧</h2><p>「Organisation-wide design as systems practice」文章前面我們所討論的</p>
+<p>Enterprise Design: building an ecosystem 一節，討論對於「人類的複雜適應系統 complex adaptive human systems」，裡面由於複雜性，已無法用線性思維去設計系統去設計，需要以設計生態系的方式，即系統思維去設計。</p>
+<p>Beyond organising people, designing ‘spaces’ for interactions 一節，討論了不去強制組織人該做什麼，而是設計Soft Space 去幫助人互動，去產生能應對更多可能性的系統。</p>
+<p>Soft Spaces and enabling constraints一節討論到從政策設計的「The Soft Spaces of Local Economic Development」文章中提取了Soft Space 的概念，並提到了Soft Space非正式互動的重要性，而另外又從「Managing complexity (and chaos) in times of crisis」擷取，介紹了不同的約束形式會產生了不同的效果。</p>
+<p>Scaffolding and attractors</p>
+<p>一節，則是介紹了鷹架的概念作為約束來設計Soft Space 的參考思路，每個部分依照原來部分去連貫延伸，但每個部位都是可以可拆解，或可以任其腐朽。並以Attractors 的概念，去說明會帶來許多可能性的結果。</p>
+<hr>
+<h2 id="5-“Design-excellence”-as-a-distributed-network，not-a-centralised-point-of-reference"><a href="#5-“Design-excellence”-as-a-distributed-network，not-a-centralised-point-of-reference" class="headerlink" title="5-“Design-excellence”-as-a-distributed-network，not-a-centralised-point-of-reference"></a>5-“Design-excellence”-as-a-distributed-network，not-a-centralised-point-of-reference</h2><p>這一節，介紹了我們在設計上入希望將組織視為「複雜的自適應系統時」，會面臨許多挑戰，例如無法明確確定義組織內組織外，另外由於裡面的每個個體，都可能與其他的網絡連結，對於任語意的理解、每個個體動機都不同，甚至會產生互相矛盾。<br>傳統的做法是通過少數個人，或小群體，來詮釋各種語言，並設定所謂「更高的目標」，試圖可以達成一致性。這個方式在傳統很好，但是在組織越來越複雜的狀況，逐漸失效。<br>在面對更複雜的環境中，這樣中心化的做法，會過早簡化答案，而難以應對在複雜的環境中會需要許多不同的潛在方案共存的情況。<br>這種過早收斂的方式，期待一種答案便可應對各種可能性，似乎有些像以前我們談過的在路燈下找鑰匙的心態，希望明燈下有答案，但往往事與願違。</p>
+<blockquote>
+<p><img src="https://miro.medium.com/max/1400/1*Lgdc-hmPpHeb9KsU19Y-yA.png" alt="Path Dependence Theory, critical judgement &amp; the reduction of options"><br><a href="https://www.wiwiss.fu-berlin.de/forschung/pfadkolleg/downloads/organizational_paths.pdf">(圖片來源)</a></p>
+</blockquote>
+<p>另外一個去體會到，為何說過早收斂或中心化的方式，在複雜的社會中越來越難有效果，如下圖，如果一個組織定義為像左邊的正式結構，然而在每個個體，都同時存在更大的環境社會當中，而也同時屬於像右邊另一個非正式網絡中的一部分。<br>這代表不同的語意理解，不同的動機，共存在複雜的社會中，是無法消除的。<br>如文章說到的，不是每個人都會以同樣的方式去意識到同樣的問題，正並非只是階級結構的問題，而是人同時處在正式結構與非正式結構間。<br>「“Not everyone has knowledge of or is aware of the same things, at the same time, in the same way.” This is not (necessarily) a matter of hierarchy: consider instead how formal and informal networks work and influence the flow of information. 」</p>
+<blockquote>
+<p><img src="https://miro.medium.com/max/1400/1*cuYHslyXpimdxrm6tJmWFg.jpeg" alt="Informal network and viral contagion"><br><a href="https://snowfly.nl/en/behaviour-data-contagion-spread-love/">(圖片來源)</a></p>
+</blockquote>
+<h3 id="成員討論"><a href="#成員討論" class="headerlink" title="成員討論"></a>成員討論</h3><ul>
+<li>分享：我想，這也是為何思維需要從團隊內學習擴大到團隊間學習，甚至大家可能沒有意識到的時候也部分這樣做了。<br>我們雖然看起來是在內部群討論，而很可能回家後在親朋好友之間或是去參加外面的社群活動，在各種非正式網絡中去分享我們的概念，以及聽到其他人的理解。最後又會把這些觀念帶回來。可以說已經無法用辦公室人數的方式去理解「嘉鼎智能團隊」是誰。<br>而團隊間的學習，在於互動頻率的高低，當在每個更大社會中的各種網絡中互動時，才能包容更大的社會，也包容了更大社會中的各種不確定性，而非每個個體的對立。<ul>
+<li>回應：在日常，很容易不知不覺就形成特定行為模式(思維)，而此行為模式(思維)也會慢慢擴大到周遭接觸者。最終同頻率者會更靠近，並且循環此模式。</li>
+<li>回應：非常贊同團隊間的學習, 我這些日子也跟不少人分享了我們團隊的團結經濟的學習, “好奇怪” “很特殊” “有意思” “被洗腦了” “有績效” “對人有幫助” 等等各式各樣的反應都有. 理念可以擴散或者擴增集智的起點在於人可以感受到自己獲得受益, 這個受益可大可小, 可直接可間接, 但重點不是具體受益內容, 重點是受益的事件帶給每個人的”感受”. 因每個人的感受千差萬別, 所以更需要我們常常去聆聽對方的感受, 感同身受之後我們才有機會調整自己的受益/改變的描述(但自己受益的事情本身沒有任何改變!) , 讓對方接受跟白團結經濟可以帶給他的好處, 從而他也才有機會親自去實踐, 然後擴大影響力. </li>
+<li>回應：複雜的社會中有著正式和非正式的結構，就像是在舉辦的公民議題活動時, 參加者也會變成分享者，舉辦活動的工作人員也彷彿有時會如同為參加者，在不同的處境有著不同的變化。</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="5-1-Building-a-local-and-contextual-shared-understanding"><a href="#5-1-Building-a-local-and-contextual-shared-understanding" class="headerlink" title="5-1-Building-a-local-and-contextual-shared-understanding"></a>5-1-Building-a-local-and-contextual-shared-understanding</h2><p>前面介紹了非正式網絡會對系統造成的影響，以及各種包含Soft Space、約束、鷹架、吸引子等的概念。而這節開始思考實際上該如何使用這些概念。<br>而前面已經提到了，我們不太可能定義一個明確的網路邊界，以及由中心化的強求一致性的風險。而這一段落強調了連貫性，以及降低實踐的門檻。</p>
+<p>在不知某一個脈絡而行動的情況，風險是做的事會與這個脈絡不一致。<br>然而，因為想要完全弄清某個脈絡，而不採取行動，則可能會損失一個脈絡可能帶來的更多可能性。（並且前面提到的，所謂認清脈絡，往往只是一小群人的意思，而會被小群人給限制。）<br>文章的建議是，採取行動重要於要弄清楚某些脈絡，長期來看可以產生更多的未來性。</p>
+<p>不過要注意到的，文章提到的行動，也並非任意行動，群體的「coherence連貫性」是個重點（如同之前提到的鷹架類似，是在原來群體的基礎上去延伸。）。<br>而重要的是群體能共同的行動，才能產生集智共創的效果。</p>
+<p>這意味著將某個小部分中心的脈絡，延伸到全部的地方，對決策並無太大幫助。（可以想想每個個體都處在不同非正式網絡。）<br>而我們需要的是，讓脈絡或知識可以幫助在每個局域性的範圍都能採取行動，但又能讓整體保持連貫性。<br>「As explained earlier, certain things make sense only to a certain point in the system and generalising this understanding (to other points in the system) won’t necessarily help make good decisions. This means we need to create knowledge and “bias toward action” (intrinsic motivation) at a local level while keeping an overall coherency.」</p>
+<h3 id="成員討論-1"><a href="#成員討論-1" class="headerlink" title="成員討論"></a>成員討論</h3><ul>
+<li>分享：確實如此, 我們在保持連貫性的背景下, 如果可以讓語意或知識推動環境裡面的人/組織去行動, 這樣對環境和這個環境相關的人事物就能夠起到正面的作用。</li>
+<li>分享：這可以讓我們思考ACIS幫助人的策略，由於裡面許多脈絡可能存在於我們內部。<br>我們可以創造一些可以簡單幫助社群動作的知識，但又需確認每位成員的動作是有連貫性的，最終內外社群一同去創立對系統的共同認知，以及共創成果。意味著避免Hard Space（全部由上至下，或中心化的定義脈絡，強加所有群體去理解才行動。），而也避免No Space（每個個體完全依照個人的意識行動，而沒有連貫性。）<br>「Building a local and contextual shared understanding」的方法，便在於建造局域性都能產生連貫動作的知識，而整體形成集體意識。（這一段應該可以幫助了解鷹架的概念，應該如何使用在集智上面）</li>
+<li>分享：從ACIS 來看的確有著共同的脈絡成長著，雖然只是在內部的少數人一同發展，但其中可以連結的人心智能卻是比內部人的好幾百倍或萬倍。</li>
+</ul>
+<hr>
+<h2 id="5-2-Distributed-design，ownership，and-responsibility：a-better-ethical-framework-for-complex-and-interconnected-challenges-and-to-build-trust-and-autonomy-within-an-organisation"><a href="#5-2-Distributed-design，ownership，and-responsibility：a-better-ethical-framework-for-complex-and-interconnected-challenges-and-to-build-trust-and-autonomy-within-an-organisation" class="headerlink" title="5-2-Distributed-design，ownership，and-responsibility：a-better-ethical-framework-for-complex-and-interconnected-challenges-and-to-build-trust-and-autonomy-within-an-organisation"></a>5-2-Distributed-design，ownership，and-responsibility：a-better-ethical-framework-for-complex-and-interconnected-challenges-and-to-build-trust-and-autonomy-within-an-organisation</h2><p>這一段介紹了以建立分散式的自主權，以及責任，是個更能適應複雜性及相互關聯的挑戰更好的框架，可以在組織中建立信任及自主權。<br>而整段在於介紹自主權如何幫助整個群體能產生更多的可能性，而責任則是一種輕約束，在於幫助整體有連貫性。</p>
+<p>建立一個隨時間演變的「感知網絡」，允許每個局部快速感知及反應各種挑戰。<br>讓每個局域的個體都具有自主權，根據個體的經驗去定義什麼是共同想看到的（“好”），以及什麼是不想看到的（“不好“）。此外，尚須讓每個局域都負起責任，去觀察是否整體有朝著正確（共同）的方向前進。<br>透過這個方法，各種脈絡的解釋責任放在每個局部，而非少數個人手中，而每個局域的個體同時可能屬於不同的非正式網絡，能夠用他們的經驗去更好地應對挑戰。<br>透過觀察網絡的連貫性的責任，建立Soft Space 去讓每個不同的局域，依然形成集智。</p>
+<p>這一段引用了另一篇文章的一張圖，「<a href="https://explorer.designcriticalthinking.com/">The Explorer’s Guide</a>」去描述「感知網絡」的島嶼形象。<br>並非組織中每個人都能知道或用同樣的方式理解同一件事。這並非完全是因為階級制，而是因為正式網絡及非正式網絡的信息互動，<br>就像一個島嶼的每個部位，其實都處於更大的背景中。<br>「Not everyone in an organization has knowledge of or is aware of the same things, at the same time, in the same way. This is not (necessarily) a matter of hierarchy: consider instead how formal and informal networks work and influence the flow of information.<br>Like an island might possess beaches, forests, rivers, mountains, abrupt cliffs, (etc.) organisations’ complexity, activities, and processes are both informed by the larger context of the organisation itself as well as the local specificities that people are facing.」</p>
+<blockquote>
+<p><img src="https://miro.medium.com/max/1400/1*HbCWY7QLfYTpa_mhUayosA.png"><br><a href="https://explorer.designcriticalthinking.com/chapters/energy-sensors-triangulation">圖片來源</a></p>
+</blockquote>
+<p>「<a href="https://explorer.designcriticalthinking.com/">The Explorer’s Guide</a>」一文與本文，應該是同一位作者（Kevin Richard ）。<br>在開頭邀請大家作為探索者，而非單純的問題解決者。<br>「An invitation to be explorers, not just problem-solvers」<br>對應我們的話來說，應該就是Zoom-Out，探索、觀察了解整個系統，而去意識到任何系統都可能只是更高維度的一小部分。</p>
+<hr>
+<h2 id="5-3-Soft-spaces-as-oscillations-in-the-system"><a href="#5-3-Soft-spaces-as-oscillations-in-the-system" class="headerlink" title="5-3-Soft-spaces-as-oscillations-in-the-system"></a>5-3-Soft-spaces-as-oscillations-in-the-system</h2><p>這段討論了正式網絡以及非正式網絡中的信息流，會相互影響，而信息流相當於能量在一個系統中流動，相當於一個振盪系統。（能量在動能及位能在不同部位中流動。）<br>以正式及非正式的方式收集，以及對待信息，會產生不同的產出消長，以及影響對脈絡理解的廣度及尺度。<br>Soft Space 的概念，很好的提供非正式信息流的存在，為系統創造更多可能，但在使用Soft Space的概念時，在實務上需要搭配正式的方法流程去設計。</p>
+<p>以收集信息為例，如同非正式的信息收集，有些像訪談，可以聽到大量信息，上下文脈絡可以有許多混合，透過故事形成每個段落的連貫性。缺點是，在處理信息上，可能形成許多雜訊。<br>而定向的收集信息方式，如同調查問卷，則提供了嚴格的框架來收集形式化的信息。</p>
+<p>而「distributing design」，可視為去連結各種正式與非正式網絡的各種互動。</p>
+<p>而在什麼範圍該利用正式或非正式的方法，這段落提供了三個概念。<br>Synchronicity（同步性）<br>適合每個局域性的部位，讓每個部位都有連貫。然而這也是能源密集型的，難以長久維持。<br>亦即前面提到的，讓每個局域部分有自主性，然而卻要避免最後讓這個局域形成中心化。<br>Asynchronicity（異步性）<br>允許具有延遲性、間接，但是自發的反饋。這樣的方式比較不消耗能量，但也比較沒辦法去針對具體情況。<br>Availability (perceived instantaneity) （可用性/瞬時的感知）<br>當異步性越多時，反饋機制往往響應更延遲，而我們在可用的需求下，會需要更瞬時的感知能力。<br>而Soft Space 的運用，則在三個概念中振盪。</p>
+<p>這一段的介紹，大多來自「<a href="https://explorer.designcriticalthinking.com/chapters/energy-sensors-triangulation">The Explorer’s Guide</a> 中的 Energy, Sensors, and Triangulation 一段」<br>而三種概念在不同的時間點及狀態下，都有其需要的地方。</p>
+<p>「All are needed at some point. Time and speed variations are important elements and patterns of synchronicity, asynchronicity, and availability are interesting ways to capture, process, and triangulate information from the network, by the network.」</p>
+<blockquote>
+<p><img src="https://2970742203-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-MT6UxeiaGaUpHnD5fGe%2F-Mf8peEIiijaopzX0QXS%2F-Mf8qD8AQX649YiDZ_td%2F1_XLprvjKt4i_kLP3y-MZAjg.png?alt=media&token=1cbbafd5-2936-49fe-bf7b-831494cee0a2"><br><a href="https://explorer.designcriticalthinking.com/chapters/energy-sensors-triangulation">圖片來源</a></p>
+</blockquote>
+<hr>
+<h2 id="5-4-Focus-on-practice-and-safe-to-fail-spaces-over-generic-certifications"><a href="#5-4-Focus-on-practice-and-safe-to-fail-spaces-over-generic-certifications" class="headerlink" title="5-4-Focus-on-practice-and-safe-to-fail-spaces-over-generic-certifications"></a>5-4-Focus-on-practice-and-safe-to-fail-spaces-over-generic-certifications</h2><p>這段提到了，專注於實踐，以及設計可以安全試錯的空間，而非設計通用的認證。<br>這段比較哲學，遵照「<a href="https://en.wikipedia.org/wiki/Contextualism">Contextualism</a>」脈絡主義的思想，認為各種脈絡是相對於每個動作、話語、表達而理解。</p>
+<p>而設計通用認證的方式，會產生許多限制，因為希望把希望把事物簡化成「基礎知識」，試圖快速生產「營運勞動力」及可操作性，然而卻忘了達到可操作可能需要許多必要且不可少掉的經驗累積，而不能只當作是學習成本。<br>然而，經驗又是相對於某個脈絡的，如果過於依賴經驗，則會對其產生的效果又產生過度想像。<br>而Soft Space 的概念則是提供學習及安全試錯的土壤。<br>最後用軍事概念的類比：小型機組人員、實地訓練、重複動作、情境啟發法等，以建立信任、信心、能力，並接近團體和個人的實踐學習。</p>
+<p>而這一段其中我會注意到的，經驗不可缺，但需要知道經驗只在某個脈絡上有用，在不同狀況下又無意義了。<br>整段可以回想起之前的一句話「緣起性空」，「諸法因緣生，諸法因緣滅」，經驗也是如此。</p>
+<p>網路上看到一段描述「<a href="http://www.thomehfang.com/kumarajiva2/lifeC.html">脈絡主義的生命哲學</a>」，沒找到原文，所以文章排版有些亂，但可以參考。<br>裡面提到脈絡主義的「變異哲學」，像是我們文章這一段提到的，許多傳統哲學希望把事物簡化或線性化，希望可以找到簡單原子的邏輯在各處通用。然而在複雜系統中，卻非如此。<br>『事素或情態不是歷歷分明的原子單位，而是種種趨勢的互攝相涵，備極複雜，經緯錯綜交織，形成大全整體，而又一一各具個性或特色。歷史、事事一網，物物一局，種種情態發生，千端萬緒，齊呈網狀結構，實一焦聚中心，總為其它歷史之諸特色所重重涉入，而原故不詳。脈路端緒構成經緯，經緯、脈路、脈絡等復互為相對。在某一脈絡情境中為脈路或細節者，在另一脈絡情境中其本身即一變而為脈絡矣。』</p>
+<p>看起來「經驗」的需要，就像「世間法」的需要，然而最後又需要看透其空性，Zoom out 「出世間」<br>而同維基百科上講到的。</p>
+<p>『世間和出世間的區別並不是截然斷裂，實際上佛教常說「出世間不離世間」、「煩惱即菩提」，甚至主張應該瞭解世間法，以此導向出世間。』</p>
+<h3 id="成員討論-2"><a href="#成員討論-2" class="headerlink" title="成員討論"></a>成員討論</h3><ul>
+<li>分享：贊同, 煩惱即菩提, 所有的發生都是突破自己, 讓自己變得更好的機會!</li>
+</ul>
+<hr>
+<h2 id="6-Approaching-the-organisation-as-islands-and-archipelagos"><a href="#6-Approaching-the-organisation-as-islands-and-archipelagos" class="headerlink" title="6-Approaching-the-organisation-as-islands-and-archipelagos"></a>6-Approaching-the-organisation-as-islands-and-archipelagos</h2><p>文章的最後一節，以島嶼及群島的形象去思考一個組織。<br>每個島嶼都包含複雜的生態系，我們從地平線接觸到一個島嶼時，無法了解其多大，而降落在其岸邊，也很難知道自己在哪。如同脈絡的複雜程度，大小，以及我們接觸到一個脈絡的角度也不容易知道。<br>然而卻會發現，島嶼上的人、生態系統、基礎設施、地形、當地天氣系統等等，都是相互關聯。<br>最後看到不同島嶼形成的群島，每個島嶼都是獨立的，非常不同的，但鄰近的島嶼卻都會有相關性。</p>
+<p>這一段提到島嶼的複雜性，以及相鄰的關係，主要是說到關注「相鄰可能」、「間接目標」，亦即是專注於現在、這裏可以做什麼？<br>在局域怎麼幫助到人。<br>「Adjacent possibles and aiming at indirect goals: What can be done here and now, that benefits people at a local level?」</p>
+<p>「相鄰可能 Adjacent possibles」是生物學家Stuart Kauffman提出，他發現生物的演化是一種漸進的過程，都是由許多「相鄰可能」所逐漸累積而成。<br>『相鄰可能的含義有二。<br>其一，生物的演化必然是發生在相鄰可能範圍之內。例如，原始細胞可能會演化成高等一些的細胞，但不會在一夜之間演化出人類。<br>其二，生物每一次演變都會打開新的相鄰可能。例如，原始細胞演化成高等一些的細胞後，又能再演化出更高等更多功能的細胞，慢慢的只要給予足夠長的時間，比如說幾十億年，就可能會演化成各種動物，包括人類。』（引自此處）<br>而這概念也被延伸到創新領域，以及複雜系統。<br>而與文章討論的鷹架的概念，相互呼應。亦即，專注於每個局域已有的部分去做延伸，而非想著要將一個中心概念同時可以套用在所有地方。<br>而如此鷹架形成的架構，才可能具有彈性，並組成更多可能性的系統。</p>
+<hr>
+<h2 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h2><p>回顧整個文章，「Organisation-wide design as systems practice」，專注於創造生態系，讓組織產生更多可能性，以及排除掉過硬，中心化的設計思路，我們這裡整理一下整個概念。</p>
+<ol>
+<li><p>為什麼是必須的？<br>符合現代組織是個複雜自適應系統，裡面的成員同時處在正式網絡（組織內），以及非正式網絡中。計劃一個明確未來的方式，而上至下的設計方式，已無法應對多變的社會，並且逐漸失效。</p>
+</li>
+<li><p>怎麼做？<br>文章以「軟空間」及「鷹架」的概念貫穿全文。<br>「軟空間」的概念，幫助組織設計時，不被限制住。然而依然需要有約束才能站在已有的基礎去延伸，「鷹架」的概念便成為可以保有軟空間特性的約束方式。<br>「鷹架」的概念，每一段可能會有不同體會，而這邊整理了下包含了幾個點。</p>
+</li>
+</ol>
+<ul>
+<li>需要在原有的系統上面去延伸。</li>
+<li>每個延伸，都是考慮局域性的，每個局域有連接的方式，而不需將一個點的方式生硬用在所有系統上，透過「相近可能」去演化延伸。<br>鷹架的每一部分的生鏽腐壞、或拆掉，都不影響整體系統。</li>
+<li>「鷹架」的概念，也被用在脈絡上，由每個點去理解脈絡，重在建立局域的互動，以及每個周圍點的連貫性，而非整體硬化的一致。</li>
+</ul>
+<hr>
+<h2 id="永續所得實驗室"><a href="#永續所得實驗室" class="headerlink" title="永續所得實驗室"></a>永續所得實驗室</h2><p>「永續所得實驗室」是由「嘉鼎智能團隊」，呼應社會團結經濟浪潮而成立，主要在協助個體、或組織，運用國際股市連結全球社會經濟的人心智能，增強本身經濟實力；並在過程中融合永續進展的理念，追求經濟、社會、環境各方面的均衡進步發展，尤其經濟上要符合（經世濟民）道理。</p>
+<h3 id="加入團隊"><a href="#加入團隊" class="headerlink" title="加入團隊"></a>加入團隊</h3><p><a href="https://www.104.com.tw/company/10zcirfc">104 (嘉鼎智能｜永續所得實驗室)</a></p>
+<h3 id="社群媒體"><a href="#社群媒體" class="headerlink" title="社群媒體"></a>社群媒體</h3><p>歡迎加入我們的LINE社群一同推廣永續所得倡議</p>
+<blockquote>
+<p>👉 &emsp; <a href="https://line.me/ti/g2/Yn9r9XlbjJjhjppxjyzmbQ"> 永續所得實驗室 LINE 社群</a></p>
+<p>👉 &emsp; <a href="https://www.facebook.com/sustainable.income.lab"> 永續所得實驗室 FB</a></p>
+</blockquote>
+<hr>
+<h2 id="參考資料"><a href="#參考資料" class="headerlink" title="參考資料"></a>參考資料</h2><ul>
+<li><a href="https://explorer.designcriticalthinking.com/">The Explorer’s Guide</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Contextualism">Contextualism</a></li>
+<li><a href="http://www.thomehfang.com/kumarajiva2/lifeC.html">脈絡主義的生命哲學</a></li>
+</ul>
+<p>上篇： <a href="/Organisation-wide-design-as-systems-practice-1">文章導讀：社會團結合作組織的設計思路（上篇）｜Organisation-wide design as systems practice</a></p>
+<blockquote>
+<p><a href="/Organisation-wide-design-as-systems-practice-1"><img src="https://miro.medium.com/max/1400/1*zMWxJhPu-v5zO-plmmcAdQ.jpeg" alt="上篇"></a></p>
+</blockquote>
 ]]></content>
       <tags>
         <tag>社會團結經濟</tag>
@@ -1386,6 +1386,221 @@
 </li>
 <li>Notes（194）</li>
 <li>Index（241）</li>
+</ul>
+<hr>
+<h2 id="115B實驗室"><a href="#115B實驗室" class="headerlink" title="115B實驗室"></a>115B實驗室</h2><p>「115B實驗室」是由「嘉鼎智能團隊」，呼應社會團結經濟浪潮而成立，創立之初，以台北松山區的敦化南路1段1號5樓B室為起點，故以115B為紀念。</p>
+<p>主要在協助個體、或組織，運用國際股市連結全球社會經濟的人心智能，增強本身經濟實力；並在過程中融合永續進展的理念，追求經濟、社會、環境各方面的均衡進步發展，尤其經濟上要符合（經世濟民）道理。</p>
+<h3 id="加入團隊"><a href="#加入團隊" class="headerlink" title="加入團隊"></a>加入團隊</h3><p><a href="https://www.104.com.tw/company/10zcirfc">104 (嘉鼎智能｜115B實驗室)</a></p>
+<h3 id="社群媒體"><a href="#社群媒體" class="headerlink" title="社群媒體"></a>社群媒體</h3><p>歡迎加入我們的LINE社群一同推廣永續所得倡議</p>
+<blockquote>
+<p>👉 &emsp; <a href="(https://bit.ly/Slack115b"> 115B Slack 社群</a></p>
+<p>👉 &emsp; <a href="https://line.me/ti/g2/Yn9r9XlbjJjhjppxjyzmbQ"> 115B實驗室 LINE 社群</a></p>
+<p>👉 &emsp; <a href="https://www.facebook.com/sustainable.income.lab"> 115B實驗室 FB</a></p>
+</blockquote>
+]]></content>
+      <tags>
+        <tag>團結經濟學</tag>
+        <tag>團結經濟</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>團結與創新</title>
+    <url>/Solidarity-and-Innovation/</url>
+    <content><![CDATA[<blockquote>
+<p><img src="/img/Solidarity-and-Innovation/Solidarity-and-Innovation.png" alt="Solidarity-and-Innovation"></p>
+</blockquote>
+<blockquote>
+<p>【關於這篇文章】<br>本篇為團結經濟學一書之第三章摘錄及討論。文章深入探討互助互惠與創新之間的關係，而創新是繁榮非常重要的來源。</p>
+<p>廣泛的研究都清楚表明，創新很少是個人成就，而是必須奠基於協作過程和社會關係，其中許多是在市場框架之外運作的。技術創新還必須依賴於幾個世紀以來共同承襲的科學知識和科技，並以主要的公共部門投資為基礎。此外還討論這些集體產生的經濟價值如何被少數人透過掠奪、並且透過“贏家通吃”這種競爭動態去攫取為自己所用，這樣不但加劇不平等，且會造成對未來創新所需的基礎投資不足。最後，也討論基於團結互助的創新系統可能是什麼樣子，以及為什麼可能帶來更好的結果。</p>
+<p>本章可獨立閱讀，亦可先讀完<a href="https://sustainable-income-lab.github.io/Solidarity-Economics-Introduction/">團結經濟學簡介</a>，了解全書的架構，再進行研讀，或是與不同章節進行比對。</p>
+</blockquote>
+<span id="more"></span>
+
+<hr>
+<h2 id="書本資料"><a href="#書本資料" class="headerlink" title="書本資料"></a>書本資料</h2><ul>
+<li>全書資料：<ul>
+<li><a href="https://sustainable-income-lab.github.io/Solidarity-Economics-Introduction/">團結經濟學簡介</a></li>
+</ul>
+</li>
+<li>作者：<ul>
+<li><a href="https://sociology.ucsc.edu/about/directory-faculty.php?uid=cbenner">Chris Benner</a></li>
+<li><a href="https://dornsife.usc.edu/eri/manuel-pastor/">Manuel Pastor</a></li>
+</ul>
+</li>
+<li>關於本書：<ul>
+<li><a href="https://solidarityeconomics.org/se-book/">About the Book</a></li>
+</ul>
+</li>
+<li>本章讀書會討論脈絡：<ul>
+<li><a href="https://docs.google.com/document/d/19aGuznmrMN3YoX4Tjg2TamL3toxbrmDTumrzrm_jO60/edit?usp=sharing">歡迎填寫評論</a></li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="目錄"><a href="#目錄" class="headerlink" title="目錄"></a>目錄</h2><ul>
+<li><a href="#%E6%9B%B8%E6%9C%AC%E8%B3%87%E6%96%99">書本資料</a></li>
+<li><a href="#%E7%9B%AE%E9%8C%84">目錄</a></li>
+<li><a href="#%E5%89%8D%E8%A8%80">前言</a></li>
+<li><a href="#%E5%89%B5%E6%96%B0%E8%88%87%E7%B6%93%E6%BF%9F%E6%B4%BB%E5%8A%9B">創新與經濟活力</a><ul>
+<li><a href="#You%E2%80%99re-Not-Alone">You’re Not Alone</a></li>
+<li><a href="#Cookies-for-Cash">Cookies for Cash</a></li>
+</ul>
+</li>
+<li><a href="#%E5%88%B0%E5%BA%95%E6%98%AF%E8%AA%B0%E7%9A%84%E5%89%B5%E6%96%B0%EF%BC%9F">到底是誰的創新？</a><ul>
+<li><a href="#Networks-and-Winners">Networks and Winners</a></li>
+<li><a href="#Gatekeepers-and-%E2%80%9CRents%E2%80%9D">Gatekeepers and “Rents”</a></li>
+<li><a href="#Innovation-and-Inequality">Innovation and Inequality</a></li>
+</ul>
+</li>
+<li><a href="#%E5%89%B5%E6%96%B0%E5%89%B5%E6%96%B0">創新創新</a><ul>
+<li><a href="#%E6%89%AD%E6%9B%B2%E7%9A%84%E5%84%AA%E5%85%88%E9%A0%86%E5%BA%8F">扭曲的優先順序</a></li>
+<li><a href="#%E5%9C%98%E7%B5%90%E5%89%B5%E6%96%B0">團結創新</a></li>
+</ul>
+</li>
+<li><a href="#%E5%89%B5%E9%80%A0%E6%88%91%E5%80%91%E7%9A%84%E6%9C%AA%E4%BE%86">創造我們的未來</a></li>
+</ul>
+<ul>
+<li><a href="#%E5%9C%98%E7%B5%90%E7%B6%93%E6%BF%9F%E5%AD%B8%E7%B0%A1%E4%BB%8B%E5%8F%8A%E9%96%B1%E8%AE%80%E6%94%BB%E7%95%A5">團結經濟學簡介及閱讀攻略</a></li>
+<li><a href="#115B%E5%AF%A6%E9%A9%97%E5%AE%A4">115B實驗室</a></li>
+</ul>
+<hr>
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>作者以南非兩項領先世界創新技術-自動化泳池清潔機，以及裝甲鎮暴車。解釋不適當的創新被用來鎮壓反抗者並加強南非的種族隔離政策。 而南非的社會運動者鍛造了自己的創新，包括複雜且多面向的策略，促使國內群眾組織與國際外交談判和全球撤資運動，最終戰勝白人至上主義者。</p>
+<blockquote>
+<p>作者在南非經驗為看到的創新。造成了壟斷及加劇社會不平等的創新，像是南非曾引領世界的泳池清理技術，以及防暴動技術。真正該追求的創新，像是這邊提到的社會運動中的創新</p>
+<p>從南非回到美國本土，在這一章，作者承認創新的確是推動經濟的要素。但也強調，過於的繁榮，無法看出創新是由許多人共同造成。而新自由主義，使人無法理解該因此而相應的分配成果。</p>
+</blockquote>
+<p>作者認為創新固然是經濟進步的驅動力。但是假設創新一定會帶來繁榮的同時，很難觀察到某些人可輕易做到的工作，意味著另一些人可能陷入就業的困境中，亦即並非每個社會層面都因而獲得益處。創新的確是在我們的經濟中集體產生，但是新</p>
+<p>自由主義的觀點使我們無法理解 “為什麼我們應該適當地分配利益? </p>
+<p>在南非兩項創新的例子中，可知這些阻礙使創新網絡產生壟斷以及將創造力投入不適當的地方。</p>
+<blockquote>
+<p>但看章節時，似乎可以猜出其一些脈絡:<br>     1. 創新的必要：對經濟活力的影響<br>     2. 但是創新可能被利用或走偏，變成少數贏家，或變為壟斷的工具，推升了不平等。<br>     3. 考慮第2點，並非要放棄創新，而是要思考如何重新改變創新的機制，符合團結。<br>     4. 在上面基礎上，創新我們的未來。</p>
+</blockquote>
+<p>也就是，從創新的需要，然後思考其可能帶來的負面效果，接下來去需要去改善創新的過程，然後更好的創新推進。”</p>
+<hr>
+<h2 id="創新與經濟活力"><a href="#創新與經濟活力" class="headerlink" title="創新與經濟活力"></a>創新與經濟活力</h2><p>Innovation and Economic Dynamism</p>
+<p>創新被視為我們的經濟的驅動力。 在和過去付出同樣的努力情況下，新工具和流程卻能夠產生額外的成果，結果造就生產力增加，也創造了經濟增長。儘管創新對於經濟的重要性顯而易見，但是經濟學似乎無法明白真實的情況為何。 其一是傾向於只聚焦於科技的改變。創新其實在各種低技術產業都非常重要，而且可以是發生在所有經濟活動方式，甚至可能並不是創造新事物或產品。 例如 Ben &amp; Jerry 冰淇淋，以及 服飾品牌 Zera。</p>
+<p>第二個經濟對於創新的錯誤認知是過度的強調個人企業家或個別公司的影響，但是卻忽略了其他數百萬美元的公共資助研究而開發的產品。例如新自由主義為 Steve Jobs 以及蘋果公司喝采。創新本質上就是植根於廣泛社會的一種協作、互動的過程。而非僅僅由個人所創造出來。例如Apple 產品具有時尚美感，簡潔俐落，是產品成功的因素之一。這種美學創新，高度依賴大眾集體品味，是由整體社會產生的。當了解到個人是融入於創新社群而非在孤島上時，我們可以走得更遠。</p>
+<p>第三個經濟對於創新的錯誤了解: 創新或新構想並非如一般人所假設的一樣，必定會帶來繁榮與進步。具備獨創技術的公司能定義新知識或生產技術、網路平台，造成壟斷，並獲致巨大的經濟報酬。這似乎也呼應了我們先前曾經討論過的數位超級強權(或樞紐公司) - 如阿里巴巴、字母公司、亞馬遜、蘋果、臉書..等等。能夠接觸到數十億名行動消費者，在全球經濟創造的價值中，取得不成比例的一大部分，加劇經濟不均。</p>
+<blockquote>
+<p>創新是由社會協作、互動而來，非少數個體所創造。因而如果簡單的用投入來作為分配成果方式，則會造成各種壟斷、不平等。例如這邊提到的大型公司的壟斷，數位經濟的擴張並非單由這些大公司造就，而是由眾人所共同建立起。</p>
+</blockquote>
+<blockquote>
+<p>然而，在這邊也會思考，像是合作社以人數當成投入的評判，或是時間銀行當成投入的評判，也都可能各有其缺點。或許，以各種投入方式來思考成果分配，都可能會有其限制。<br>該如何取中庸之道，激勵系統中的所有個體都能專注於創造共同有效成果，也是一個需要被有效解決的議題。一昧地去除或過分放大某一群人或某一種投入對成果的影響，也都可能會有些限制。</p>
+</blockquote>
+<blockquote>
+<p>所以我們在擴增集智、團結經濟上，是注重系統的Throughput，來克服以Input為分配基準的缺點，以及將Output（如總體經濟學的GDP）視為成果的偏差。</p>
+</blockquote>
+<p>創新的錯誤配置也可能會產生弊病，例如耗費鉅資研發高科技藥品只能挽救少數負得起醫療費用的人，而忽略的廣大的低收入族群需要更多的公園空間，以及運動設施，來增進健康。團結經濟學尋求將技術投入其原來的地方，並且認知新構想來自於共同的大眾的想法，也特別強調出使用不公平和種族主義的方式扭曲發明和投資的東西。認為我們共同的創造力應該產生共同的利益。</p>
+<blockquote>
+<p>消費主義至上對人們的洗腦，掌握了資源的大公司又不斷洗腦大家不停的買新的物品才是時尚。文章中的“一群不願屈服的消費者，用盡各種辦法對抗這種「計劃性汰舊換新」的手段，種下更多反思的種子，馬寇斯最後也憑自己的力量，成功修好了他根本沒有壞掉的印表機。“是真的有意識和覺醒過來不被消費主義控制洗腦的人們。對我們來說也很有啟發性，因為我們也要去嘗試喚醒和我們要團結協作的朋友、協作者一起清醒的對抗大公司的惡。確實想想看，自己也是有過「被計劃」的消費情形</p>
+</blockquote>
+<blockquote>
+<p>那麽團結經濟學是什麽意思呢?<br>作者強調的三個基本且相互關聯的前提 three fundamental and interlocking premises:<br>(1)我們的經濟不是某種抽象的自然現象，由不可改變的力量驅動，而是由人們通過協作和競爭創造的our economy is not some abstract natural phenomenon driven by immutable forces, but rather created by people through collaboration as well as competition; ;<br>(2)當我們認識到並加強這些協作要素時，我們不僅能取得更好的社會成果，而且能取得更好的經濟成果 when we recognize and reinforce those collaborative elements, we end up with not only better social outcomes but also better economic outcomes;<br>(3)由於有些人從現行制度中獲益，並試圖分裂我們，社會變革運動對經濟成功至關重要，因為它們可以幫助轉移權力，也因為它們可以幫助建立和擴大我們的相互依存感because some people benefit from the current system and would seek to divide us, social movements for change are critical to economic success, both because they can help shift power and because they can help build and broaden our sense of mutuality。</p>
+<p>第一個前提，在行為經濟學領域日益湧現，與人性的概念有關。自亞當•斯密以來，大多數經濟學家的普遍假設是，人們的行為純粹(或至少在很大程度上)出於自身利益The first premise, increasingly emergent in the realm of behavioral economics, has to do with the conception of human nature.The general assumption by most economists since Adam Smith has been that people act purely (or at least largely) out of self-interest.。<br>對新自由主義者來說，好消息是，市場將協調所有的自私，以獲得一個幸福的結果，因此有限的政府是最好的配方For neoliberals, the good news is that the market will coordinate all that selfishness to a blissful outcome, and so limited government is the best recipe. 。<br>在左翼，對於是什麽驅動了經濟行為，通常也有類似的看法，但他們警告說，幸福不太可能被公正地分配;因此，國家必須采取行動，遏制最嚴重的自私行為，從而使我們的經濟為公共利益服務。On the left, there is often a similar take on what drives economic behavior, with the caveat being that bliss is not likely to be distributed justly; as a result, the state must act to constrain the worst instances of selfishness and so, corral our economy into serving the common good.</p>
+</blockquote>
+<h3 id="You’re-Not-Alone"><a href="#You’re-Not-Alone" class="headerlink" title="You’re-Not-Alone"></a>You’re-Not-Alone</h3><p>絕大多數人都會推崇創新的贏家，例如 iPhone 或是像現代音樂的 hip-hop 為代表, 但創新的起源是複雜且模糊的，經常是來自於文化層面或者是集體的創作。</p>
+<p>新自由主義模糊了這種相互依存的關係和涉及的社會過程； 團結經濟學則是強調塑造成功的因素 -創新不能被簡單的為市場自由機制或是經濟誘因來說明這一切。</p>
+<p>例如通信上的創新是在基於過去被發明的軟硬體上 -電話、電腦、路由器、伺服器、線路、無線網路…等等，由各種的電子元件互相連結起來才有可能。創新也通常是由團隊的努力而來，比較少經由單一充滿狂熱、聰明洋溢的天才頭腦中所貢獻。就好像是運動項目中的足球或籃球等團隊，或像爵士樂團那樣，而非如撐竿跳高、跳遠..等個人運動。</p>
+<p>作者以 Apple 和 Android 兩種手機系統作為對比例子，兩者的技術與知識均來自於集體的智能，前者是使用封閉系統的策略，而後者採取開放來源碼的方式，但是我們卻很難了解兩者的創新都是來自集體智能的事實。</p>
+<h3 id="Cookies-for-Cash"><a href="#Cookies-for-Cash" class="headerlink" title="Cookies-for-Cash"></a>Cookies-for-Cash</h3><p>網路上的資料收集，例如Facebook 上的按讚，或是 Twitter, IG 上的追蹤，或是無所不在的網路 cookie 可以收集網路上的使用喜好。在現實生活中亦然，街上或建築物的監視攝影機，或是手機的訊號位置也是成為資料收集的來源。比較重大問題的是侵犯隱私，預測犯罪，或是以演算法的方式，所造成種族不平等。如果集體過程在創新發揮重要作用，集體數據也提供信息價值，誰應該獲得獎勵？<br>“If collective processes play such an important role in generating innovation, and collective data is what gives individual information value, to whom should go the rewards? Our current economic answer, one based on the neoliberal idea that we should incentivize self-interest, seems to be private owners – it may be your information or society’s wellspring of knowledge that leads to innovation, but the winner from an<br>invention should be whoever can figure out how to privately appropriate the gain.”</p>
+<blockquote>
+<p>雖然依照新自由主義的觀點來看要獎勵個人(private owner)，(贏家是能把創新的好處收進自己口袋的人)， 但是這種獎勵方式後面他就有說這樣做只會加劇不平等</p>
+</blockquote>
+<p>創新的成果應當歸功於資訊的擁有者，也因為集體知識源泉導致創新。</p>
+<hr>
+<h2 id="到底是誰的創新？"><a href="#到底是誰的創新？" class="headerlink" title="到底是誰的創新？"></a>到底是誰的創新？</h2><p>Whose Innovation Is It Anyway?</p>
+<p>為什麼新創新帶來的好處沒有傳遞到廣泛的人群，促進社會福祉？</p>
+<p>我們的經濟在全世界創造出890萬個app，和單一艘就價值48億美元的私人遊艇，但是卻無法確保每個人都能擁有安居的房屋，和每天可以吃到足夠的健康食物？ 同時，創新也尚未能終結警察暴力侵害黑人和縮小種族貧富差距 - 典型美國白人家庭的淨資產是非裔美國人家庭的十倍。部分的原因是那些公司不公平地挪用了公有的資源。</p>
+<blockquote>
+<p>作者也還將討論創新成果作為這些集體資源所產生的經濟價值是如何被少數參與者攫取的，不僅通過掠奪性行為，還通過“贏者通吃“市場中正常的競爭動態。其結果不僅是不平等加劇，還會導致對未來幾輪創新所需基礎的投資不足。</p>
+</blockquote>
+<h3 id="Networks-and-Winners"><a href="#Networks-and-Winners" class="headerlink" title="Networks-and-Winners"></a>Networks-and-Winners</h3><p>許多公司利用“網路經濟” 不僅在信息經濟中獲得巨大的收益，也是這些公司成功的重要因素。事實上，許多專門為捕捉網絡經濟而設計的平台公司數目快速增加。例如，Google、Facebook 和 Twitter 提供搜索和社交媒體平台，從而在用戶和廣告商之間提供網絡連結。亞馬遜、Etsy 和 eBay 則是在產品銷售商和消費者之間建立網路平台。 Airbnb、HomeAway 和 Thumbtack 將消費者和賣家聚集在一起，提供度假、租賃服務。</p>
+<p>作者解釋了為何網路經濟有贏家通吃的現象:</p>
+<ul>
+<li>在網絡和平台上的訪客看似民主化，實則不然，網路經濟強化了贏家通吃的市場。首先，連接到網絡的價值取決於已經連接到網路平台的其他訪客數量。更大的網絡具有更高價值。其次是網路經濟有強烈的的正向回饋趨勢，結果就是強者愈強，弱者愈弱。</li>
+<li>在強大正回饋的市場中競爭時，期初的優勢可以使得只有一家公司成為贏家，就算不止一家公司具有競爭力，其他很少能夠在競爭中倖存。</li>
+</ul>
+<p>例如Uber 或 Lyft 這樣的叫車服務的市場。服務平台的價值取決於使用它的網絡的規模和品質，包括司機數量和客戶數量。假設有為數眾多的叫車服務公司在同一個城市中競爭，服務品質就會下降，因為每個平台上只有少數司機能提供服務，顧客需要漫長時間等待。 Uber 和 Lyft 就具有主導優勢，原因在於其平台有強大的網路效應。</p>
+<h3 id="Gatekeepers-and-“Rents”"><a href="#Gatekeepers-and-“Rents”" class="headerlink" title="Gatekeepers-and-“Rents”"></a>Gatekeepers-and-“Rents”</h3><p>1999 年亞馬遜公司 (Amazon) 取得 1-Click® 在其線上購物的專利（<a href="https://en.wikipedia.org/wiki/1-Click%EF%BC%8C%E9%80%99%E5%80%8B%E5%8A%9F%E8%83%BD%E5%A2%9E%E5%8A%A0%E9%A1%A7%E5%AE%A2%E7%9A%84%E8%A1%9D%E5%8B%95%E6%80%A7%E8%B3%BC%E8%B2%B7%EF%BC%8C%E7%A0%94%E7%A9%B6%E8%A9%95%E4%BC%B0%E5%83%85%E5%83%85%E5%9C%A8">資料</a>）， 2011年為其銷售額提高了 5%，帶來24 億美元的額外收入和 4080 萬美元的營業收入。也促使亞馬遜在電子商務領域居於主導地位。這項獲得政府保護的專利可能因此消滅了無數小型的競爭對手。當行動裝置平台的來臨，這種壟斷的優勢益加明顯。 </p>
+<p>固然公司可以由創新中獲取一定的利益，但是超出合理的回報的部分就變相成為不合理的 “經濟租金” (economic rents)。經濟學家定義 “經濟租金” 為超出資產所有者通常要求的超額支付。</p>
+<blockquote>
+<p>大公司通過某次競爭中的勝出獲得局部的壟斷地位，獲得壟斷地位從而通過申請專利和技術開發設計獲得更多經濟尋租而進一步鞏固壟斷地位？而打破這個公司發展造成不公平競爭趨勢的方法似乎就是團結經濟中提到的政府的介入？還有市場消費者的覺醒？不過除了社會運動是普通消費者可以選擇對抗這種壟斷的方式，在生活中似乎能夠用來避免加劇亞馬遜尋租方式的手段做法或者替代品似乎很少，人們會為了舒適和便利性，漠視掉這樣的行為其實會造成經濟尋租？</p>
+</blockquote>
+<blockquote>
+<p>這樣的平台尋租現象，包含著消費者以及商品提供者。當這樣的尋租過度後，消費者及商品提供者也會自然產生反應。 例如，一些自架站電商的崛起，如使用WordPress，或Shopify。而如Google/FB 也隨之參與電商的領域，作為平衡。使得亞馬遜單一平台也會受到衝擊。這個過程，當然也又可能由某個尋租者壟斷，轉向另一個尋租者壟斷的過程。但隨著各種參與者的加入，可以使得分散式的非中心化平台模式，越來越可便利使用。</p>
+</blockquote>
+<h3 id="Innovation-and-Inequality"><a href="#Innovation-and-Inequality" class="headerlink" title="Innovation-and-Inequality"></a>Innovation-and-Inequality</h3><p>目前經濟規範裡，我們使用以下兩種方式之一來處理創新對不平等的影響:</p>
+<ol>
+<li><p>新自由主義經濟學家倡導的方法認為，不平等的工資反映在人們的技能、知識、能力和工作上的貢獻。 這個架構中實行平等的途徑為提高技能以及勞動生產率，使人們能夠更有效地應對創新和技術變革。</p>
+</li>
+<li><p>第二種方法指出剝削性雇主的作用、工作場所和勞動市場中不平等的權力關係，以及造成更不平等的隔離勞動力市場，種族主義和性別歧視機構。解決辦法是加強政府監管，例如提高最低工資、改革勞動法和執行反歧視立法。作者認為目標是創新公共政策，可以使得多數人在不斷變化的環境中做得更好。</p>
+</li>
+</ol>
+<blockquote>
+<p>這樣看起來，古典自由主義是這兩點方法都加以排斥。<br>以個人角度出發，來思考讓個人自由最大化。因此避免任何政府的干預。<br>看起來這樣會產生的問題，與集體智能裡討論的很像，如果以每個個體智能最大化才來集體的角度，產生了可能少數智能較大者的壟斷現象。因而無法讓許多其它的個體參與決議的狀況。</p>
+</blockquote>
+<p>第一種方式不僅不公平，而且沒有了解創新和經濟價值是由集體繼承的知識共享和協作所建立的創新過程。 如果正視此一問題，才能發現經濟價值是由集體產出既是“我們的”經濟，也是“我們的”創新。未能主張集體智能是共同所有的，就無法同時實現創新和社會福祉。</p>
+<blockquote>
+<p>這兩種都方式恰恰落入兩個極端，前者把個體當作完全獨立，也就是個人只會為了自身的最佳利益去奮鬥，個體的成就與幸福建立在自身所得之上，忽略了群體。後者則是想透過更強大的力量(更高維度的力量 如 : 政府、上帝…)，來消除個體差異，達成平等與和平，但這樣的平衡後續會帶來更多困境，這也可能是UBI團體會面對到的困境。作者可能沒有刻意但恰好把兩種極端解決不平等(這章節提到的創新成果的不平等)的方法並列，也是人思考問題常會設定的框架，二元對立。</p>
+</blockquote>
+<hr>
+<h2 id="創新創新"><a href="#創新創新" class="headerlink" title="創新創新"></a>創新創新</h2><p>Innovating Innovation</p>
+<h3 id="扭曲的優先順序"><a href="#扭曲的優先順序" class="headerlink" title="扭曲的優先順序"></a>扭曲的優先順序</h3><p>Distorted Priorities</p>
+<p>如今醫療上正開發複雜的疾病治療技術。精準醫學可以根據個體遺傳特徵調整藥物成分，用以改善癌症和阿茲海默症的治療。 如細胞大小的奈米機器人可以感知環境，通過消化系統追踪發炎，由血液檢測癌症早期跡象。<br>諷刺的是當冠狀病毒危機來臨，我們才發現完全忽視了廣泛的公共衛生系統。即時診斷和接觸者追踪的聯網廉價診斷設備付之闕如。重大流行病的即時新聞和多語言通信系統也沒有建立。也未能替最脆弱的人群接種疫苗。</p>
+<p>以COVID-19 疫苗開發為例，美國聯邦資助國立衛生研究院和其他的實驗室產生了輝瑞和 Moderna 開發的 mRNA 疫苗背後的基礎科學。儘管這些公司需要收回他們的研究成本，疫苗專利持有人也和其他公司分享部分配方以期建立更強大的供應鏈。集體投資的好處是可以更為公開、及早地釋放信息，以便加快生產和推廣。</p>
+<h3 id="團結創新"><a href="#團結創新" class="headerlink" title="團結創新"></a>團結創新</h3><p>Solidarity Innovation </p>
+<p>作者列舉目前社會迫切需要創新項目：</p>
+<ul>
+<li>符合生態永續的塑膠替代品</li>
+<li>電池改進及其他能源儲存系統</li>
+<li>更有效的瘧疾疫苗</li>
+<li>潮汐發電機</li>
+<li>安全且價廉的線上投票、參與式治理設備</li>
+<li>可識別、自動標記跨社交媒體和新聞平台假新聞報導的AI系統</li>
+<li>真正的無碳運輸系統</li>
+<li>可識別和破壞線上隱性偏見、結構性排斥的自然語言機器學習系統</li>
+</ul>
+<p>創新需要足夠的關注、專業知識及資源來面對社會和環境的挑戰。</p>
+<p>Donella Meadows 將團結互惠的創新系統定義為 “一組互相關聯的元素，這些元素以某種方式連貫地組織起來實現某些目標。”  和現在進行中的 ACIS 設計指南一致。</p>
+<p>更進一步去分析上述的定義:</p>
+<ul>
+<li>系統中的元素是什麼?</li>
+<li>它們是如何相互連接?</li>
+<li>系統的目的為何?</li>
+</ul>
+<p>如果不以團結經濟思考，任由大公司主導創新，導致追求利潤最大化的目標，結果就是加劇不平等、忽視人類需求，也忽視環境永續性。</p>
+<hr>
+<h2 id="創造我們的未來"><a href="#創造我們的未來" class="headerlink" title="創造我們的未來"></a>創造我們的未來</h2><p>Inventing Our Future</p>
+<p>作者在第三章開頭訴說白人至上主義扭曲南非的創新，用以加強種族隔離。但是另一個故事指出，為什麼改變誰擁有權力能夠影響我們的經濟，並帶來積極的結果。</p>
+<p>在 1990 年代，南非遭受人類免疫缺陷病毒 (HIV) 的侵襲，這種病毒會導致 AIDS。 2000 年，AIDS已成為南非所有死亡人數四分之一主要的原因，(2005 年上升到 42%）。</p>
+<p>研究顯示這種疾病在不同種族間有巨大差異：南非白人的AIDS病毒感染率僅為南非黑人人口的三分之一。富有的南非人可以獲得新的抗逆轉錄病毒 (ARV) 藥物療法，這些藥物在治療 HIV 和防止發展為AIDS具有成效，但這些藥物的成本使大多數人無法承受。</p>
+<p>1998 年，一群政治活動家發起了治療行動運動 (TAC)。</p>
+<p>在接下來的十年，TAC動員人們參與健康權運動，創新結合基層組織、社區治療掃盲計劃、人權教育和訴訟。關鍵目標是全球製藥公司，因為昂貴的藥物價格使得普通南非人無法負擔，而且其專利權阻止了同樣成份與製程的學名藥生產。</p>
+<p>經由公眾壓力和南非法院的法律勝利，TAC 成功地降低了藥品價格，防止數十萬與 AIDS 病毒相關的死亡，並為南非的公共衛生系統和貧困社區注入了大量資源。</p>
+<blockquote>
+<p>有篇對美國的發明家進行研究的論文 (對原文有興趣者可參考這裡) </p>
+<p>當中也提到美國在不同收入階級、族群與性別當中創新不平等的狀況：</p>
+<p>Children born to parents in the top 1% of the income distribution are 10 times as likely to become inventors as those born to families with below-median income. Whites are more than three times as likely to become inventors as are blacks. And 82% of 40-yearold inventors today are men.</p>
+<p>並且提到如果這些本來因為貧窮/性別/種族等種種限制而無法成為創新者的人若能獲得資源與教育的機會，現在的創新發明家應該會多很多 </p>
+<p>If women, minorities, and children from low-income families were to invent at the same rate as white men from high-income families, there would be four times as many inventors in the United States as there are today.</p>
+</blockquote>
+<p>經濟學家 Raj Chetty 和他的團隊使用 120 萬筆專利記錄和稅務數據，顯示來自高收入家庭的孩子申請專利數比自中等以下家庭孩子多十倍。超過 80% 的 40 歲發明者是男性，白人申請專利數值是非裔美國人的三倍多。資源的不均使得創新的機會也產生極大的不同。</p>
+<p>TAC 和全球組織者網絡將這項工作的經驗擴展到現今依舊威脅全球生命的流行病毒 COVID-19。呼籲暫停知識產權保護，防止對疫苗的壟斷，並確保疫苗的銷售以可以負擔的價格供應。</p>
+<p>2021年1月美國國家經濟研究局發布的早期研究指出，如果未能使發展中經濟體及時獲得 COVID-19 疫苗，預計全球經濟將損失多達 9.2 萬億美元，由於發達經濟體系因貿易的連結，也將承擔其中 13-49% 的成本。因此全球獲得疫苗的經濟效益是全體獲益的<br>這也驗證作者在第2章裡提到的，看似乎只為公平服務的事情實際上將有利於繁榮。</p>
+<p>創新的起源是複雜且模糊的，經常是來自於文化層面或者是集體的創作。創新本質植根於廣泛社會中的協作、互動的過程。而非由個人所創造。獨創技術的公司能運用集體創新或繼承的知識、生產技術、網路平台，造成壟斷。不適當的利益分配也使得不同性別種族間的貧富的落差加大。 </p>
+<p>剖析新自由主義理論給我們偏差的經濟思維、敘述和政策方式時，才能看到分配不均現象形成過程。如果我們將團結置於創新系統的中心，就能取得更好的經濟和社會成果。創新並非不穩定、不安全，而是擴大我們集體的可能性。我們不應將個人工資和狹隘的個人貢獻連結，而是放到更廣大的社會制度中，為社會福祉開啟平坦道路，在不斷地變動之中提供安全的緩衝。</p>
+<hr>
+<h2 id="團結經濟學簡介及閱讀攻略"><a href="#團結經濟學簡介及閱讀攻略" class="headerlink" title="團結經濟學簡介及閱讀攻略"></a>團結經濟學簡介及閱讀攻略</h2><blockquote>
+<p><a href="/Solidarity-Economics-Introduction/"><img src="https://solidarityeconomics.org/wp-content/uploads/2021/09/SE-Web-Slider-for-Website.png"></a></p>
+</blockquote>
+<hr>
+<h2 id="各章導讀連結"><a href="#各章導讀連結" class="headerlink" title="各章導讀連結"></a>各章導讀連結</h2><ul>
+<li>團結經濟:<a href="/Solidarity-Economics-Introduction/">團結經濟學簡介</a></li>
+<li>第一章：<a href="/Reimagining-Our-Economy/">重新想像我們的經濟</a></li>
+<li>第二章：<a href="/Solidarity-and-Prosperity/">團結與繁榮</a></li>
+<li>第三章：<a href="/Solidarity-and-Innovation/">團結與創新</a></li>
+<li>第四章：<a href="/Solidarity-and-Social-Support/">團結與社會支持</a></li>
+<li>（其他章節持續更新中）</li>
 </ul>
 <hr>
 <h2 id="115B實驗室"><a href="#115B實驗室" class="headerlink" title="115B實驗室"></a>115B實驗室</h2><p>「115B實驗室」是由「嘉鼎智能團隊」，呼應社會團結經濟浪潮而成立，創立之初，以台北松山區的敦化南路1段1號5樓B室為起點，故以115B為紀念。</p>
@@ -2128,221 +2343,6 @@
 <hr>
 <h2 id="團結經濟學簡介及閱讀攻略"><a href="#團結經濟學簡介及閱讀攻略" class="headerlink" title="團結經濟學簡介及閱讀攻略"></a>團結經濟學簡介及閱讀攻略</h2><blockquote>
 <p><a href="/Solidarity-Economics-Introduction/"><img src="https://solidarityeconomics.org/wp-content/uploads/2021/09/SE-Web-Slider-for-Website.png" alt="團結經濟"></a></p>
-</blockquote>
-<hr>
-<h2 id="各章導讀連結"><a href="#各章導讀連結" class="headerlink" title="各章導讀連結"></a>各章導讀連結</h2><ul>
-<li>團結經濟:<a href="/Solidarity-Economics-Introduction/">團結經濟學簡介</a></li>
-<li>第一章：<a href="/Reimagining-Our-Economy/">重新想像我們的經濟</a></li>
-<li>第二章：<a href="/Solidarity-and-Prosperity/">團結與繁榮</a></li>
-<li>第三章：<a href="/Solidarity-and-Innovation/">團結與創新</a></li>
-<li>第四章：<a href="/Solidarity-and-Social-Support/">團結與社會支持</a></li>
-<li>（其他章節持續更新中）</li>
-</ul>
-<hr>
-<h2 id="115B實驗室"><a href="#115B實驗室" class="headerlink" title="115B實驗室"></a>115B實驗室</h2><p>「115B實驗室」是由「嘉鼎智能團隊」，呼應社會團結經濟浪潮而成立，創立之初，以台北松山區的敦化南路1段1號5樓B室為起點，故以115B為紀念。</p>
-<p>主要在協助個體、或組織，運用國際股市連結全球社會經濟的人心智能，增強本身經濟實力；並在過程中融合永續進展的理念，追求經濟、社會、環境各方面的均衡進步發展，尤其經濟上要符合（經世濟民）道理。</p>
-<h3 id="加入團隊"><a href="#加入團隊" class="headerlink" title="加入團隊"></a>加入團隊</h3><p><a href="https://www.104.com.tw/company/10zcirfc">104 (嘉鼎智能｜115B實驗室)</a></p>
-<h3 id="社群媒體"><a href="#社群媒體" class="headerlink" title="社群媒體"></a>社群媒體</h3><p>歡迎加入我們的LINE社群一同推廣永續所得倡議</p>
-<blockquote>
-<p>👉 &emsp; <a href="(https://bit.ly/Slack115b"> 115B Slack 社群</a></p>
-<p>👉 &emsp; <a href="https://line.me/ti/g2/Yn9r9XlbjJjhjppxjyzmbQ"> 115B實驗室 LINE 社群</a></p>
-<p>👉 &emsp; <a href="https://www.facebook.com/sustainable.income.lab"> 115B實驗室 FB</a></p>
-</blockquote>
-]]></content>
-      <tags>
-        <tag>團結經濟學</tag>
-        <tag>團結經濟</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>團結與創新</title>
-    <url>/Solidarity-and-Innovation/</url>
-    <content><![CDATA[<blockquote>
-<p><img src="/img/Solidarity-and-Innovation/Solidarity-and-Innovation.png" alt="Solidarity-and-Innovation"></p>
-</blockquote>
-<blockquote>
-<p>【關於這篇文章】<br>本篇為團結經濟學一書之第三章摘錄及討論。文章深入探討互助互惠與創新之間的關係，而創新是繁榮非常重要的來源。</p>
-<p>廣泛的研究都清楚表明，創新很少是個人成就，而是必須奠基於協作過程和社會關係，其中許多是在市場框架之外運作的。技術創新還必須依賴於幾個世紀以來共同承襲的科學知識和科技，並以主要的公共部門投資為基礎。此外還討論這些集體產生的經濟價值如何被少數人透過掠奪、並且透過“贏家通吃”這種競爭動態去攫取為自己所用，這樣不但加劇不平等，且會造成對未來創新所需的基礎投資不足。最後，也討論基於團結互助的創新系統可能是什麼樣子，以及為什麼可能帶來更好的結果。</p>
-<p>本章可獨立閱讀，亦可先讀完<a href="https://sustainable-income-lab.github.io/Solidarity-Economics-Introduction/">團結經濟學簡介</a>，了解全書的架構，再進行研讀，或是與不同章節進行比對。</p>
-</blockquote>
-<span id="more"></span>
-
-<hr>
-<h2 id="書本資料"><a href="#書本資料" class="headerlink" title="書本資料"></a>書本資料</h2><ul>
-<li>全書資料：<ul>
-<li><a href="https://sustainable-income-lab.github.io/Solidarity-Economics-Introduction/">團結經濟學簡介</a></li>
-</ul>
-</li>
-<li>作者：<ul>
-<li><a href="https://sociology.ucsc.edu/about/directory-faculty.php?uid=cbenner">Chris Benner</a></li>
-<li><a href="https://dornsife.usc.edu/eri/manuel-pastor/">Manuel Pastor</a></li>
-</ul>
-</li>
-<li>關於本書：<ul>
-<li><a href="https://solidarityeconomics.org/se-book/">About the Book</a></li>
-</ul>
-</li>
-<li>本章讀書會討論脈絡：<ul>
-<li><a href="https://docs.google.com/document/d/19aGuznmrMN3YoX4Tjg2TamL3toxbrmDTumrzrm_jO60/edit?usp=sharing">歡迎填寫評論</a></li>
-</ul>
-</li>
-</ul>
-<hr>
-<h2 id="目錄"><a href="#目錄" class="headerlink" title="目錄"></a>目錄</h2><ul>
-<li><a href="#%E6%9B%B8%E6%9C%AC%E8%B3%87%E6%96%99">書本資料</a></li>
-<li><a href="#%E7%9B%AE%E9%8C%84">目錄</a></li>
-<li><a href="#%E5%89%8D%E8%A8%80">前言</a></li>
-<li><a href="#%E5%89%B5%E6%96%B0%E8%88%87%E7%B6%93%E6%BF%9F%E6%B4%BB%E5%8A%9B">創新與經濟活力</a><ul>
-<li><a href="#You%E2%80%99re-Not-Alone">You’re Not Alone</a></li>
-<li><a href="#Cookies-for-Cash">Cookies for Cash</a></li>
-</ul>
-</li>
-<li><a href="#%E5%88%B0%E5%BA%95%E6%98%AF%E8%AA%B0%E7%9A%84%E5%89%B5%E6%96%B0%EF%BC%9F">到底是誰的創新？</a><ul>
-<li><a href="#Networks-and-Winners">Networks and Winners</a></li>
-<li><a href="#Gatekeepers-and-%E2%80%9CRents%E2%80%9D">Gatekeepers and “Rents”</a></li>
-<li><a href="#Innovation-and-Inequality">Innovation and Inequality</a></li>
-</ul>
-</li>
-<li><a href="#%E5%89%B5%E6%96%B0%E5%89%B5%E6%96%B0">創新創新</a><ul>
-<li><a href="#%E6%89%AD%E6%9B%B2%E7%9A%84%E5%84%AA%E5%85%88%E9%A0%86%E5%BA%8F">扭曲的優先順序</a></li>
-<li><a href="#%E5%9C%98%E7%B5%90%E5%89%B5%E6%96%B0">團結創新</a></li>
-</ul>
-</li>
-<li><a href="#%E5%89%B5%E9%80%A0%E6%88%91%E5%80%91%E7%9A%84%E6%9C%AA%E4%BE%86">創造我們的未來</a></li>
-</ul>
-<ul>
-<li><a href="#%E5%9C%98%E7%B5%90%E7%B6%93%E6%BF%9F%E5%AD%B8%E7%B0%A1%E4%BB%8B%E5%8F%8A%E9%96%B1%E8%AE%80%E6%94%BB%E7%95%A5">團結經濟學簡介及閱讀攻略</a></li>
-<li><a href="#115B%E5%AF%A6%E9%A9%97%E5%AE%A4">115B實驗室</a></li>
-</ul>
-<hr>
-<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>作者以南非兩項領先世界創新技術-自動化泳池清潔機，以及裝甲鎮暴車。解釋不適當的創新被用來鎮壓反抗者並加強南非的種族隔離政策。 而南非的社會運動者鍛造了自己的創新，包括複雜且多面向的策略，促使國內群眾組織與國際外交談判和全球撤資運動，最終戰勝白人至上主義者。</p>
-<blockquote>
-<p>作者在南非經驗為看到的創新。造成了壟斷及加劇社會不平等的創新，像是南非曾引領世界的泳池清理技術，以及防暴動技術。真正該追求的創新，像是這邊提到的社會運動中的創新</p>
-<p>從南非回到美國本土，在這一章，作者承認創新的確是推動經濟的要素。但也強調，過於的繁榮，無法看出創新是由許多人共同造成。而新自由主義，使人無法理解該因此而相應的分配成果。</p>
-</blockquote>
-<p>作者認為創新固然是經濟進步的驅動力。但是假設創新一定會帶來繁榮的同時，很難觀察到某些人可輕易做到的工作，意味著另一些人可能陷入就業的困境中，亦即並非每個社會層面都因而獲得益處。創新的確是在我們的經濟中集體產生，但是新</p>
-<p>自由主義的觀點使我們無法理解 “為什麼我們應該適當地分配利益? </p>
-<p>在南非兩項創新的例子中，可知這些阻礙使創新網絡產生壟斷以及將創造力投入不適當的地方。</p>
-<blockquote>
-<p>但看章節時，似乎可以猜出其一些脈絡:<br>     1. 創新的必要：對經濟活力的影響<br>     2. 但是創新可能被利用或走偏，變成少數贏家，或變為壟斷的工具，推升了不平等。<br>     3. 考慮第2點，並非要放棄創新，而是要思考如何重新改變創新的機制，符合團結。<br>     4. 在上面基礎上，創新我們的未來。</p>
-</blockquote>
-<p>也就是，從創新的需要，然後思考其可能帶來的負面效果，接下來去需要去改善創新的過程，然後更好的創新推進。”</p>
-<hr>
-<h2 id="創新與經濟活力"><a href="#創新與經濟活力" class="headerlink" title="創新與經濟活力"></a>創新與經濟活力</h2><p>Innovation and Economic Dynamism</p>
-<p>創新被視為我們的經濟的驅動力。 在和過去付出同樣的努力情況下，新工具和流程卻能夠產生額外的成果，結果造就生產力增加，也創造了經濟增長。儘管創新對於經濟的重要性顯而易見，但是經濟學似乎無法明白真實的情況為何。 其一是傾向於只聚焦於科技的改變。創新其實在各種低技術產業都非常重要，而且可以是發生在所有經濟活動方式，甚至可能並不是創造新事物或產品。 例如 Ben &amp; Jerry 冰淇淋，以及 服飾品牌 Zera。</p>
-<p>第二個經濟對於創新的錯誤認知是過度的強調個人企業家或個別公司的影響，但是卻忽略了其他數百萬美元的公共資助研究而開發的產品。例如新自由主義為 Steve Jobs 以及蘋果公司喝采。創新本質上就是植根於廣泛社會的一種協作、互動的過程。而非僅僅由個人所創造出來。例如Apple 產品具有時尚美感，簡潔俐落，是產品成功的因素之一。這種美學創新，高度依賴大眾集體品味，是由整體社會產生的。當了解到個人是融入於創新社群而非在孤島上時，我們可以走得更遠。</p>
-<p>第三個經濟對於創新的錯誤了解: 創新或新構想並非如一般人所假設的一樣，必定會帶來繁榮與進步。具備獨創技術的公司能定義新知識或生產技術、網路平台，造成壟斷，並獲致巨大的經濟報酬。這似乎也呼應了我們先前曾經討論過的數位超級強權(或樞紐公司) - 如阿里巴巴、字母公司、亞馬遜、蘋果、臉書..等等。能夠接觸到數十億名行動消費者，在全球經濟創造的價值中，取得不成比例的一大部分，加劇經濟不均。</p>
-<blockquote>
-<p>創新是由社會協作、互動而來，非少數個體所創造。因而如果簡單的用投入來作為分配成果方式，則會造成各種壟斷、不平等。例如這邊提到的大型公司的壟斷，數位經濟的擴張並非單由這些大公司造就，而是由眾人所共同建立起。</p>
-</blockquote>
-<blockquote>
-<p>然而，在這邊也會思考，像是合作社以人數當成投入的評判，或是時間銀行當成投入的評判，也都可能各有其缺點。或許，以各種投入方式來思考成果分配，都可能會有其限制。<br>該如何取中庸之道，激勵系統中的所有個體都能專注於創造共同有效成果，也是一個需要被有效解決的議題。一昧地去除或過分放大某一群人或某一種投入對成果的影響，也都可能會有些限制。</p>
-</blockquote>
-<blockquote>
-<p>所以我們在擴增集智、團結經濟上，是注重系統的Throughput，來克服以Input為分配基準的缺點，以及將Output（如總體經濟學的GDP）視為成果的偏差。</p>
-</blockquote>
-<p>創新的錯誤配置也可能會產生弊病，例如耗費鉅資研發高科技藥品只能挽救少數負得起醫療費用的人，而忽略的廣大的低收入族群需要更多的公園空間，以及運動設施，來增進健康。團結經濟學尋求將技術投入其原來的地方，並且認知新構想來自於共同的大眾的想法，也特別強調出使用不公平和種族主義的方式扭曲發明和投資的東西。認為我們共同的創造力應該產生共同的利益。</p>
-<blockquote>
-<p>消費主義至上對人們的洗腦，掌握了資源的大公司又不斷洗腦大家不停的買新的物品才是時尚。文章中的“一群不願屈服的消費者，用盡各種辦法對抗這種「計劃性汰舊換新」的手段，種下更多反思的種子，馬寇斯最後也憑自己的力量，成功修好了他根本沒有壞掉的印表機。“是真的有意識和覺醒過來不被消費主義控制洗腦的人們。對我們來說也很有啟發性，因為我們也要去嘗試喚醒和我們要團結協作的朋友、協作者一起清醒的對抗大公司的惡。確實想想看，自己也是有過「被計劃」的消費情形</p>
-</blockquote>
-<blockquote>
-<p>那麽團結經濟學是什麽意思呢?<br>作者強調的三個基本且相互關聯的前提 three fundamental and interlocking premises:<br>(1)我們的經濟不是某種抽象的自然現象，由不可改變的力量驅動，而是由人們通過協作和競爭創造的our economy is not some abstract natural phenomenon driven by immutable forces, but rather created by people through collaboration as well as competition; ;<br>(2)當我們認識到並加強這些協作要素時，我們不僅能取得更好的社會成果，而且能取得更好的經濟成果 when we recognize and reinforce those collaborative elements, we end up with not only better social outcomes but also better economic outcomes;<br>(3)由於有些人從現行制度中獲益，並試圖分裂我們，社會變革運動對經濟成功至關重要，因為它們可以幫助轉移權力，也因為它們可以幫助建立和擴大我們的相互依存感because some people benefit from the current system and would seek to divide us, social movements for change are critical to economic success, both because they can help shift power and because they can help build and broaden our sense of mutuality。</p>
-<p>第一個前提，在行為經濟學領域日益湧現，與人性的概念有關。自亞當•斯密以來，大多數經濟學家的普遍假設是，人們的行為純粹(或至少在很大程度上)出於自身利益The first premise, increasingly emergent in the realm of behavioral economics, has to do with the conception of human nature.The general assumption by most economists since Adam Smith has been that people act purely (or at least largely) out of self-interest.。<br>對新自由主義者來說，好消息是，市場將協調所有的自私，以獲得一個幸福的結果，因此有限的政府是最好的配方For neoliberals, the good news is that the market will coordinate all that selfishness to a blissful outcome, and so limited government is the best recipe. 。<br>在左翼，對於是什麽驅動了經濟行為，通常也有類似的看法，但他們警告說，幸福不太可能被公正地分配;因此，國家必須采取行動，遏制最嚴重的自私行為，從而使我們的經濟為公共利益服務。On the left, there is often a similar take on what drives economic behavior, with the caveat being that bliss is not likely to be distributed justly; as a result, the state must act to constrain the worst instances of selfishness and so, corral our economy into serving the common good.</p>
-</blockquote>
-<h3 id="You’re-Not-Alone"><a href="#You’re-Not-Alone" class="headerlink" title="You’re-Not-Alone"></a>You’re-Not-Alone</h3><p>絕大多數人都會推崇創新的贏家，例如 iPhone 或是像現代音樂的 hip-hop 為代表, 但創新的起源是複雜且模糊的，經常是來自於文化層面或者是集體的創作。</p>
-<p>新自由主義模糊了這種相互依存的關係和涉及的社會過程； 團結經濟學則是強調塑造成功的因素 -創新不能被簡單的為市場自由機制或是經濟誘因來說明這一切。</p>
-<p>例如通信上的創新是在基於過去被發明的軟硬體上 -電話、電腦、路由器、伺服器、線路、無線網路…等等，由各種的電子元件互相連結起來才有可能。創新也通常是由團隊的努力而來，比較少經由單一充滿狂熱、聰明洋溢的天才頭腦中所貢獻。就好像是運動項目中的足球或籃球等團隊，或像爵士樂團那樣，而非如撐竿跳高、跳遠..等個人運動。</p>
-<p>作者以 Apple 和 Android 兩種手機系統作為對比例子，兩者的技術與知識均來自於集體的智能，前者是使用封閉系統的策略，而後者採取開放來源碼的方式，但是我們卻很難了解兩者的創新都是來自集體智能的事實。</p>
-<h3 id="Cookies-for-Cash"><a href="#Cookies-for-Cash" class="headerlink" title="Cookies-for-Cash"></a>Cookies-for-Cash</h3><p>網路上的資料收集，例如Facebook 上的按讚，或是 Twitter, IG 上的追蹤，或是無所不在的網路 cookie 可以收集網路上的使用喜好。在現實生活中亦然，街上或建築物的監視攝影機，或是手機的訊號位置也是成為資料收集的來源。比較重大問題的是侵犯隱私，預測犯罪，或是以演算法的方式，所造成種族不平等。如果集體過程在創新發揮重要作用，集體數據也提供信息價值，誰應該獲得獎勵？<br>“If collective processes play such an important role in generating innovation, and collective data is what gives individual information value, to whom should go the rewards? Our current economic answer, one based on the neoliberal idea that we should incentivize self-interest, seems to be private owners – it may be your information or society’s wellspring of knowledge that leads to innovation, but the winner from an<br>invention should be whoever can figure out how to privately appropriate the gain.”</p>
-<blockquote>
-<p>雖然依照新自由主義的觀點來看要獎勵個人(private owner)，(贏家是能把創新的好處收進自己口袋的人)， 但是這種獎勵方式後面他就有說這樣做只會加劇不平等</p>
-</blockquote>
-<p>創新的成果應當歸功於資訊的擁有者，也因為集體知識源泉導致創新。</p>
-<hr>
-<h2 id="到底是誰的創新？"><a href="#到底是誰的創新？" class="headerlink" title="到底是誰的創新？"></a>到底是誰的創新？</h2><p>Whose Innovation Is It Anyway?</p>
-<p>為什麼新創新帶來的好處沒有傳遞到廣泛的人群，促進社會福祉？</p>
-<p>我們的經濟在全世界創造出890萬個app，和單一艘就價值48億美元的私人遊艇，但是卻無法確保每個人都能擁有安居的房屋，和每天可以吃到足夠的健康食物？ 同時，創新也尚未能終結警察暴力侵害黑人和縮小種族貧富差距 - 典型美國白人家庭的淨資產是非裔美國人家庭的十倍。部分的原因是那些公司不公平地挪用了公有的資源。</p>
-<blockquote>
-<p>作者也還將討論創新成果作為這些集體資源所產生的經濟價值是如何被少數參與者攫取的，不僅通過掠奪性行為，還通過“贏者通吃“市場中正常的競爭動態。其結果不僅是不平等加劇，還會導致對未來幾輪創新所需基礎的投資不足。</p>
-</blockquote>
-<h3 id="Networks-and-Winners"><a href="#Networks-and-Winners" class="headerlink" title="Networks-and-Winners"></a>Networks-and-Winners</h3><p>許多公司利用“網路經濟” 不僅在信息經濟中獲得巨大的收益，也是這些公司成功的重要因素。事實上，許多專門為捕捉網絡經濟而設計的平台公司數目快速增加。例如，Google、Facebook 和 Twitter 提供搜索和社交媒體平台，從而在用戶和廣告商之間提供網絡連結。亞馬遜、Etsy 和 eBay 則是在產品銷售商和消費者之間建立網路平台。 Airbnb、HomeAway 和 Thumbtack 將消費者和賣家聚集在一起，提供度假、租賃服務。</p>
-<p>作者解釋了為何網路經濟有贏家通吃的現象:</p>
-<ul>
-<li>在網絡和平台上的訪客看似民主化，實則不然，網路經濟強化了贏家通吃的市場。首先，連接到網絡的價值取決於已經連接到網路平台的其他訪客數量。更大的網絡具有更高價值。其次是網路經濟有強烈的的正向回饋趨勢，結果就是強者愈強，弱者愈弱。</li>
-<li>在強大正回饋的市場中競爭時，期初的優勢可以使得只有一家公司成為贏家，就算不止一家公司具有競爭力，其他很少能夠在競爭中倖存。</li>
-</ul>
-<p>例如Uber 或 Lyft 這樣的叫車服務的市場。服務平台的價值取決於使用它的網絡的規模和品質，包括司機數量和客戶數量。假設有為數眾多的叫車服務公司在同一個城市中競爭，服務品質就會下降，因為每個平台上只有少數司機能提供服務，顧客需要漫長時間等待。 Uber 和 Lyft 就具有主導優勢，原因在於其平台有強大的網路效應。</p>
-<h3 id="Gatekeepers-and-“Rents”"><a href="#Gatekeepers-and-“Rents”" class="headerlink" title="Gatekeepers-and-“Rents”"></a>Gatekeepers-and-“Rents”</h3><p>1999 年亞馬遜公司 (Amazon) 取得 1-Click® 在其線上購物的專利（<a href="https://en.wikipedia.org/wiki/1-Click%EF%BC%8C%E9%80%99%E5%80%8B%E5%8A%9F%E8%83%BD%E5%A2%9E%E5%8A%A0%E9%A1%A7%E5%AE%A2%E7%9A%84%E8%A1%9D%E5%8B%95%E6%80%A7%E8%B3%BC%E8%B2%B7%EF%BC%8C%E7%A0%94%E7%A9%B6%E8%A9%95%E4%BC%B0%E5%83%85%E5%83%85%E5%9C%A8">資料</a>）， 2011年為其銷售額提高了 5%，帶來24 億美元的額外收入和 4080 萬美元的營業收入。也促使亞馬遜在電子商務領域居於主導地位。這項獲得政府保護的專利可能因此消滅了無數小型的競爭對手。當行動裝置平台的來臨，這種壟斷的優勢益加明顯。 </p>
-<p>固然公司可以由創新中獲取一定的利益，但是超出合理的回報的部分就變相成為不合理的 “經濟租金” (economic rents)。經濟學家定義 “經濟租金” 為超出資產所有者通常要求的超額支付。</p>
-<blockquote>
-<p>大公司通過某次競爭中的勝出獲得局部的壟斷地位，獲得壟斷地位從而通過申請專利和技術開發設計獲得更多經濟尋租而進一步鞏固壟斷地位？而打破這個公司發展造成不公平競爭趨勢的方法似乎就是團結經濟中提到的政府的介入？還有市場消費者的覺醒？不過除了社會運動是普通消費者可以選擇對抗這種壟斷的方式，在生活中似乎能夠用來避免加劇亞馬遜尋租方式的手段做法或者替代品似乎很少，人們會為了舒適和便利性，漠視掉這樣的行為其實會造成經濟尋租？</p>
-</blockquote>
-<blockquote>
-<p>這樣的平台尋租現象，包含著消費者以及商品提供者。當這樣的尋租過度後，消費者及商品提供者也會自然產生反應。 例如，一些自架站電商的崛起，如使用WordPress，或Shopify。而如Google/FB 也隨之參與電商的領域，作為平衡。使得亞馬遜單一平台也會受到衝擊。這個過程，當然也又可能由某個尋租者壟斷，轉向另一個尋租者壟斷的過程。但隨著各種參與者的加入，可以使得分散式的非中心化平台模式，越來越可便利使用。</p>
-</blockquote>
-<h3 id="Innovation-and-Inequality"><a href="#Innovation-and-Inequality" class="headerlink" title="Innovation-and-Inequality"></a>Innovation-and-Inequality</h3><p>目前經濟規範裡，我們使用以下兩種方式之一來處理創新對不平等的影響:</p>
-<ol>
-<li><p>新自由主義經濟學家倡導的方法認為，不平等的工資反映在人們的技能、知識、能力和工作上的貢獻。 這個架構中實行平等的途徑為提高技能以及勞動生產率，使人們能夠更有效地應對創新和技術變革。</p>
-</li>
-<li><p>第二種方法指出剝削性雇主的作用、工作場所和勞動市場中不平等的權力關係，以及造成更不平等的隔離勞動力市場，種族主義和性別歧視機構。解決辦法是加強政府監管，例如提高最低工資、改革勞動法和執行反歧視立法。作者認為目標是創新公共政策，可以使得多數人在不斷變化的環境中做得更好。</p>
-</li>
-</ol>
-<blockquote>
-<p>這樣看起來，古典自由主義是這兩點方法都加以排斥。<br>以個人角度出發，來思考讓個人自由最大化。因此避免任何政府的干預。<br>看起來這樣會產生的問題，與集體智能裡討論的很像，如果以每個個體智能最大化才來集體的角度，產生了可能少數智能較大者的壟斷現象。因而無法讓許多其它的個體參與決議的狀況。</p>
-</blockquote>
-<p>第一種方式不僅不公平，而且沒有了解創新和經濟價值是由集體繼承的知識共享和協作所建立的創新過程。 如果正視此一問題，才能發現經濟價值是由集體產出既是“我們的”經濟，也是“我們的”創新。未能主張集體智能是共同所有的，就無法同時實現創新和社會福祉。</p>
-<blockquote>
-<p>這兩種都方式恰恰落入兩個極端，前者把個體當作完全獨立，也就是個人只會為了自身的最佳利益去奮鬥，個體的成就與幸福建立在自身所得之上，忽略了群體。後者則是想透過更強大的力量(更高維度的力量 如 : 政府、上帝…)，來消除個體差異，達成平等與和平，但這樣的平衡後續會帶來更多困境，這也可能是UBI團體會面對到的困境。作者可能沒有刻意但恰好把兩種極端解決不平等(這章節提到的創新成果的不平等)的方法並列，也是人思考問題常會設定的框架，二元對立。</p>
-</blockquote>
-<hr>
-<h2 id="創新創新"><a href="#創新創新" class="headerlink" title="創新創新"></a>創新創新</h2><p>Innovating Innovation</p>
-<h3 id="扭曲的優先順序"><a href="#扭曲的優先順序" class="headerlink" title="扭曲的優先順序"></a>扭曲的優先順序</h3><p>Distorted Priorities</p>
-<p>如今醫療上正開發複雜的疾病治療技術。精準醫學可以根據個體遺傳特徵調整藥物成分，用以改善癌症和阿茲海默症的治療。 如細胞大小的奈米機器人可以感知環境，通過消化系統追踪發炎，由血液檢測癌症早期跡象。<br>諷刺的是當冠狀病毒危機來臨，我們才發現完全忽視了廣泛的公共衛生系統。即時診斷和接觸者追踪的聯網廉價診斷設備付之闕如。重大流行病的即時新聞和多語言通信系統也沒有建立。也未能替最脆弱的人群接種疫苗。</p>
-<p>以COVID-19 疫苗開發為例，美國聯邦資助國立衛生研究院和其他的實驗室產生了輝瑞和 Moderna 開發的 mRNA 疫苗背後的基礎科學。儘管這些公司需要收回他們的研究成本，疫苗專利持有人也和其他公司分享部分配方以期建立更強大的供應鏈。集體投資的好處是可以更為公開、及早地釋放信息，以便加快生產和推廣。</p>
-<h3 id="團結創新"><a href="#團結創新" class="headerlink" title="團結創新"></a>團結創新</h3><p>Solidarity Innovation </p>
-<p>作者列舉目前社會迫切需要創新項目：</p>
-<ul>
-<li>符合生態永續的塑膠替代品</li>
-<li>電池改進及其他能源儲存系統</li>
-<li>更有效的瘧疾疫苗</li>
-<li>潮汐發電機</li>
-<li>安全且價廉的線上投票、參與式治理設備</li>
-<li>可識別、自動標記跨社交媒體和新聞平台假新聞報導的AI系統</li>
-<li>真正的無碳運輸系統</li>
-<li>可識別和破壞線上隱性偏見、結構性排斥的自然語言機器學習系統</li>
-</ul>
-<p>創新需要足夠的關注、專業知識及資源來面對社會和環境的挑戰。</p>
-<p>Donella Meadows 將團結互惠的創新系統定義為 “一組互相關聯的元素，這些元素以某種方式連貫地組織起來實現某些目標。”  和現在進行中的 ACIS 設計指南一致。</p>
-<p>更進一步去分析上述的定義:</p>
-<ul>
-<li>系統中的元素是什麼?</li>
-<li>它們是如何相互連接?</li>
-<li>系統的目的為何?</li>
-</ul>
-<p>如果不以團結經濟思考，任由大公司主導創新，導致追求利潤最大化的目標，結果就是加劇不平等、忽視人類需求，也忽視環境永續性。</p>
-<hr>
-<h2 id="創造我們的未來"><a href="#創造我們的未來" class="headerlink" title="創造我們的未來"></a>創造我們的未來</h2><p>Inventing Our Future</p>
-<p>作者在第三章開頭訴說白人至上主義扭曲南非的創新，用以加強種族隔離。但是另一個故事指出，為什麼改變誰擁有權力能夠影響我們的經濟，並帶來積極的結果。</p>
-<p>在 1990 年代，南非遭受人類免疫缺陷病毒 (HIV) 的侵襲，這種病毒會導致 AIDS。 2000 年，AIDS已成為南非所有死亡人數四分之一主要的原因，(2005 年上升到 42%）。</p>
-<p>研究顯示這種疾病在不同種族間有巨大差異：南非白人的AIDS病毒感染率僅為南非黑人人口的三分之一。富有的南非人可以獲得新的抗逆轉錄病毒 (ARV) 藥物療法，這些藥物在治療 HIV 和防止發展為AIDS具有成效，但這些藥物的成本使大多數人無法承受。</p>
-<p>1998 年，一群政治活動家發起了治療行動運動 (TAC)。</p>
-<p>在接下來的十年，TAC動員人們參與健康權運動，創新結合基層組織、社區治療掃盲計劃、人權教育和訴訟。關鍵目標是全球製藥公司，因為昂貴的藥物價格使得普通南非人無法負擔，而且其專利權阻止了同樣成份與製程的學名藥生產。</p>
-<p>經由公眾壓力和南非法院的法律勝利，TAC 成功地降低了藥品價格，防止數十萬與 AIDS 病毒相關的死亡，並為南非的公共衛生系統和貧困社區注入了大量資源。</p>
-<blockquote>
-<p>有篇對美國的發明家進行研究的論文 (對原文有興趣者可參考這裡) </p>
-<p>當中也提到美國在不同收入階級、族群與性別當中創新不平等的狀況：</p>
-<p>Children born to parents in the top 1% of the income distribution are 10 times as likely to become inventors as those born to families with below-median income. Whites are more than three times as likely to become inventors as are blacks. And 82% of 40-yearold inventors today are men.</p>
-<p>並且提到如果這些本來因為貧窮/性別/種族等種種限制而無法成為創新者的人若能獲得資源與教育的機會，現在的創新發明家應該會多很多 </p>
-<p>If women, minorities, and children from low-income families were to invent at the same rate as white men from high-income families, there would be four times as many inventors in the United States as there are today.</p>
-</blockquote>
-<p>經濟學家 Raj Chetty 和他的團隊使用 120 萬筆專利記錄和稅務數據，顯示來自高收入家庭的孩子申請專利數比自中等以下家庭孩子多十倍。超過 80% 的 40 歲發明者是男性，白人申請專利數值是非裔美國人的三倍多。資源的不均使得創新的機會也產生極大的不同。</p>
-<p>TAC 和全球組織者網絡將這項工作的經驗擴展到現今依舊威脅全球生命的流行病毒 COVID-19。呼籲暫停知識產權保護，防止對疫苗的壟斷，並確保疫苗的銷售以可以負擔的價格供應。</p>
-<p>2021年1月美國國家經濟研究局發布的早期研究指出，如果未能使發展中經濟體及時獲得 COVID-19 疫苗，預計全球經濟將損失多達 9.2 萬億美元，由於發達經濟體系因貿易的連結，也將承擔其中 13-49% 的成本。因此全球獲得疫苗的經濟效益是全體獲益的<br>這也驗證作者在第2章裡提到的，看似乎只為公平服務的事情實際上將有利於繁榮。</p>
-<p>創新的起源是複雜且模糊的，經常是來自於文化層面或者是集體的創作。創新本質植根於廣泛社會中的協作、互動的過程。而非由個人所創造。獨創技術的公司能運用集體創新或繼承的知識、生產技術、網路平台，造成壟斷。不適當的利益分配也使得不同性別種族間的貧富的落差加大。 </p>
-<p>剖析新自由主義理論給我們偏差的經濟思維、敘述和政策方式時，才能看到分配不均現象形成過程。如果我們將團結置於創新系統的中心，就能取得更好的經濟和社會成果。創新並非不穩定、不安全，而是擴大我們集體的可能性。我們不應將個人工資和狹隘的個人貢獻連結，而是放到更廣大的社會制度中，為社會福祉開啟平坦道路，在不斷地變動之中提供安全的緩衝。</p>
-<hr>
-<h2 id="團結經濟學簡介及閱讀攻略"><a href="#團結經濟學簡介及閱讀攻略" class="headerlink" title="團結經濟學簡介及閱讀攻略"></a>團結經濟學簡介及閱讀攻略</h2><blockquote>
-<p><a href="/Solidarity-Economics-Introduction/"><img src="https://solidarityeconomics.org/wp-content/uploads/2021/09/SE-Web-Slider-for-Website.png"></a></p>
 </blockquote>
 <hr>
 <h2 id="各章導讀連結"><a href="#各章導讀連結" class="headerlink" title="各章導讀連結"></a>各章導讀連結</h2><ul>
@@ -6000,84 +6000,6 @@
       </tags>
   </entry>
   <entry>
-    <title>戴上共產主義面具的資本主義｜共有、人心智能、經濟學本質</title>
-    <url>/the-communism-of-capital/</url>
-    <content><![CDATA[<blockquote>
-<p><img src="https://images-na.ssl-images-amazon.com/images/I/51F0nJdkebL._SX348_BO1,204,203,200_.jpg"><br><a href="https://www.amazon.com/Communism-Capital-Ephemera-Vol-No/dp/1906948208">(圖片來源)</a></p>
-</blockquote>
-<blockquote>
-<p>【為何摘錄這篇文章】<br>在2008年金融海嘯後，全球人士都注意到資本、金融是如何將自身社會化造成「大到不能倒」，卻是讓全民買單損失的現象。資本的極大化也間接造成全球環境的破壞以及社會不均。關注社會經濟背後的人心智能，以及「共有」的概念，已經成了必要的趨勢。然而面對各種問題，資本主義的做法是接受改變，抑或是套上面具而加速問題的產生，文章皆有許多不同面向的討論。本篇文章可以幫助我們在實踐社會團結經濟的道路上，深思經濟背後人心智能、共有的本質。另外也可以針對文章討論資本主義的移花接木現象，進行反思。</p>
-</blockquote>
-<span id="more"></span>
-<hr>
-<p>完整原文：<a href="http://www.ephemerajournal.org/contribution/communism-capital">The communism of capital?</a></p>
-<h2 id="簡介"><a href="#簡介" class="headerlink" title="簡介"></a>簡介</h2><p>在傳統經濟學上，資本是生產要素之一，更因此而成為在財富分配上的依據。</p>
-<p>但隨著科技發展，目前的資本家也「進化」了，將共產主義的思想，融合進資本主義之中，透過慈善捐贈，將之前像是「剝削」而來的財富，回饋給社會。</p>
-<p>然而，如同有些文章提到的 <a href="https://commonstransition.org/peer-to-peer-a-commons-manifesto/">P2P</a>，或是本篇文章中提到的「Commons (共有）」觀念，則是比資本的性質更為「根源」，也就是更接近人心智能。</p>
-<p>『Drawing on this insight, Hardt and Negri (2009) as well as others (e.g. De Angelis, 2007) have come to emphasise the role of ‘the common’ or ‘the commons’ in contemporary capitalist production (see also discussions in previous issues of ephemera, in particular Hoedemaekers et al., 2012; Burston et al., 2010; Dowling et al., 2007). Hardt and Negri define ‘the common’ as ‘the common wealth of the material world’, such as that which constitutes nature, as well as ‘those results of social production that are necessary for social interaction and further production’, such as language, knowledge and affect (2009: viii). These are resources and capacities that precede capital and that capital can only harness through processes of expropriation. Dealing in particular with the social aspects of the common, Hardt and Negri emphasise the fact that not only does contemporary ‘immaterial’ or ‘biopolitical’ production draw on pre-existing subjectivities and ‘forms of life’, but it also produces such subjectivities and forms of life. Put differently, ‘production today is production from the common, in common, of the common’』</p>
-<hr>
-<h2 id="資本主義的社會化"><a href="#資本主義的社會化" class="headerlink" title="資本主義的社會化"></a>資本主義的社會化</h2><p>由於美國老人年金用來買股票，也讓美國看起來像社會主義。</p>
-<p>『Peter Drucker noted that the considerable investments of pension funds on the stock market practically mean that employees own the means of production, which in turn makes the United States ‘the most “socialist” country around’』</p>
-<p>在2008年的金融海嘯，亦成為另一種socialists。</p>
-<p>然而在這卻不是把剩餘財富給社會民眾，而是所有的社會民眾去「全社會」的幫助大到不能倒的資本。</p>
-<p>『was once more made evident by the events associated with the financial crisis of 2008. The socialisation of losses in the aftermath of the financial crisis led Newsweek to announce that ‘we are all socialists now’ (Meacham, 2009). To be clear, socialism here does not refer to the extraction of surplus wealth from the corporation to put to social uses. Rather, it came to define the opposite: the state withdrawing social wealth in order to bail out failed banks. Austerity merely extends this socialism of capital.』</p>
-<hr>
-<h2 id="古典自由主義經濟學的失效"><a href="#古典自由主義經濟學的失效" class="headerlink" title="古典自由主義經濟學的失效"></a>古典自由主義經濟學的失效</h2><p>相信由自私角度的自由市場會自我規範並幫助到每個人的信念，在過去二十年已被瓦解。</p>
-<p>『‘the perfect self-regulation of the free market and of the possibility of organizing all forms of human life according to the logic of that market’』</p>
-<p>資本的做法，是自動向共產主義及社會主義靠攏，然而卻是空洞的，主要以宣傳的方式，搶先使用共產主義中的元素，以行銷的方式去斷章取義這些元素，看似在擁抱反資本主義，但實質在支持資本主義。</p>
-<p>作法像是拍攝一些好萊屋的影片，或像是大量使用如古巴共產革命家Che Guevara的頭像於廣告上，以及掛上各種人道主義為面具的撥款、公益。</p>
-<h4 id="古典自由主義經濟學的概念"><a href="#古典自由主義經濟學的概念" class="headerlink" title="古典自由主義經濟學的概念"></a>古典自由主義經濟學的概念</h4><p>『the perfect self-regulation of the free market and of the possibility of organizing all forms of human life according to the logic of that market』</p>
-<p>最著名的便是 Adam Smith等人的「新古典自由主義」的看法。</p>
-<p>維基上有三個相關概念，前兩個接近，而第三個應該是比較不同的。</p>
-<ul>
-<li><a href="https://zh.wikipedia.org/zh-tw/%E5%8F%A4%E5%85%B8%E8%87%AA%E7%94%B1%E4%B8%BB%E4%B9%89">「古典自由主義」</a></li>
-<li><a href="https://zh.wikipedia.org/zh-tw/%E6%96%B0%E8%87%AA%E7%94%B1%E4%B8%BB%E7%BE%A9">「新（古典）自由主義｜Neoliberalism」</a></li>
-<li><a href="https://zh.wikipedia.org/zh-tw/%E7%A4%BE%E4%BC%9A%E8%87%AA%E7%94%B1%E4%B8%BB%E4%B9%89">「New Liberalism｜社會自由主義」</a></li>
-</ul>
-<hr>
-<h2 id="生產依賴於共有概念的新資本主義"><a href="#生產依賴於共有概念的新資本主義" class="headerlink" title="生產依賴於共有概念的新資本主義"></a>生產依賴於共有概念的新資本主義</h2><p>前面提到，常出現許多資本主義者玩弄共產主義的元素，卻僅僅只是為做包裝。</p>
-<p>然而有些資本已經不僅是玩弄共產主義的元素，而是在生產的部分也依賴於一些共產的概念，例如巨頭如何將開源文化所產生的結果，挪為己用。</p>
-<p>馬克思曾提出了「General Intellect」意思是許多產物都不是大自然而來，也不僅僅是勞力，而是知識力量的客觀化。</p>
-<p>「the common wealth of the material world’, such as that which constitutes nature, as well as ‘those results of social production that are necessary for social interaction and further production’, such as language, knowledge and affect (2009: viii).」</p>
-<p>而共同財富，不僅包含了物質世界，而是為了社會互動所需要的社會製造，包含像語言、知識、影響。</p>
-<p>這些心智能量是超越資本的資源。</p>
-<p>當代的非物質以及生命政治的生產，不僅利用這些主體及生命形式來生產，並且生產了這些主體及生命形式。 </p>
-<p>「共產資本主義」將這些立即共有的價值神秘化，並且直接利用的社會參與的價值。</p>
-<p>『a sort of ‘communism of capital’, where capitalism both gives rise to a total mystification of the valorisation that (as we have explained) is immediately common, and directly exploits the social participation to this valorisation (i.e. it exploits the sociality of the worker)』</p>
-<hr>
-<h2 id="資本主義包裝「共有」抑或是被共產元素給感染？"><a href="#資本主義包裝「共有」抑或是被共產元素給感染？" class="headerlink" title="資本主義包裝「共有」抑或是被共產元素給感染？"></a>資本主義包裝「共有」抑或是被共產元素給感染？</h2><p>也有些研究討論到「communism of capital」的不同論述。</p>
-<p>大致上可看到有的討論到資本主義是如何利用「共有」的概念。</p>
-<p>但也有另外的討論在於資本主義必須要被修復，以及「共有」的概念是如何感染資本主義。</p>
-<hr>
-<h2 id="結語"><a href="#結語" class="headerlink" title="結語"></a>結語</h2><p>這邊摘錄出我們的部份心得，然而這篇文章屬於論文形式，面向極為廣泛，如果讀者有興趣了解完整討論，可參見原文。</p>
-<p>整篇文章有兩個部分的原因蠻值得關注。</p>
-<p>第一是關於第四段『communist relations of production』裡討論到馬克思的資本論未整理完的手稿中有個「general intellect」的概念，幫助我們更深刻的了解經濟背後的人心智能。</p>
-<p>「the appropriation of his own general productive power, his understanding of nature and his mastery over it by virtue of his presence as a social body – it is, in a word, the development of the social individual which appears as the great foundation-stone of production and of wealth」</p>
-<p>以及</p>
-<p>「Production from the common, in common, of the common」</p>
-<p>這邊在表層理解為除了勞力生產的價值外，其實包含勞力的動作都是共同智慧所創造出。</p>
-<p>然而再更深層的思考為何需要創造這些東西（可能不是文章想表達的），皆是因為人所需，也就是因為需要 -&gt; 思考怎麽做 -&gt;（使用勞力）做出。</p>
-<p>因此經濟的本質是人心智能，即是人群對某些的商品、服務有需求，於是借用自然物及勞力，依靠自己或他人創造出。</p>
-<p>另一個部分，這篇文章值得讓人進行反思，資本主義喜歡用共產主義的一些元素包裝，甚至於是本身需要依賴。</p>
-<p>目前在台灣，早期的許多合作社已從第三部門的形式，逐漸被私有化。</p>
-<p>在思考社會團結經濟以及合作社等形式時，也要先思考社會團結經濟其背後的框架及意義，而合作社等組織只是實踐工具，避免倒因為果。</p>
-<hr>
-<h2 id="永續所得實驗室"><a href="#永續所得實驗室" class="headerlink" title="永續所得實驗室"></a>永續所得實驗室</h2><p>「永續所得實驗室」是由「嘉鼎智能團隊」，呼應社會團結經濟浪潮而成立，主要在協助個體、或組織，運用國際股市連結全球社會經濟的人心智能，增強本身經濟實力；並在過程中融合永續進展的理念，追求經濟、社會、環境各方面的均衡進步發展，尤其經濟上要符合（經世濟民）道理。</p>
-<h3 id="加入團隊"><a href="#加入團隊" class="headerlink" title="加入團隊"></a>加入團隊</h3><p><a href="https://www.104.com.tw/company/10zcirfc">104 (嘉鼎智能｜永續所得實驗室)</a></p>
-<h3 id="社群媒體"><a href="#社群媒體" class="headerlink" title="社群媒體"></a>社群媒體</h3><p>歡迎加入我們的LINE社群一同推廣永續所得倡議</p>
-<blockquote>
-<p>👉 &emsp; <a href="https://line.me/ti/g2/Yn9r9XlbjJjhjppxjyzmbQ"> 永續所得實驗室 LINE 社群</a></p>
-<p>👉 &emsp; <a href="https://www.facebook.com/sustainable.income.lab"> 永續所得實驗室 FB</a></p>
-</blockquote>
-]]></content>
-      <tags>
-        <tag>永續所得</tag>
-        <tag>共產資本主義</tag>
-        <tag>共有</tag>
-        <tag>人心智能</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>量化寬鬆是什麼？怎麼影響經濟？個人如何應對？</title>
     <url>/what-is-qe/</url>
     <content><![CDATA[<p>2020年的COVID-19造成全球的經濟活動緩慢，許多國家已經無法單純利用傳統的貨幣政策恢復經濟活動，於是採用量化寬鬆政策（Quantitative easing，簡稱QE）。</p>
@@ -6245,6 +6167,84 @@
         <tag>通貨膨脹</tag>
         <tag>永續所得</tag>
         <tag>量化寬鬆</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>戴上共產主義面具的資本主義｜共有、人心智能、經濟學本質</title>
+    <url>/the-communism-of-capital/</url>
+    <content><![CDATA[<blockquote>
+<p><img src="https://images-na.ssl-images-amazon.com/images/I/51F0nJdkebL._SX348_BO1,204,203,200_.jpg"><br><a href="https://www.amazon.com/Communism-Capital-Ephemera-Vol-No/dp/1906948208">(圖片來源)</a></p>
+</blockquote>
+<blockquote>
+<p>【為何摘錄這篇文章】<br>在2008年金融海嘯後，全球人士都注意到資本、金融是如何將自身社會化造成「大到不能倒」，卻是讓全民買單損失的現象。資本的極大化也間接造成全球環境的破壞以及社會不均。關注社會經濟背後的人心智能，以及「共有」的概念，已經成了必要的趨勢。然而面對各種問題，資本主義的做法是接受改變，抑或是套上面具而加速問題的產生，文章皆有許多不同面向的討論。本篇文章可以幫助我們在實踐社會團結經濟的道路上，深思經濟背後人心智能、共有的本質。另外也可以針對文章討論資本主義的移花接木現象，進行反思。</p>
+</blockquote>
+<span id="more"></span>
+<hr>
+<p>完整原文：<a href="http://www.ephemerajournal.org/contribution/communism-capital">The communism of capital?</a></p>
+<h2 id="簡介"><a href="#簡介" class="headerlink" title="簡介"></a>簡介</h2><p>在傳統經濟學上，資本是生產要素之一，更因此而成為在財富分配上的依據。</p>
+<p>但隨著科技發展，目前的資本家也「進化」了，將共產主義的思想，融合進資本主義之中，透過慈善捐贈，將之前像是「剝削」而來的財富，回饋給社會。</p>
+<p>然而，如同有些文章提到的 <a href="https://commonstransition.org/peer-to-peer-a-commons-manifesto/">P2P</a>，或是本篇文章中提到的「Commons (共有）」觀念，則是比資本的性質更為「根源」，也就是更接近人心智能。</p>
+<p>『Drawing on this insight, Hardt and Negri (2009) as well as others (e.g. De Angelis, 2007) have come to emphasise the role of ‘the common’ or ‘the commons’ in contemporary capitalist production (see also discussions in previous issues of ephemera, in particular Hoedemaekers et al., 2012; Burston et al., 2010; Dowling et al., 2007). Hardt and Negri define ‘the common’ as ‘the common wealth of the material world’, such as that which constitutes nature, as well as ‘those results of social production that are necessary for social interaction and further production’, such as language, knowledge and affect (2009: viii). These are resources and capacities that precede capital and that capital can only harness through processes of expropriation. Dealing in particular with the social aspects of the common, Hardt and Negri emphasise the fact that not only does contemporary ‘immaterial’ or ‘biopolitical’ production draw on pre-existing subjectivities and ‘forms of life’, but it also produces such subjectivities and forms of life. Put differently, ‘production today is production from the common, in common, of the common’』</p>
+<hr>
+<h2 id="資本主義的社會化"><a href="#資本主義的社會化" class="headerlink" title="資本主義的社會化"></a>資本主義的社會化</h2><p>由於美國老人年金用來買股票，也讓美國看起來像社會主義。</p>
+<p>『Peter Drucker noted that the considerable investments of pension funds on the stock market practically mean that employees own the means of production, which in turn makes the United States ‘the most “socialist” country around’』</p>
+<p>在2008年的金融海嘯，亦成為另一種socialists。</p>
+<p>然而在這卻不是把剩餘財富給社會民眾，而是所有的社會民眾去「全社會」的幫助大到不能倒的資本。</p>
+<p>『was once more made evident by the events associated with the financial crisis of 2008. The socialisation of losses in the aftermath of the financial crisis led Newsweek to announce that ‘we are all socialists now’ (Meacham, 2009). To be clear, socialism here does not refer to the extraction of surplus wealth from the corporation to put to social uses. Rather, it came to define the opposite: the state withdrawing social wealth in order to bail out failed banks. Austerity merely extends this socialism of capital.』</p>
+<hr>
+<h2 id="古典自由主義經濟學的失效"><a href="#古典自由主義經濟學的失效" class="headerlink" title="古典自由主義經濟學的失效"></a>古典自由主義經濟學的失效</h2><p>相信由自私角度的自由市場會自我規範並幫助到每個人的信念，在過去二十年已被瓦解。</p>
+<p>『‘the perfect self-regulation of the free market and of the possibility of organizing all forms of human life according to the logic of that market’』</p>
+<p>資本的做法，是自動向共產主義及社會主義靠攏，然而卻是空洞的，主要以宣傳的方式，搶先使用共產主義中的元素，以行銷的方式去斷章取義這些元素，看似在擁抱反資本主義，但實質在支持資本主義。</p>
+<p>作法像是拍攝一些好萊屋的影片，或像是大量使用如古巴共產革命家Che Guevara的頭像於廣告上，以及掛上各種人道主義為面具的撥款、公益。</p>
+<h4 id="古典自由主義經濟學的概念"><a href="#古典自由主義經濟學的概念" class="headerlink" title="古典自由主義經濟學的概念"></a>古典自由主義經濟學的概念</h4><p>『the perfect self-regulation of the free market and of the possibility of organizing all forms of human life according to the logic of that market』</p>
+<p>最著名的便是 Adam Smith等人的「新古典自由主義」的看法。</p>
+<p>維基上有三個相關概念，前兩個接近，而第三個應該是比較不同的。</p>
+<ul>
+<li><a href="https://zh.wikipedia.org/zh-tw/%E5%8F%A4%E5%85%B8%E8%87%AA%E7%94%B1%E4%B8%BB%E4%B9%89">「古典自由主義」</a></li>
+<li><a href="https://zh.wikipedia.org/zh-tw/%E6%96%B0%E8%87%AA%E7%94%B1%E4%B8%BB%E7%BE%A9">「新（古典）自由主義｜Neoliberalism」</a></li>
+<li><a href="https://zh.wikipedia.org/zh-tw/%E7%A4%BE%E4%BC%9A%E8%87%AA%E7%94%B1%E4%B8%BB%E4%B9%89">「New Liberalism｜社會自由主義」</a></li>
+</ul>
+<hr>
+<h2 id="生產依賴於共有概念的新資本主義"><a href="#生產依賴於共有概念的新資本主義" class="headerlink" title="生產依賴於共有概念的新資本主義"></a>生產依賴於共有概念的新資本主義</h2><p>前面提到，常出現許多資本主義者玩弄共產主義的元素，卻僅僅只是為做包裝。</p>
+<p>然而有些資本已經不僅是玩弄共產主義的元素，而是在生產的部分也依賴於一些共產的概念，例如巨頭如何將開源文化所產生的結果，挪為己用。</p>
+<p>馬克思曾提出了「General Intellect」意思是許多產物都不是大自然而來，也不僅僅是勞力，而是知識力量的客觀化。</p>
+<p>「the common wealth of the material world’, such as that which constitutes nature, as well as ‘those results of social production that are necessary for social interaction and further production’, such as language, knowledge and affect (2009: viii).」</p>
+<p>而共同財富，不僅包含了物質世界，而是為了社會互動所需要的社會製造，包含像語言、知識、影響。</p>
+<p>這些心智能量是超越資本的資源。</p>
+<p>當代的非物質以及生命政治的生產，不僅利用這些主體及生命形式來生產，並且生產了這些主體及生命形式。 </p>
+<p>「共產資本主義」將這些立即共有的價值神秘化，並且直接利用的社會參與的價值。</p>
+<p>『a sort of ‘communism of capital’, where capitalism both gives rise to a total mystification of the valorisation that (as we have explained) is immediately common, and directly exploits the social participation to this valorisation (i.e. it exploits the sociality of the worker)』</p>
+<hr>
+<h2 id="資本主義包裝「共有」抑或是被共產元素給感染？"><a href="#資本主義包裝「共有」抑或是被共產元素給感染？" class="headerlink" title="資本主義包裝「共有」抑或是被共產元素給感染？"></a>資本主義包裝「共有」抑或是被共產元素給感染？</h2><p>也有些研究討論到「communism of capital」的不同論述。</p>
+<p>大致上可看到有的討論到資本主義是如何利用「共有」的概念。</p>
+<p>但也有另外的討論在於資本主義必須要被修復，以及「共有」的概念是如何感染資本主義。</p>
+<hr>
+<h2 id="結語"><a href="#結語" class="headerlink" title="結語"></a>結語</h2><p>這邊摘錄出我們的部份心得，然而這篇文章屬於論文形式，面向極為廣泛，如果讀者有興趣了解完整討論，可參見原文。</p>
+<p>整篇文章有兩個部分的原因蠻值得關注。</p>
+<p>第一是關於第四段『communist relations of production』裡討論到馬克思的資本論未整理完的手稿中有個「general intellect」的概念，幫助我們更深刻的了解經濟背後的人心智能。</p>
+<p>「the appropriation of his own general productive power, his understanding of nature and his mastery over it by virtue of his presence as a social body – it is, in a word, the development of the social individual which appears as the great foundation-stone of production and of wealth」</p>
+<p>以及</p>
+<p>「Production from the common, in common, of the common」</p>
+<p>這邊在表層理解為除了勞力生產的價值外，其實包含勞力的動作都是共同智慧所創造出。</p>
+<p>然而再更深層的思考為何需要創造這些東西（可能不是文章想表達的），皆是因為人所需，也就是因為需要 -&gt; 思考怎麽做 -&gt;（使用勞力）做出。</p>
+<p>因此經濟的本質是人心智能，即是人群對某些的商品、服務有需求，於是借用自然物及勞力，依靠自己或他人創造出。</p>
+<p>另一個部分，這篇文章值得讓人進行反思，資本主義喜歡用共產主義的一些元素包裝，甚至於是本身需要依賴。</p>
+<p>目前在台灣，早期的許多合作社已從第三部門的形式，逐漸被私有化。</p>
+<p>在思考社會團結經濟以及合作社等形式時，也要先思考社會團結經濟其背後的框架及意義，而合作社等組織只是實踐工具，避免倒因為果。</p>
+<hr>
+<h2 id="永續所得實驗室"><a href="#永續所得實驗室" class="headerlink" title="永續所得實驗室"></a>永續所得實驗室</h2><p>「永續所得實驗室」是由「嘉鼎智能團隊」，呼應社會團結經濟浪潮而成立，主要在協助個體、或組織，運用國際股市連結全球社會經濟的人心智能，增強本身經濟實力；並在過程中融合永續進展的理念，追求經濟、社會、環境各方面的均衡進步發展，尤其經濟上要符合（經世濟民）道理。</p>
+<h3 id="加入團隊"><a href="#加入團隊" class="headerlink" title="加入團隊"></a>加入團隊</h3><p><a href="https://www.104.com.tw/company/10zcirfc">104 (嘉鼎智能｜永續所得實驗室)</a></p>
+<h3 id="社群媒體"><a href="#社群媒體" class="headerlink" title="社群媒體"></a>社群媒體</h3><p>歡迎加入我們的LINE社群一同推廣永續所得倡議</p>
+<blockquote>
+<p>👉 &emsp; <a href="https://line.me/ti/g2/Yn9r9XlbjJjhjppxjyzmbQ"> 永續所得實驗室 LINE 社群</a></p>
+<p>👉 &emsp; <a href="https://www.facebook.com/sustainable.income.lab"> 永續所得實驗室 FB</a></p>
+</blockquote>
+]]></content>
+      <tags>
+        <tag>永續所得</tag>
+        <tag>共產資本主義</tag>
+        <tag>共有</tag>
+        <tag>人心智能</tag>
       </tags>
   </entry>
   <entry>
