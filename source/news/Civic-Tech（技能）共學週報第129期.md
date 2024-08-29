@@ -61,11 +61,70 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 ## 學習資料分享
 ### 系統思維
 
-#### 👉 &emsp; 
+#### 👉 &emsp; [A theory of intelligence that denies teleological purpose](https://ykulbashian.medium.com/a-theory-of-intelligence-that-denies-teleological-purpose-421b47a89e69)
 
-#### 👉 &emsp; 
 
-#### 👉 &emsp; 
+文章提到了人工智能在現在是個很好的工具，然而要達到更通用的智能，必須要對智能有更深刻的了解，其中通用智能應該要至少能完成人心智能所能做的任務。
+
+然而，哪些是人心智能該做的事？或是人類的任務？
+
+有的方法是以目的論的方式去探索人的目的，然而作者卻認為，不該如此做，每個個體都可能有不同的目的存在，不應該假設只有個單一的目的存在。
+文章希望的做法，是去了解人心智能會執行哪些任務，這樣用到通用型AI時，可以與人心智能去效仿。
+
+然而，這也增加了困難。如果從目的論入手，可以簡化很多內容，不用細節。例如，車子是啥？從目的論的方式可以是幫助移動的工具，但如果拆解成能做的事及任務，可能會涉及許多組成細節。
+
+但這不代表這些任務是無限混沌的，其依然可以找到一些共通性，期使有不同目的的存在。
+
+文章的做法是找到4個人心智能在做的事，去看其交集，或交互使用之處。
+
+4個典範包含任務優化、問題解決、世界建模、精神發展。4個分開來看，皆有其不完整，以及不符合人心智能的整體性，然而交互使用，卻可以某種程度說了人在解決的問題。
+
+透過這樣的角度去理解人心智能，既不是像目的論中有一個至高單一的目的存在，也不是機械化的存在，而是非線性的交互。
+
+期待希望透過這些理解，來跳脫現有狹義人工智能的限制，往通用智能去實踐。
+
+
+#### 👉 &emsp; [The AI Revolution Isn’t Happening](https://medium.com/predict/the-ai-revolution-isnt-happening-f2c906481dd6)
+
+文章提到了經過調查，大多雇主及經理人認為AI增加了生產效率。
+
+然而由工作者的調查，AI卻增加了其許多負擔，包含其出錯，以及其有許多需要確認之處。
+
+跟互聯網發展開始有同樣的現象，人覺得他可以增加效率，但如果細節來看，其只是外移成本，沒有增加效率。
+
+[WHO BUILT THE EXPRESSWAY TO SERFDOM: Are Economists Acutely Culpable?](https://daneke.medium.com/who-built-the-expressway-to-serfdom-are-economists-acutely-culpable-5b9b53063374)
+
+裡面提到了學術界的經濟學家，特別是新自由主義，與金融體系、政商形成了一種奴役人民的封建體系。
+
+其中，原來亞當史密斯提到市場這個「看不見的手」，原來是希望幫助人民脫離壟斷、被奴役，然而現在的新自由主義經濟學家，卻是變相的將其變為封建體系控制人的面紗，隱藏這個體系該有的責任，使其洗腦人，讓人覺得這是科學、理所當然的。
+
+
+#### 👉 &emsp; [Macroeconomics Is Best Described As A Coastline, Not A Machine](https://medium.datadriveninvestor.com/macroeconomics-is-best-described-as-a-coastline-not-a-machine-00ee2e1dddc6)
+
+文章提到了Mandelbrot作為碎形的專家，認為經濟是如同海岸線一樣是碎形，而不是線性的機器。
+傳統，如Dalio的角度，認為經濟有一些規律，而可以找到其唯一的規律。
+
+但如果是碎形的話，雖也會有些規律，但因爲其非線性的特性，會來得更複雜。
+
+例如，國家政策的確是影響經濟的很重要元素，但卻不是那麼的線性，因為經濟複雜系統的特性，可能帶來不一樣的結果。
+
+這或許給我們的啟發，不在於做任何事是無效的，而在於任何的機制，不可以線性的期待一定會給出想要的單一結果。
+
+
+#### 👉 &emsp; [The Regeneration Handbook: Conclusion](https://www.shareable.net/the-regeneration-handbook-conclusion/)
+
+我們的生命存在如果在一個膨脹過快或過慢的宇宙都無法形成。
+
+生命的如此可貴，如此智能，很難說其沒有意義。
+
+有人認為，只要人類滅絕整體依然會好好的。
+
+然而，文章認為不同個體是互相交織而成。
+
+人作為其中也無法簡單說人滅絕便解決了問題。
+
+文章的角度也不認為人就會滅絕，但，但如果不進行積極的再生，將會逝去許多珍貴的生命。
+
 
 ### 協作溝通
 
