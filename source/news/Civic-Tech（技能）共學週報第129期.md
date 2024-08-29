@@ -136,7 +136,9 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 
 ### 技術
 
+- [Slack Develops Bedrock Operator for Kubernetes StatefulSets](https://www.infoq.com/news/2024/08/slack-kubernetes-operator-bedroc/)
 
+- [New JavaScript Set Methods Now Supported by All Major Browser Engines](https://www.infoq.com/news/2024/07/javascript-set-methods/)
 
 ---
 ## 活動分享
