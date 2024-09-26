@@ -61,8 +61,59 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 ## 學習資料分享
 ### 系統思維
 
-#### 👉 &emsp; 
+#### 👉 &emsp; [Misbehavior of Market | 失控的市場](https://medium.com/acis-intellicollective/misbehavior-of-market-%E5%A4%B1%E6%8E%A7%E7%9A%84%E5%B8%82%E5%A0%B4-a7196ecd1542)
 
+Mandelbrot的分形理論為我們提供了一種新的視角，讓我們重新思考市場行為的本質。隨著傳統金融理論的局限性日益顯現，對於市場複雜性、非線性特徵及風險管理的深入理解變得尤為重要。Mandelbrot所揭示的價格波動特性，如不連續性、波動性聚集和長期依存性，挑戰了過去的假設。
+
+#### 👉 &emsp; [Regenerative Housing Initiatives: From Private Equity to Community Ownership](https://nonprofitquarterly.org/regenerative-housing-initiatives-from-private-equity-to-community-ownership/)
+
+房屋、土地的擁有關係，對於社區的再生，有著密切的關連，誰會長期住在這，住在這的社群多元性。
+
+而房地產的私有財產制，使得人對於房屋的居住以及資產混在一起，造成只有少數人可以掌控。作者的家庭，作為弱勢族群，在次貸危機前，一度以為也可以有自己的房產，然而卻因次貸危機後繳不出貸款，被迫離開房屋。美國當時大量的上演相同的故事。
+
+文章希望透過合作社、信託等方式，使得房產可以是由社群一同掌控，而不是少數人，
+希望透過分散式的治理，來改變居住產權指掌控在少數人手上，並且重新對社區再生有想像。
+
+
+這裡面也相當於指出了，要實踐再生、多元的蓬勃，資本的形式會限制了權力關係。
+
+如果期待者少數具有權力的資本家來開拓各種多樣性，在人性上是不現實的。
+
+因而需要分散式的治理結構存在，才能更好的推動社群再生。
+
+
+#### 👉 &emsp;[Home as a heuristic](https://uxdesign.cc/home-as-a-heuristic-695618a819d4)
+
+在設計數碼產品時，我們應該將家的概念作為啟發，這意味著設計應該讓使用者感到安全、舒適和被關愛。家是一個滿足需求、保證安全和讓人感到被尊重的地方，同樣地，好的設計應該提供值得信賴、熟悉、安慰和支援的體驗。然而，許多產品設計忽視了這些特徵，導致使用者體驗不佳。當我們設計產品時，應該時刻思考是否創造了一種符合家的理想的體驗。這不僅僅是技術問題，更是關乎用戶感受的核心設計理念。
+
+想到家的設計，有許多並非簡單是物理性的，而是一個熟悉、舒適的空間。
+
+而作者作為數位產品設計師，常常在其心中以此作為啟發，提醒設計該以人為核心，像是家一樣。
+
+然而許多設計師不這樣認同，認為家與數位產品不同。
+
+或許現在的數位產品設計，比較像是在設計一個商場、遊樂場，去激發人，但少掉了人本質的需求。
+
+
+#### 👉 &emsp;[“Wave-Particle Duality” and What is a Wave, Really?](https://medium.com/the-quantastic-journal/wave-particle-duality-and-what-is-a-wave-really-bdaa731cc62c)
+
+作者在這篇指出維基百科中提到的波粒二相性的概念比以前的老師說得嚴謹的多。
+
+物理的互補性原理提到量子必須同時考慮波及粒子的特性，波粒二相性並不意味著量子有時是波、有時是粒子，而是代表著其是用來解釋日常的古典物理無法描述的另外一種現象。
+
+在這個現象之前，人只懂得用粒子和波兩種概念來描述現象。
+在語言學中，波一詞也是模糊的，甚至在某些地區中，wave、vauge兩個字有類似的來源。
+
+在本篇中，作者先探討波，特別是用方程式的形式，這樣做，可以某些程度消除一些模糊性。
+
+波可能是線性的，也可能是非線性的，像是soliton。以線性波的繩波來說，可以用傳導縱向的機械能去部分理解。然而，當有左右兩個運動並且上下振幅反方向的波剛好重疊那一刻，似乎無法用機械能簡單理解，因為當下是0。（其實是因為雖然側向振幅為0，但依然有速度）
+
+物理數學中會發現，非線性波所近似的線性波，可以用二階偏微分方程中的雙曲線偏微分方程來表示其運動，其解代表著有一定傳遞的方向及振幅和訊息傳遞的因果性。這個特性是橢圓型、拋物線型偏微分方程都沒有的。
+
+其中，這也與狹義相對論中的因果性有關。所謂狹義相對論中的因果性，意指有因果信息的兩個事件，其傳遞速度有上限，並且為光速。
+文章以熱源方程式為例，其為拋物線型偏微分方程，少掉了相對論的因果性，然而物理實際上，熱的傳遞是有時間的，只是在局域性，傳遞速度很快，所以感覺不到期時間差。文章也提到符合相對論性的熱源方程式該有的樣子。
+
+結尾作者提到許多不同文化中對於波的文字上的概念的異同，而在不同時期的物理學家們，在描述這個詞時，都其實有其個別明確的意義。
 
 ### 協作溝通
 
@@ -74,6 +125,11 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 
 ### 技術
 
+- [Efficient DevSecOps Workflows with a Little Help from AI](https://www.infoq.com/articles/efficient-devsecops-workflows/)
+
+- [Thinking Like an Architect](https://www.infoq.com/articles/thinking-like-architect/)
+
+- [Prepare to Be Unprepared: Investing in Capacity to Adapt to Surprises in Software-Reliant Businesses](https://www.infoq.com/articles/adapt-surprises-software-reliant-businesses/)
 
 
 ---
