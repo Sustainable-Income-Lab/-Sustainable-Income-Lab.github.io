@@ -10,7 +10,7 @@ author:
 ---
 # Civic Tech（技能）共學週報｜第136期 (2024.10.23)
 
-![Civic-Tech-133](/img/ct/135.png)
+![Civic-Tech-133](/img/ct/136.png)
 
 ## 前言
 
@@ -59,7 +59,19 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 ## 學習資料分享
 ### 系統思維
 
-#### 👉 &emsp; 
+#### 👉 &emsp; [Closing the Nature-Finance Gap](https://medium.com/the-new-climate/closing-the-nature-finance-gap-9f735acff79a)
+
+文章提到對環境有正、反面影響的資本流向的不平衡，需要一些新的替代方法。主要在於需要改變人將自然當成是與己獨立的資源，可以持續開發的思維。
+
+裡面有幾個替代點值得關注。
+
+Commoning：這一段去嘗試改變消費及生產關係，提到了CSA，之前雖聽過但沒仔細去看介紹。可以發現其目的是去改變現在先生產，再投向市場的生產消費關係。改為在生產前需求者便已經加入的過程，用這種方式來達成生產消費間的共同協作。
+
+Acción Andina：「安地納行動」，裡面提到了參與計畫的群眾，是為了修復自然，而不是為了財務，其達到成效甚至比碳權的方式還來得有影響力。甚至文章體到碳權相關人士說可以跟他們購買碳權時，他們婉拒了，並說他們是在恢復文化資產。『Adams has heard of “carbon developers coming along and trying to pick off individual communities [within Acción Andina] and saying ‘we’ll buy this carbon from you’ — and at the minute these communities, this movement, is holding strong and saying ‘no we are working together as a community and we are restoring our cultural heritage’.“』
+
+Indigenous land stewardship：裡面提到了原住民佔人口5%，便佔了全球貧窮比例的15%，但也同時是保存地球力量的80%。文章並非在講其可悲或被犧牲，而是在後面提到，這些人沒有得到各種財務支持卻有能力能保護地球，值得我們思考拯救地球是否一定要透過金融由上至下的進行？
+
+再與其他不同的方案來比，可以發現如果要去拯救自然與金融間的鴻溝，持續去進行投資是不夠的，因為追不上投資造成的破壞。而是需要由下至上，改變人與自然間關係的認知。
 
 
 ### 協作溝通
@@ -72,13 +84,35 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 
 ### 技術
 
+- [Navigating LLM Deployment: Tips, Tricks, and Techniques](https://www.infoq.com/articles/navigating-llm-deployment/)
 
+- [How Functional Programming Can Help You Write Efficient, Elegant Web Applications](https://www.infoq.com/articles/functional-programming-web-app/)
+
+- [Ceph: 20 Years of Cutting-Edge Storage at the Edge](https://thenewstack.io/ceph-20-years-of-cutting-edge-storage-at-the-edge/)
+
+- [SwiftUI apps at scale](https://blog.jacobstechtavern.com/p/swiftui-apps-at-scale)
+
+- [Why NoSQL Deployments Are Failing at Scale](https://thenewstack.io/why-nosql-deployments-are-failing-at-scale/)
+
+- [Frontend Schism: Will React Server Components Destroy React?](https://thenewstack.io/frontend-schism-will-react-server-components-destroy-react/)
 
 ---
 ## 活動分享
 
-**10月21日**
+**10月29日**
+- [Jamf Nation Live 2024 台北站 - 教育經驗分享專場](https://jamf.kktix.cc/events/jamfnationlive-2024-edu)
 
+- [Flutter Meetup](https://meetup.com/flutter-taipei/events/304039237)
+**10月30日**
+- [evOps Taiwan Meetup](https://devops.kktix.cc/events/meetup-63)
+**10月31日**
+- [vTaiwan議題小聚：線上公共審議行不行？政策參與平台的新思考。](https://vtaiwan.kktix.cc/events/vtaiwanmeetup-1)
+
+- [TSMC IT Community Meetup (Taichung) #7](https://tsmcitcommunitymeetup.kktix.cc/events/tsmc-it-meetup-taichung-07)
+**11月1日**
+- [Ruby Jam 2024/10 月場](https://rubytaiwan.kktix.cc/events/rubyjam2410)
+
+- [2024廣達MAKer共創營](https://accupass.com/event/2409021007583156126010)
 
 			
 
