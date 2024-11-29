@@ -27,20 +27,6 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 >
 >如果大家有知道各種新資訊以及好的活動，也歡迎加入我們的LINE社群，分享給大家。
 
-
----
-### 特別推薦活動
-
-### 第16次 - 共同工作及創意駭客開放日
-
-想找一個氛圍滿分的空間一起工作，或對再生經濟好奇滿滿？這次活動絕對適合你！我們提供一整天的共創空間，讓來自不同領域的夥伴們一起碰撞靈感、交流合作，帶你體驗再生經濟的創新實踐。
-
-📅 日期：2024/11/29
-📍 地點：台北
-🔗 詳情與報名：[連結](https://www.accupass.com/event/2411110734171437742343)
-
-[![](https://static.accupass.com/eventbanner/2404290709301040746221.jpg)](https://www.accupass.com/event/2411110734171437742343)
-
 ---
 ## 目錄
 - [前言](#前言)
@@ -60,7 +46,20 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 ## 學習資料分享
 ### 系統思維
 
-#### 👉 &emsp;
+#### 👉 &emsp; [Donor-advised fund assets top $250 billion, but report says gifts in and out of the funds are down](https://finance.yahoo.com/news/donor-advised-fund-assets-top-200900138.html)
+
+雖然捐贈金額變少了，但DAF的資產變高了。
+
+捐贈金額變少可能是因為前面有經歷市場的熊市，也可能是因為其它不知的原因，但無論何，DAF的存在，可以讓實質可以拿來幫助人的資產，不必要被新的捐贈金額給限制。
+
+這與循環經濟中，要讓經濟成長與資源開挖脫鉤，也有些一些類似。雖然經濟產生的開始需要一些資源開挖，然而透過循環可以持續讓已開挖的資源有經濟效益。
+
+慈善也相同，一開始起步需要有捐贈，但DAF的存在，使已經得到的捐贈可以進行經濟擴展，以做慈善使用。
+
+
+#### 👉 &emsp;  [The Rise of Brain-based AI](https://medium.datadriveninvestor.com/the-rise-of-brain-based-ai-fcfd15702096)
+
+人腦左右半球分工展現還原與整體兩種視角：左半球擅長邏輯與細節，右半球聚焦大局與意義。然而，現代 AI 過於偏重左半球式還原思維，忽視對整體與意義的把握，可能導致技術雖強大卻缺乏方向。只有平衡這兩種思維，才能讓 AI 引領人類實現全面進步，避免陷入無意義的機械化發展。
 
 ### 協作溝通
 
@@ -72,6 +71,13 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 
 ### 技術
 
+- [RAG-Powered Copilot Saves Uber 13,000 Engineering Hours](https://www.infoq.com/news/2024/10/uber-genie-rag-copilot/)
+
+- [Securing Cell-Based Architecture in Modern Applications](https://www.infoq.com/articles/cell-based-architecture-application-security/)
+
+- [Adaptive Responses to Resiliently Handle Hard Problems in Software Operations](https://www.infoq.com/articles/adaptive-responses-resilience-software-operations/)
+
+- [Do Coding Boot Camps Make Sense in an A.I. World?](https://www.msn.com/en-us/money/careersandeducation/do-coding-boot-camps-make-sense-in-an-a-i-world/ar-AA1uECIJ)
 
 ---
 ## 活動分享
@@ -81,10 +87,24 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 
 - [數位皮夾創新服務與應用研討會](https://www.accupass.com/event/2411060607023580268670)
 **12月6日**
+- [Taipei, Taiwan - LW13 Supabase Meetup](https://lu.ma/v1v0gh6q)
+
+- [AI 開發者 Workshop 系列：使用開源模型克隆語音與生成圖片](https://lu.ma/e4oit7kq)
+
 - [AI 賦能 x 跨域應用 共創醫療新未來 AI x Healthcare Revolution Summit](https://www.accupass.com/event/2411080730582063506685)
 **12月7日**
+- [2024 SITCON 台中 Hour of Code](https://hackersir.kktix.cc/events/hoc2024)
+
 - [設計師的靈感宇宙：爆發你的熱血設計魂！](https://www.accupass.com/event/2411141004204784093430)
+
+- [WTM Taipei | UX Retro Tea Time 年末特別版](https://wtmtw.kktix.cc/events/teatime1207)
 **12月8日**
+- [Students @ AI - Taipei](https://lu.ma/va9gokwf)
+
+- [2024 SITCON 臺南 Hour of Code](https://sitcon.kktix.cc/events/2024-hoc-tainan)
+
+- [ICA社群日（ ICA Community day ) 2024 Dec. 8](https://icatw.kktix.cc/events/7c15459f)
+
 - [2024數位教科書國際論壇](https://www.accupass.com/event/2410220531561788948354)
 
 ## 新聞分享
