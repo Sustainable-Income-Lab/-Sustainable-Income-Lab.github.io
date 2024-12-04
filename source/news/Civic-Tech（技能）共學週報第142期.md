@@ -66,7 +66,7 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 ## 活動分享
 
 **12月9日**
-- [設計人才培育指引交流分享會 Design Talent Development and Exchange(https://www.accupass.com/event/2411070216553532722400)
+- [設計人才培育指引交流分享會 Design Talent Development and Exchange](https://www.accupass.com/event/2411070216553532722400)
 
 - [數位永續雙軸轉型之現況與發展](https://www.accupass.com/event/2411140809271977429541)
 **12月10日**
