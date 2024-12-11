@@ -1,6 +1,6 @@
 ---
 title: Civic Tech（技能）共學週報第140期
-date: 2024-11-13 00:00:00
+date: 2024-11-20 00:00:00
 categories:
 	- Civic-Tech
 author:
