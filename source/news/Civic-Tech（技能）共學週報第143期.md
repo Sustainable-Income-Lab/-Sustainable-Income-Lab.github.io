@@ -50,7 +50,9 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 
 ### 協作溝通
 
-（本次無分享內容）
+- [Are ‘ghost engineers’ real? Seeking Silicon Valley’s least productive coders.](https://www.washingtonpost.com/technology/2024/12/08/ghost-engineers-programming-productivity-coding/)
+
+文章討論矽谷工程師是否工作偷懶的現象，希望可以找出背後原因，幫助公司的協作能夠轉向積極。
 
 ### 設計
 
@@ -58,7 +60,11 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 
 ### 技術
 
+- [ChatGPT coded a game for me in seconds and I am simply astounded – and coders should be very worried](https://www.techradar.com/computing/artificial-intelligence/chatgpt-coded-a-game-for-me-in-seconds-and-i-am-simply-astounded-and-coders-should-be-very-worried)
 
+- [Why LLM watermarking will never work](https://ai.gopubby.com/why-llm-watermarking-will-never-work-1b76bdeebbd1)
+
+- [If Not React, Then What?](https://infrequently.org/2024/11/if-not-react-then-what/)
 
 ---
 ## 活動分享
