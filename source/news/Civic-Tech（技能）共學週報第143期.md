@@ -82,7 +82,7 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 
 - [連結台灣專題講座: AIoT與智慧養殖](https://technologyandlife.kktix.cc/events/12-20-24)
 **12月21日**
-- pAgileTour Hsinchu 2024 新竹敏捷之旅(https://agilecommhc.kktix.cc/events/20241221)
+- [AgileTour Hsinchu 2024 新竹敏捷之旅](https://agilecommhc.kktix.cc/events/20241221)
 
 - [2024 JSDC（JavaScript Developer Conference）主年會](https://2024.jsdc.tw/)
 
