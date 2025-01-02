@@ -76,7 +76,7 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 
 - [AI x 衛星：作物監測工具工作坊 中文場](https://www.accupass.com/event/2412230750311178067952)
 **1月9日**
-- [Agile.Taipei 2025.1月聚會：AI加持的人本軟體開發未來](Agile.Taipei 2025.1月聚會：AI加持的人本軟體開發未來)
+- [Agile.Taipei 2025.1月聚會：AI加持的人本軟體開發未來](https://agilecommtw.kktix.cc/events/agiletaipei202501)
 **1月10日**
 - [IT Tech & Hobby Talk-Taipei 4th Event, supported by Wankuma Alliance Japan](https://meetup.com/it-tech-and-hobby-talk-taipei/events/305046828/)
 
