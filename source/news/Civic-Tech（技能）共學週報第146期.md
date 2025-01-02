@@ -47,9 +47,11 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 ## 學習資料分享
 ### 系統思維
 
-#### 👉 &emsp;
+（本次無分享內容）
+
 ### 協作溝通
 
+（本次無分享內容）
 
 ### 設計
 
@@ -57,7 +59,11 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 
 ### 技術
 
+- [Software Architecture and the Art of Experimentation](https://www.infoq.com/articles/architecture-experimentation/)
 
+- [New MSSQL Extension for VS Code Promises Enhanced Developer Productivity](https://www.infoq.com/news/2024/12/mssql-vs-code-extension/)
+
+- [Adaptable Innovation: How Microsoft Leverages React Native for Strategic Advantage](https://www.infoq.com/presentations/react-native-microsoft/)
 
 
 ---
@@ -66,8 +72,14 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 **1月7日**
 - [SAFE 防詐經濟研討會](https://www.accupass.com/event/2412250205072338540270)
 **1月8日**
+- [Taipei dbt Meetup #32 for all folks working with data! (Hybrid 👫 + 🧑‍💻)](https://www.meetup.com/taipei-dbt-meetup/events/305061613/)
+
 - [AI x 衛星：作物監測工具工作坊 中文場](https://www.accupass.com/event/2412230750311178067952)
+**1月9日**
+- [Agile.Taipei 2025.1月聚會：AI加持的人本軟體開發未來](Agile.Taipei 2025.1月聚會：AI加持的人本軟體開發未來)
 **1月10日**
+- [IT Tech & Hobby Talk-Taipei 4th Event, supported by Wankuma Alliance Japan](https://meetup.com/it-tech-and-hobby-talk-taipei/events/305046828/)
+
 - [政治立場的網路霸凌—我們如何辨識與處理](https://www.accupass.com/event/2412240100491396113668)
 
 - [職場AI力！善用生成式AI提升工作效率](https://www.accupass.com/event/2412180429141615652258)
@@ -76,6 +88,8 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 
  - [設計進化論：用AI激發你的創意潛能！](https://www.accupass.com/event/2410240920427963227330)
 **1月11日**
+- [LearnWeb Taiwan Meetup #22 不再糾結 不再想像使用者需要什麼！ 入門到上手: 游擊測試實踐易用性評估](https://learnweb-taiwan.kktix.cc/events/learnweb-meetup-22)
+
  - [improve your scrum by improving your scrum master's scrum](https://www.accupass.com/event/2412150813351411398824)
 
 ## 新聞分享
